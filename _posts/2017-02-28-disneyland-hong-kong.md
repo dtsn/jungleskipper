@@ -1,3 +1,8 @@
+---
+title: Disneyland Hong Kong
+date: 2017-02-28 00:00:00 Z
+---
+
 Hong Kong is probably the lesser known Disney park. Out of the 6 it probably ranks the lowest on most people's lists. It doesn't have the new feeling of Shangai, nor the rides of Japan. But what it lacks, it makes up in other areas.
 
 I was lucky enough to have a quick visit this February while visiting friends in Hong Kong and I was amazed by the park. Initially hearing bad things about the size, attractions and queues. I was presently surprised by all 3.
