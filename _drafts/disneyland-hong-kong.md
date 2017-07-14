@@ -34,6 +34,8 @@ Honestly the best version of the haunted mansion yet. Mystic manor is one of the
 
 ## Not quite a dole whip
 
+[IMG_0039.JPG](/uploads/IMG_0039.JPG)
+
 ## Exciting things in the works
 
 Dispute the existing of Shanghai Disney a mere 771 miles away (we were actually tempted to visit at the same time). Disney and Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art being shown for a new castle and the Frozen kingdom of Arendelle.
