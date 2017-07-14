@@ -1,5 +1,8 @@
 ---
 title: Jungleskipper
+author: Daniel Saxil-Nielsen
+baseurl: 'http://jungleskipper.com'
+google_analytics: 'UA-37892446-1'
 timezone: UTC
 collections:
   posts:
