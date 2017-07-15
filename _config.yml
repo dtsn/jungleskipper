@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    image: ''
+    thumb-image: ''
 author: Daniel Saxil-Nielsen
 baseurl: "/"
 google_analytics: UA-37892446-1
@@ -16,14 +24,4 @@ plugins:
 - jekyll-paginate
 permalink: "/:categories/:title"
 sass:
-    sass_dir: _sass
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      image: ""
-      thumb-image: ""
+  sass_dir: _sass
