@@ -1,0 +1,66 @@
+
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+header.main {
+	border-top: 2px solid $base-color;
+	border-bottom: 1px solid $light-grey;
+	width: 100%;
+
+	.title {
+
+		width: 250px;
+		margin: 0 auto;
+
+		svg {
+			display: block;
+			margin: 30px auto 20px;
+		}
+
+		a {
+			font-family: $secondary-font-family;
+			color: #1A1B1C;
+			font-size: 24px;
+			letter-spacing: 2px;
+			font-weight: bold;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: center;
+			margin-bottom: 30px;
+			display: block;
+		}
+	}
+}
+
+nav {
+
+	display: block;
+	margin: 30px auto;
+	width: 448px;
+	overflow:hidden;
+
+	a {
+			font-family: $secondary-font-family;
+			color: $base-color;
+			font-size: 18px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: center;
+			display: block;
+			float: left;
+			padding: 0 20px;
+		}
+}
+
+footer {
+	margin-top: 50px;
+	background: $base-color;
+	color: white;
+	padding: 50px;
+	@include lato;
+	font-size: 20px;
+}

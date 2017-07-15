@@ -1,8 +1,10 @@
 ---
 title: Disneyland Hong Kong
 date: 2017-02-28 00:00:00 Z
+layout: post
+image: '/uploads/DSC00753.jpg'
 categories:
-- Disney
+- Reviews
 tags:
 - Hong Kong
 - Disney
@@ -18,7 +20,7 @@ Before we get into the review let's cover a bit of history about the park. It wa
 
 ## Getting there
 
-[IMG_0024.JPG](/uploads/IMG_0024.JPG)
+![IMG_0024.JPG](/uploads/IMG_0024.JPG)
 
 Hong Kongs mass transit system is 
 
@@ -34,7 +36,7 @@ Honestly the best version of the haunted mansion yet. Mystic manor is one of the
 
 ## Not quite a dole whip
 
-[IMG_0039.JPG](/uploads/IMG_0039.JPG)
+![IMG_0039.JPG](/uploads/IMG_0039.JPG)
 
 ## Exciting things in the works
 

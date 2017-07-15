@@ -1,0 +1,20 @@
+---
+title: About
+date: 2017-07-14 09:13:00 Z
+---
+
+Hello, please feel free to contact me below, follow me on 
+[twitter](http://twitter.com/jungleskipper).
+
+<br/>
+
+<form action="//formspree.io/daniel@jungleskipper.com" method="POST">
+    <input type="text" name="name" placeholder="Name" /><br/>
+    <input type="email" name="_replyto" placeholder="E-Mail" /><br/>
+    <textarea name="content" placeholder="Hi..."></textarea><br/>
+    <input type="submit" value="Send" />
+
+    <input type="hidden" name="_next" value="//site.io/thanks.html" />
+    <input type="hidden" name="_subject" value="Contact from Jungle Skipper" />
+    <input type="text" name="_gotcha" style="display:none" />
+</form>

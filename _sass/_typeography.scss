@@ -1,0 +1,27 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #242424;
+	font-size: 14px;
+	line-height: 2em;
+}
+
+@mixin lato {
+	font-family: $secondary-font-family;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 36px;
+	font-weight: 300;
+	margin: 50px 0 20px;
+	text-align: center;
+}
+
+h2 {
+	@include lato;
+	font-size: 18px;
+	margin: 50px 0 20px;
+}

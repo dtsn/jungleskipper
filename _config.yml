@@ -1,5 +1,5 @@
 ---
-title: Jungleskipper
+title: Jungle Skipper
 timezone: UTC
 collections:
   posts:
@@ -9,5 +9,12 @@ collections:
     title: Uploads
     output: true
 author: Daniel Saxil-Nielsen
-baseurl: http://jungleskipper.com
+baseurl: /
 google_analytics: UA-37892446-1
+paginate: 5
+plugins: [jekyll-paginate]
+
+permalink: /:categories/:title
+
+sass:
+    sass_dir: _sass

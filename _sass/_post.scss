@@ -1,0 +1,54 @@
+article {
+	header {
+		background: url('/images/arrow-right.png') no-repeat center 0;
+		margin-top: 50px;
+		padding-top: 18px;
+
+		.date {
+			display: block;
+			text-align: center;
+			font-weight: 300;
+			font-size: 18px;
+		}
+	}
+
+	section.image {
+		margin-top: 70px;
+		margin-bottom: 70px;
+
+		img {
+			max-width: 100%;
+		}
+	}
+
+	section.main {
+
+		background: url('/images/arrow-left.png') no-repeat center bottom;
+		margin-bottom: 50px;
+		padding-bottom: 68px;
+
+		 &::first-letter {
+		 	display: block;
+		 	float: left;
+		 	@include lato;
+		 	font-size: 56px;
+		 	line-height: 56px;
+		 }
+
+		 img {
+		 	max-width: 116.666666666%;
+		 	margin-left: -8.3333333333%;
+		 	margin-right: -8.3333333333%;
+		 }
+	}
+}
+
+section.related {
+	border-top: 1px solid $light-grey;
+	padding-top: 50px;
+	width: 100%;
+
+	h4 {
+		@include lato;
+	}
+}
