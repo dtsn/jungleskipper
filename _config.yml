@@ -9,13 +9,12 @@ collections:
     title: Uploads
     output: true
 author: Daniel Saxil-Nielsen
-baseurl: /
+baseurl: "/"
 google_analytics: UA-37892446-1
 paginate: 5
-plugins: [jekyll-paginate]
-
-permalink: /:categories/:title
-
+plugins:
+- jekyll-paginate
+permalink: "/:categories/:title"
 sass:
     sass_dir: _sass
 
