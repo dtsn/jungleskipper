@@ -18,3 +18,13 @@ permalink: /:categories/:title
 
 sass:
     sass_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      image: ""
+      thumb-image: ""
