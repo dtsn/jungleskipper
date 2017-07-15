@@ -6,8 +6,9 @@ categories:
 tags:
 - Hong Kong
 - Disney
-layout: post
 image: "/uploads/DSC00753.jpg"
+thumb-image: 
+layout: post
 ---
 
 Hong Kong is probably the lesser known Disney park. Out of all the 6 parks, it probably ranks the lowest on most people's lists. It doesn't have the new feeling of Shangai, nor the experience of Disney Sea. But what it lacks, it makes up in other areas.
