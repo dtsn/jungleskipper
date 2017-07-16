@@ -16,7 +16,7 @@ I was lucky enough to have a quick visit this February while visiting friends in
 
 Before we get into the review let's cover a bit of history about the park. It was opened in 2005 on reclaimed land in [Penny's Bay, Lantau Island](https://www.google.co.uk/maps/place/Penny's\+Bay\+Hwy,\+Hong\+Kong/@22.3166186,114.0463596,3050m/data=!3m1!1e3!4m5!3m4!1s0x3403fc3d918a96ab:0xe1a157c9e810c02a!8m2!3d22.329117!4d114.032886). It was one of the quickest Disney themes parks ever constructed. Construction starting in Jan 2003 the park had its opening ceremony on the 15th of September 2005. The smallest Disney theme park and has a daily capacity of 23,000 guests. China actually deliberately slowed down the construction of Shanghai (originally forecasted for the early 2000's) to help support Hong Kong's development after the outbreak of SARS in 2005.
 
-We visited on a clear sunny February weekday, a rare occurrence in a city which suffers greatly from the smog rolling in across from Shenzhen and mainland China. It was an easy but long trip from our MTR station on Hong Kong Island, it took us an hour and a half and probably cost us approximately £1. The MTR network is simple and easy to use, well signposted and even has lines to queue up before you board the train. The only downside is to avoid travelling at peak times, the train gets hot and very crowded.
+We visited on a clear sunny February weekday, a rare occurrence in a city which suffers greatly from the smog rolling in across from Shenzhen and mainland China. It was an easy but long trip from our MTR station on Hong Kong Island, it took us an hour and a half and probably cost us approximately £1. The MTR network is simple and easy to use, well signposted and even has lines to queue up before you board the train. The only downside is to avoid traveling at peak times, the train gets hot and very crowded.
 
 You take the MTR to Sunny Bay where you board a special Disneyland train. This train is the start of your adventure, you are suddenly transformed onto a train with soft seats, Mickey shaped windows and even Mickey hand handle bars to hold onto. For us, the train was almost empty.
 
@@ -36,26 +36,41 @@ The castle, was a beautiful design and based on Sleeping Beauty's, but was on th
 
 ## Lands
 
-The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, Mystic Point, Tomorrowland, Toy Story Land. Instead of going through each one, you can find a list of the attractions of each land on the [Disneyland Hong Kong website](https://www.hongkongdisneyland.com/attractions/), i'm going to go through the most exciting.
+The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, Mystic Point, Tomorrowland, Toy Story Land. Instead of going through each one, you can find a list of the attractions of each land on the [Disneyland Hong Kong website](https://www.hongkongdisneyland.com/attractions/), I'm going to go through the most exciting.
 
 ## Mystic Point
 
-Home of [Mystic Manor](), often rating one of the best((*)[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/]) dark rides in the world. I loved it so much I wrote an entire article about it, so go and read that.
+Home of [Mystic Manor](), often rating one of the best((*)[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and read that.
 
-## Lands
+[DSC00808.JPG](/uploads/DSC00808.JPG)
 
-## Is that the Castle?
+## Grizzly Gulch
 
-The castle, the centrepiece of every Disney park, is tiny. Completely underwhelming. Thats all I really have to say about it, I didn't even manage to get a decent picture of the castle.
+The centerpiece of Grizzly Gulch is Big Grizzly Mountain, opened in 2012 it's relatively new and is the second mountain is HKDL and the 3rd roller coaster. It's also only the second roller coaster built for Disney which includes a backward section, the first being Expedition Everest in Disneys' Animal Kingdom. It bears a lot of similarities to Big Thunder Mountain but it has been designed to suit the Chinese market. Featuring a specific story line focusing on 3 bears and some lucky (number 8) and unlucky (number 4) lift shafts.
 
-## Mystic manor
+## Toy Story Land
+[DSC00788.JPG](/uploads/DSC00788.JPG)
 
-Honestly the best version of the haunted mansion yet. Mystic manor is one of the top rated dark rides in the world and I would have to agree. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed!
+I believe this is a complete replica of the land is Disneyland Paris. It features RC Racer, Slinky Dog Spin and Toy solider parachute drop. Plus a meet and greet with Woody.
+
+## Tomorrowland
+
+Tomorrowlands' newest addition is the Iron Man experience. I believe it's the first Marvel ride in a Disney Park since Disney took ownership of the brand. It's a simulator based ride (much like Star Tours), based on an attack in downtown Hong Kong which Iron Man has to save. I'm not a huge fan of simulator rides, I typically think they are almost too easy for theme parks to implement and theme. However, this ride was done very well, the theming and story line were both excellent.
 
 ## Not quite a dole whip
 
 ![IMG_0039.JPG](/uploads/IMG_0039.JPG)
 
+It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's (existance)[https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/] as Jessies Snack bar in Toy Story Land.
+
+## Merchandise
+
+I'm a big Baymax fan and found tons of Baymax merchandise is HKDL! Most of the merchandise is based around Duffy, the Disney bear.
+
 ## Exciting things in the works
 
-Dispute the existing of Shanghai Disney a mere 771 miles away (we were actually tempted to visit at the same time). Disney and Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art being shown for a new castle and the Frozen kingdom of Arendelle.
+Dispute the existing of Shanghai Disney a mere 771 miles away (we were actually tempted to visit at the same time). Disney and the Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art on show it looks as exciting things are coming to Disneyland Hong Kong.
+
+## Should you go?
+
+If you are a lover of dark rides and especially Haunted Mansion I would go for that alone, you won't be disappointed!
