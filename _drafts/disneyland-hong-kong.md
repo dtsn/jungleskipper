@@ -36,23 +36,27 @@ The castle, was a beautiful design and based on Sleeping Beauty's, but was on th
 
 ## Lands
 
-The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, Mystic Point, Tomorrowland, Toy Story Land. Instead of going through each one, you can find a list of the attractions of each land on the [Disneyland Hong Kong website](https://www.hongkongdisneyland.com/attractions/), I'm going to go through the most exciting.
+The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, Grizzly Gulch, Mystic Point, Toy Story Land. The last 3 all formed part of a major expansion of HKDL led by veteran Imagineer Joe Lamzisero and the concept designer Robert Coltrin.
+
+They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands bringing the total to 8 which is lucky in Chinese culture.
+
+"It was a beautiful park, but a little too small" - Joe Lamzisero.
+
+## Grizzly Gulch
+
+HKDL was missing a frontier land, a staple to the Magic Kingdom. So the teams first decision was to create Grizzly Gulch based on the American West. It opened in 2012 and the central ride is Big Grizzly Mountain. It is the second mountain is HKDL and the 3rd roller coaster. It's also only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. It bears a lot of similarities to Big Thunder Mountain but it has been designed to suit the Chinese market. Featuring a specific story line focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
+
+## Toy Story Land
+
+![Woody from Toy Story](/uploads/DSC00788.JPG)
+
+This broke from the exclusivity and the uniqueness that the Imagineers wanted with the rest of the expansion. Walt Disney Studios, in Disneyland Paris, had just opened Toy Story Playland and it was proving to be really popular with guests. It features RC Racer, Slinky Dog Spin and Toy solider parachute drop. Plus a meet and greet with Woody all designed to make it feel like you've shrunk to the size of a toy and are in Andy's room.
 
 ## Mystic Point
 
 Home of [Mystic Manor](/reviews/mystic-manor), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and [read that](/reviews/mystic-manor).
 
 ![Mystic Manor](/uploads/DSC00808.JPG)
-
-## Grizzly Gulch
-
-The centrepiece of Grizzly Gulch is Big Grizzly Mountain, opened in 2012 it's relatively new and is the second mountain is HKDL and the 3rd roller coaster. It's also only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. It bears a lot of similarities to Big Thunder Mountain but it has been designed to suit the Chinese market. Featuring a specific story line focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
-
-## Toy Story Land
-
-![Woody from Toy Story](/uploads/DSC00788.JPG)
-
-I believe this is a complete replica of the land is Disneyland Paris (someone let me know which one came first?). It features RC Racer, Slinky Dog Spin and Toy solider parachute drop. Plus a meet and greet with Woody.
 
 ## Tomorrowland
 
