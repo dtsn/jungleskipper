@@ -6,6 +6,7 @@ categories:
 tags:
 - Disney
 - Hong Kong
+image: "/uploads/Mystic-Point-Nightview.jpg"
 ---
 
 Some stuff ....
