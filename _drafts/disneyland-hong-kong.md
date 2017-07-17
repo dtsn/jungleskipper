@@ -40,7 +40,7 @@ The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, 
 
 ## Mystic Point
 
-Home of [Mystic Manor](), often rating one of the best((*)[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and read that.
+Home of [Mystic Manor](), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and read that.
 
 ![DSC00808.JPG](/uploads/DSC00808.JPG)
 
@@ -49,6 +49,7 @@ Home of [Mystic Manor](), often rating one of the best((*)[http://www.leparcoram
 The centrepiece of Grizzly Gulch is Big Grizzly Mountain, opened in 2012 it's relatively new and is the second mountain is HKDL and the 3rd roller coaster. It's also only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. It bears a lot of similarities to Big Thunder Mountain but it has been designed to suit the Chinese market. Featuring a specific story line focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
 
 ## Toy Story Land
+
 ![DSC00788.JPG](/uploads/DSC00788.JPG)
 
 I believe this is a complete replica of the land is Disneyland Paris (someone let me know which one came first?). It features RC Racer, Slinky Dog Spin and Toy solider parachute drop. Plus a meet and greet with Woody.
@@ -63,19 +64,15 @@ Tomorrowlands' newest addition is the Iron Man experience. It's the first Marvel
 
 ![IMG_0039.JPG](/uploads/IMG_0039.JPG)
 
-It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's (existence)[https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/] as Jessies Snack bar in Toy Story Land.
+It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's (existence)\[https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/\] as Jessies Snack bar in Toy Story Land.
 
 We ate the typical theme park burger in Tomorrowland next to the Iron Man experience where you could get a beef burger with a bun with Iron Mans face on it.
 
 ## Parades
 
-Flights of Fantasy
+We only saw a single parade called Flights of Fantasy which was quite good and featured all the floats in the air. I took a brief (and terrible) video of one of the floats and the soundtrack which you can hear below:
 
 <iframe src="https://drive.google.com/file/d/1vs5ruAMmyNG_NVSrOl6JqZUbewi9LTNAMg/preview" width="640" height="480"></iframe>
-
-## Merchandise
-
-I'm a big Baymax fan and found tons of Baymax merchandise is HKDL! Most of the merchandise is based around Duffy, the Disney bear.
 
 ## Exciting things in the works
 
@@ -83,4 +80,6 @@ Dispute the existing of Shanghai Disney a mere 771 miles away (we were actually 
 
 ## Should you go?
 
-If you are a lover of dark rides and especially Haunted Mansion I would go for that alone, you won't be disappointed!
+If you are a lover of dark rides and especially Haunted Mansion I would go for that alone, you won't be disappointed! The park is amazing and lives up to the Disney brand even though it is only half owned by Disney. The park has some really exciting plans in the next few years so I would perhaps wait for those before visiting again.
+
+Unfortunately we had to leave before the fireworks so didn't get to see the nighttime show.
