@@ -20,7 +20,7 @@ We visited on a clear sunny February weekday, a rare occurrence in a city which 
 
 Take the MTR to Sunny Bay where you board a special Disneyland train. This train is the start of your adventure, you are suddenly transformed onto a train with soft seats, Mickey shaped windows and even Mickey hand handle bars to hold onto. For us, the train was almost empty.
 
-![IMG_0024.JPG](/uploads/IMG_0024.JPG)
+![Disneyland MTR Sign](/uploads/IMG_0024.JPG)
 
 The train takes you straight to Disneyland and lets you off at the end of the park promenade. The promenade is a strange concept, a single long walk way passing a central fountain and take a right into Disneyland Park. It has been designed to serve two parks, the large left-hand expanse of Penny's Bay has been left for a future expansion of another park.
 
@@ -30,7 +30,7 @@ Upon entering the park at the beginning of Main Street is the Gazebo, unlike the
 
 Main Street was a smaller version of the Main Street at the US parks, it featured the shops on either side of the street. Much like that of the US parks just on a much smaller scale.
 
-![DSC00814.JPG](/uploads/DSC00814.JPG)
+![Disneyland Hong Kong Castle](/uploads/DSC00814.JPG)
 
 The castle, was a beautiful design and based on Sleeping Beauty's, but was on the small side. The really small side! I've come to know and love the castle at WDW however, this castle was probably 1/5th as tall. This looks to change, included in the $1.4 billion investment that was announced in November is a [reimagining of the castle](http://wdwnt.com/blog/2016/11/confirmed-hong-kong-disneyland-removing-original-castle-announces-frozen-marvel-themed-lands-w-original-rides/) which looks to be more of the size we come to expect from the castles. The castle is surrounded by a moat and you can walk across the bridge and underneath into Fantasy Land.
 
@@ -42,7 +42,7 @@ The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, 
 
 Home of [Mystic Manor](), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and read that.
 
-![DSC00808.JPG](/uploads/DSC00808.JPG)
+![Mystic Manor](/uploads/DSC00808.JPG)
 
 ## Grizzly Gulch
 
@@ -50,7 +50,7 @@ The centrepiece of Grizzly Gulch is Big Grizzly Mountain, opened in 2012 it's re
 
 ## Toy Story Land
 
-![DSC00788.JPG](/uploads/DSC00788.JPG)
+![Woody from Toy Story](/uploads/DSC00788.JPG)
 
 I believe this is a complete replica of the land is Disneyland Paris (someone let me know which one came first?). It features RC Racer, Slinky Dog Spin and Toy solider parachute drop. Plus a meet and greet with Woody.
 
@@ -58,11 +58,11 @@ I believe this is a complete replica of the land is Disneyland Paris (someone le
 
 Tomorrowlands' newest addition is the Iron Man experience. It's the first Marvel ride in a Disney Park since Disney took ownership of the brand. It's a simulator based ride (much like Star Tours), based on an attack in downtown Hong Kong which Iron Man has to save. I'm not a huge fan of simulator rides, they all the seem the same. This ride was done very well, the theming and story line were both excellent.
 
-![IMG_0034.JPG](/uploads/IMG_0034.JPG)
+![Iron Man ride vechicle](/uploads/IMG_0034.JPG)
 
 ## Not quite a dole whip
 
-![IMG_0039.JPG](/uploads/IMG_0039.JPG)
+![HK Dolewhip & Churros](/uploads/IMG_0039.JPG)
 
 It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's (existence)\[https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/\] as Jessies Snack bar in Toy Story Land.
 
@@ -82,4 +82,4 @@ Despite Shanghai Disney being only 771 miles away (we were actually tempted to v
 
 If you are a lover of dark rides and especially Haunted Mansion I would go for that alone, you won't be disappointed! The park is amazing and lives up to the Disney brand even though it is only half owned by Disney. The park has some really exciting plans in the next few years so I would perhaps wait for those before visiting again.
 
-Unfortunately we had to leave before the fireworks so didn't get to see the nighttime show.
+Unfortunately, we had to leave before the fireworks so didn't get to see the nighttime show.
