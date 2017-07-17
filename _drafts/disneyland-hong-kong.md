@@ -40,11 +40,11 @@ The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, G
 
 They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands. This brings the total to 8 which is a lucky number.
 
-"It was a beautiful park, but a little too small" - Joe Lamzisero.
+> "It was a beautiful park, but a little too small" - Joe Lamzisero.
 
 ## Grizzly Gulch
 
-The teams' first decision was to create Grizzly Gulch based on the American West, similar to Frontierland. 
+The teams' first decision was to create Grizzly Gulch based on the American West, similar to Frontierland.
 
 The central ride is Big Grizzly Mountain runaway mine cars. Towering above the land it bears a lot of similarities to Big Thunder Mountain, with the unique rock formations of Disneys California Adventure. Grizzly Mpountain features a specific story line designed for the Chinese market, focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
 
@@ -58,13 +58,11 @@ This broke from the exclusivity and the uniqueness that the Imagineers wanted wi
 
 ## Mystic Point
 
-This brings us to Mystic Point the third and final expansion. HKDL was lacking in dark rides and it was an easy win to drop in the Haunted Mansion. However the idea of a haunted house doesn't exist in Chinese culture so it wouldn't of worked, they need something new.
-
-Mystic Manor was born, often rated as one of the best dark rides on the planet. I've written an entire article on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be belived.
-
-Home of [Mystic Manor](/reviews/mystic-manor), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and [read that](/reviews/mystic-manor).
+This brings us to Mystic Point the third and final expansion. HKDL was lacking in dark rides and it was an easy win to drop in the Haunted Mansion. However the idea of a haunted house doesn't exist in Chinese culture so it wouldn't have worked, they need something new.
 
 ![Mystic Manor](/uploads/DSC00808.JPG)
+
+Mystic Manor was born, often rated as one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides on the planet. I've written an entire [article](/reviews/mystic-manor) on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be believed.
 
 ## Tomorrowland
 
