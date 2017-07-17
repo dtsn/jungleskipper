@@ -36,15 +36,24 @@ The castle, was a beautiful design and based on Sleeping Beauty's, but was on th
 
 ## Lands
 
-The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, Grizzly Gulch, Mystic Point, Toy Story Land. The last 3 all formed part of a major expansion of HKDL led by veteran Imagineer Joe Lamzisero and the concept designer Robert Coltrin.
+The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, Grizzly Gulch, Mystic Point, Toy Story Land. The last 3 all formed part of a major expansion of HKDL led by veteran Imagineer Joe Lamzisero and concept designer Robert Coltrin.
 
-They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands bringing the total to 8 which is lucky in Chinese culture.
+They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands. This brings the total to 8 which is a lucky number.
 
 "It was a beautiful park, but a little too small" - Joe Lamzisero.
 
 ## Grizzly Gulch
 
-HKDL was missing a frontier land, a staple to the Magic Kingdom. So the teams first decision was to create Grizzly Gulch based on the American West. It opened in 2012 and the central ride is Big Grizzly Mountain. It is the second mountain is HKDL and the 3rd roller coaster. It's also only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. It bears a lot of similarities to Big Thunder Mountain but it has been designed to suit the Chinese market. Featuring a specific story line focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
+The teams' first decision was to create Grizzly Gulch based on the American West, similar to Frontierland. 
+
+The central ride is Big Grizzly Mountain runaway mine cars. Towering above the land it bears a lot of similarities to Big Thunder Mountain, with the unique rock formations of Disneys California Adventure. Grizzly Mpountain features a specific story line designed for the Chinese market, focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
+
+This gave HKDL a completely new experience and new experiences are what the park was after.
+
+It's only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. 
+
+
+Grizzly Mountain has been designed to suit the Chinese market. 
 
 ## Toy Story Land
 
