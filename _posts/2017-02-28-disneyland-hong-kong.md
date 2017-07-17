@@ -40,7 +40,7 @@ The park is split into 8 main lands, Adventureland, Fantasyland, Grizzly Gulch, 
 
 ## Mystic Point
 
-Home of [Mystic Manor](), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and read that.
+Home of [Mystic Manor]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %}), often rating one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides in the world. The words I have to describe it just doesn't do it justice. Pay the money and go and experience it; you won't be disappointed! I loved it so much I wrote an entire article about it, so go and [read that]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %}).
 
 ![Mystic Manor](/uploads/DSC00808.JPG)
 
