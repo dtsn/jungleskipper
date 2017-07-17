@@ -40,7 +40,7 @@ The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, G
 
 They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands. This brings the total to 8 which is a lucky number.
 
-> "It was a beautiful park, but a little too small" - Joe Lamzisero.
+> "It was a beautiful park, but a little too small" <br/>- *Joe Lamzisero*
 
 ## Grizzly Gulch
 
@@ -62,7 +62,7 @@ This brings us to Mystic Point the third and final expansion. HKDL was lacking i
 
 ![Mystic Manor](/uploads/DSC00808.JPG)
 
-Mystic Manor was born, often rated as one of the best((\*)\[http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/\]) dark rides on the planet. I've written an entire [article](/reviews/mystic-manor) on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be believed.
+Mystic Manor was born, often rated as one of the [best](http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/] dark rides on the planet. I've written an entire [article](/reviews/mystic-manor) on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be believed.
 
 ## Tomorrowland
 
@@ -74,7 +74,7 @@ Tomorrowlands' newest addition is the Iron Man experience opened in January 2017
 
 ![HK Dolewhip & Churros](/uploads/IMG_0039.JPG)
 
-It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's (existence)\[https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/\] as Jessies Snack bar in Toy Story Land.
+It's not quite a Dole whip, but it tastes like Mango and it's delicious. There was only one topping available to us and that was some kind of apple jellied sweet. We did have to search around for somewhere that sells it after hearing of it's [existence](https://gracegoesglobal.com/2015/01/18/the-ultimate-guide-to-hong-kong-disneyland/) as Jessies Snack bar in Toy Story Land.
 
 We ate the typical theme park burger in Tomorrowland next to the Iron Man experience where you could get a beef burger with a bun with Iron Mans face on it.
 
@@ -82,7 +82,7 @@ We ate the typical theme park burger in Tomorrowland next to the Iron Man experi
 
 We only saw a single parade called Flights of Fantasy which was quite good and featured all the floats in the air. I took a brief (and terrible) video of one of the floats and the soundtrack which you can hear below:
 
-<iframe src="https://drive.google.com/file/d/1vs5ruAMmyNG_NVSrOl6JqZUbewi9LTNAMg/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1vs5ruAMmyNG_NVSrOl6JqZUbewi9LTNAMg/preview" width="600" height="400" frameborder="0"></iframe>
 
 ## Exciting things in the works
 

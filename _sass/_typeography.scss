@@ -25,3 +25,15 @@ h2 {
 	font-size: 18px;
 	margin: 50px 0 20px;
 }
+
+blockquote {
+	margin-left: -16.666666%;
+	padding: 20px;
+	font-family: Serif;
+	font-size: 24px;
+	border-left: 2px solid $secondary-color;
+
+	p {
+		margin: 0;
+	}
+}

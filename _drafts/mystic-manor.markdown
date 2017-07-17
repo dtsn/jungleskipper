@@ -18,7 +18,7 @@ Joe as the creative lead for Tokyo Disney Resort drew from his experience of Tow
 
 So Joe, Robert Coltrin, and their show writer, Michael Sprout, came up with the character of Lord Henry Mystic, an eccentric but decidedly nobler member of S.E.A. 
 
-![p1180577.jpg](/uploads/p1180577.jpg)
+![Lord of the Manor with his Monkey Albert](/uploads/p1180577.jpg)
 
 The Imagineering team also gave Lord Henry a sidekick, a mischievous monkey named after his uncle Albert. 
 
@@ -26,13 +26,13 @@ The Imagineering team also gave Lord Henry a sidekick, a mischievous monkey name
 
 Mystic Manor is placed right next to the Jungle Cruise in the layout of HKDL. The Imagineers managed to utilise this fact by placing Mystic Point in a tropical location.
 
-> "It was a clever way to make the site look much bigger" - Joe Lanisero
+> "It was a clever way to make the site look much bigger" <br/>- *Joe Lanisero*
 
 The Manor, as coined by the creators is regarded as "tropical Victorian eclectic" and blends the tropical surroundings with the animated looks of the characters inside. The home was built as somewhere for Lord Henry to store all the artefacts he has been collecting over the years.
 
 ## Mystic Magneto-Electric Carriage
 
-![DSC00804.JPG](/uploads/DSC00804.JPG)
+![Ride the Mystic Magneto-Electric Carriage](/uploads/DSC00804.JPG)
 
 Lord Henry invites you to join him and Albert on a tour of his collection by boarding an ingenious contraption of his own design, the Mystic Magneto-Electric Carriage. The attractions answer to the doom buggy is an autonomously guided vehicle (AGV) which uses a trackless navigation system with a guide path embedded in the floor. It works, in the same way, those toy robots work which follow the lines your draw on paper. Without the need for a track, the ride designers were able to compress the attraction into a show building 2/3rds the size of the Haunted Mansion.
 
@@ -42,6 +42,6 @@ Once you board your Mystic Magneto-Electric Carriage you are taken on a tour of 
 
 ## Blown Away
 
-![Screen Shot 2017-07-17 at 17.41.07.png](/uploads/Screen%20Shot%202017-07-17%20at%2017.41.07.png)
+![Albert with Arrows](/uploads/Screen%20Shot%202017-07-17%20at%2017.41.07.png)
 
 I don't want to give too much away about the ride, if you really want to see it you can watch one of the [ride videos on YouTube](https://www.youtube.com/watch?v=BeDx6V8dmXg). The quality of this ride is amazing, it takes the classic Haunted Mansion and redesigns it for the modern day with an original story line. I believe this is likely to be one of the top dark rides and is going to be difficult for other theme parks to beat.
