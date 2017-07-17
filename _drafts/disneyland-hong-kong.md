@@ -14,7 +14,7 @@ Hong Kong is probably the lesser known Disney park. Out of the 6 parks, it proba
 
 I was lucky enough to have a quick visit this February while visiting friends in Hong Kong. I was amazed by the park, initially hearing bad things about the size, attractions, and queues. I was presently surprised by all 3.
 
-Before we get into the review let's cover a bit of history. It was opened in 2005 on reclaimed land in [Penny's Bay, Lantau Island](https://www.google.co.uk/maps/place/Penny's\+Bay\+Hwy,\+Hong\+Kong/@22.3166186,114.0463596,3050m/data=!3m1!1e3!4m5!3m4!1s0x3403fc3d918a96ab:0xe1a157c9e810c02a!8m2!3d22.329117!4d114.032886). It was one of the quickest Disney themes parks ever constructed. Construction starting in Jan 2003 the park had its opening ceremony on the 15th of September 2005. The smallest Disney theme park and has a daily capacity of 23,000 guests. China actually deliberately slowed down the construction of Shanghai (originally forecasted for the early 2000's) to help support Hong Kong's development after the outbreak of SARS in 2005.
+Before we get into the review let's cover a bit of history. It was opened in 2005 on reclaimed land in [Penny's Bay, Lantau Island](https://www.google.co.uk/maps/place/Penny's\+Bay\+Hwy,\+Hong\+Kong/@22.3166186,114.0463596,3050m/data=!3m1!1e3!4m5!3m4!1s0x3403fc3d918a96ab:0xe1a157c9e810c02a!8m2!3d22.329117!4d114.032886). It was one of the quickest Disney themes parks ever constructed. Construction starting in Jan 2003 the park had its opening ceremony on the 15th of September 2005. It's the smallest Disney theme park and has a daily capacity of 23,000 guests. China actually deliberately slowed down the construction of Shanghai (originally forecasted for the early 2000's) to help support Hong Kong's development after the outbreak of SARS in 2005.
 
 We visited on a clear sunny February weekday, a rare occurrence in a city which suffers greatly from the smog rolling in across from Shenzhen and mainland China. It was an easy but long trip from our MTR station on Hong Kong Island, it took us an hour and a half and probably cost us approximately £1. The MTR network is simple, easy to use and cheap. It's well signposted and Disneyland has its own signposts so it really easy to find. Avoid travelling at peak times, the train gets hot and very crowded.
 
@@ -76,7 +76,7 @@ We only saw a single parade called Flights of Fantasy which was quite good and f
 
 ## Exciting things in the works
 
-Dispute the existing of Shanghai Disney a mere 771 miles away (we were actually tempted to visit at the same time). Disney and the Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art on show it looks as exciting things are coming to Disneyland Hong Kong.
+Despite Shanghai Disney being only 771 miles away (we were actually tempted to visit at the same time). Disney and the Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art on show it looks as exciting things are coming to Disneyland Hong Kong.
 
 ## Should you go?
 
