@@ -48,12 +48,7 @@ The teams' first decision was to create Grizzly Gulch based on the American West
 
 The central ride is Big Grizzly Mountain runaway mine cars. Towering above the land it bears a lot of similarities to Big Thunder Mountain, with the unique rock formations of Disneys California Adventure. Grizzly Mpountain features a specific story line designed for the Chinese market, focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
 
-This gave HKDL a completely new experience and new experiences are what the park was after.
-
-It's only the second roller coaster built for Disney which includes a backwards section, the first being Expedition Everest in Disneys' Animal Kingdom. 
-
-
-Grizzly Mountain has been designed to suit the Chinese market. 
+This idea gave HKDL a completely new experience and new experiences and exclusivity is what the park was after.
 
 ## Toy Story Land
 
