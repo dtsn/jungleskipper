@@ -46,7 +46,7 @@ They initially considered the addition of a large single land with a big E ticke
 
 The teams' first decision was to create Grizzly Gulch based on the American West, similar to Frontierland.
 
-The central ride is Big Grizzly Mountain runaway mine cars. Towering above the land it bears a lot of similarities to Big Thunder Mountain, with the unique rock formations of Disneys California Adventure. Grizzly Mpountain features a specific story line designed for the Chinese market, focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
+The central ride is Big Grizzly Mountain runaway mine cars. Towering above the land it bears a lot of similarities to Big Thunder Mountain, with the unique rock formations of Disneys California Adventure. Grizzly Mountain features a specific story line designed for the Chinese market, focusing on 3 bears and some lucky (number 8) and unlucky (number 4) mine shafts.
 
 This idea gave HKDL a completely new experience and new experiences and exclusivity is what the park was after.
 
@@ -66,7 +66,7 @@ Mystic Manor was born, often rated as one of the best((\*)\[http://www.leparcora
 
 ## Tomorrowland
 
-Tomorrowlands' newest addition is the Iron Man experience. It's the first Marvel ride in a Disney Park since Disney took ownership of the brand. It's a simulator based ride (much like Star Tours), based on an attack in downtown Hong Kong which Iron Man has to save. I'm not a huge fan of simulator rides, they all the seem the same. This ride was done very well, the theming and story line were both excellent.
+Tomorrowlands' newest addition is the Iron Man experience opened in January 2017. It's the first Marvel ride in a Disney Park since Disney bought Marvel. It's a simulator based ride and uses the exactly the same technology as Star Tours. The story line is based on an alien attack in downtown Hong Kong which Iron Man and you have to save. I'm not a huge fan of simulator rides, they all the seem the same. This ride was done very well, the theming and story line were both excellent.
 
 ![Iron Man ride vechicle](/uploads/IMG_0034.JPG)
 
