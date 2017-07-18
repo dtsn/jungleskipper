@@ -31,7 +31,7 @@ Eventually you come to the offshow area, denoted by a small fence and a dirt pat
 
 Once we got to the hippos one of the hippo keepers came and met us, and talk us through the hippos. She gave us some lettuce to throw to them so that they would come over and see us.
 
-
+[DSC01219.JPG](/uploads/DSC01219.JPG)
 
 
 Hippos
