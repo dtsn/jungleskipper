@@ -105,6 +105,11 @@ section.related {
 .icon-twitter-circled:before { content: '\e806'; }
 .icon-facebook-rect:before { content: '\e803'; }
 
+#sharing {
+	margin: 40px auto 0;
+    width: 157px;
+}
+
 #sharing a:hover {
 	/*color: #444;*/
 	opacity: 0.8;
