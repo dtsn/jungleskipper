@@ -38,9 +38,9 @@ The castle, was a beautiful design and based on Sleeping Beauty's, but was on th
 
 The park is split into 8 main lands, Adventureland, Fantasyland, Tomorrowland, Grizzly Gulch, Mystic Point, Toy Story Land. The last 3 all formed part of a major expansion of HKDL led by veteran Imagineer Joe Lamzisero and concept designer Robert Coltrin.
 
-They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands. This brings the total to 8 which is a lucky number.
-
 > "It was a beautiful park, but a little too small" <br/>- *Joe Lamzisero*
+
+They initially considered the addition of a large single land with a big E ticket ride, but with the Chinese culture being based on numbers they split this into 3 smaller lands. This brings the total to 8 which is a lucky number.
 
 ## Grizzly Gulch
 

@@ -9,6 +9,7 @@ tags:
 - Animal Kingdom
 - Tours
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
+layout: post
 ---
 
 It was our first wedding anniversary in early May and we wanted to do something special. Originally we had a safari planned in Africa, but once we realised how expensive it was we decided to go on a 10 day trip to Walt Disney World (WDW). I spent ages trying to find a surprise, something which would make our experience more special and stumbled across the Wild Africa Trek on the [WDW tours page](https://disneyworld.disney.go.com/events-tours/).
@@ -31,7 +32,7 @@ Eventually you come to the offshow area, denoted by a small fence and a dirt pat
 
 Once we got to the hippos one of the hippo keepers came and met us, and talk us through the hippos. She gave us some lettuce to throw to them so that they would come over and see us.
 
-[DSC01219.JPG](/uploads/DSC01219.JPG)
+![DSC01219.JPG](/uploads/DSC01219.JPG)
 
 
 Hippos

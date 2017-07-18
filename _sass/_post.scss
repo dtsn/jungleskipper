@@ -26,19 +26,19 @@ article {
 		background: url('/images/arrow-left.png') no-repeat center bottom;
 		margin-bottom: 50px;
 		padding-bottom: 68px;
+		margin-left: 20.8333333333%;
 
 		 &::first-letter {
 		 	display: block;
 		 	float: left;
 		 	@include lato;
-		 	font-size: 56px;
-		 	line-height: 56px;
+		 	font-size: 4rem;
+		 	line-height: 4rem;
 		 }
 
 		 img, iframe {
-		 	max-width: 116.666666666%;
-		 	margin-left: -8.3333333333%;
-		 	margin-right: -8.3333333333%;
+		 	width: 116.666666666%;
+		 	margin: 20px -8.333333%;
 		 }
 	}
 }
@@ -51,4 +51,77 @@ section.related {
 	h4 {
 		@include lato;
 	}
+
+	ul {
+		margin: 40px 0;
+		list-style: none;
+
+		li {
+
+		}
+	}
+
+	.title {
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+
+	img {
+		width: 100%;
+		margin-bottom: 40px;
+	}
+}
+
+/* Icons */
+@font-face {
+	font-family: 'icons';
+	src: url('/fonts/icons.eot');
+	src: url('/fonts/icons.eot#iefix') format('embedded-opentype'),
+	url('/fonts/icons.woff') format('woff'),
+	url('/fonts/icons.ttf') format('truetype'),
+	url('/fonts/icons.svg#icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+	font-family: "icons";
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+	display: inline-block;
+	text-decoration: inherit;
+	text-align: center;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1em;
+	margin-right: 3px;
+}
+.icon-facebook:before { content: '\e802'; }
+.icon-facebook-squared:before { content: '\e800'; }
+.icon-twitter:before { content: '\e801'; }
+.icon-twitter-1:before { content: '\e804'; }
+.icon-facebook-circled:before { content: '\e805'; }
+.icon-twitter-circled:before { content: '\e806'; }
+.icon-facebook-rect:before { content: '\e803'; }
+
+#sharing a:hover {
+	/*color: #444;*/
+	opacity: 0.8;
+	text-decoration: none;
+}
+
+#sharing a {
+  font-size: 20px;
+  font-size: 13px;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+
+#sharing a.facebook {
+  background: #4361b3;
+}
+#sharing a.twitter {
+  background: #4fafed;
 }
