@@ -7,3 +7,6 @@ tags:
 - Walt Disney World
 ---
 
+Planning a trip to Walt Disney World (WDW) is a mission. I don't think you can explain it to someone who's never been there before.
+
+To help me plan my trips I use my 
