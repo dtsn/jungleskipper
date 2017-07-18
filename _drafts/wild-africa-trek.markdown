@@ -21,13 +21,18 @@ You meet your tour group to the right of Kilimanjaro Safaris, we arrived early o
 
 Once you are checked in you are weighed (to see which harness fits). Luckily the harness isn't too uncomfortable, the website says wear trousers but there were lots of people on our tour with short shorts and one with a short dress. You are given a locker for the valuables you don't want to take with you, anything you do take with you needs to be strapped to you. They do provide straps for phones, cameras and glasses if you don't have them. You will also receive a jacket to store all the items in and a water bottle (which is yours to keep), though be careful with the lid I managed to break mind not long after we set off.
 
-The tour comes with it's own photographer who isn't part of the Photopass scheme. They made a great effort to find moments of just the two of us,
+The tour comes with its own photographer who isn't part of the Photopass scheme. They made a great effort to find moments of just the two of us and also managed to capture some amazing shots of the animals we saw. They give you a card at the end of the experience with a link and a code to download the photos.
 
-Once your entire group is set up, there were 6 couples in ours, you head off. You are initially taken through some of the onshow averys and the guides talk you through the animals using a headset which is very handy in the onshow areas of the park. You make your way to the 
+Once your entire group is set up, there were 6 couples in ours, you start off initially through the Pangani Exploration Trail. The guides, there were 2 for our trip, will talk you through and animals using a headset which everyone is wearing. Its great to be able to hear them through the onshow areas of the park.
 
-explain things to you through the headsets which you are wearing. The guides are very knowledgeable
+Eventually you come to the offshow area, denoted by a small fence and a dirt path up a hill. It's about a 5 minute walk until you come to the hippos. There are no fences between you and the hippos so you are attached via you harness to a metal bar which lets you walk and move easily, but stops you being able to jump off the edge. You can see this in action in one of the press shots below.
 
-The whole time they have a dedicated camera person taking pictures of your trip. This isn't anything to do with a Photopass and you go to a seperate website after the tour to download all the pictures.
+![wild-africa-trek-gallery01.jpg](/uploads/wild-africa-trek-gallery01.jpg)
+
+Once we got to the hippos one of the hippo keepers came and met us, and talk us through the hippos. She gave us some lettuce to throw to them so that they would come over and see us.
+
+
+
 
 Hippos
 
