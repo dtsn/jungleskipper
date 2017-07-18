@@ -10,17 +10,24 @@ image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
 ---
 
-Mystic Manor is located in Mystic Point, which formed part of the 3 land major expansion of Hong Kong Disneyland (HKDL). The expansion was led by Imagineer Joe Lanisero who immediately turned to Robert Coltrin. They were on the lookout to add a new original unlicensed attraction to HKDL. The Haunted Mansion seemed a good fit and was initially pencilled in to fill the space. However, a direct lift wouldn't have suited the Chinese market. Chinese audiences don't view ghosts, or spirits in the same way as the west. They believe the spirits of the dead should be honoured and respected, which made the Haunted Mansion in its current form a difficult sell.
+We visited Mystic Manor on our 2017 trip to [Hong Kong Disneyland](/reviews/disneyland-hong-kong) and were blown away by not only the story but the execution of the ride. I was hooked immediately and being the Disney park nerd that I am, I had to look into its origins and history.
 
-The original Haunted Mansion in Disneyland was designed as a magic show, a showcase of all the illusions the Imagineering team could conjure up in the 50's & 60's. This was the initial starting point of Mystic Manor.
+In early 2009 the executives of Hong Kong Disneyland (HKDL) were looking to expand the park and brought in experienced Imagineer Joe Lanisero. Originally Joe and his college fellow Imagineer Robert Coltrin initially had the idea to build a single land with one big E-ticket attraction. The company then chief financial officer, Jim Hunt, quickly pointed out that Chinese culture is all about the numbers. The imagineers came up with 10 or 12 concepts but decided to whittle it down to 3 mini lands. This would bring the total number to 9, a lucky number in Chinese culture. Recently Disneyland Paris had just launched their Toy Story playground which was very popular with guests, so what was left were two lands [Gizzly Gulch](/reviews/disneyland-hong-kong#grizzly-gulch) and Mystic Point.
 
-Joe as the creative lead for Tokyo Disney Resort drew from his experience of Tower of Terror and the modifications it went through to suit the Japanese market. They built a new story around a wealthy antique dealer, Lord Henry Mystic, one of the founding members of S.E.A. (Society of Explorers and Adventurers). S.E.A. is a long running story arc which you can find throughout many of the Disney Parks. Including Skipper Canteen in WDW, which reportedly has a secret dining room exclusively for S.E.A. meetings. You can read more about S.E.A. its origins and the integration with lots of different rides over at [Attractions Magazine](http://attractionsmagazine.com/story-behind-sea-disneys-society-of-explorers-and-adventurers/).
+Mystic Point, initially had the Haunted Mansion pencilled it. However, a direct lift wouldn't have suited the Chinese market. Chinese audiences don't view ghosts, or spirits in the same way as the west. They believe the spirits of the dead should be honoured and respected, which made the Haunted Mansion in its current form a difficult sell.
 
-So Joe, Robert Coltrin, and their show writer, Michael Sprout, came up with the character of Lord Henry Mystic, an eccentric but decidedly nobler member of S.E.A. 
+Job and Rob needed to start back at the beginning. The original Haunted Mansion in Disneyland was designed as a magic show, a showcase of all the illusions the Imagineering team could conjure up in the 50's & 60's. This was the initial starting point of Mystic Manor.
+
+Joe as the creative lead for Tokyo Disney Resort drew from his experience of the Japanese Tower of Terror and the modifications it went through to suit the local audience. They created a new storyline revolving around an organisation called Society of Explorers and Adventurers (S.E.A.). A group of eccentric explorers it provides a rich history and story line for the Imagineers to draw from. 
+
+S.E.A. has become a very large plot arc around many of Disneys latest attractions in its parks. Including Skipper Canteen in WDW, which reportedly has a secret dining room exclusively for S.E.A. meetings. You can read more about S.E.A. its origins and the integration into lots of different rides over at [Attractions Magazine](http://attractionsmagazine.com/story-behind-sea-disneys-society-of-explorers-and-adventurers/).
+
+For Mystic Manor, they created a new story around a new character in the S.E.A. story, a wealthy antique dealer, Lord Henry Mystic. One of the founding members of S.E.A. an eccentric but decidedly nobler member of S.E.A.
 
 ![Lord of the Manor with his Monkey Albert](/uploads/p1180577.jpg)
 
-The Imagineering team also gave Lord Henry a sidekick, a mischievous monkey named after his uncle Albert. 
+All good characters need a sidekick in a Disney story. Lord Henry is no exception, a mischievous monkey named after his uncle Albert. A monkey was chosen because monkeys are considered mischievous in Chinese culture.
+
 
 ## The Manor
 
@@ -44,4 +51,6 @@ Once you board your Mystic Magneto-Electric Carriage you are taken on a tour of 
 
 ![Albert with Arrows](/uploads/Screen%20Shot%202017-07-17%20at%2017.41.07.png)
 
-I don't want to give too much away about the ride, if you really want to see it you can watch one of the [ride videos on YouTube](https://www.youtube.com/watch?v=BeDx6V8dmXg). The quality of this ride is amazing, it takes the classic Haunted Mansion and redesigns it for the modern day with an original story line. I believe this is likely to be one of the top dark rides and is going to be difficult for other theme parks to beat.
+When people ask me why I like Disney so much, I normally give this ride as an example. I am attracted to the design, the amount of effort that has gone into every aspect. If this was another company or another theme park they would have just placed in the Haunted Mansion and not thought too much about it. Here they have customised it to fit in its situation, not only culturally but also its location in the park enhancing the ride experience along the way.
+
+I don't want to give too much away about the ride, if you really want to see it you can watch one of the [ride videos on YouTube](https://www.youtube.com/watch?v=BeDx6V8dmXg). The quality of this ride is amazing, it takes the classic Haunted Mansion and redesigns it for the modern day with an original story line. I believe this is likely to be one of the top dark rides in the world for a long time to come, go and see it.
