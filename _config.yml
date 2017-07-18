@@ -1,6 +1,5 @@
 ---
 title: Jungle Skipper
-authorTwitter: jungleskipper_
 timezone: UTC
 collections:
   posts:
@@ -17,6 +16,7 @@ defaults:
     layout: default
     image: ''
     thumb-image: ''
+authorTwitter: jungleskipper_
 author: Daniel Saxil-Nielsen
 baseurl: "/"
 google_analytics: UA-37892446-1
