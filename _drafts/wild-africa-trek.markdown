@@ -36,7 +36,7 @@ While we were there the keeper gave a talk and gave us lettuce to throw. We got 
 
 Rope Bridge
 
-In true Imagineer fashion, this isn't just a walk in between the enclosures. They 
+In true Imagineer fashion, this isn't just a walk in between the enclosures. They have turned it into an adventure. You get to a set of suspended rope bridges over the crocodile enclosures. These are very safe rope bridges either, each full plank is just on the edge of comfortable reaching distance.
 
 Walking over the crocodile enclosure
 
