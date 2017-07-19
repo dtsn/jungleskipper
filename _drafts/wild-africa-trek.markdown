@@ -30,7 +30,7 @@ Eventually, you come to the off-show area, denoted by a small fence leading to a
 
 ![wild-africa-trek-gallery01.jpg](/uploads/wild-africa-trek-gallery01.jpg)
 
-While we were there the hippo keeper came and talked up through the two animals and gave us lettuce to throw to them. We got to ask the keeper any questions we might have and the guides talked us through the animal in detail.
+While we were there the keeper gave a talk and gave us lettuce to throw. We got to ask the keeper any questions we might have about the hippos and we were feeding them for about 10 minutes.
 
 ![DSC01219.JPG](/uploads/DSC01219.JPG)
 
