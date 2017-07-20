@@ -2,7 +2,7 @@
 title: Disneyland Hong Kong
 date: 2017-02-28 00:00:00 Z
 categories:
-- Reviews
+- review
 tags:
 - Hong Kong
 - Disney

@@ -1,66 +1,64 @@
-
-
 body {
 	padding: 0;
 	margin: 0;
 }
 
+
 header.main {
-	border-top: 2px solid $base-color;
-	border-bottom: 1px solid $light-grey;
+	border-bottom: 1px solid #EEEEEE;
 	width: 100%;
 
 	.title {
+		border-bottom: 1px solid #EEEEEE;
 
-		width: 250px;
-		margin: 0 auto;
-
+		
 		svg {
 			display: block;
-			margin: 30px auto 20px;
+			margin: 30px auto 10px;
+			width: 250px;
 		}
 
 		a {
-			font-family: $secondary-font-family;
-			color: #1A1B1C;
+			@include lato;
+			color: #4D4D4D;
 			font-size: 24px;
-			letter-spacing: 2px;
-			font-weight: bold;
-			text-transform: uppercase;
 			text-decoration: none;
 			text-align: center;
 			margin-bottom: 30px;
 			display: block;
 		}
 	}
-}
 
-nav {
+	nav {
+		display: block;
+		overflow: hidden;
+		margin: 0 auto;
+		width: 500px;
 
-	display: block;
-	margin: 30px auto;
-	width: 448px;
-	overflow:hidden;
 
-	a {
-			font-family: $secondary-font-family;
-			color: $base-color;
+		a {
+			@include poppins;
+			color: #4D4D4D;
+			display: block;
+			float: left;
 			font-size: 18px;
+			line-height: 18px;
+			padding: 30px 20px 25px;
 			letter-spacing: 2px;
 			text-transform: uppercase;
 			text-decoration: none;
 			text-align: center;
-			display: block;
-			float: left;
-			padding: 0 20px;
+
+			&:hover, &.selected {
+				border-bottom: 2px solid #EF674E;
+			}
 		}
+	}
 }
 
+
+
 footer {
-	margin-top: 50px;
-	background: $base-color;
-	color: white;
-	padding: 50px;
-	@include lato;
-	font-size: 20px;
+	background: #F7F7F7;
+	padding: 60px 0;
 }

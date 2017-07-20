@@ -1,38 +1,105 @@
-body {
+@mixin open-sans {
 	font-family: 'Open Sans', sans-serif;
-	color: #242424;
-	line-height: 2em;
+}
+
+@mixin poppins {
+	font-family: 'Poppins', sans-serif;
 }
 
 @mixin lato {
-	font-family: $secondary-font-family;
+	font-family: 'Lato', sans-serif;
 	letter-spacing: 2px;
+	font-weight: bold;
 	text-transform: uppercase;
-	text-align: center;
+}
+
+/* social media Icons */
+@font-face {
+	font-family: 'icons';
+	src: url('/fonts/icons.eot');
+	src: url('/fonts/icons.eot#iefix') format('embedded-opentype'),
+	url('/fonts/icons.woff') format('woff'),
+	url('/fonts/icons.ttf') format('truetype'),
+	url('/fonts/icons.svg#icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	@include open-sans;
+	color: #4D4D4D;
+	font-size: 14px;
+	line-height: 2em;
 }
 
 h1 {
-	font-size: 36px;
-	line-height: 36px;
-	font-weight: 300;
-	margin: 50px 0 20px;
-	text-align: center;
+	@include poppins;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 100px;
+	margin-bottom: 20px;
 }
 
 h2 {
-	@include lato;
+	@include poppins;
 	font-size: 18px;
-	margin: 50px 0 20px;
+	font-weight: 600;
+	line-height: 48px;
+	margin: 30px 0 0 0;
+}
+
+// Secondary section headings
+h3 {
+	@include poppins;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.5em;
+}
+
+// major section headings
+h4 {
+	@include lato;
+	font-size: 24px;
+	text-align: center;
+}
+
+// h5 is the post category
+h5 {
+	@include lato;
+	color: #BFBFBF;
+	font-size: 14px;
+	margin: 0;
+}
+
+h6 {
+	@include poppins;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+a {
+	color: #EF674E;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+	&:focus {
+		opacity: 0.5;
+	}
+
+	&.large {
+		@include poppins;
+		font-size: 18px;
+		font-weight: 600;
+	}
 }
 
 blockquote {
-	margin: 40px 0 40px -16.666666%;
-	padding: 20px;
-	font-family: Serif;
-	font-size: 24px;
-	border-left: 2px solid $secondary-color;
-
-	p {
-		margin: 0;
-	}
+	@include open-sans;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: 300;
+	border-left: 3px solid #EF674E;
+	margin: 30px 0;
+	padding: 10px 0 10px 30px;
 }

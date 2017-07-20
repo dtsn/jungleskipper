@@ -2,7 +2,7 @@
 title: Mystic Manor
 date: 2017-03-04 11:04:00 Z
 categories:
-- Reviews
+- review
 tags:
 - Disney
 - Hong Kong

@@ -3,17 +3,30 @@ layout: default
 ---
 
 <article class="container">
-	<header>
-		<h1>{{ page.title }}</h1>
-		<span class="date">{{ page.date | date:"%B %-d, %Y" }}</span>
-	</header>
-	<section class="image offset-md-1 col-md-10">
-		<img src="{{page.image}}" alt="{{page.title}}" />
-	</section>
-	<section class="main col-md-7">
-		{{content}}
-		{% include share.html %}
-	</section>
+	<div class="row">
+		<section class="image col-md-12">
+			<img src="{{page.image}}" alt="{{page.title}}" />
+		</section>
+	</div>
+
+	<div class="row">
+		<div class="col-md-1">
+			{% if page.previous.url %}
+				<a class="large previous" href="{{page.previous.url}}">&larr;</a>
+			{% endif %}
+		</div>
+		<section class="content col-md-7">
+			<h5>{{ page.categories | first }}</h5>
+			<h1>{{ page.title }}</h1>
+			{{content}}
+		</section>
+		<div class="offset-md-1 col-md-3">
+			{% if page.next.url %}
+				<a class="large next" href="{{page.next.url}}">Next Article &rarr;</a>
+			{% endif %}
+			{% include share.html %}
+		</div>
+	</div>
 </article>
 
 <section class="related">
@@ -25,7 +38,8 @@ layout: default
 				<div class="main-image">
 					<a href="{{ post.url }}"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
 				</div>
-				<div class="title">{{ post.title }}</div>
+				<h5>{{ page.categories | first }}</h5>
+				<h3>{{ post.title }}</h3>
 				<p> 
 					{% if post.description %}
 						{{ post.description }}
@@ -34,11 +48,76 @@ layout: default
 					{% endif %}
 				</p>
 				<p>
-					<a href="{{ post.url }}">Read more &rarr;</a>
+					<a href="{{ post.url }}" class="large">Read Article &rarr;</a>
 				</p>
 			</li>
 		{% endfor %}
 		</ul>
+	</div>
+</section>
+
+<section class="comments">
+	<div class="container">
+		<div class="row">
+			<div class="offset-md-1 col-sm-5">
+
+				{% if site.data.comments[page.slug] %}
+
+				<h3>Comments</h3>
+
+				{% assign comments = site.data.comments[page.slug] | sort %}
+				<ul>
+				{% for comment in comments %}
+					<li>
+						<img src="//www.gravatar.com/avatar/{{ comment[1].email }}d=https%3A%2F%2Fjungleskipper.com%2Fimages%2Favatar.png&s=60" alt="Avatar" />
+						<div class="content">
+							<div class="title">
+								{{ comment[1].name }} 
+								&middot; 
+								<time datetime="{{ comment[1].date | date_to_xmlschema }}" itemprop="datePublished">
+									{{ comment[1].date | date: "%B %d, %Y at %I:%M %p" }}
+								</time>
+							</div>
+
+							<div class="message">
+								{{ comment[1].message }}
+							</div>
+						</div>
+					</li>
+				{% endfor %}
+				</ul>
+
+				{% endif %}
+
+			</div>
+			<div class="offset-sm-1 col-sm-5">
+				<h3>Join the conversation</h3>
+				<form method="POST" action="https://api.staticman.net/v2/entry/dtsn/jungleskipper/master/comments">
+					<input name="options[redirect]" type="hidden" value="https://jungleskipper.com/thankyou">
+					<input name="options[slug]" type="hidden" value="{{ page.slug }}">
+
+						<div class="row">
+							<div class="form-group col-sm-6">
+								<label for="name">Name</label>
+								<input name="fields[name]" type="text" id="name" class="form-control" placeholder="e.g. Albert Awol">
+							</div>
+
+							<div class="form-group col-sm-6">
+								<label for="email">Email</label>
+								<input name="fields[email]" type="email" id="email" class="form-control">
+							</div>
+						</div>
+						<div class="row">
+							<div class="form-group col-sm-12">
+								<label for="comment">Comment</label>
+								<textarea name="fields[message]" id="comment" class="form-control"></textarea>
+							</div>
+						</div>
+
+					<button type="submit" class="btn btn-primary">Submit</button>
+				</form>
+			</div>
+		</div>
 	</div>
 </section>
 

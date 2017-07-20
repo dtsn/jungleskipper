@@ -1,13 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-	{% include head.html %}
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- SEO stuff -->
+		{% if page.description %}
+			<meta name="description" content="{{ page.description }}">
+		{% else %}
+			<meta name="description" content="{{ page.content | strip_html | truncatewords: 25 }}">
+		{% endif %}
+
+		<!-- twitter card -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:url" content="https://jungleskipper.com{{ page.url }}">
+		<meta name="twitter:title" content="{{ page.title }}">
+		<meta name="twitter:site" content="_jungleskipper">
+		<meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 25 }} ">
+		{% if page.twitterimage %}
+		<meta name="twitter:image" content="{{page.twitterimage}}">
+		{% endif %}
+
+		{% if page.keywords %}
+		    <meta name="keywords" content="{{ page.keywords }}">
+		{% else if page.tags %}
+		    <meta name="keywords" content="{{ page.tags | join: ',' }}">
+		{% else %}
+		    <meta name="keywords" content="Theme park, Disney World, Disneyland"> 
+		{% endif %}
+
+		<title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+
+		<!-- Google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700" rel="stylesheet">
+
+		<link rel="shortcut icon" href="/assets/images/favicon.ico">
+		<link rel="stylesheet" href="/css/jungleskipper.css">
+		<link rel="alternate" type="application/rss+xml" title="Jungle Skipper" href="/rss.xml">
+		<link rel="canonical" href="{{ page.url }}">
+	</head>
 	<body>
-		{% include header.html %}
+		<header class="main">
+			<div class="title">
+				<a href="/" rel="Home">
+					{% include logo.html %}
+					Jungle Skipper
+				</a>
+			</div>
+			<nav>
+				<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
+				<!--<a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a>-->
+				<a href="/reviews" class="{% if page.url == '/reviews' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
+				<a href="/planning" class="{% if page.url == '/planning' %}selected{% endif %}">Planning</a>
+				<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
+			</nav>
+		</header>
+
 
 		<section class="content">
 			{{ content }}
 		</section>
 
-		{% include footer.html %}
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<h6>Parks</h6>
+					</div>
+					<div class="col-sm-3">
+						<h6>Rides &amp; Tours</h6>
+					</div>
+					<div class="col-sm-3">
+						<h6>Books &amp; Merchandise</h6>
+					</div>
+					<div class="col-sm-3">
+						<h6>Planning &amp; Tools</h6>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						Built with love using Jekyll &amp; hosted on Github.
+					</div>
+					<div class="col-sm-6">
+						Like the site? <strong>Buy me a dole whip</strong>.
+					</div>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
