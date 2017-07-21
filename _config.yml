@@ -17,7 +17,7 @@ defaults:
     image: ''
     thumb-image: ''
 description: Bringing you reviews, news and facts from theme parks
-authorTwitter: _jungleskipper_
+authorTwitter: _jungleskipper
 author: Daniel Saxil-Nielsen
 baseurl: https://jungleskipper.com
 paginate: 5
