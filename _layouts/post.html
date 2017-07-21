@@ -22,7 +22,7 @@ layout: default
 		</section>
 		<div class="offset-md-1 col-md-3">
 			{% if page.next.url %}
-				<a class="large next" data-title="{{ page.next.title }}" data-image="{{ page.next.image }}" data-blurb="{{ page.next.content | strip_html | truncatewords: 20 }}" href="{{page.next.url}}">Next Article &rarr;</a>
+				<a class="large next" data-text="Next Article &rarr;" data-title="{{ page.next.title }}" data-image="{{ page.next.image }}" data-blurb="{{ page.next.content | strip_html | truncatewords: 20 }}" href="{{page.next.url}}">Next Article &rarr;</a>
 			{% endif %}
 			{% include share.html %}
 		</div>
