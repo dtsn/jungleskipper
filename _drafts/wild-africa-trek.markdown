@@ -2,7 +2,7 @@
 title: Wild Africa Trek
 date: 2017-05-06 20:04:00 Z
 categories:
-- Reviews
+- review
 tags:
 - Disney
 - Walt Disney World
@@ -22,7 +22,7 @@ You meet your tour group to the right of Kilimanjaro Safaris, we arrived early o
 
 Once you are checked in you are weighed (to see which harness fits). Luckily the harness isn't too uncomfortable, the website says wear trousers but there were lots of people on our tour with short shorts and one with a short dress. You are given a locker for the valuables you don't want to take with you, anything you do take with you needs to be strapped to you. They do provide straps for phones, cameras and glasses if you don't have them. You will also receive a jacket to store all the items in and a water bottle (which is yours to keep), though be careful with the lid I managed to break mind not long after we set off.
 
-The tour comes with its own photographer who isn't part of the Photopass scheme. They made a great effort to find moments of just the two of us and also managed to capture some amazing shots of the animals we saw. They give you a card at the end of the experience with a link and a code to download the photos.
+The tour comes with its own photographer which isn't part of a Disney Photopass. They made a great effort to find moments of just the two of us and also managed to capture some amazing shots of the animals we saw. They give you a card at the end of the experience with a link and a code to download the photos.
 
 When the entire group is set up, there were 6 couples in ours, you start off initially through the Pangani Exploration Trail. The guides, 2  initially but more join, will talk you through and animals using a headset which everyone is wearing. It's great to be able to hear them through the on-show areas of the park.
 
@@ -34,14 +34,24 @@ While we were there the keeper gave a talk and gave us lettuce to throw. We got 
 
 ![DSC01219.JPG](/uploads/DSC01219.JPG)
 
-Rope Bridge
+## Ricekty Bridges
 
-In true Imagineer fashion, this isn't just a walk in between the enclosures. They have turned it into an adventure. You get to a set of suspended rope bridges over the crocodile enclosures. These are very safe rope bridges either, each full plank is just on the edge of comfortable reaching distance.
+In true Imagineer fashion, this isn't just a walk in between the enclosures. They have turned it into an adventure, crossing a rickety bridge over the crocodile enclosure. Even though you are strapped into a supporting wire above the bridge, each of the planks is just slightly further than the comfortable reaching distance. This intensifies the experience thinking you could slip and drop. 
 
-Walking over the crocodile enclosure
+>They have turned it into an adventure, crossing a rickety bridge over the crocodile enclosure
+
+In total there are 2 bridges for you to cross and once at the otherside you are given a talk with the keeper of the crocodiles in the same way as the hippos.
+
+Offtrack Safari
+
+We then headed back through the forest and came out next to a Jeep which was waiting for us. The jeep was open and had bonocialers on each seat. The Jeep experience is amazing driving offtrack on the Killamjaro Safari we got to drive up close and person with the animals. They also 
+
+Jeep driver?
 
 Jeep
 
 Lunch at Boma
+
+photo slideshow?
 
 Charity
