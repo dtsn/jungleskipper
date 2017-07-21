@@ -1,6 +1,5 @@
 ---
 title: Jungle Skipper
-description: Bringing you reviews, news and facts from theme parks
 timezone: UTC
 collections:
   posts:
@@ -17,9 +16,10 @@ defaults:
     layout: default
     image: ''
     thumb-image: ''
+description: Bringing you reviews, news and facts from theme parks
 authorTwitter: _jungleskipper_
 author: Daniel Saxil-Nielsen
-baseurl: "https://jungleskipper.com"
+baseurl: https://jungleskipper.com
 paginate: 5
 plugins:
 - jekyll-paginate
