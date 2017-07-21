@@ -22,7 +22,7 @@ layout: default
 		</section>
 		<div class="offset-md-1 col-md-3">
 			{% if page.next.url %}
-				<a class="large next" href="{{page.next.url}}">Next Article &rarr;</a>
+				<a class="large next" data-title="{{ page.next.title }}" data-image="{{ page.next.image }}" data-blurb="{{ page.next.content | strip_html | truncatewords: 20 }}" href="{{page.next.url}}">Next Article &rarr;</a>
 			{% endif %}
 			{% include share.html %}
 		</div>
@@ -69,7 +69,7 @@ layout: default
 				<ul>
 				{% for comment in comments %}
 					<li>
-						<img src="//www.gravatar.com/avatar/{{ comment[1].email }}d=https%3A%2F%2Fjungleskipper.com%2Fimages%2Favatar.png&s=60" alt="Avatar" />
+						<img src="//www.gravatar.com/avatar/{{ comment[1].email }}?d=https%3A%2F%2Fjungleskipper.com%2Fimages%2Favatar.png&s=60" alt="Avatar" />
 						<div class="content">
 							<div class="title">
 								{{ comment[1].name }} 
