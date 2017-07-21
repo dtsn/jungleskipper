@@ -40,18 +40,22 @@ In true Imagineer fashion, this isn't just a walk in between the enclosures. The
 
 >They have turned it into an adventure, crossing a rickety bridge over the crocodile enclosure
 
-In total there are 2 bridges for you to cross and once at the otherside you are given a talk with the keeper of the crocodiles in the same way as the hippos.
+In total there are 2 bridges for you to cross and once at the other side, you are given a talk with the keeper of the crocodiles in the same way as the hippos.
 
-Offtrack Safari
+## Offtrack Safari
 
-We then headed back through the forest and came out next to a Jeep which was waiting for us. The jeep was open and had bonocialers on each seat. The Jeep experience is amazing driving offtrack on the Killamjaro Safari we got to drive up close and person with the animals. They also 
+Once we were finished at the crocodiles we headed on through the forest and eventually emerged at a platform next to the ride track. This is where our Jeep was waiting for us to drive us into the savanna. We drive off track around the savanna and it means we can get really close to the animals and the animals can get really close to us.
 
-Jeep driver?
+This experience is amazing, its a lot of driving and stopping in places next to the animals and taking an in-depth look at them. We also learnt which bits of the savanna were 'Disney Real',
 
-Jeep
+## Lunch
 
-Lunch at Boma
+For lunch, we headed to the Boma in the middle of the savanna. This is a beautiful African styled log building. The dining area is completely undercover, to protect you from the elements. Once you arrive your tour team go to great lengths to make it feel special by laying out table cloths and setting the table. All the food was brought with you in the Jeep for the lunch and is prepared in a traditional African lunch box made of compartments.
 
-photo slideshow?
+The boma has amazing views over the savanna and it was worth the money to just sit there in a quiet park of the park for an hour, eat a beautiful lunch and watch the animals. We were really lucky because the baby elephant was playing with its mother.
 
-Charity
+The rain broke just as we were heading back to the start. One of the brilliant parts of the tour, and unlike the tours in other parks your fee in part goes to the Disney Conservation fund which helps protect these animals in the wild.
+
+## Summary
+
+I thought it was a brilliant tour which covers lots of different areas and I would recommend anyone to give it a try.
