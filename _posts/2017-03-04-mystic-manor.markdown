@@ -4,8 +4,8 @@ date: 2017-03-04 11:04:00 Z
 categories:
 - review
 tags:
-- Disney
-- Hong Kong
+- hong-kong-disneyland
+- disney
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
 ---

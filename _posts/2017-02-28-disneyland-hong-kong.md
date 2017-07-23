@@ -4,8 +4,8 @@ date: 2017-02-28 00:00:00 Z
 categories:
 - review
 tags:
-- Hong Kong
-- Disney
+- hong-kong-disneyland
+- disney
 image: "/uploads/DSC00753.jpg"
 layout: post
 ---

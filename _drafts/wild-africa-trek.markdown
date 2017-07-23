@@ -4,10 +4,10 @@ date: 2017-05-06 20:04:00 Z
 categories:
 - review
 tags:
-- Disney
-- Walt Disney World
-- Animal Kingdom
-- Tours
+- disney
+- walt-disney-world
+- animal-kingdom
+- tours
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
 layout: post
 ---
