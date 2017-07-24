@@ -1,11 +1,11 @@
 ---
 title: Disneyland Paris Guided Tour
 date: 2017-07-24 18:48:00 Z
-layout: post
 categories:
 - blog
 tags:
 - disneyland-paris
+layout: post
 image: "/uploads/Screen%20Shot%202017-07-24%20at%2020.04.04.png"
 ---
 
