@@ -87,6 +87,10 @@ header.main {
 		width: 100%;
 		margin-bottom: 20px;
 	}
+
+	p {
+		line-height: 1.5em;
+	}
 }
 
 .about {
@@ -94,6 +98,72 @@ header.main {
 	img {
 		width: 100%;
 	}
+}
+
+.btn {
+	@include poppins;
+	font-size: 14px;
+
+	&:hover {
+		cursor: pointer;
+	}
+}
+
+.sidebar {
+
+	margin-top: 60px;
+
+	.box {
+		border: 1px solid #F7F7F7;
+		margin-bottom: 30px;
+		line-height: 1.5em;
+
+		a, div {
+			display: block;
+			border-bottom: 1px solid #F7F7F7;
+			padding: 20px 30px;
+			color: #4D4D4D;
+
+			&:hover::before {
+				width: 0;
+			}
+		}
+
+		a.twitter {
+			background: url('/images/twitter.png') no-repeat 30px center;
+			padding-left: 70px;
+		}
+
+		a.rss {
+			background: url('/images/rss.png') no-repeat 30px center;
+			padding-left: 70px;
+		}
+
+		input[type="email"] {
+			margin-bottom: 10px;
+			font-size: 14px;
+			font-style: italic;
+		}
+
+		.fill {
+			background: #F7F7F7;
+			h3 {
+			 	font-size: 18px;
+			}
+		}
+	}
+
+	.blog-post {
+		img {
+			width: 100%;
+			margin-bottom: 20px;
+		}
+
+		h3 {
+			font-size: 18px;
+		}
+	}
+
 }
 
 footer {

@@ -1,6 +1,7 @@
 ---
 title: Disneyland Paris Guided Tour
 date: 2017-07-24 18:48:00 Z
+layout: post
 categories:
 - blog
 tags:
