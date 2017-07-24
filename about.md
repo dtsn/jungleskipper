@@ -1,7 +1,7 @@
 ---
 title: About
-layout: default
 date: 2017-07-14 09:13:00 Z
+layout: default
 ---
 
 <div class="container about">
