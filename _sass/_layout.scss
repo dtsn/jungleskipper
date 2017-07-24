@@ -69,7 +69,9 @@ header.main {
 .post-list {
 	margin: 60px auto;
 
-	.row {}
+	.row {
+		margin-bottom: 30px;
+	}
 
 	h5 {
 		font-size: 10px;
@@ -83,13 +85,36 @@ header.main {
 
 	img {
 		width: 100%;
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 	}
 }
 
-
+.about {
+	margin-bottom: 60px;
+	img {
+		width: 100%;
+	}
+}
 
 footer {
 	background: #F7F7F7;
 	padding: 60px 0;
+
+	.nav {
+		margin-bottom: 60px;
+	}
+
+	a {
+		color: #4D4D4D;
+		a:hover {
+			color: #4D4D4D !important;
+		}
+		&:hover:before {
+			border-bottom-color: #4D4D4D;
+		}
+	}
+
+	.right {
+		text-align: right;
+	}
 }
