@@ -1,8 +1,9 @@
 ---
 title: Welcome
 layout: page
-image: /uploads/about.jpeg
+image: "/uploads/about.jpeg"
 ---
+
 Welcome to Jungle Skipper. My name is Daniel and I'm a bit of a Disney theme park nerd. I love everything to the Disney Parks. An obsession i got from the Walt Disney World Reddit channel after visiting Walt Disney World a few years and I've been addicted ever since.
 
 ## Get in touch
