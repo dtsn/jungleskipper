@@ -1,5 +1,6 @@
 ---
-layout: tag
 title: Rides
+layout: tag
 tag: ride
 ---
+

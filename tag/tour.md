@@ -1,5 +1,6 @@
 ---
-layout: tag
 title: Tours
+layout: tag
 tag: tour
 ---
+
