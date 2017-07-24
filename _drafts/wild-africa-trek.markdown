@@ -7,7 +7,7 @@ tags:
 - disney
 - walt-disney-world
 - animal-kingdom
-- tours
+- tour
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
 layout: post
 ---

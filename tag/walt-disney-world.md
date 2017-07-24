@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
+title: Walt Disney World
+tag: walt-disney-world
 ---
-
-{% include post-list.html posts=site.tags.walt-disney-world %}

@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
+{% assign posts = site.tags[page.tag] %}
+
 <div class="container post-list">
 	<div class="col-sm-8">
-		{% assign posts = site.categories[page.category] %}
 		{% if posts == null %}
 			<p>Sorry, but there is no content here yet. Please check back soon.</p>
 		{% else %}

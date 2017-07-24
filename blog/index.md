@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: category
 category: blog
 ---
-
-{% include post-list.html posts=site.categories.blog %}

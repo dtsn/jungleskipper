@@ -6,6 +6,7 @@ categories:
 tags:
 - hong-kong-disneyland
 - disney
+- ride
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
 ---
