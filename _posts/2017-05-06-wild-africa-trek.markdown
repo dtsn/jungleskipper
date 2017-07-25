@@ -40,6 +40,8 @@ In true Imagineer fashion, this isn't just a walk in between the enclosures. The
 
 >They have turned it into an adventure, crossing a rickety bridge over the crocodile enclosure
 
+![Rickety bridge over the crocodiles](/uploads/Wild%20Africa%20Trek%20021.jpg)
+
 In total there are 2 bridges for you to cross and once at the other side, you are given a talk with the keeper of the crocodiles in the same way as the hippos.
 
 ## Offtrack Safari
@@ -59,3 +61,5 @@ The rain broke just as we were heading back to the start. One of the brilliant p
 ## Summary
 
 I thought it was a brilliant tour which covers lots of different areas and I would recommend anyone to give it a try.
+
+![Asanta Sana](/uploads/Wild%20Africa%20Trek%20183.jpg)
