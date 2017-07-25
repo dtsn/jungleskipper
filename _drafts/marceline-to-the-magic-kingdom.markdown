@@ -38,12 +38,11 @@ From the Haunted Mansion, we took a slight break and continued on the tour aroun
 
 ![Murals](/uploads/IMG_0460.JPG)
 
-
-We stopped at the Mosiac Murals inside the castle to discuss their history. If you've never noticed them go and take a look! There are 5 and tell an abridged version of Cinderella. They were designed by Disney Legend Dorthea Redmond and created by Artisan Hanns-Joachim Scharff. In total they took over 2 years to assemble.
+In Fantasy Land we made our way to Cinderella castle and we stopped just below the castle to look at the mosaic murals. I realise that thousands of people pass this spot every day without taking the time to look at whats there. There are 5 murals in total which tell an abridged version of Cinderella. They were designed by [Dorthea Redmond](https://d23.com/walt-disney-legend/dorothea-redmond/) and made by artisan [Hanns-Joachim Scharff](https://en.wikipedia.org/wiki/Hanns_Scharff). In total, they took over 2 years to complete.
 
 ![dscn1202.jpg](/uploads/dscn1202.jpg)
 
-If you look at the 4th Mural, where cinderalla tries on her glass slipper you can see the footmans face is that of Herb Ryman. 
+If you look at the 4th Mural, above, where Cinderella tries on her glass slipper you can see the footman's face is that of [Herb Ryman](https://d23.com/walt-disney-legend/herb-ryman/). You can read more on the Murals at Cinderella Castle over at [allears.net](http://land.allears.net/blogs/jackspence/2010/01/cinderella_castle_mosaic_mural.html).
 
 Carosel of progress
 
