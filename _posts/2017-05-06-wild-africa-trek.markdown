@@ -40,7 +40,7 @@ In true Imagineer fashion, this isn't just a walk in between the enclosures. The
 
 >They have turned it into an adventure, crossing a rickety bridge over the crocodile enclosure
 
-![Wild Africa Trek 021.jpg](/uploads/Wild%20Africa%20Trek%20021.jpg)
+![Rickety bridge over the crocodiles](/uploads/Wild%20Africa%20Trek%20021.jpg)
 
 In total there are 2 bridges for you to cross and once at the other side, you are given a talk with the keeper of the crocodiles in the same way as the hippos.
 
