@@ -61,3 +61,5 @@ The rain broke just as we were heading back to the start. One of the brilliant p
 ## Summary
 
 I thought it was a brilliant tour which covers lots of different areas and I would recommend anyone to give it a try.
+
+![Asanta Sana](/uploads/Wild%20Africa%20Trek%20183.jpg)
