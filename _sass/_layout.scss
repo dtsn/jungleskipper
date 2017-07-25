@@ -166,9 +166,10 @@ header.main {
 
 }
 
+
 footer {
 	background: #F7F7F7;
-	padding: 60px 0;
+	padding: 60px 0 20px;
 
 	.nav {
 		margin-bottom: 60px;
@@ -176,7 +177,7 @@ footer {
 
 	a {
 		color: #4D4D4D;
-		a:hover {
+		&:hover {
 			color: #4D4D4D !important;
 		}
 		&:hover:before {
@@ -186,5 +187,11 @@ footer {
 
 	.right {
 		text-align: right;
+	}
+
+	.sub-footer {
+		border-top: 1px solid #EEE;
+		margin-top: 60px;
+		padding-top: 20px;
 	}
 }
