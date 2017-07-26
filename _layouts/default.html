@@ -54,14 +54,16 @@
 					Jungle Skipper
 				</a>
 			</div>
-			<nav>
-				<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
-				<!--<a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a>-->
-				<a href="/review" class="{% if page.url == '/review/' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
-				<a href="/planning" class="{% if page.url == '/planning/' %}selected{% endif %}">Planning</a>
-				<a href="/blog" class="{% if page.url == '/blog/' or page.categories[0] == 'blog' %}selected{% endif %}">Blog</a>
-				<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
-			</nav>
+			<div class="nav" id="menu">
+				<nav>
+					<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
+					<!--<a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a>-->
+					<a href="/review" class="{% if page.url == '/review/' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
+					<a href="/planning" class="{% if page.url == '/planning/' %}selected{% endif %}">Planning</a>
+					<a href="/blog" class="{% if page.url == '/blog/' or page.categories[0] == 'blog' %}selected{% endif %}">Blog</a>
+					<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
+				</nav>
+			</div>
 		</header>
 
 
@@ -74,22 +76,28 @@
 				<div class="row nav">
 					<div class="col-sm-3">
 						<h6>Parks</h6>
-						<a href="/tag/walt-disney-world">Walt Disney World</a><br/>
-						<a href="/tag/disneyland-paris">Disneyland Paris</a><br/>
-						<a href="/tag/hongkong-disneyland">Hong Kong Disneyland</a>
+						<p>
+							<a href="/tag/walt-disney-world">Walt Disney World</a><br/>
+							<a href="/tag/disneyland-paris">Disneyland Paris</a><br/>
+							<a href="/tag/hongkong-disneyland">Hong Kong Disneyland</a>
+						</p>
 					</div>
 					<div class="col-sm-3">
 						<h6>Rides &amp; Tours</h6>
-						<a href="/tag/walt-disney-world">Mystic Manor</a><br/>
-						<a href="/tag/ride">More Rides</a><br/>
-						<a href="/tag/disneyland-paris">Wild Africa Trek</a><br/>
-						<a href="/tag/tour">More Tours</a>
+						<p>
+							<a href="/tag/walt-disney-world">Mystic Manor</a><br/>
+							<a href="/tag/ride">More Rides</a><br/>
+							<a href="/tag/disneyland-paris">Wild Africa Trek</a><br/>
+							<a href="/tag/tour">More Tours</a>
+						</p>
 					</div>
 					<div class="col-sm-3">
 						<h6>Books &amp; Merchandise</h6>
+						<p></p>
 					</div>
 					<div class="col-sm-3">
 						<h6>Planning &amp; Tools</h6>
+						<p></p>
 					</div>
 				</div>
 			</div>
@@ -116,6 +124,17 @@
 
 			ga('create', 'UA-102975149-1', 'auto');
 			ga('send', 'pageview');
+		</script>
+
+		<script type="text/javascript">
+			var menu = document.getElementById('menu');
+			menu.addEventListener('click', function (e) {
+				e.stopPropagation();
+				menu.classList.add('open');
+			});
+			document.addEventListener('click', function () {
+				menu.classList.remove('open');
+			});
 		</script>
 	</body>
 </html>

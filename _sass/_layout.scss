@@ -8,10 +8,13 @@ header.main {
 	border-bottom: 1px solid #EEEEEE;
 	width: 100%;
 
+	@include media-breakpoint-down(xs) { 
+		border-bottom: 0;
+	}
+
 	.title {
 		border-bottom: 1px solid #EEEEEE;
 
-		
 		svg {
 			display: block;
 			margin: 30px auto 10px;
@@ -33,12 +36,11 @@ header.main {
 		}
 	}
 
-	nav {
+	.nav {
 		display: block;
 		overflow: hidden;
 		margin: 0 auto;
 		width: 574px;
-
 
 		a {
 			@include poppins;
@@ -63,14 +65,53 @@ header.main {
 				left: 0;
 			}
 		}
+
+		@include media-breakpoint-down(xs) {
+
+			display: block;
+			background: url('/images/handburger.png') no-repeat;
+			height: 36px;
+			position: fixed;
+			top: 5px;
+			left: 5px;
+			width: 36px;
+			z-index: 1;
+
+			a {
+				display: none;
+			}
+
+			&.open {
+				background: #EF674E;
+				width: 130px;
+				padding: 15px 0;
+				height: auto;
+				border-radius: 3px;
+
+				a {
+					@include poppins;
+					display: block;
+					color: #fff;
+					font-size: 14px;
+					padding: 5px 20px;
+					text-transform: none;
+					text-align: left;
+					letter-spacing: 0;
+				}
+			}
+		}
 	}
 }
 
 .post-list {
-	margin: 60px auto;
+	@include margin(60px, auto, 60px, auto);
 
 	.row {
 		margin-bottom: 30px;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
 	}
 
 	h5 {
@@ -111,7 +152,10 @@ header.main {
 
 .sidebar {
 
-	margin-top: 60px;
+	@include margin(60px, auto, auto, auto);
+	@include media-breakpoint-down(xs) {
+		margin-top: 0;
+	}
 
 	.box {
 		border: 1px solid #F7F7F7;
@@ -171,8 +215,19 @@ footer {
 	background: #F7F7F7;
 	padding: 60px 0 20px;
 
+	@include media-breakpoint-down(xs) {
+		footer: 20px 0 20px;
+
+		p {
+			margin-bottom: 20px;
+		}
+	}
+
 	.nav {
 		margin-bottom: 60px;
+		@include media-breakpoint-down(xs) {
+			margin-bottom: 20px;
+		}
 	}
 
 	a {
@@ -187,11 +242,19 @@ footer {
 
 	.right {
 		text-align: right;
+		@include media-breakpoint-down(xs) {
+			text-align: center;
+		}
 	}
 
 	.sub-footer {
 		border-top: 1px solid #EEE;
 		margin-top: 60px;
 		padding-top: 20px;
+
+		@include media-breakpoint-down(xs) {
+			margin-top: 0px;
+			text-align: center !important;
+		}
 	}
 }
