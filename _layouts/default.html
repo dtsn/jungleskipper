@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -15,7 +18,7 @@
 		{% if page.description %}
 			<meta name="description" content="{{ page.description }}">
 		{% else %}
-			<meta name="description" content="{{ page.content | strip_html | truncatewords: 25 }}">
+			<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
 		{% endif %}
 
 		<!-- twitter card -->
@@ -23,7 +26,7 @@
 		<meta name="twitter:url" content="https://jungleskipper.com{{ page.url }}">
 		<meta name="twitter:title" content="{{ page.title }}">
 		<meta name="twitter:site" content="_jungleskipper">
-		<meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 25 }} ">
+		<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncatewords: 25 }} ">
 		{% if page.twitterimage %}
 		<meta name="twitter:image" content="{{page.twitterimage}}">
 		{% endif %}
@@ -43,7 +46,7 @@
 
 		<link rel="shortcut icon" href="/images/icon.png">
 		<link rel="stylesheet" href="/css/jungleskipper.css">
-		<link rel="alternate" type="application/rss+xml" title="Jungle Skipper" href="/rss.xml">
+		{% feed_meta %}
 		<link rel="canonical" href="{{ page.url }}">
 	</head>
 	<body>

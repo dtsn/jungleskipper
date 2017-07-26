@@ -19,10 +19,15 @@ defaults:
 description: Bringing you reviews, news and facts from theme parks
 authorTwitter: _jungleskipper
 author: Daniel Saxil-Nielsen
-baseurl: "/"
+
+url: "https://jungleskipper.com"
+baseurl: ""
+
 paginate: 5
 plugins:
-- jekyll-paginate
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass
