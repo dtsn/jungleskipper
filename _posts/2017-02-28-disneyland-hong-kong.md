@@ -26,13 +26,13 @@ The train takes you straight to Disneyland and lets you off at the end of the pa
 
 Standard park entrance at the time of writing was about £60 per adult. Though if you book in advance online you can normally get a package with a free quick service meal in selected restaurants.
 
-Upon entering the park at the beginning of Main Street is the Gazebo, unlike the US parks with feature the flag pole at the centre. They use the Gazebo to host Character meet and greets. However, none of these meet and greets had a set time and it was a bit random of who you could see. There was no such thing as Photopasses in HK (that we could see). The Character minders are more than happy to use your camera to take pictures, they didn't have their own.
+Upon entering the park at the beginning of Main Street is the Gazebo, unlike the US parks with feature the flag pole at the centre. They use the Gazebo to host Character meet and greets. However, none of these meets and greets had a set time and it was a bit random of who you could see. There was no such thing as Photopasses in HK (that we could see). The Character minders are more than happy to use your camera to take pictures, they didn't have their own.
 
 Main Street was a smaller version of the Main Street at the US parks, it featured the shops on either side of the street. Much like that of the US parks just on a much smaller scale.
 
 ![Disneyland Hong Kong Castle](/uploads/DSC00814.JPG)
 
-The castle, was a beautiful design and based on Sleeping Beauty's, but was on the small side. The really small side! I've come to know and love the castle at WDW however, this castle was probably 1/5th as tall. This looks to change, included in the $1.4 billion investment that was announced in November is a [reimagining of the castle](http://wdwnt.com/blog/2016/11/confirmed-hong-kong-disneyland-removing-original-castle-announces-frozen-marvel-themed-lands-w-original-rides/) which looks to be more of the size we come to expect from the castles. The castle is surrounded by a moat and you can walk across the bridge and underneath into Fantasy Land.
+The castle, a clone of the original castle in Disneyland California is a beautiful design. However, compared to the other castles which have been built since 1955 it's on the small size. The castle has actually modified its design from the original in order to accommodate the nighttime firework shows, something which had to be retrofitted in the California park. It appears the current castles days are numbered with the $1.4 billion investment that was announced in November includes a [reimagining of the castle](http://wdwnt.com/blog/2016/11/confirmed-hong-kong-disneyland-removing-original-castle-announces-frozen-marvel-themed-lands-w-original-rides/) which looks to be more of the size we come to expect from the castles. The castle is surrounded by a moat and you can walk across the bridge and underneath into Fantasy Land.
 
 ## Lands
 
@@ -62,7 +62,7 @@ This brings us to Mystic Point the third and final expansion. HKDL was lacking i
 
 ![Mystic Manor](/uploads/DSC00808.JPG)
 
-Mystic Manor was born, often rated as one of the [best](http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/] dark rides on the planet. I've written an entire [article](/reviews/mystic-manor) on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be believed.
+Mystic Manor was born, often rated as one of the [best](http://www.leparcorama.com/2016/04/14/top-20-best-dark-ride-attractions-in-the-world/) dark rides on the planet. I've written an entire [article](/reviews/mystic-manor) on its conception, history and my experience riding it. So I would recommend going to read that. For a summary though, it's truly awesome and needs to be seen to be believed.
 
 ## Tomorrowland
 
@@ -86,7 +86,7 @@ We only saw a single parade called Flights of Fantasy which was quite good and f
 
 ## Exciting things in the works
 
-Despite Shanghai Disney being only 771 miles away (we were actually tempted to visit at the same time). Disney and the Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art on show it looks as exciting things are coming to Disneyland Hong Kong.
+Despite Shanghai Disney being only 771 miles away (we were actually tempted to visit at the same time). Disney and the Hong Kong government is investing heavily for the future, with a second park planned and some amazing concept art on-show, it looks as exciting things are coming to Disneyland Hong Kong.
 
 ## Should you go?
 
