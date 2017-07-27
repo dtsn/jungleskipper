@@ -22,7 +22,7 @@ author: Daniel Saxil-Nielsen
 url: https://jungleskipper.com
 baseurl: ''
 paginate: 5
-plugins:
+gems:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
