@@ -48,6 +48,8 @@ In total there are 2 bridges for you to cross and once at the other side, you ar
 
 Once we were finished at the crocodiles we headed on through the forest and eventually emerged at a platform next to the main Kilimanjaro Sarfaris ride track. This is where our Jeep was waiting for us to drive us into the savanna. Once you are in the savanna you drive off track which means we can get really close to the animals and the animals can get really close to us.
 
+[Jeep Safari](/uploads/DSC01257.JPG)
+
 This experience is amazing, its a lot of driving and stopping in places next to the animals and taking an in-depth look at them. We also learnt which bits of the savanna were 'Disney Real'.
 
 ## Lunch
