@@ -29,7 +29,6 @@ For Mystic Manor, they created a new story around a new character in the S.E.A. 
 
 All good characters need a sidekick in a Disney story. Lord Henry is no exception, a mischievous monkey named after his uncle Albert. A monkey was chosen because monkeys are considered mischievous in Chinese culture.
 
-
 ## The Manor
 
 Mystic Manor is placed right next to the Jungle Cruise in the layout of HKDL. The Imagineers managed to utilise this fact by placing Mystic Point in a tropical location.
