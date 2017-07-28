@@ -71,8 +71,12 @@ h4 {
 h5 {
 	@include lato;
 	color: #BFBFBF;
-	font-size: 14px;
-	margin: 0;
+	font-size: 13px;
+	margin: 0 0 10px 0;
+	
+	a {
+		color: #BFBFBF;
+	}
 }
 
 h6 {
