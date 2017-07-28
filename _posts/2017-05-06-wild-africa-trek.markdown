@@ -1,6 +1,7 @@
 ---
 title: Wild Africa Trek
 date: 2017-05-06 20:04:00 Z
+permalink: "/review/wild-africa-trek"
 categories:
 - review
 - tour
@@ -10,7 +11,6 @@ tags:
 - animal-kingdom
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
 layout: post
-permalink: "/review/wild-africa-trek"
 ---
 
 It was our first wedding anniversary in early May and we wanted to do something special. Originally we had an African safari planned, but once we realised how expensive I managed to convince Jade to go on a 10 day trip to Walt Disney World (WDW). I spent ages trying to find a surprise, something which would make our experience more special and stumbled across the Wild Africa Trek on the [WDW tours page](https://disneyworld.disney.go.com/events-tours/).
