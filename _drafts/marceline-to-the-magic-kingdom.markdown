@@ -9,9 +9,10 @@ tags:
 - magic-kingdom
 - tour
 image: "/uploads/IMG_0195.JPG"
+layout: post
 ---
 
-On a very wet Friday morning, I woke up early and made my way from our room in Coronado Springs to the Magic Kingdom. I had to be there for park opening at 08:00am in order to meet the tour guide. It was a surreal experience, boarding an empty monorail train and riding past a park normally alive with activity just getting warmed up.
+On a very wet Friday morning, I woke up early and made my way from our room in Coronado Springs to the Magic Kingdom. I had to be there for park opening at 08:00am in order to meet the tour guide. It was a surreal experience, boarding an empty monorail train and riding towards a park normally alive with activity just getting warmed up.
 
 This particular tour is only run first thing in the morning only just after you are let into the park but before the rope drop ceremony. At this time in the morning, depending on where you are transportation may be an issue. The resort buses are running at that time of the morning however typically only once an hour. I actually drove to the Ticket & Transport Centre then caught an empty monorail to the Magic Kingdom.
 
@@ -32,9 +33,11 @@ From Main Street we move through to Liberty Square, this was closed to other gue
 I'm a big Haunted Mansion fan and this tour is fantastic if you have any level of interest in the Haunted Mansion. You spend a good 60 minutes discussing the Haunted Mansion. You first start off in the queue and are told all about the easter eggs in the queue line. You are then ushered into the ride and get moved to the front where your tour guide talks you through the attraction while you ride. Next is the best bit, taking behind the scenes to see how it works.
 
 <div class="nsfm">
-Just by the restrooms underneath the Tangle style lights, there is an off-stage entrance which takes you into the show building for the Haunted Mansion. You get to see the true scale of the ride and not just the house as the rides frontage. On the edge of this enormous warehouse is a small door which we are ushered through. This leads you to a small repair shop which contains loads of Haunted Mansion diagrams and schematics. I think it's important to mention that this is not 'Disney real', this is a real workshop with the real schematics and parts of the ride.
+	<div class="blur">
+	Just by the restrooms underneath the Tangle style lights, there is an off-stage entrance which takes you into the show building for the Haunted Mansion. You get to see the true scale of the ride and not just the house as the rides frontage. On the edge of this enormous warehouse is a small door which we are ushered through. This leads you to a small repair shop which contains loads of Haunted Mansion diagrams and schematics. I think it's important to mention that this is not 'Disney real', this is a real workshop with the real schematics and parts of the ride.
 
-From there you get to enter another door actually going in the ride. It's pitch black but you follow a floursecent line on the floor actually walking underneath the ride track. You eventually stop at a barrier with instructions not to step over it or people will see you on the ride. From there you can see the dining room scence of the house and are told how it works, when the ride was designed nearly 60 years ago this must of seemed like true magic.
+	From there you get to enter another door actually going in the ride. It's pitch black but you follow a floursecent line on the floor actually walking underneath the ride track. You eventually stop at a barrier with instructions not to step over it or people will see you on the ride. From there you can see the dining room scence of the house and are told how it works, when the ride was designed nearly 60 years ago this must of seemed like true magic.
+	</div>
 </div>
 
 ## Fantasy Land

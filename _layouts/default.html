@@ -138,6 +138,12 @@
 			document.addEventListener('click', function () {
 				menu.classList.remove('open');
 			});
+
+			Array.prototype.slice.call(document.querySelectorAll('.nsfm')).forEach(function (element) {
+				element.addEventListener('click', function () {
+					element.classList.remove('nsfm');
+				});
+			});
 		</script>
 	</body>
 </html>

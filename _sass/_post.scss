@@ -22,6 +22,29 @@ article {
 			text-align: center;
 		}
 	}
+
+	.nsfm {
+		position: relative;
+
+		.blur {
+			filter: blur(5px);
+		}
+
+		&::after {
+			background: white;
+			border-radius: 3px;
+			content: "This is NSFM (Not Safe for Magic) - Click to reveal";
+			padding: 20px;
+			position: absolute;
+			top: calc(50% - 41px);
+			left: calc(50% - 130px);
+			text-align: center;
+			width: 260px;
+			filter: none;
+			line-height: 1.5em;
+			cursor: pointer;
+		}
+	}
 }
 
 section.image {
