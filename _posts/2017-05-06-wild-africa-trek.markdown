@@ -4,8 +4,8 @@ date: 2017-05-06 20:04:00 Z
 permalink: "/review/wild-africa-trek"
 categories:
 - review
-- tour
 tags:
+- tour
 - disney
 - walt-disney-world
 - animal-kingdom
@@ -33,7 +33,7 @@ Eventually, you come to the off-show area, denoted by a small fence leading to a
 
 While we were there the hippos keeper gave a talk and gave us lettuce to throw. We got to ask the keeper any questions we might have about the hippos and we were feeding them for about 10 minutes, which drew them much closer to us.
 
-![DSC01219.JPG](/uploads/DSC01219.JPG)
+![Hippos](/uploads/DSC01219.JPG)
 
 ## Ricekty Bridges
 
@@ -49,7 +49,7 @@ In total there are 2 bridges for you to cross and once at the other side, you ar
 
 Once we were finished at the crocodiles we headed on through the forest and eventually emerged at a platform next to the main Kilimanjaro Sarfaris ride track. This is where our Jeep was waiting for us to drive us into the savanna. Once you are in the savanna you drive off track which means we can get really close to the animals and the animals can get really close to us.
 
-[Jeep Safari](/uploads/DSC01257.JPG)
+![Jeep Safari](/uploads/DSC01257.JPG)
 
 This experience is amazing, its a lot of driving and stopping in places next to the animals and taking an in-depth look at them. We also learnt which bits of the savanna were 'Disney Real'.
 

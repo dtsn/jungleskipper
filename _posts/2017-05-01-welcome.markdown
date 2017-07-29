@@ -4,6 +4,7 @@ date: 2017-05-01 13:10:00 Z
 categories:
 - blog
 image: "/uploads/STUDIO_TOWEROFTERRORARIDE_20170429_8021656192.jpeg"
+layout: post
 ---
 
 Welcome to Jungle Skipper. I'm a bit of a Disney Parks nerd and needed somewhere to put all my reviews, discoveries and anything interesting I may have found. Hopefully, someone will find it useful.

@@ -45,6 +45,19 @@ article {
 			cursor: pointer;
 		}
 	}
+
+	.meta {
+		border-top: 1px solid #F7F7F7;
+		color: #BFBFBF;
+		margin-top: 30px;
+		padding-top: 30px;
+
+		span {
+			display: inline-block;
+			width: 110px;
+			color: #4D4D4D;
+		}
+	}
 }
 
 section.image {
