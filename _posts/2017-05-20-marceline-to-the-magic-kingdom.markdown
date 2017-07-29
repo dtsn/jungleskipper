@@ -62,4 +62,4 @@ We were meant to end our tour on Walt Disneys' Carousel of Progress, one of only
 
 ## Summary
 
-It a fantastic tour, especially if you are intrested in Walt Disney. However if your not that intrested in the Haunted Mansion I wouldnt bother, you do spend nearly an hour on that single ride.
+It's a fantastic tour for those who are interested in Walt Disney. If you are not fussed by the Haunted Mansion perhaps it wouldn't be for you since nearly an hour of the tour is spent on that single ride.
