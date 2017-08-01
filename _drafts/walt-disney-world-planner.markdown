@@ -7,17 +7,17 @@ tags:
 - walt-disney-world
 ---
 
-There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved really popular on [reddit]() so I thought I would improve it and share it here:
+There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved really popular on [reddit](https://www.reddit.com/r/WaltDisneyWorld/comments/5w9ece/my_plan_please_critique/) so I thought I would improve it and share it here:
 
-You can [download]() as a Microsoft Word document or you can use this [Google Sheet](https://docs.google.com/spreadsheets/d/1xJatljQCeNZ2_tQ-VbbrIqIMEUmNKhlbyY9w9YBhQV8/edit?usp=sharing), **make sure you make a copy of the sheet**.
+You can [download](/uploads/WDW%20Planner.xlsx) as a Microsoft Word document or you can use this [Google Sheet](https://docs.google.com/spreadsheets/d/1xJatljQCeNZ2_tQ-VbbrIqIMEUmNKhlbyY9w9YBhQV8/edit?usp=sharing), **make sure you make a copy of the sheet**. If you have a problem please use the comments below.
 
-A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stressless as possible it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
+A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stressless as possible, it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
 
 ## Key Dates
 
-*180 Days* - You can book dining reservations 180 days in advanced. This is advisable if you want to snag a table at California Grill at 8:00 so you can see the fireworks when eating dessert.
+*180 Days* - You can book dining reservations 180 days in advance. This is advisable if you want to snag a table at California Grill at 8:00 so you can see the fireworks when eating dessert.
 
-*60 Days* - You can book your fastpasses if you're staying in a Disney resort. Its always best to try and plan your first 3 rides, go for the most popular and longest queues. I like to get mine as early in the morning as possible so I can get more. 
+*60 Days* - You can book your fastpasses if you're staying at a Disney resort. It's always best to try and plan your first 3 rides, go for the most popular and longest queues. I like to get mine as early in the morning as possible so I can get more. 
 
 *30 Days* - Fastpasses if you are staying offsite.
 
