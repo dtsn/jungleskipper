@@ -27,9 +27,20 @@
 		<meta name="twitter:title" content="{{ page.title }}">
 		<meta name="twitter:site" content="_jungleskipper">
 		<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncatewords: 25 }} ">
-		{% if page.twitterimage %}
-		<meta name="twitter:image" content="{{page.twitterimage}}">
+		{% if page.image %}
+		<meta name="twitter:image" content="https://jungleskipper.com{{page.image}}">
 		{% endif %}
+
+		<!-- open graph -->
+		<meta property="og:title" content="{{ page.title }}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://jungleskipper.com{{ page.url }}" />
+		{% if page.image %}
+			<meta name="og:image" content="https://jungleskipper.com{{page.image}}">
+		{% endif %}
+		<meta property="og:article:published_time" content="{{ page.date }}" />
+		<meta property="og:article:section" content="{{ page.categories | first }}" />
+		<meta property="og:article:tag" content="{% for tag in page.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %} " />
 
 		{% if page.keywords %}
 		    <meta name="keywords" content="{{ page.keywords }}">
@@ -38,6 +49,8 @@
 		{% else %}
 		    <meta name="keywords" content="Theme park, Disney World, Disneyland"> 
 		{% endif %}
+
+
 
 		<title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
