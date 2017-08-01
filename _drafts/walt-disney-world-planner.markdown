@@ -7,23 +7,30 @@ tags:
 - walt-disney-world
 ---
 
-For most people, especially those from the UK, a trip to Walt Disney World (WDW) is a big occasion, maybe once in a lifetime. It's important to plan the trip properly to make sure you get the best out of it. There are so many things to see and do in WDW it really helps if you have a spreadsheet.
+There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved really popular on [reddit]() so I thought I would improve it and share it here:
 
-Here is my spreadsheet from our recent trip to WDW which I thought I would share. It's available as either a Microsoft Word download, or you can copy the spreadsheet on Google Sheets.
+You can [download]() as a Microsoft Word document or you can use this [Google Sheet](https://docs.google.com/spreadsheets/d/1xJatljQCeNZ2_tQ-VbbrIqIMEUmNKhlbyY9w9YBhQV8/edit?usp=sharing), **make sure you make a copy of the sheet**.
 
-## Key times
+A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stressless as possible it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
 
-*180 days* - Remember to try and book your dinning reservations 180 days in advance. While it's difficult to decide what you want to eat 180 days in the future, you can change these reservations. But if you want to eat at a decent time at a nice restruant its best to book 180 days in advanced.
+## Key Dates
 
-*90 days* - Fastpass reservations
-*30 days* - Fastpass for non-resort guests
+*180 Days* - You can book dining reservations 180 days in advanced. This is advisable if you want to snag a table at California Grill at 8:00 so you can see the fireworks when eating dessert.
 
-## A few tips
+*60 Days* - You can book your fastpasses if you're staying in a Disney resort. Its always best to try and plan your first 3 rides, go for the most popular and longest queues. I like to get mine as early in the morning as possible so I can get more. 
 
-- don't overplan, decide on key things you would like to see and leave the rest blank
-- Take a look at the crowd calendars to decided which park for which day
-- Prioritise getting fastpasses for the rides with the longest queues (peter pans flight) early in the morning.
-- Once you use your 3 you can get more fastpasses
+*30 Days* - Fastpasses if you are staying offsite.
+
+## Planning too much
+
+Try not to over plan your holiday, while it's great to work out your fastpasses and dining reservations try and go with the flow and enjoy your holiday rather than running between activities. This is also why I like to book the fastpasses early, you can then change park or go back to your room for a nap!
+
+## Crowd Calendars
+
+When deciding which park to go to take a look at the crowd calendars. While I wouldn't trust any of them to be accurate they give a general idea of how busy a particular park is based on previous years. Here's a quick list of a few I use, let me know if you recommend any in particular.
+
+- [Undercover Tourist](https://www.undercovertourist.com/orlando/crowd-calendar/)
+- [Kenny the Pirate](http://www.kennythepirate.com/crowd-calendars/)
 
 
-### Don't overplan
+
