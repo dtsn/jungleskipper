@@ -1,6 +1,7 @@
 ---
 title: Walt Disney World Planner
-date: 2017-05-13 20:07:00 Z
+date: 2017-08-01 20:00:00 Z
+layout: post
 categories:
 - planning
 tags:

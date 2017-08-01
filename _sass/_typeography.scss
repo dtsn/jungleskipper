@@ -38,6 +38,16 @@ h1 {
 	font-weight: bold;
 	line-height: 1.25em;
 	margin-bottom: 20px;
+
+	a {
+		color: #4D4D4D;
+		&:hover {
+			color: #4D4D4D;
+		}
+		&:hover::before {
+			width: 0;
+		}
+	}
 }
 
 h2 {
@@ -59,6 +69,16 @@ h3 {
 	font-size: 30px;
 	font-weight: 600;
 	line-height: 1.25em;
+
+	a {
+		color: #4D4D4D;
+		&:hover {
+			color: #4D4D4D;
+		}
+		&:hover::before {
+			width: 0;
+		}
+	}
 }
 
 .sidebar h3 {
