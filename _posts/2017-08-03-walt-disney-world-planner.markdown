@@ -12,9 +12,9 @@ There are so many things to do and see in WDW it really helps if you have a spre
 
 You can [download](/uploads/WDW%20Planner.xlsx) as a Microsoft Word document or you can use this [Google Sheet](https://docs.google.com/spreadsheets/d/1xJatljQCeNZ2_tQ-VbbrIqIMEUmNKhlbyY9w9YBhQV8/edit?usp=sharing), **make sure you make a copy of the sheet**. If you have a problem please use the comments below.
 
-For the Google Sheet version I am more than happy for feature input. I am trying to figure out how to get an automatic crowd number into the sheet, if only their were API's for this...
+For the Google Sheet version I am more than happy for feature input. I am trying to figure out how to get an automatic crowd number into the sheet if only their were API's for this...
 
-A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stress free as possible, it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
+A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stress-free as possible, it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
 
 ## Key Dates
 
