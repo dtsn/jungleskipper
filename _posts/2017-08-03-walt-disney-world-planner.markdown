@@ -1,19 +1,20 @@
 ---
 title: Walt Disney World Planner
-date: 2017-08-01 20:00:00 Z
+date: 2017-08-03 20:00:00 Z
 categories:
 - planning
 tags:
 - walt-disney-world
-layout: post
 image: "/uploads/Screen%20Shot%202017-08-01%20at%2021.11.28.png"
 ---
 
-There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved really popular on [reddit](https://www.reddit.com/r/WaltDisneyWorld/comments/5w9ece/my_plan_please_critique/) so I thought I would improve it and share it here:
+There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved helpful to some people on [reddit](https://www.reddit.com/r/WaltDisneyWorld/comments/5w9ece/my_plan_please_critique/) so I thought I would improve it and share it here:
 
 You can [download](/uploads/WDW%20Planner.xlsx) as a Microsoft Word document or you can use this [Google Sheet](https://docs.google.com/spreadsheets/d/1xJatljQCeNZ2_tQ-VbbrIqIMEUmNKhlbyY9w9YBhQV8/edit?usp=sharing), **make sure you make a copy of the sheet**. If you have a problem please use the comments below.
 
-A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stressless as possible, it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
+For the Google Sheet version I am more than happy for feature input. I am trying to figure out how to get an automatic crowd number into the sheet, if only their were API's for this...
+
+A lot of people I speak to don't really understand planning a holiday which is meant to be fun with a spreadsheet. However, in order to make the trip as stress free as possible, it's worth planning a bit to stay ahead of the curve. Here are a few tips to help you get started.
 
 ## Key Dates
 
