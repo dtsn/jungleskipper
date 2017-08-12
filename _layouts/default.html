@@ -17,8 +17,10 @@
 		<!-- SEO stuff -->
 		{% if page.description %}
 			<meta name="description" content="{{ page.description }}">
-		{% else %}
+		{% elseif page.excerpt %}
 			<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
+		{% else %}
+			<meta name="description" content="Reviews and opinions about Disney theme parks">
 		{% endif %}
 
 		<!-- twitter card -->
@@ -36,7 +38,7 @@
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="https://jungleskipper.com{{ page.url }}" />
 		{% if page.image %}
-			<meta name="og:image" content="https://jungleskipper.com{{page.image}}">
+			<meta property="og:image" content="https://jungleskipper.com{{ page.image }}">
 		{% endif %}
 		<meta property="og:article:published_time" content="{{ page.date }}" />
 		<meta property="og:article:section" content="{{ page.categories | first }}" />
@@ -62,8 +64,6 @@
 
 		<link rel="shortcut icon" href="/images/icon.png">
 		<link rel="stylesheet" href="/css/jungleskipper.css">
-		
-		<link rel="canonical" href="{{ page.url }}">
 	</head>
 	<body>
 		<header class="main">
@@ -98,7 +98,7 @@
 						<p>
 							<a href="/tag/walt-disney-world">Walt Disney World</a><br/>
 							<a href="/tag/disneyland-paris">Disneyland Paris</a><br/>
-							<a href="/tag/hongkong-disneyland">Hong Kong Disneyland</a>
+							<a href="/tag/hong-kong-disneyland">Hong Kong Disneyland</a>
 						</p>
 					</div>
 					<div class="col-sm-3">
