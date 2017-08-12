@@ -8,6 +8,7 @@ tags:
 - walt-disney-world
 - magic-kingdom
 - tour
+- nsfm
 image: "/uploads/IMG_0195.JPG"
 layout: post
 ---
@@ -34,15 +35,11 @@ I'm a big Haunted Mansion fan and this tour is fantastic if you have any interes
 
 ![Pet Cemetary](/uploads/DSC01394.JPG)
 
-<div class="nsfm">
-	<div class="blur">
-	Just by the restrooms, to the right side of the Haunted Mansion is a door, an off-stage entrance which takes you into the show building for the Haunted Mansion. You get to see the true scale of the ride and not just the frontage. On the edge of this enormous warehouse is a small door which we are taken through. This leads you to a small repair shop which contains the Haunted Mansion diagrams and schematics. I think it's important to mention that this is not 'Disney real', this is a real workshop with the real cast members who maintain the ride.
+Just by the restrooms, to the right side of the Haunted Mansion is a door, an off-stage entrance which takes you into the show building for the Haunted Mansion. You get to see the true scale of the ride and not just the frontage. On the edge of this enormous warehouse is a small door which we are taken through. This leads you to a small repair shop which contains the Haunted Mansion diagrams and schematics. I think it's important to mention that this is not 'Disney real', this is a real workshop with the real cast members who maintain the ride.
 
-	From there you are lead along a fluorescent line into the ride area. This takes you underneath the ride take and you eventually stop at the edge which clear instructions not to pass the line so that guests riding can't see you. What you're looking at is the dining rooms scene of the ride. The guide will actually explain how the effect of the disappearing dancing ghost works. They will hopefully give you some clues on some of the originals of the mannequins in the ride.
+From there you are lead along a fluorescent line into the ride area. This takes you underneath the ride take and you eventually stop at the edge which clear instructions not to pass the line so that guests riding can't see you. What you're looking at is the dining rooms scene of the ride. The guide will actually explain how the effect of the disappearing dancing ghost works. They will hopefully give you some clues on some of the originals of the mannequins in the ride.
 
 Even though the effect is very simple, I can only imagine how this appeared to guests 60 years ago. Whereas now we can achieve a similar effect with digital projectors I think it's amazing to think this is all just motors, pulleys and lights.
-	</div>
-</div>
 
 ## Fantasy Land
 

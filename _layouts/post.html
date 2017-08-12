@@ -20,6 +20,12 @@ layout: default
 				<a href="/{{ page.categories | first }}">{{ page.categories | first }}</a>
 			</h5>
 			<h1>{{ page.title }}</h1>
+
+			{% if page.tags contains 'nsfm' %}
+				<p><em>This article has been tagged `nsfm` (not safe for magic) and normally reviles something behind the scences.</em></p>
+			{% endif %}
+
+
 			{{content}}
 			<div class="meta">
 				<span>First Published</span> {{ page.date | date_to_long_string }} <br/>
@@ -46,7 +52,7 @@ layout: default
 		{% for post in site.related_posts limit:3 %}
 			<li class="col-sm-4">
 				<div class="main-image">
-					<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
+					<a href="{{ post.url }}" class="image" style="background-image: url('{{ post.image }}');"></a>
 				</div>
 				<h5>{{ page.categories | first }}</h5>
 				<h3>{{ post.title }}</h3>
@@ -71,32 +77,32 @@ layout: default
 		<div class="row">
 			<div class="offset-md-1 col-sm-5">
 
-				{% if site.data.comments[page.slug] %}
-
 				<h3>Comments</h3>
 
-				{% assign comments = site.data.comments[page.slug] | sort %}
-				<ul>
-				{% for comment in comments %}
-					<li>
-						<img src="//www.gravatar.com/avatar/{{ comment[1].email }}?d=https%3A%2F%2Fjungleskipper.com%2Fimages%2Favatar.png&s=60" alt="Avatar" />
-						<div class="content">
-							<div class="title">
-								{{ comment[1].name }} 
-								&middot; 
-								<time datetime="{{ comment[1].date | date_to_xmlschema }}" itemprop="datePublished">
-									{{ comment[1].date | date: "%B %d, %Y at %I:%M %p" }}
-								</time>
-							</div>
+				{% if site.data.comments[page.slug] %}
+					{% assign comments = site.data.comments[page.slug] | sort %}
+					<ul>
+					{% for comment in comments %}
+						<li>
+							<img src="//www.gravatar.com/avatar/{{ comment[1].email }}?d=https%3A%2F%2Fjungleskipper.com%2Fimages%2Favatar.png&s=60" alt="Avatar" />
+							<div class="content">
+								<div class="title">
+									{{ comment[1].name }} 
+									&middot; 
+									<time datetime="{{ comment[1].date | date_to_xmlschema }}" itemprop="datePublished">
+										{{ comment[1].date | date: "%B %d, %Y at %I:%M %p" }}
+									</time>
+								</div>
 
-							<div class="message">
-								{{ comment[1].message }}
+								<div class="message">
+									{{ comment[1].message }}
+								</div>
 							</div>
-						</div>
-					</li>
-				{% endfor %}
-				</ul>
-
+						</li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<p>No comments yet.</p>
 				{% endif %}
 
 			</div>

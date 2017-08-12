@@ -27,8 +27,9 @@ header.main {
 			font-size: 24px;
 			text-decoration: none;
 			text-align: center;
-			margin-bottom: 30px;
+			margin: 0 auto 30px auto;
 			display: block;
+			width: 250px;
 
 			&::before {
 				display: none;
@@ -124,9 +125,14 @@ header.main {
 		font-size: 24px;
 	}
 
-	img {
+	a.image {
+		background-position: center;
+		background-size: cover;
+		height: 240px;
 		width: 100%;
-		margin-bottom: 20px;
+		display: block;
+		margin-bottom: 15px;
+		cursor: pointer;
 	}
 
 	p {
@@ -173,6 +179,42 @@ header.main {
 			}
 		}
 
+		.social {
+			span {
+				background: #87C2C4 url('/images/social.png') no-repeat;
+				height: 26px;
+				width: 26px;
+				border-radius: 13px;
+				display: block;
+				float: left;
+				margin-right: 15px;
+
+				&.twitter {
+					background-position: center 7px;
+				}
+
+				&.facebook {
+					background-position: center -21px;
+				}
+
+				&.instagram {
+					background-position: center -49px;
+				}
+
+				&.rss {
+					background-position: center -77px;
+				}
+			}
+
+			&:hover {
+				span {
+					background-color: #EF674E;
+				}
+			}
+		}
+
+
+		/*
 		a.twitter {
 			background: url('/images/twitter.png') no-repeat 30px center;
 			padding-left: 70px;
@@ -182,6 +224,7 @@ header.main {
 			background: url('/images/rss.png') no-repeat 30px center;
 			padding-left: 70px;
 		}
+		*/
 
 		input[type="email"] {
 			margin-bottom: 10px;

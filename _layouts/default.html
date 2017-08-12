@@ -17,7 +17,7 @@
 		<!-- SEO stuff -->
 		{% if page.description %}
 			<meta name="description" content="{{ page.description }}">
-		{% elseif page.excerpt %}
+		{% elsif page.excerpt %}
 			<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
 		{% else %}
 			<meta name="description" content="Reviews and opinions about Disney theme parks">
