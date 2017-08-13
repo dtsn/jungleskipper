@@ -1,7 +1,7 @@
 ---
 title: Disney Kingdoms - Big Thunder
 date: 2017-08-05 12:30:00 Z
-image: "/uploads/image.jpg"
+image: "/uploads/IMG_0289.png"
 ---
 
 Disney partnered with Marvel to create a series of original comic books all branded under the Disney Kingdoms banner. The first one that came to my attention is on Big Thunder Mountain Railroad, however, I will be reviewing the rest of them in time. 
@@ -12,7 +12,7 @@ The series features a foreword from Disney Legend Tony Baxter and Skip Lange. To
 
 > A little known fact about Big T Paris is that is that, at 110 feet, it is three meters taller than all the other. The was no deliberate ...
 
-![IMG_0290.PNG](/uploads/IMG_0290.PNG)
+![Book 1 cover](/uploads/IMG_0290.jpg)
 
 ## The Story
 
@@ -29,4 +29,6 @@ Whereas this story places Jason Chandler as one of the miners working for the Bi
 
 ## Summary
 
-The story is brilliant and well worth a read for a Disney fan, the illustrations are fantastic. I'm just annoyed that it doesn't follow the original origin story for Big Thunder.
+The story is brilliant and well worth a read for a Disney fan. I'm just annoyed that it doesn't follow the original origin story for Big Thunder. I'll just leave you with this beautiful illustration:
+
+![An example of the illustration](/uploads/IMG_0291.png)
