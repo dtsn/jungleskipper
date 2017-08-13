@@ -14,9 +14,8 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: default
+    layout: post
     image: ''
-    thumb-image: ''
 description: Bringing you reviews, news and facts from theme parks
 authorTwitter: _jungleskipper
 author: Daniel Saxil-Nielsen
