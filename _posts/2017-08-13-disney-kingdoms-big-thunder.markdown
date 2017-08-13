@@ -35,7 +35,7 @@ It's a completely different origin story to the one we already know about Big Th
 >
 > The miners, as well as the citizens of the village, struggled day and night against the mountain, trying to dig the young man from his living tomb. But they never saw him, or another nugget of gold, again. Big Thunder had taken its vengeance not only on the miners, but on their wealth as well. The mountain had gone bust, and it became just a matter of time before only ghosts resided there.
 
-*- (source)[http://disney.wikia.com/wiki/Jason_Chandler]*
+*- [source](http://disney.wikia.com/wiki/Jason_Chandler)*
 
 This is collaborated with letters from Jason Chandler to Barnabus in the queue for Big Thunder at the Magic Kingdom. However, the story in this comic series places Jason Chandler as one of the miners working for the Big Thunder Mining Company, in this story he is a completely different character.
 
