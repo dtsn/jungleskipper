@@ -1,6 +1,7 @@
 ---
-title: Jungle Skipper
+
 timezone: UTC
+
 collections:
   posts:
     title: Posts
@@ -16,16 +17,37 @@ defaults:
   values:
     layout: post
     image: ''
-description: Bringing you reviews, news and facts from theme parks
+
+title: Jungle Skipper
+description: Bringing you reviews, news and facts from Disney theme parks around the world.
+
+twitter:
+  username: _jungleskipper
+facebook:
+  publisher: 105751913458455
+
+social:
+  name: Jungle Skipper
+  links:
+    - https://twitter.com/_jungleskipper
+    - https://www.facebook.com/thejungleskipper
+    - https://instagram.com/_jungleskipper
+    
+lang: en_UK
+  
+
 authorTwitter: _jungleskipper
 author: Daniel Saxil-Nielsen
 url: https://jungleskipper.com
 baseurl: ''
 paginate: 5
+
 gems:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
+- jekyll-seo-tag
+
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass
