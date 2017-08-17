@@ -8,60 +8,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		{% if page.title %}
-			<title>{{ page.title }} - Jungle Skipper</title>
-		{% else %}
-			<title>Jungle Skipper</title>
-		{% endif %}
-
-		<!-- SEO stuff
-		{% if page.description %}
-			<meta name="description" content="{{ page.description }}">
-		{% elsif page.excerpt %}
-			<meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 25 }}">
-		{% else %}
-			<meta name="description" content="Reviews and opinions about Disney theme parks">
-		{% endif %}
-
-		
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:url" content="https://jungleskipper.com{{ page.url }}">
-		<meta name="twitter:title" content="{{ page.title }}">
-		<meta name="twitter:site" content="_jungleskipper">
-		<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncatewords: 25 }} ">
-		{% if page.image %}
-		<meta name="twitter:image" content="https://jungleskipper.com{{page.image}}">
-		{% endif %}
-
-		
-		<meta property="og:title" content="{{ page.title }}" />
-		<meta property="og:type" content="article" />
-		<meta property="og:url" content="https://jungleskipper.com{{ page.url }}" />
-		{% if page.image %}
-			<meta property="og:image" content="https://jungleskipper.com{{ page.image }}">
-		{% endif %}
-		<meta property="og:article:published_time" content="{{ page.date }}" />
-		<meta property="og:article:section" content="{{ page.categories | first }}" />
-		<meta property="og:article:tag" content="{% for tag in page.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %} " />
-		-->
+		<!-- SEO -->
 		{% seo %}
-		
-		
-		{% if page.keywords %}
-		    <meta name="keywords" content="{{ page.keywords }}">
-		{% else if page.tags %}
-		    <meta name="keywords" content="{{ page.tags | join: ',' }}">
-		{% else %}
-		    <meta name="keywords" content="Theme park, Disney World, Disneyland"> 
-		{% endif %}
-
-
-
-		<title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
-
 		<!-- Feed -->
 		{% feed_meta %}
-		
 		<!-- Google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700" rel="stylesheet">
 
