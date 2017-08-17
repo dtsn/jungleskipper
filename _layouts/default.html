@@ -14,7 +14,7 @@
 			<title>Jungle Skipper</title>
 		{% endif %}
 
-		<!-- SEO stuff -->
+		<!-- SEO stuff
 		{% if page.description %}
 			<meta name="description" content="{{ page.description }}">
 		{% elsif page.excerpt %}
@@ -44,6 +44,10 @@
 		<meta property="og:article:section" content="{{ page.categories | first }}" />
 		<meta property="og:article:tag" content="{% for tag in page.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %} " />
 
+		-->
+		{% seo %}
+		
+		
 		{% if page.keywords %}
 		    <meta name="keywords" content="{{ page.keywords }}">
 		{% else if page.tags %}
