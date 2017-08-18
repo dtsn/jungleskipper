@@ -9,7 +9,7 @@ tags:
 - ride
 ---
 
-With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone.
+With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone. How it came about as an afterthought and didn't quite live up to it's parent.
 
 It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
 
@@ -19,15 +19,24 @@ This is how we got Dinoland, from halfway through the construction of a park whe
 
 ## The Original Design
 
-There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to build a cheaper attraction.
+There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to find a cheaper attraction.
 
 ![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
 
 Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. 
 
-Countdown to exticion, the original name of Dinosaur, was born. It was a clone of IJA with a different skin layered over the top. It had the same ride vehicle, track layout and ride structure.
+Countdown to extinction, the original name of Dinosaur, was born. It was a clone of IJA with a different skin layered over the top. It had the same ride vehicle, track layout and ride structure. This is a cheaper alternative, using a pre-existing ride normally has fewer unknowns and is, therefore, cheaper to produce.
 
-This ride used both elements of the two previously planned Dinoland attractions, taking guests back in time to the final moments before the dinosaurs went extinct.
+The ride used both elements of the two previously planned Dinoland attractions, taking guests back in time to the final moments before the dinosaurs went extinct and making it a thrill ride to get there.
+
+## Copy/pasting a ride
+
+>I always find myself, if I’m on the Dinosaur ride, kind of saying, ‘Oh here’s where the snake would be or here’s where the ball would come out.’ Each of those turns were designed for those specific gags and setups, so it was a tribute to those who worked on Dinosaur to try and work with the given and create new things that reacted in the same way.
+> [Tony Baxter](http://blog.silive.com/goofy_about_disney/2012/04/the_tony_baxter_interview_part_4_does_the_long-time_disney_imagineer_have_a_favorite_among_his_many.html)
+
+Copy and pasting a ride into a new theme park leads to 
+
+The big problem with Dinosaur was that it suffered from a range of bigger budget cuts halfway through constructions. This
 
 --------
 
