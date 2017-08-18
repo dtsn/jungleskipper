@@ -21,7 +21,7 @@ This is how we got Dinoland, from halfway through the construction of a park whe
 
 There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to build a cheaper attraction.
 
-![Screen Shot 2017-08-18 at 07.50.52.png](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
+![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
 
 Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. 
 
