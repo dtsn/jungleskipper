@@ -9,24 +9,34 @@ tags:
 - ride
 ---
 
-With all the recent talk of Dinoland at Disney's Animal Kingdom and being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom) let us go back and look what happened to Dinosaur the ride, the Indiana Jones clone which hasn't delivered.
+With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone.
 
-It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989 Disneys then CEO Michael Eisner was hoping to expand the Disney park empire further. Hollywood Studios was built to counteract the growing threat from Universal Studios and there was another looming on the horizon, Busch Gardens, which was a wildlife based theme park. 
+It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
 
-This is how Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland, Beastly Kindom. Disney didn't have an unlimited budget and costs began to quickly overrun. A decision had to be made to delay either Beastly Kingdom or Dinoland. What really clinched the deal was that Disney has the movie Dinosaur in production.
+This is how Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland and the Beastly Kindom. Disney didn't have an unlimited budget and costs began to spiral quickly. A decision had to be made to delay one of the lands, either Beastly Kingdom or Dinoland. At the same time, Disney was producing a new motion picture called Dinosaur, the decision was clear keep Dinoland and hope that it will cross promote the theme park/movie and temporarily delay the Beastly Kingdom.
+
+This is how we got Dinoland, from halfway through the construction of a park where the costs were already spiralling out of control. Dinoland still needed an E-ticket ride and in this environment, it had to be cheap.
 
 ## The Original Design
 
-There were two original E-ticket attraction for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time. However, Animal Kingdom was running over budget so cuts had to be made. Imagineers began looking round for cheaper attractions to build.
+There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to build a cheaper attraction.
 
-Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. 
+![Screen Shot 2017-08-18 at 07.50.52.png](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
 
-Countdown to exticion, the original name of Dinosaur, was born. It took all everything from IJA including the ride vechicle, track layout and ride structure. Dinosaur is a skin over IJA.
+Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. 
 
-At that time, Disney developed a new type of ride platform that was able to tilt and sway regardless of the speed or direction of the vehicle[1]. The new ride vehicle (known as an EMV) was first used in Disneyland's Indiana Jones Adventure: Temple of the Forbidden Eye in 1995 [1]. This success of that attraction convinced Imagineers that they could tailor the system for the new E Ticket Dinosaur attraction that they were developing for Disney's Animal Kingdom.
+Countdown to exticion, the original name of Dinosaur, was born. It was a clone of IJA with a different skin layered over the top. It had the same ride vehicle, track layout and ride structure.
+
+This ride used both elements of the two previously planned Dinoland attractions, taking guests back in time to the final moments before the dinosaurs went extinct.
+
+--------
+
 
 ## More budget cuts
 
+## Movie Tie in
+
+On May 19, 2000, Disney changed the name of Countdown to Extinction to DINOSAUR, in order to tie the attraction in with their newest movie (also titled DINOSAUR) [2]. Due to the fact that Disney felt more children would ride the attraction because of this tie, a number of minor changes were made to the attraction. These changes included:
 
 
 
