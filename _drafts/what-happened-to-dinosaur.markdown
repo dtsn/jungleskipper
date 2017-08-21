@@ -51,12 +51,3 @@ In the end we ended up with, for me, a classic ride, However considering all the
 sources:
 <a href="http://www.themeparkinsider.com/flume/201308/3621/"
  rel="nofollow">Theme Park Insider</a>, < a href="https://en.wikipedia.org/wiki/Dinosaur_(Disney%27s_Animal_Kingdom)" rel="nofollow">Wikipedia</a>, <a href="http://www.disneyavenue.com/2015/06/making-of-animal-kingdoms-dinosaur.html" rel="nofollow">Disney Avenue</a>, <a href="http://themickeywiki.com/index.php?title=DINOSAUR" rel="nofollow">The Mickey Wiki</a>.
-
-
-
-
-
-
-
-
- 
