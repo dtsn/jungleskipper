@@ -9,34 +9,45 @@ tags:
 - ride
 ---
 
-With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone. How it came about as an afterthought and didn't quite live up to it's parent.
+With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone. How it came about as an afterthought and didn't quite live up to the original.
 
-It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
+I've scoured the internet to try and find the true history of Dinosaur, if you have any more information please let me know.
 
-This is how Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland and the Beastly Kindom. Disney didn't have an unlimited budget and costs began to spiral quickly. A decision had to be made to delay one of the lands, either Beastly Kingdom or Dinoland. At the same time, Disney was producing a new motion picture called Dinosaur, the decision was clear keep Dinoland and hope that it will cross promote the theme park/movie and temporarily delay the Beastly Kingdom.
+It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming threat on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
 
-This is how we got Dinoland, from halfway through the construction of a park where the costs were already spiralling out of control. Dinoland still needed an E-ticket ride and in this environment, it had to be cheap.
+This is what sparked Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland and the Beastly Kindom. Disney didn't have an unlimited budget and costs began to spiral quickly. A decision had to be made to delay one of the lands, either Beastly Kingdom or Dinoland. At the same time, Disney was producing a new motion picture called Dinosaur, the decision was clear, keep Dinoland and hope that it will cross promote the theme park/movie and temporarily delay the Beastly Kingdom for a future expansion.
+
+This is how we got Dinoland. However, Dinoland still needed an E-ticket ride and in the environment of a theme park already over budget, it had to be cheap.
 
 ## The Original Design
 
-There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to find a cheaper attraction.
+There were two original E-ticket attractions for Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family-friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers had to find a cheaper attraction.
 
 ![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
 
-Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. 
+Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success. Using the same elements the Imagineers came up with a ride called Countdown to Extinction (now known as Dinosaur). It was a clone of IJA, reusing the same track layout and ride vehicles except with a different skin layered over the top. A known ride with all the bugs and quirks already solved is a lot cheaper to produce rather than investing in new ride systems.
 
-Countdown to extinction, the original name of Dinosaur, was born. It was a clone of IJA with a different skin layered over the top. It had the same ride vehicle, track layout and ride structure. This is a cheaper alternative, using a pre-existing ride normally has fewer unknowns and is, therefore, cheaper to produce.
-
-The ride used both elements of the two previously planned Dinoland attractions, taking guests back in time to the final moments before the dinosaurs went extinct and making it a thrill ride to get there.
+The ride used both elements of the two previously planned Dinoland attractions, a storyline which involved time travelling guests combined with a thrill ride.
 
 ## Copy/pasting a ride
 
 >I always find myself, if I’m on the Dinosaur ride, kind of saying, ‘Oh here’s where the snake would be or here’s where the ball would come out.’ Each of those turns were designed for those specific gags and setups, so it was a tribute to those who worked on Dinosaur to try and work with the given and create new things that reacted in the same way.
 > [Tony Baxter](http://blog.silive.com/goofy_about_disney/2012/04/the_tony_baxter_interview_part_4_does_the_long-time_disney_imagineer_have_a_favorite_among_his_many.html)
 
-Copy and pasting a ride into a new theme park leads to 
+Copy and pasting a ride into a new theme park leads to problems, as Tony Baxter mentioned above the ride was designed around the IJA track layout. The Imagineers had to work with what they had, so in places where they might have altered the track to bring you closer to dinosaurs, they couldn't do. This really affected the experience of the ride.
 
-The big problem with Dinosaur was that it suffered from a range of bigger budget cuts halfway through constructions. This
+## More budget cuts
+
+The big problem with Dinosaur was that it suffered from a range of bigger budget cuts halfway through constructions. This really affected the final scenes, if you had ever ridden the ride you will notice that the first hall is beautiful and full of detail, while as you move through the ride it gets darker. 
+
+## Movie tie in
+
+
+sources:
+http://www.themeparkinsider.com/flume/201308/3621/
+https://en.wikipedia.org/wiki/Dinosaur_(Disney%27s_Animal_Kingdom)
+http://www.disneyavenue.com/2015/06/making-of-animal-kingdoms-dinosaur.html
+http://themickeywiki.com/index.php?title=DINOSAUR
 
 --------
 
