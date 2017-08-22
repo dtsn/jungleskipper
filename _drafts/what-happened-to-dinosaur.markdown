@@ -7,6 +7,7 @@ tags:
 - walt-disney-world
 - animal-kingdom
 - ride
+image: "/uploads/DSC01082%20(1).JPG"
 ---
 
 With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone. How it came about and how it doesn't quite live up to the original.
