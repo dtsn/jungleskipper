@@ -12,7 +12,7 @@ image: "/uploads/DSC01082%20(1).JPG"
 
 With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced by the [Indiana Jones franchise](https://orlandoinformer.com/blog/indiana-jones-land-animal-kingdom). Let's go back and look what happened to Dinosaur, the Indiana Jones clone. How it came about and how it doesn't quite live up to the original.
 
-*I've scoured the internet to try and find the history behind Dinosaur the ride, if you have any more information or believe anything to be incorrect please let me know in the comments.*
+*I've scoured the internet to try and find the history behind Dinosaur the ride, if you have anymore information or believe anything to be incorrect please let me know in the comments.*
 
 It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming threat on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
 
@@ -22,7 +22,7 @@ Dinoland still needed an E-ticket ride and in the environment of a theme park al
 
 ## The Original Design
 
-There were two original E-ticket attractions for Dinoland in Animal Kingdom one was called Excavator, a traditional rollercoaster. The second was a family-friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers were encouraged to find a different solution.
+There were two original E-ticket attractions for Dinoland in Animal Kingdom one was called Excavator, a traditional roller coaster. The second was a family-friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers were encouraged to find a different solution.
 
 ![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
 *- EMV Ride Vechicle patent*
@@ -36,15 +36,15 @@ The Imagineers took the same ride type and came up with Countdown to Extinction 
 >I always find myself, if I’m on the Dinosaur ride, kind of saying, ‘Oh here’s where the snake would be or here’s where the ball would come out.’ Each of those turns were designed for those specific gags and setups, so it was a tribute to those who worked on Dinosaur to try and work with the given and create new things that reacted in the same way.
 > [Tony Baxter](http://blog.silive.com/goofy_about_disney/2012/04/the_tony_baxter_interview_part_4_does_the_long-time_disney_imagineer_have_a_favorite_among_his_many.html)
 
-Copy and pasting a ride into a new theme park leads to problems, as Tony Baxter mentioned above, the ride was designed around the IJA track layout. The Imagineers had to work with what they had, instead of designing new experiences which really highlighteda different story.
+Copy and pasting a ride into a new theme park leads to problems, as Tony Baxter mentioned above, the ride was designed around the IJA track layout. The Imagineers had to work with what they had, instead of designing new experiences which really highlighted a different story.
 
 ## More budget cuts
 
-The bigger problem with Dinosaur was not the replication of the track design but the rumored additional budget cuts halfway through construction. If you take the first scence and compare it with the last there is a stark contrast in detail, the first is rich and colourful the last is basically a dark room. I have been unable to subsustainte this rumor, I reached out to Joe Rhode via [Twitter](https://twitter.com/_jungleskipper/status/898501584073740288) but recived no response.
+The bigger problem with Dinosaur was not the replication of the track design but the rumoured additional budget cuts halfway through construction. If you take the first scene and compare it with the last there is a stark contrast in detail, the first is rich and colourful the last is basically a dark room. I have been unable to substantiate this rumour, I reached out to Joe Rhode via [Twitter](https://twitter.com/_jungleskipper/status/898501584073740288) but received no response.
 
 ## Movie tie in
 
-When the movie Dinosaur came out in 2000, Disney changed the name of Countdown to Extinction to Dinosaur. This promoted a number of changes to make the ride more family friendly. Some of the jerkier movements were scaled back making the ride less intense, the scarier scenes were modified and toned down. They brought the minimium ride height down to 40cm to encourgae more people onto the ride.
+When the movie Dinosaur came out in 2000, Disney changed the name of Countdown to Extinction to Dinosaur. This promoted a number of changes to make the ride more family friendly. Some of the jerkier movements were scaled back making the ride less intense, the scarier scenes were modified and toned down. They brought the minimum ride height down to 40cm to encourage more people onto the ride.
 
 ## Summary
 
