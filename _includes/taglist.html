@@ -1,0 +1,13 @@
+{% for tag in include.tags %}
+	{% assign match = false %}
+	{% for page in site.pages %}
+		{% if page.tag == tag %}
+			{% assign match = true %}
+		{% endif %}
+	{% endfor %}
+	{% if match %}
+		<a href="/tag/{{tag}}">{{tag}}</a>{% if !foorloop.last %},{% endif %}
+	{% else %}
+		{{tag}}{% if !foorloop.last %},{% endif %}
+	{% endif %}
+{% endfor %}
