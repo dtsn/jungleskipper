@@ -1,5 +1,5 @@
 ---
-title: Disney Kingdoms - Big Thunder
+title: Disney Kingdoms - Big Thunder Review
 date: 2017-08-13 17:00:00 Z
 categories:
 - review

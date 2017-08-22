@@ -1,5 +1,5 @@
 ---
-title: Disneyland Hong Kong
+title: Disneyland Hong Kong Review
 date: 2017-02-28 00:00:00 Z
 categories:
 - review

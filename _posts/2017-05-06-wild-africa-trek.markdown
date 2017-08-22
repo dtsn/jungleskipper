@@ -1,5 +1,5 @@
 ---
-title: Wild Africa Trek
+title: Wild Africa Trek Review
 date: 2017-05-06 20:04:00 Z
 permalink: "/review/wild-africa-trek"
 categories:
