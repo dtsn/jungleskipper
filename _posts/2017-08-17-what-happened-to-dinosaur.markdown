@@ -7,6 +7,8 @@ tags:
 - walt-disney-world
 - animal-kingdom
 - ride
+- dinosaur
+- countdown-to-extinction
 image: "/uploads/DSC01082%20(1).JPG"
 ---
 
