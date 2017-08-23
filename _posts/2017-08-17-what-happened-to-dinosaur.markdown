@@ -64,7 +64,7 @@ When the movie Dinosaur came out in 2000, Disney changed the name of Countdown t
 
 ## Summary
 
-In the end, I love the ride, I think it's fantastic but I'm disappointed we never got to see it as the Imagineers did. Money got involved and severely limited the scope of the ride. When ever I think of Dinosaur/Countdown to Extinction I always think about this quote from Marty Sklar when talking about John Hench in his book On Little Spark:
+In the end, I love the ride, I think it's fantastic but I'm disappointed we never got to see it as the Imagineers did. Money got involved and severely limited the scope of the ride. When ever I think of Dinosaur/Countdown to Extinction I always think about this quote from Marty Sklar when talking about John Hench in his book One Little Spark:
 
 > Hench knew there were budgetary and scheduling issues. But during his sixty for year career at Disney, he learned that the key reason attractions like Disneyland's Enchanted Tiki Room and the Adventureland Jungle Cruise are still entertaining guests more than half a century after their debuts are that no one settled for "good enough".
 
