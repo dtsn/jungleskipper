@@ -18,7 +18,7 @@ With all the recent talk of Dinoland at Disney's Animal Kingdom being replaced b
 
 It was the early 1990's and after a successful launch of Disney's Hollywood Studios in 1989, Disneys then CEO Michael Eisner was hoping to expand the Disney park empire. Hollywood Studios was built to counteract the growing threat from the Universal Studios theme park and there was another looming threat on the horizon, Busch Gardens, a wildlife based theme park was growing in popularity.
 
-This is what sparked Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland and the Beastly Kindom. Disney didn't have an unlimited budget and costs began to spiral quickly. A decision had to be made to delay one of the lands, either Beastly Kingdom or Dinoland. At the same time, Disney was producing a new motion picture called Dinosaur, the decision was clear, keep Dinoland and hope that it will cross promote the theme park/movie and delay the Beastly Kingdom for a future expansion.
+This is what sparked Disney Imagineers dreamed up the concept of Disney's Wild Kingdom, a park split into 5 different lands, Asia, Africa, Dinoland, Discovery Island and the Beastly Kindom. Disney didn't have an unlimited budget and costs began to spiral quickly. A decision had to be made to delay one of the lands, either Beastly Kingdom or Dinoland. At the same time, Disney was producing a new motion picture called Dinosaur, the decision was clear, keep Dinoland and hope that it will cross promote the theme park/movie and delay the Beastly Kingdom for a future expansion.
 
 Dinoland still needed an E-ticket ride and in the environment of a theme park already over budget, it had to be cheap.
 
