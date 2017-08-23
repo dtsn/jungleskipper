@@ -60,7 +60,7 @@ If you take the first scene and compare it with the last there is a stark contra
 
 ## Movie tie in
 
-When the movie Dinosaur came out in 2000, Disney changed the name of Countdown to Extinction to Dinosaur. This promoted a number of changes to make the ride more family friendly. Some of the jerkier movements were scaled back making the ride less intense, the scarier scenes were modified and toned down. They brought the minimum ride height down to 40cm to encourage more people onto the ride.
+When the movie Dinosaur came out in 2000, Disney changed the name of Countdown to Extinction to Dinosaur. This promoted a number of changes to make the ride more family friendly. Some of the jerkier movements were scaled back making the ride less intense, the scarier scenes were modified and toned down. They brought the minimum ride height down to 40 inches to encourage more people onto the ride.
 
 ## Summary
 
