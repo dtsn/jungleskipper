@@ -24,23 +24,37 @@ Dinoland still needed an E-ticket ride and in the environment of a theme park al
 
 There were two original E-ticket attractions for Dinoland in Animal Kingdom one was called Excavator, a traditional roller coaster. The second was a family-friendly ride which took you back in time so you could meet the dinosaurs. However, developing new rides and ride systems are expensive, Imagineers were encouraged to find a different solution.
 
-![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
-*- EMV Ride Vechicle patent*
+![Boneyard original concept drawing](/uploads/ak%20dinos%207.jpg)
+
+You can see Excavator in this drawing by James Wong of the Boneyard and below another rendering of what encounters with the dinosaurs looked like on Excavator. Both images are from [Disney and More's](http://disneyandmoreartwork.blogspot.co.uk/2009/07/disneys-animal-kingdom-original-artwork.html) excellent article on original Animal Kingdom artwork.
+
+![Excavator original concept drawing.jpg](/uploads/excavtormetalconcept.jpg)
 
 Disney had just developed a new type of ride platform called the EMV, this platform was able to tilt regardless the speed or direction of the vehicle. It was first used in Disneyland's 1995 Indiana Jones Adventure: Temple of the Forbidden Eye (IJA), the ride was a huge success, thanks in part to the ride vehicle and spectacular theming used.
 
+![EMV ride vechicle patent](/uploads/Screen%20Shot%202017-08-18%20at%2007.50.52.png)
+*- EMV Ride Vechicle patent*
+
 The Imagineers took the same ride type and came up with Countdown to Extinction (now known as Dinosaur). It was a clone of IJA, reusing the same track layout and ride vehicles except with a different theme layered on top. A known ride with all the bugs and quirks already solved is a lot cheaper to produce rather than building a new untested ride. The ride used both elements of the two previously planned Dinoland attractions, a storyline which involved time travelling guests combined with a thrill ride.
 
-## Copying and pasting a ride
+## Copying Indiana Jones Adventure
 
 >I always find myself, if I’m on the Dinosaur ride, kind of saying, ‘Oh here’s where the snake would be or here’s where the ball would come out.’ Each of those turns were designed for those specific gags and setups, so it was a tribute to those who worked on Dinosaur to try and work with the given and create new things that reacted in the same way.
 > [Tony Baxter](http://blog.silive.com/goofy_about_disney/2012/04/the_tony_baxter_interview_part_4_does_the_long-time_disney_imagineer_have_a_favorite_among_his_many.html)
 
-Copy and pasting a ride into a new theme park leads to problems, as Tony Baxter mentioned above, the ride was designed around the IJA track layout. The Imagineers had to work with what they had, instead of designing new experiences which really highlighted a different story.
+Copying a ride between theme parks can lead to problems, as Tony Baxter mentioned above, the ride was designed around the IJA track layout. The Imagineers had to work with what they had, a track layout designed for a different ride.
 
 ## More budget cuts
 
-The bigger problem with Dinosaur was not the replication of the track design but the rumoured additional budget cuts halfway through construction. If you take the first scene and compare it with the last there is a stark contrast in detail, the first is rich and colourful the last is basically a dark room. I have been unable to substantiate this rumour, I reached out to Joe Rhode via [Twitter](https://twitter.com/_jungleskipper/status/898501584073740288) but received no response.
+The bigger problem with Dinosaur was not the replication of the track design but the additional budget cuts halfway through construction. Michael Eisner was slashing budgets across all the theme parks. At the same time that Animal Kingdom was being constructed Euro Disney also had to be paid for.
+
+![dinosaur-original-concept.jpg](/uploads/dinosaur-original-concept.jpg)
+
+You can see in the original concept for Dinosaur above they actually planned to copy the bridge scene from IJA. There is a fantastic story by [Alain Littaye](http://disneyandmoreartwork.blogspot.co.uk/2009/07/disneys-animal-kingdom-original-artwork.html) regarding this image.
+
+>In 1997 or so I was at WDI for a series of interviews and in the office of an Imagineer friend I saw this painting. I asked him if it was in relation to Animal Kingdom - not open yet at that time. He answered me that it was indeed for the "Countdown to extinction" attraction and that "we would be lucky if it looks like that at the end...". He was unfortunately right, and this leads me to the biggest problem with "Countdown to extinction" - now "Dinosaur": the cuts in the budget.
+
+If you take the first scene and compare it with the last there is a stark contrast in detail, the first is rich and colourful the last is basically a dark room. You can clearly see the cuts in funding while the ride was being constructed.
 
 ## Movie tie in
 
@@ -48,7 +62,11 @@ When the movie Dinosaur came out in 2000, Disney changed the name of Countdown t
 
 ## Summary
 
-In the end we ended up with, for me, a classic ride, However considering all the problems I imagine for the Imagineers it has always felt like a disappointment and while whether the rumours are true or not I think it's not going to be around for much longer.
+In the end, I love the ride, I think it's fantastic but I'm disappointed we never got to see it as the Imagineers did. Money got involved and severely limited the scope of the ride. When ever I think of Dinosaur/Countdown to Extinction I always think about this quote from Marty Sklar when talking about John Hench in his book On Little Spark:
+
+> Hench knew there were budgetary and scheduling issues. But during his sixty for year career at Disney, he learned that the key reason attractions like Disneyland's Enchanted Tiki Room and the Adventureland Jungle Cruise are still entertaining guests more than half a century after their debuts are that no one settled for "good enough".
+
+In the end, Michael Eisner did settle for "good enough" and for that reason, I believed the Imagineers had always felt disappointed when riding Dinosaur and that's why it's fate may be doomed.
 
 *Sources:
 <a href="http://www.themeparkinsider.com/flume/201308/3621/"
