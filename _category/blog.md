@@ -1,0 +1,4 @@
+---
+category: blog
+permalink: "/blog/"
+---
