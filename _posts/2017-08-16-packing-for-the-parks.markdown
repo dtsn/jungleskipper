@@ -10,8 +10,6 @@ We've been to a lot of theme parks over the last few years and have fine tuned w
 
 We are heading off to Disneyland Paris in a few days and decided to share what we pack in our park bag. If you think we are missing a key piece of kit, or have any other ideas please let us know in the comments!
 
-I would break up what I carry into 3 distinct groups
-
 ## The Essentials
 
 **A good bag** - First we need a decent bag to put everything in, it has to be strong and sturdy and have enough pockets for all your stuff. We use this Toy Story bag for our trips, it's great and lightweight. *Vans has stopped selling it though you can still buy a different [Toy Story version](http://amzn.to/2w9asfL)*. Though we do also have a collapsable [North Face bag](http://amzn.to/2wTlpCW) which is even lighter and can be folded up into a pocket when you don't need it. It's great if you are planning on shopping, or to just take your layers/raincoats in for the evening.
