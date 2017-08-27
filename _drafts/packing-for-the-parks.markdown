@@ -14,7 +14,7 @@ I would break up what I carry into 3 distinct groups
 
 ## The Essentials
 
-**A good bag** - First we need a decent bag to put everything in, it has to be strong and sturdy and have enough pockets for all your stuff. We use this Toy Story bag for our trips, it's great and lightweight. Though we do also have a collapsable [North Face bag](http://amzn.to/2wTlpCW) which is even lighter and can be folded up into a pocket when you don't need it. It's great if you are planning on shopping, or to just take your layers/raincoats in for the evening.
+**A good bag** - First we need a decent bag to put everything in, it has to be strong and sturdy and have enough pockets for all your stuff. We use this Toy Story bag for our trips, it's great and lightweight. *Vans has stopped selling it though you can still buy a different [Toy Story version](http://amzn.to/2w9asfL)*. Though we do also have a collapsable [North Face bag](http://amzn.to/2wTlpCW) which is even lighter and can be folded up into a pocket when you don't need it. It's great if you are planning on shopping, or to just take your layers/raincoats in for the evening.
 
 **Water bottle** - Most theme parks provide free water, whether you have to ask or they have fountains. It's always a good idea to make sure you are hydrated, you will be out all day in the sun and walking quite a bit. The best way to access the free water is through a water bottle. Our water bottle is a [Camelbak Eddy Insulated](http://amzn.to/2vfHsEp), it means the water stays slightly colder for longer.
 
