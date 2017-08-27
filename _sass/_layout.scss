@@ -5,15 +5,16 @@ body {
 
 
 header.main {
-	border-bottom: 1px solid #EEEEEE;
 	width: 100%;
+
 
 	@include media-breakpoint-down(xs) { 
 		border-bottom: 0;
 	}
 
 	.title {
-		border-bottom: 1px solid #EEEEEE;
+
+		border-bottom: 1px solid #EFEFEF;
 
 		svg {
 			display: block;
@@ -212,19 +213,6 @@ header.main {
 				}
 			}
 		}
-
-
-		/*
-		a.twitter {
-			background: url('/images/twitter.png') no-repeat 30px center;
-			padding-left: 70px;
-		}
-
-		a.rss {
-			background: url('/images/rss.png') no-repeat 30px center;
-			padding-left: 70px;
-		}
-		*/
 
 		input[type="email"] {
 			margin-bottom: 10px;

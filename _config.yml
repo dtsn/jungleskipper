@@ -38,7 +38,7 @@ social:
   - https://instagram.com/_jungleskipper
 lang: en_UK
 baseurl: ''
-paginate: 5
+paginate: 7
 gems:
 - jekyll-paginate
 - jekyll-feed

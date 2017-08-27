@@ -12,23 +12,30 @@ layout: default
 	<div class="row">
 		<div class="col-md-1">
 			{% if page.previous.url %}
-				<a class="large previous" href="{{page.previous.url}}">&larr;</a>
+			<a class="large previous" title="{{page.previous.categories | first}}: {{page.previous.title}}" href="{{page.previous.url}}">&larr;</a>
 			{% endif %}
 		</div>
-		<section class="content col-md-7">
+		<div class="content col-md-7">
 			<h5>
 				<a href="/{{ page.categories | first }}">{{ page.categories | first }}</a>
 			</h5>
+		</div>
+		<div class="offset-md-1 col-md-3">
+			{% if page.next.url %}
+			<a class="large next" title="{{page.previous.categories | first}}: {{page.previous.title}}" href="{{page.next.url}}">Next Article &rarr;</a>
+			{% endif %}
+		</div>
+	</div>
+	<div class="row">
+		<section class="content col-md-7 offset-md-1">
+			
 			<h1>{{ page.title | replace: 'Review', '' }}</h1>
 
 			{% if page.tags contains 'nsfm' %}
 				<p><em>This article has been tagged `nsfm` (not safe for magic) and normally reviles something behind the scences.</em></p>
 			{% endif %}
 
-
 			{{content}}
-
-			{% include share.html %}
 
 			<div class="meta">
 				<span>First Published:</span> {{ page.date | date_to_long_string }} <br/>
@@ -38,34 +45,11 @@ layout: default
 				{% endif %}
 			</div>
 		</section>
+
 		<div class="offset-md-1 col-md-3">
-			{% if page.next.url %}
-				<a class="large next" data-text="Next Article &rarr;" data-title="{{ page.next.title }}" data-image="{{ page.next.image }}" data-blurb="{{ page.next.content | strip_html | truncatewords: 20 }}" href="{{page.next.url}}">Next Article &rarr;</a>
-			{% endif %}
-
-			<div class="sidebar">
-			
-			<h3>Stay up to date</h3>
-
-			<div class="box">
-				<a href="http://twitter.com/_jungleskipper" target="_blank" class="item social"><span class="twitter"></span>@_jungleskipper</a>
-				<a href="https://www.instagram.com/_jungleskipper/" target="_blank" class="item social"><span class="instagram"></span>@_jungleskipper</a>
-				<a href="https://www.facebook.com/thejungleskipper" target="_blank" class="item social"><span class="facebook"></span>@thejungleskipper</a>
-				<a href="/feed.xml" target="_blank" class="item social"><span class="rss"></span>RSS Feed</a>
-				<div class="fill">
-					<h3>Newsletter</h3>
-					<p>Signup to our Newsletter for updates when we post something new. We promise not to spam you.</p>
-					<form action="//emailoctopus.com/lists/4a423829-713e-11e7-a9b5-026662568990/members/external-add" method="post" target="_blank" novalidate>
-						<input type="email" value="" name="emailAddress" class="required email form-control" id="mce-EMAIL" placeholder="Email Address" >
-						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="hp4a423829-713e-11e7-a9b5-026662568990" tabindex="-1" value=""></div>
-			    		<input type="hidden" name="successRedirectUrl" class="email-octopus-success-redirect-url" value="https://jungleskipper.com/thankyou/newsletter">
-			    		<input type="submit" value="Sign me up" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
-					</form>
-				</div>
-			</div>
-			</div>
+			{% include share.html %}
 		</div>
+
 	</div>
 </article>
 
@@ -108,30 +92,7 @@ layout: default
 			</div>
 			<div class="offset-sm-1 col-sm-5">
 				<h3>Join the conversation</h3>
-				<form method="POST" action="https://api.staticman.net/v2/entry/dtsn/jungleskipper/master/comments">
-					<input name="options[redirect]" type="hidden" value="https://jungleskipper.com/thankyou/comment">
-					<input name="options[slug]" type="hidden" value="{{ page.slug }}">
-
-						<div class="row">
-							<div class="form-group col-sm-6">
-								<label for="name">Name</label>
-								<input name="fields[name]" type="text" id="name" class="form-control" placeholder="e.g. Albert Awol">
-							</div>
-
-							<div class="form-group col-sm-6">
-								<label for="email">Email</label>
-								<input name="fields[email]" type="email" id="email" class="form-control">
-							</div>
-						</div>
-						<div class="row">
-							<div class="form-group col-sm-12">
-								<label for="comment">Comment</label>
-								<textarea name="fields[message]" id="comment" class="form-control"></textarea>
-							</div>
-						</div>
-
-					<button type="submit" class="btn btn-primary">Submit</button>
-				</form>
+				{% include comment.html %}
 			</div>
 		</div>
 	</div>
