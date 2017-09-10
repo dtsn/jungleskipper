@@ -14,7 +14,7 @@ That has all changed … This year Disneyland Paris is celebrating its 25th Anni
 
 To see how well ‘Project Sparkle’ was going we decided to take a trip, we stayed for 3-nights/4 days onsite at Disney's Sequoia Lodge.
 
-Getting there
+## Getting there
 
 We live in the south of England, a mere 300 miles away so we decided to drive. Taking the Eurotunnel to France, we found this to be the cheapest option for a car full of people, significantly cheaper than the Eurostar. In total the journey out took about 7 hours, it was a very easy, smooth drive with clear roads.
 
@@ -26,11 +26,11 @@ The return journey wasn’t as smooth, Eurotunnel was experiencing problems with
 
 ## Disney's Sequoia Lodge
 
-[Disney's Sequoia Lodge](/uploads/IMG_0863%20(1).JPG)
+![Disney's Sequoia Lodge](/uploads/IMG_0863%20(1).JPG)
 
 We stayed at Disney’s Sequoia Lodge, a moderate (3 star) hotel themed on a Californian country park. The hotel itself was beautiful, surrounded by large trees and designed to look like a park ranger station. The rooms were less impressive, they were quite dated and ours had a musty smell. The room was large and the bed was comfortable, which for a Disney holiday is the most important thing.
 
-[Sequoia Lodge Standard Room](/uploads/DSC01966%20(1).JPG)
+![Sequoia Lodge Standard Room](/uploads/DSC01966%20(1).JPG)
 
 Rooms had Bambi theming with a large picture on the wall and more subtle Bambi references throughout the rest of the room. The bathroom was clean and looked a lot newer than the rest of the room.
 
@@ -38,7 +38,7 @@ The room came with a low powered hair dryer, some basic shampoo and soaps. It la
 
 ### Characters
 
-[Pluto in Sequoia Lodge](/uploads/IMG_0816.JPG)
+![Pluto in Sequoia Lodge](/uploads/IMG_0816.JPG)
 
 There was a character meet and greet at the hotel which is a nice touch. I only ever saw Pluto and that was on a Friday morning. So I would assume they are only there on busier days.
 
@@ -54,7 +54,7 @@ The fantastic aspect of all the Disneyland Paris hotels is that they are just a 
 
 ## Disneyland Park
 
-[Disneyland Hotel](/uploads/DSC01598.JPG)
+![Disneyland Hotel](/uploads/DSC01598.JPG)
 
 There are two parks at Disneyland Paris, Disneyland Park, the equivalent
 of the Magic Kingdom, and Walt Disney Studios. 
@@ -69,19 +69,19 @@ As I take you on a trip around the park, we won’t be covering everything in de
 
 ### Main Street to Central Plaza
 
-[Main Street at night](/uploads/DSC01842%20(1).JPG)
+![Main Street at night](/uploads/DSC01842%20(1).JPG)
 
 Main Street stretches from the Train Station at one end to the Central Plaza and Sleeping Beauty's Castle beyond. Main Street, originally based on the idealisation of Walt Disney’s childhood town of Marceline, Missouri, feels like you have been taken back in time. It’s a concept which is in every Disneyland Park, the music, the smells and the lights are for me what makes a Disney Park so special.
 
 What sets the Main Street of Disneyland Paris apart from the others is the very special additions designed to help protect you from the bad weather. Either side of Main Street there is an arcade, an undercover shopping area which are common in Europe. The beautiful long walkways provides access to all the shops and are very underused. One a hot summer's day when we visited they were a quiet cool place to sit, something which is very rare in a Disney Park.
 
-[Disneyland Paris Arcade](/uploads/IMG_0843.JPG)
+![Disneyland Paris Arcade](/uploads/IMG_0843.JPG)
 
 *The lighting in the Arcade is gas powered, just like it would of in the 1900’s.*
 
 ### Sleeping Beauty’s Castle & Fantasyland
 
-[Sleeping Beauty's Castle](/uploads/DSC01974.JPG)
+![Sleeping Beauty's Castle](/uploads/DSC01974.JPG)
 
 It wouldn’t a Disney park without a castle at the centre. Sleeping Beauty’s castle is the most beautiful of any Disney park. It’s a pink castle based upon the original from the movie. Unlike the other parks where the castles were based on European Design, in Europe the Imagineers decided to be more fanciful and base the castle more on the design in the original movie.
 
@@ -93,7 +93,7 @@ Below the castle is La Tanière du Dragon (the lair of the dragon), which featur
 
 Within Sleeping Beauty’s castle, you can walk up the stair and see the beautiful stain glass which depicts the story of Sleeping Beauty.
 
-[Stain glass window](/uploads/IMG_0895.JPG)
+![Stain glass window](/uploads/IMG_0895.JPG)
 
 *The stained glass in Sleeping Beauty's Castle was created by Peter Chapman, who also worked on the restoration of Notre Dame. Each window took months to create.*
 
@@ -101,11 +101,11 @@ Fantasyland is the other side of the castle and includes all the traditional rid
 
 ### Adventureland & Frontierland
 
-[Adventureland](/uploads/DSC01949.JPG)
+![Adventureland](/uploads/DSC01949.JPG)
 
 If you leave fantasyland past Peter Pan’s flight (remember to get your Fastpasses) you will arrive in Adventureland. A pirate themed land with its central attraction Pirates of the Caribbean.
 
-[DSC01667.JPG](/uploads/DSC01667.JPG)
+![DSC01667.JPG](/uploads/DSC01667.JPG)
 
 Pirates of the Caribbean, which first opened in 1967 in Disneyland California has become central to almost all the Disneyland Parks around the world and has even spun off its own movie franchise. The Disneyland Paris is a reimagination of the original and has been improved greatly thanks to ‘Project Sparkle’, with better animatronic, lighting effects and a greater tie in with the movie franchise. Can you spot Jack Sparrow as you ride?
 
@@ -114,7 +114,7 @@ scary but maybe one to avoid with young, or especially old guests.
 
 Next up is Frontierland, which is themed around an old Wild West mining town. The second ride to really benefit from Project Sparkle is Big Thunder Mountain.
 
-[DSC01781.JPG](/uploads/DSC01781.JPG)
+![DSC01781.JPG](/uploads/DSC01781.JPG)
 
 Big Thunder Mountain has been restored to all its previous glory with even better digital effects. This, in my opinion, is the best Big Thunder Mountain in all the parks.
 
@@ -124,7 +124,7 @@ Big Thunder Mountain has been restored to all its previous glory with even bette
 
 Discoveryland is what makes Disneyland Paris unique, in the 1990’s when the park was being designed the concept of Tomorrowland was outdated. The realisations of the optimistic ideas of what the future held in the 1960’s didn’t come true, the new wave of Imagineering team which grew up with these ideas was more pessimistic of what was to come. So instead of trying to keep up with what is coming tomorrow, they looked to their past. The popularity of European authors like Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass and steel and held together with rivets.
 
-[Discoveryland](/uploads/DSC01629.JPG)
+![Discoveryland](/uploads/DSC01629.JPG)
 
 Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful Orbitron, Autopia, and a Nautilus. It also includes some star wars crap which doesn’t fit in.
 
