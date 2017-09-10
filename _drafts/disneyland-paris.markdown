@@ -113,24 +113,30 @@ scary but maybe one to avoid with young, or especially old guests.
 
 Next up is Frontierland, which is themed around an old Wild West mining town. The second ride to really benefit from Project Sparkle is Big Thunder Mountain.
 
-Big Thunder Mountain has been restored to all it’s previous glory with even better digital effects. This, in my opinion, is the best Big Thunder Mountain in all the parks.
+[DSC01781.JPG](/uploads/DSC01781.JPG)
 
-Big Thunder Mountain in Disneyland Paris is 10 foot taller than it was meant to be due to a miscommunication between the English and French build teams.
-Discoveryland
+Big Thunder Mountain has been restored to all its previous glory with even better digital effects. This, in my opinion, is the best Big Thunder Mountain in all the parks.
 
-Discoveryland is what makes Disneyland Paris unique, in the 1990’s when the park was being designed the concept of tomorrowland was outdated. The optimistic ideas of what the future held in the 1960’s didn’t come true, the new wave of imagineering team which grew up in the 1960’s were more pessimistic of what was to come. So instead of trying to keep up with what is coming tomorrow they looked to their past. The popularity of European authors Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass and steel and held together with rivets.
+*Big Thunder Mountain in Disneyland Paris is 10 foot taller than it was meant to be due to a miscommunication between the English and French build teams.*
 
-Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful orbitron, Autopia, and a Nautilus. It also includes some star wars crap which doesn’t fit in.
-Fastpasses
+### Discoveryland
+
+Discoveryland is what makes Disneyland Paris unique, in the 1990’s when the park was being designed the concept of Tomorrowland was outdated. The realisations of the optimistic ideas of what the future held in the 1960’s didn’t come true, the new wave of Imagineering team which grew up with these ideas was more pessimistic of what was to come. So instead of trying to keep up with what is coming tomorrow, they looked to their past. The popularity of European authors like Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass and steel and held together with rivets.
+
+[Discoveryland](/uploads/DSC01629.JPG)
+
+Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful Orbitron, Autopia, and a Nautilus. It also includes some star wars crap which doesn’t fit in.
+
+## Fastpasses
 
 For anyone who hasn't visited a Disney park before a Fastpass is a ticket which allows you to skip the main queue line. In Disneyland Paris the system works as in other smaller Disney parks. There are kiosks located next to the main entrance of a ride where you can enter your park ticket and it will give you a time for reentry. Before entering the kiosk they will have two clocks above them which tell the current time range they are handing out fastpasses for.
 
 You can only get one fastpass, per ticket at a time. But once that fastpass has expired you can get another. My tip is to aim for the rides which tend to have the longest queues, in Disneyland Park this is Peter Pan's Flight and in Walt Disney Studios this is Ratatouille.
 
-Parades
+## Parades
 There is currently a single Parade especially for the 25th anniversary called Stars on Parade. It happens everyday around 6, but check the times guide for variations. It’s a roughly 15 min show with spectacular floats and a fire breathing Maleficent dragon.
 
-Illuminations
+## Illuminations
 At park closing every night there is a fireworks show called illuminations. It lasts around 15mins and shouldn’t be missed. It uses digital projection technology to make the castle come alive. This is all timed with water fountains, music and lots of fireworks.
 
 Extra Magic Hours
