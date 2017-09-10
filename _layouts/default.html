@@ -21,24 +21,7 @@
 	</head>
 	<body>
 		<div class="container">
-			<header class="main">
-				<div class="title">
-					<a href="/" rel="Home">
-						{% include logo.html %}
-						Jungle Skipper
-					</a>
-				</div>
-				<div class="nav" id="menu">
-					<nav>
-						<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
-						<!--<a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a>-->
-						<a href="/review" class="{% if page.url == '/review/' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
-						<a href="/planning" class="{% if page.url == '/planning/' %}selected{% endif %}">Planning</a>
-						<a href="/blog" class="{% if page.url == '/blog/' or page.categories[0] == 'blog' %}selected{% endif %}">Blog</a>
-						<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
-					</nav>
-				</div>
-			</header>
+			{% include header/main.html %}
 		</div>
 
 

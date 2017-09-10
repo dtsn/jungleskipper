@@ -1,0 +1,106 @@
+header {
+	.title {
+
+		border-bottom: 1px solid #EFEFEF;
+
+		// svg animation
+		svg {
+			display: block;
+			margin: 30px auto 10px;
+			width: 250px;
+
+			// we hide the SVG for mobile users
+			@include media-breakpoint-down(xs) {
+				display: none;
+			}
+		}
+
+		// main title text
+		a {
+			@include lato;
+			color: #4D4D4D;
+			font-size: 24px;
+			text-decoration: none;
+			text-align: center;
+			margin: 0 auto 30px auto;
+			display: block;
+			width: 250px;
+
+			@include media-breakpoint-down(xs) {
+				// shrinks a bit for mobile users
+				font-size: 20px;
+			}
+		}
+	}
+
+	// main menu
+	.nav {
+		display: block;
+		overflow: hidden;
+		margin: 0 auto;
+		width: 574px;
+
+		a {
+			@include poppins;
+			color: #4D4D4D;
+			display: block;
+			float: left;
+			font-size: 18px;
+			line-height: 18px;
+			padding: 30px 20px 25px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: center;
+
+			&.selected {
+				border-bottom: 2px solid #EF674E;
+			}
+
+			&::before {
+				border-bottom: 2px solid #EF674E;
+				bottom: -2px;
+				left: 0;
+			}
+		}
+
+		nav {
+			// hidden for mobile users
+			@include media-breakpoint-down(xs) {
+				display: none;
+			}
+		}
+
+		.mobile-nav {
+			background: $mobile-nav-background;
+			color: $mobile-nav-foreground;
+			position: fixed;
+			top: 60px;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 1000;
+
+			& > ul {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+
+				& > li {
+
+					margin: 0;
+					padding: 0;
+
+					div {
+						border-bottom: 1px solid $mobile-nav-foreground;
+						cursor: pointer;
+						padding: 20px;
+
+					}
+				}
+			}
+		}
+	}
+}
+
+

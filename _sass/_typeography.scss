@@ -36,6 +36,10 @@ h1 {
 			width: 0;
 		}
 	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 24px;
+	}
 }
 
 h2 {
@@ -89,6 +93,12 @@ h5 {
 
 	a {
 		color: #BFBFBF;
+	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 10px;
+		font-weight: 500;
+		letter-spacing: 1px;
 	}
 }
 

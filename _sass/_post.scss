@@ -20,8 +20,7 @@ article {
 		float: right;
 
 		@include media-breakpoint-down(xs) {
-			float: none;
-			text-align: center;
+			display: none;
 		}
 	}
 
@@ -37,6 +36,10 @@ article {
 			color: #4D4D4D;
 		}
 	}
+}
+
+.post-sidebar {
+	padding-top: 20px;
 }
 
 section.image {
