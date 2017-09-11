@@ -124,17 +124,17 @@ Frontinerland has a large lake at it's centre, in the middle is large island whi
 
 ### Discoveryland
 
-Discoveryland is what makes Disneyland Paris unique, in the 1990’s when the park was being designed the concept of Tomorrowland was outdated. The realisations of the optimistic ideas of what the future held in the 1960’s didn’t come true, the new wave of Imagineering team which grew up with these ideas was more pessimistic of what was to come. So instead of trying to keep up with what is coming tomorrow, they looked to their past. The popularity of European authors like Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass and steel and held together with rivets.
+Discoveryland is what makes Disneyland Paris unique. In the 1990’s when the park was being designed, the concept of Tomorrowland was outdated. The realisations of the optimistic ideas of what the future held in the 1960’s didn’t come true and the new Imagineering team which grew up with these ideas were more pessimistic of what was to come. So instead of trying to keep up with what's coming tomorrow, they looked to their past. The popularity of European authors like Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass, steel and bolted together with rivets.
 
 ![Discoveryland](/uploads/DSC01629.JPG)
 
-Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful Orbitron, Autopia, and a Nautilus. It also includes some star wars crap which doesn’t fit in.
+Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful Orbitron, Autopia, and a Nautilus. It also includes some Star Wars crap which doesn’t fit in - I'm looking at you Star Tours.
 
 ## Fastpasses
 
-For anyone who hasn't visited a Disney park before a Fastpass is a ticket which allows you to skip the main queue line. In Disneyland Paris the system works as in other smaller Disney parks. There are kiosks located next to the main entrance of a ride where you can enter your park ticket and it will give you a time for reentry. Before entering the kiosk they will have two clocks above them which tell the current time range they are handing out fastpasses for.
+For anyone who hasn't visited a Disney park before a Fastpass is a ticket which allows you to skip the main queue line. In Disneyland Paris the system works as in other smaller Disney parks: there are kiosks located next to the main entrance of a ride where you can enter your park ticket and recieve a paper slip with a time range of 30 minutes for reentry. Just above the kiosks there are two clocks above them which tell the current time of the Fastpasses.
 
-You can only get one fastpass, per ticket at a time. But once that fastpass has expired you can get another. My tip is to aim for the rides which tend to have the longest queues, in Disneyland Park this is Peter Pan's Flight and in Walt Disney Studios this is Ratatouille.
+You can only recieve one Fastpass, per ticket, at a time. Once that Fastpass has expired, or used you can recieve another. My tip is to aim for the rides which tend to have the longest queues. In Disneyland Park this is Peter Pan's Flight and Ratatouille in Walt Disney Studios.
 
 ## Parades
 There is currently a single Parade especially for the 25th anniversary called Stars on Parade. It happens everyday around 6, but check the times guide for variations. It’s a roughly 15 min show with spectacular floats and a fire breathing Maleficent dragon.
