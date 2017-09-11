@@ -137,26 +137,82 @@ For anyone who hasn't visited a Disney park before a Fastpass is a ticket which 
 You can only recieve one Fastpass, per ticket, at a time. Once that Fastpass has expired, or used you can recieve another. My tip is to aim for the rides which tend to have the longest queues. In Disneyland Park this is Peter Pan's Flight and Ratatouille in Walt Disney Studios.
 
 ## Parades
-There is currently a single Parade especially for the 25th anniversary called Stars on Parade. It happens everyday around 6, but check the times guide for variations. It’s a roughly 15 min show with spectacular floats and a fire breathing Maleficent dragon.
+
+Disney parks always do parades very well and Disneyland Paris is no exception. There is currently only a single parade, which takes place in the evening - please check the times guide for exact times.
+
+*Top Tip: There are two pieces of paper to make sure you pick up as you enter the park. The park map and the park times guide. They are available in most languages underneath the train station.*
+
+Disney Stars on Parade is designed specifically for the 25th Anniversary. The parade is roughly 15 minutes long with spectacular floats and a fire breathing Maleficent dragon.
 
 ## Illuminations
-At park closing every night there is a fireworks show called illuminations. It lasts around 15mins and shouldn’t be missed. It uses digital projection technology to make the castle come alive. This is all timed with water fountains, music and lots of fireworks.
 
-Extra Magic Hours
+Illuminations is a 15 minute show when the park closes. It takes place in front of the castle and includes digital project and lots of fireworks to make a fantastic show all timed to music.
+
+[insert video]
+
+## Extra Magic Hours
+
 The park opens 2 hours early for Disney hotel guests. This is only Disneyland Park at the moment, though this is about to change. However there is only a very limited roster of rides opening.
 
-Before 1st Oct
+**Before 1st October 2017**
 
-Only Disneyland Park is open for 2 hours before regular park opening. Fantasyland and Discoveryland are open.
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Disneyland Park</th>
+<th>Walt Disney Studios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Time</th>
+<td>2 hours before the park opens</th>
+<td>N/A</td>
+</tr>
+<tr>
+<th>Rides</th>
+<td>Hyperspace Mountain, Buzz Lightyear Ranger Spin, Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+<td>N/A</td>
+</tr>
+</tbody>
+</table>
 
-Discoveryland: Hyperspace Mountain, Buzz Lightyear ranger spin
-Fantasyland: Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion
+**After 1st October 2017**
 
-After 1st Oct
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Disneyland Park</th>
+<th>Walt Disney Studios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Time</th>
+<td>1 hour before the park opens</th>
+<td>1 hour before the park opens</th>
+</tr>
+<tr>
+<th>Rides</th>
+<td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+<td>Ratatouille and Crush's Coaster</td>
+</tr>
+</tbody>
+</table>
 
-Extra magic hours will be split between the two parks, with both parks opening at 9am. Only Fantasyland will be open in Disneyland Park with the same open attractions as above. Whereas in Walt Disney Studios only Ratatouille and Crush's Coaster will be open.
-Walt Disney Studios
-A park built on the cheap because of a contract Disneyland Paris had with the French Government for a long time Walt Disney Studios was forgotten about. It was a ‘half a day park’. However, recent developments and expansions have made it better than my initial expectations.
+## Walt Disney Studios
+
+Often remarked as a ‘half a day park’ for a long time Walt Disney Studios has suffered from little to no investment. However, in the last 5 years two new lands have been constructed which has greatly increased it's offering and it's now more a '3/4 of a day park'.
+
+### Toy Story Land
+
+A land themed after.....
+
+Toy Story land, were you are surrounded by oversized toys and ride rides such as Slinky Dog Spin. The land proved so popular is was copied in [Disneyland Hong Kong](-----).
+
+However, recent developments and expansions have made it better than my initial expectations.
 
 Instead of being split up into lands Walt Disney Studios is kind of a miss mash of different areas all over the place. It’s signature attraction is Tower of Terror, which is one of my favourite rides in Disney. However it’s best ride is Ratatouille, which I think ranks up there as one of the all time best dark rides.
 Eating & The Dining Plans
