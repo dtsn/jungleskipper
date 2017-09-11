@@ -181,25 +181,25 @@ The park opens 2 hours early for Disney hotel guests. This is only Disneyland Pa
 **After 1st October 2017**
 
 <table>
-<thead>
-<tr>
-<th></th>
-<th>Disneyland Park</th>
-<th>Walt Disney Studios</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>Time</th>
-<td>1 hour before the park opens</th>
-<td>1 hour before the park opens</th>
-</tr>
-<tr>
-<th>Rides</th>
-<td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
-<td>Ratatouille and Crush's Coaster</td>
-</tr>
-</tbody>
+    <thead>
+         <tr>
+              <th></th>
+              <th>Disneyland Park</th>
+              <th>Walt Disney Studios</th>
+         </tr>
+    </thead>
+    <tbody>
+         <tr>
+              <th>Time</th>
+              <td>1 hour before the park opens</th>
+              <td>1 hour before the park opens</th>
+         </tr>
+         <tr>
+              <th>Rides</th>
+              <td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+              <td>Ratatouille and Crush's Coaster</td>
+         </tr>
+     </tbody>
 </table>
 
 ## Walt Disney Studios
