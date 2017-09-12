@@ -36,7 +36,7 @@ All the rooms have a Bambi theme with a large picture on the wall and more subtl
 
 The room came with a low powered hair dryer, some basic shampoo and soaps. It lacked some of the more modern facilities you expect to come across in a hotel nowadays like a kettle and mini fridge.
 
-### Characters
+### Hotel character meet & greet 
 
 ![Pluto in Sequoia Lodge](/uploads/IMG_0816.JPG)
 
@@ -50,7 +50,7 @@ The hotel has two restaurants a buffet and an a la carte restaurant, however we 
 
 ## Getting to the parks
 
-The fantastic aspect of all the Disneyland Paris hotels is that they are just a 15-minute walk away from the parks. All the moderate/deluxe hotels are placed around a central lake and you walk through the Disney Village to get to the parks.
+The fantastic aspect of all the Disneyland Paris hotels is that they are just a 15-minute to 20-minute walk away from the parks. Typically the more expensive the hotel the closer you are to the parks. The majority of the hotels are placed around a central lake which you walk around and then through the Disney Village to get to the parks.
 
 ## Disneyland Park
 
@@ -62,7 +62,7 @@ Disneyland Park is beautiful. You enter under the Disneyland Hotel, the first ho
 
 ![Here you leave today and enter the worlds of history, discovery and ageless fantasy](/uploads/DSC01506.ARW.jpg)
 
-Once you’re through the ticket booths you reach a small courtyard inbetween the hotel and the train station. Just in front of you is a set of archways, and ontop is the train station. On the side of each of the archways there is the plaque which is in homage to the original at Disneyland California.
+Once you’re through the ticket booths you reach a small courtyard inbetween the hotel and the train station. Just in front of you is a set of archways, ontop is the train station where you can ride the train around the resort. On the either side of the archways is a plaque which is in homage to the original at Disneyland California.
 
 Walking underneath the train station, through the archways reviles Main Street U.S.A.
 
@@ -154,53 +154,44 @@ Illuminations is a 15 minute show when the park closes. It takes place in front 
 
 The park opens 2 hours early for Disney hotel guests. This is only Disneyland Park at the moment, though this is about to change. However there is only a very limited roster of rides opening.
 
-**Before 1st October 2017**
+### Before 1st October 2017
 
 <table>
-<thead>
-<tr>
-<th></th>
-<th>Disneyland Park</th>
-<th>Walt Disney Studios</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>Time</th>
-<td>2 hours before the park opens</th>
-<td>N/A</td>
-</tr>
-<tr>
-<th>Rides</th>
-<td>Hyperspace Mountain, Buzz Lightyear Ranger Spin, Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
-<td>N/A</td>
-</tr>
-</tbody>
+	<tr>
+		<th></th>
+		<th>Disneyland Park</th>
+		<th>Walt Disney Studios</th>
+	</tr>
+	<tr>
+		<th></th>
+		<td colspan="2">Before 1st October 2017</td>
+	</tr>
+	<tr>
+		<th>Time</th>
+		<td>2 hours before the park opens</th>
+		<td>N/A</td>
+	</tr>
+	<tr>
+		<th>Rides</th>
+		<td>Hyperspace Mountain, Buzz Lightyear Ranger Spin, Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+		<td>N/A</td>
+	</tr>
+	<tr>
+		<th></th>
+		<td colspan="2">After 1st October 2017</td>
+	</tr>
+	<tr>
+		<th>Time</th>
+		<td>1 hour before the park opens</th>
+		<td>1 hour before the park opens</th>
+	</tr>
+	<tr>
+		<th>Rides</th>
+		<td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+		<td>Ratatouille and Crush's Coaster</td>
+	</tr>
 </table>
 
-**After 1st October 2017**
-
-<table>
-    <thead>
-         <tr>
-              <th></th>
-              <th>Disneyland Park</th>
-              <th>Walt Disney Studios</th>
-         </tr>
-    </thead>
-    <tbody>
-         <tr>
-              <th>Time</th>
-              <td>1 hour before the park opens</th>
-              <td>1 hour before the park opens</th>
-         </tr>
-         <tr>
-              <th>Rides</th>
-              <td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
-              <td>Ratatouille and Crush's Coaster</td>
-         </tr>
-     </tbody>
-</table>
 
 ## Walt Disney Studios
 
