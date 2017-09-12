@@ -146,13 +146,17 @@ Disney Stars on Parade is designed specifically for the 25th Anniversary. The pa
 
 ## Illuminations
 
-Illuminations is a 15 minute show when the park closes. It takes place in front of the castle and includes digital project and lots of fireworks to make a fantastic show all timed to music.
+Illuminations is a 15 minute show typically at park closing time. The show is a set of themes from Disney classics and newer Disney movies all set in time to music and fireworks. I think the show is fantastic and not one to miss, however, I don’t think it’s up to the same standard as the any of the shows in Walt Disney World.
+
+You can see a brief extract in my video below:
 
 [insert video]
 
 ## Extra Magic Hours
 
-The park opens 2 hours early for Disney hotel guests. This is only Disneyland Park at the moment, though this is about to change. However there is only a very limited roster of rides opening.
+Extra Magic Hours are additional hours at the parks for Disney Hotel Guests. It’s a great time to visit the parks and ride a few rides before the rest of the crowds come. A fantastic added bonus for those staying onsite.
+
+While we were there Disneyland Park was opening 2 hours (8am) before the main park opening (10am). However, this is due to change on the 1st of October. I’ve listed what I know will be open below:
 
 ### Before 1st October 2017
 
@@ -195,9 +199,17 @@ The park opens 2 hours early for Disney hotel guests. This is only Disneyland Pa
 
 ## Walt Disney Studios
 
-Often remarked as a ‘half a day park’ for a long time Walt Disney Studios has suffered from little to no investment. However, in the last 5 years two new lands have been constructed which has greatly increased it's offering and it's now more a '3/4 of a day park'.
+Often remarked as a ‘half a day park’ for a long time Walt Disney Studios has suffered from little to no investment. This has changed in the last few years when 2 additional lands have been constructed. This has greatly increased the parks offering and I would recommend giving it 3/4’s of day. Not only because there are more things to do at the park but it also includes some of the longest queues.
 
 ### Toy Story Land
+
+A land themed on the floor of Andy’s bedroom. There are oversized construction toys holding up oversized fairy lights and gigantic toys around. The theming of this land is fantastic. The land was so popular when it opened that the entire concept was taken to Hong Kong Disneyland when they were looking for expansion.
+
+Unliked the Hong Kong version of this land it seems a lot more crowded and tightly packed and we were surprised there was no shop, something Disney never seems to miss an opportunity for.
+
+*If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightears Ranger Blast over in Disneyland PArk*
+
+Imagine being srunk down to the size of a toy and walking through Andy’s 
 
 A land themed after.....
 
