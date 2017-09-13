@@ -78,7 +78,7 @@ What sets the Main Street of Disneyland Paris apart from the others is the very 
 
 ![Disneyland Paris Arcade](/uploads/IMG_0843.JPG)
 
-*The lighting in the Arcade is gas powered, just like it would of in the 1900’s.*
+<div class="fun-fact">The lighting in the Arcade is gas powered, just like it would of in the 1900’s.</div>
 
 ### Sleeping Beauty’s Castle & Fantasyland
 
@@ -86,7 +86,7 @@ What sets the Main Street of Disneyland Paris apart from the others is the very 
 
 It wouldn’t a Disney park without a castle at the centre. Sleeping Beauty’s castle is the most beautiful of any Disney park (trust me). It’s a pink castle based upon the original from the movie. Unlike the other parks where the castles were based on European Design, in Europe the Imagineers decided to be more fanciful and base the castle more on the design in the original movie.
 
-*Le Château de la Belle au Bois Dormant (English: The Castle of the Sleeping Beauty) is painted pink to contrast the typically grey sky. There are 16 **source** spires each covered in gold leaf.*
+<div class="fun-fact">Le Château de la Belle au Bois Dormant (English: The Castle of the Sleeping Beauty) is painted pink to contrast the typically grey sky. There are 16 **source** spires each covered in gold leaf.</div>
 
 The Disneyland Paris castle is painted pink to contrast with the predominantly grey sky. It has 16 spires each topped with gold leaf.*
 
@@ -98,7 +98,7 @@ Within Sleeping Beauty’s castle, you can walk up the stair and across a balaco
 
 ![Stain glass window](/uploads/IMG_0895.JPG)
 
-*The stained glass in Sleeping Beauty's Castle was created by Peter Chapman, who also worked on the restoration of Notre Dame. Each window took months to create.*
+<div class="fun-fact">The stained glass in Sleeping Beauty's Castle was created by Peter Chapman, who also worked on the restoration of Notre Dame. Each window took months to create.</div>
 
 Fantasyland is the other side of the castle and includes all the traditional rides such as Peter Pan’s Flight, It’s a Small World, Lancelot's Carousel and Flying Dumbos. There are a couple of other attractions I haven’t seen in the other Fantasylands such as Alice’s Curious Labyrinth and Le Pays des Contes de Fees, a fairytale cruise past miniature storybook scenes of Disney classics.
 
@@ -120,7 +120,7 @@ Next up is Frontierland, which is themed around an old Wild West mining town, Th
 
 Frontinerland has a large lake at it's centre, in the middle is large island which houses Big Thunder Mountain, a classic runaway mine cart ride. In recent years the ride has been suffering form a lack of investment but it was shut for an entire year only reopening last year. This included a complete draining of the lake. It has been restored to all its former glory with even better digital effects. This, in my opinion, is the best Big Thunder Mountain out of all the parks.
 
-*Big Thunder Mountain in Disneyland Paris is 10 feet taller than it was meant to be due to a miscommunication between the English and French build teams.*
+<div class="fun-fact">Big Thunder Mountain in Disneyland Paris is 10 feet taller than it was meant to be due to a miscommunication between the English and French build teams.</div>
 
 ### Discoveryland
 
@@ -140,7 +140,7 @@ You can only recieve one Fastpass, per ticket, at a time. Once that Fastpass has
 
 Disney parks always do parades very well and Disneyland Paris is no exception. There is currently only a single parade, which takes place in the evening - please check the times guide for exact times.
 
-*Top Tip: There are two pieces of paper to make sure you pick up as you enter the park. The park map and the park times guide. They are available in most languages underneath the train station.*
+<div class="top-tip">Top Tip: There are two pieces of paper to make sure you pick up as you enter the park. The park map and the park times guide. They are available in most languages underneath the train station.</div>
 
 Disney Stars on Parade is designed specifically for the 25th Anniversary. The parade is roughly 15 minutes long with spectacular floats and a fire breathing Maleficent dragon.
 
@@ -157,8 +157,6 @@ You can see a brief extract in my video below:
 Extra Magic Hours are additional hours at the parks for Disney Hotel Guests. It’s a great time to visit the parks and ride a few rides before the rest of the crowds come. A fantastic added bonus for those staying onsite.
 
 While we were there Disneyland Park was opening 2 hours (8am) before the main park opening (10am). However, this is due to change on the 1st of October. I’ve listed what I know will be open below:
-
-### Before 1st October 2017
 
 <table>
 	<tr>
@@ -203,19 +201,11 @@ Often remarked as a ‘half a day park’ for a long time Walt Disney Studios ha
 
 ### Toy Story Land
 
-A land themed on the floor of Andy’s bedroom. There are oversized construction toys holding up oversized fairy lights and gigantic toys around. The theming of this land is fantastic. The land was so popular when it opened that the entire concept was taken to Hong Kong Disneyland when they were looking for expansion.
+Imagine being shrunk down to the size of a kids toy, then walking through a toy chest. Thats the best way I can describe Toy Story land, the themeing is fantastic. Toy Story land was so popular when it opened that the entire concept was taken to Hong Kong Disneyland for their recent expansion.
 
-Unliked the Hong Kong version of this land it seems a lot more crowded and tightly packed and we were surprised there was no shop, something Disney never seems to miss an opportunity for.
+Unliked the version in Hong Kong ([read my entire review on Hong Kong Disneyland](/review/disneyland-hong-kong)) this version seems more crowded and tightly packed. We were surprised there was no shop, something Disney never normally misses an opportunity for.
 
-*If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightears Ranger Blast over in Disneyland PArk*
-
-Imagine being srunk down to the size of a toy and walking through Andy’s 
-
-A land themed after.....
-
-Toy Story land, were you are surrounded by oversized toys and ride rides such as Slinky Dog Spin. The land proved so popular is was copied in [Disneyland Hong Kong](-----).
-
-However, recent developments and expansions have made it better than my initial expectations.
+<div class="top-tip">If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightears Ranger Blast in Disneyland Park</div>
 
 Instead of being split up into lands Walt Disney Studios is kind of a miss mash of different areas all over the place. It’s signature attraction is Tower of Terror, which is one of my favourite rides in Disney. However it’s best ride is Ratatouille, which I think ranks up there as one of the all time best dark rides.
 Eating & The Dining Plans
