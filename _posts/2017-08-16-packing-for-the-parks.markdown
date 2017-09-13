@@ -22,6 +22,8 @@ We are heading off to Disneyland Paris in a few days and decided to share what w
 
 **A clear plastic bag** - Ideally with a zip lock acts as a great waterproof bag. Put your phone/money in before going on those wet rides and it should keep everything nice and dry.
 
+**Sunscreen** - Remember to take plenty of sunscreen, even if its not sunny.
+
 ## Technology
 
 **Camera & accessories** - If you don't have a camera already do yourself a favour and invest in one. Mobile phones are still no match for a good dedicated camera. I typically take two, a [Sony RX100 M3](http://amzn.to/2wT2B6Q) and a [GoPro Hero Session](http://amzn.to/2wfO4Qi) for our ride shots. Don't forget a spare battery and memory card if you need them.
