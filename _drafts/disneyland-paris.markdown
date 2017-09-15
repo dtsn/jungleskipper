@@ -226,22 +226,50 @@ Disney Village is the main shopping area located just outside the park, it’s i
 
 The Photopass retails for 59 Euros and I was disappointed with the way it works and the lack of Photopass photographers. It was very fiddle, you get given a card which you need to activate on your mobile phone then at each ride you scan a QR code on your phone. Works great if you have a phone signal, otherwise it is useless. We only saw a single photopass photographer our entire trip and the photographers taking photos with the characters tend to scan a new card if you don’t jump in quick. Which means you have to go to a store and get them transferred over to your online account.
 
+## Food
+
+### Snacks
+
 ## Booking
 
 We booked our holiday through magical breaks, it cost XXX for 2 people and included the hotel, park tickets, dining plan and photopass.
 
+## Security concerns
+
+I've been asked a few times whether or not I feel secure while visiting Disneyland Paris. There is a big security presence at the resort hotels and upon entering the park. The security stations are always manned in park hours and feature metal detectors and x-ray machines. I actually forgot I have a pen knife on me which was confiscated.
+
+Even though there were metal dectors and x-ray machines there still seemed to be a large number of selfi-sticks which have been banned in the park.
+
 ## Summary
 
-### Overall <span class="rating 3-star">3/5</span>
+I rank theme parks on 4 key factors, value for money, design, the quality of the rides and the food. I feel these are the 4 biggest factors which will affect your enjoyment.
+
+### Value for money <span class="rating 3-star">3/5</span>
+
+For two people staying for 3 nights at Disney's Sequioa Lodge the total cost was £875. That included the majority of our food and Eurotunnel booking. Combine this with the fuel and toll cost to get there and it was nearly £1000. This works out for 2 people to be £350 a night in school holidays.
+
+Disney isn't cheap, Disneyland Paris has one of the lowest ticket prices out of all the Disney parks. Though this is reflected in what it has to offer. You could easily visit Disneyland paris for a few nights and see everything. Whereas you would probably need a month in Walt Disney World.
+
+Disneyland Paris is great for a quick trip to Disney but for a longer holiday save up for Disney World.
 
 ### Design <span class="rating 5-star">5/5</span>
 
-### Rides <span class="rating 3-star">3/5</span>
+Disneyland Park design is amazing, the work which the imagineers have put into the design makes it the best theme park in Europe. There is still a long way to go for Walt Disney Studios ...
 
-### Food <span class="rating 4-star">4/5</span>
+### Rides <span class="rating 4-star">4/5</span>
 
-### Merchandise <span class="rating 1-star">1/5</span>
+Disneyland Paris have some of the best versions of the Disney classics. These include a fantastic Big Thunder Mountain, Hyperspace Mountain and Pirates of the Carribean. It also includes some fantastic concepts which have been copied to other parks, Toy Story land to Hong Kong and Rataolioou to Epcot.
 
-### Organisation <span class="rating 2-star">2/5</span>
+It doesn't get a full 5 stars for rides because the park still had a lot of old rides which were never considered to be very good in the first place and Walt Disney Studios is still lacking.
+
+### Food <span class="rating 3-star">3/5</span>
+
+Of the food we ate it was really good and I was really surprised with the quality in the sit down resturants. The quick service resturants (QS) looked terrible and the food looked sub-standard.
+
+Disneyland Paris lacks the snacks of the other Disney parks. There are no Mickey waffles, Mickey ice cream, churros or other classics.
+
+### Overall <span class="rating 3-star">3/5</span>
+
+The centrepiece of Disney Paris is Disneyland Park which is a beautiful theme park. The work that the imagineers have put into the detail of the lands and the rides is truely breathtaking. Disneyland Paris should of got 4 stars however, the park is let down by the Cast Members (CM's) and guests. Guests not respecting smoking areas and queue jumping is a huge problem in Disneyland Paris. While the majority of CM's are fantastic there are a few which don't seem like they want to be there and the majority don't seem to enforce the smoking areas.
 
 
