@@ -14,7 +14,12 @@ That has all changed … This year Disneyland Paris is celebrating its 25th Anni
 
 To see how well ‘Project Sparkle’ was going we took a trip and stayed for 3-nights/4 days onsite at Disney's Sequoia Lodge.
 
-## Getting there
+1. [Getting there](#getting-there)
+2. [Disney's Sequoia Lodge](#disneys-sequoia-lodge)
+  1. [Hotel character meet & greet](#hotel-character-meet-and-greet)
+  2. [Hotel Resturants](#hotel-restaurants)
+
+## Getting there <a name="getting-there"></a>
 
 We live in the south of England, a mere 300 miles away so we decided to drive via the Eurotunnel. We found this to be the cheapest option for anymore than a single person - significantly cheaper than the Eurostar. In total the journey out took about 7 hours, it was a very easy, smooth drive with clear roads.
 
@@ -24,7 +29,7 @@ Getting to the Disney parks is easy enough using your satnav, all of the hotels 
 
 The return journey wasn’t as smooth, Eurotunnel was experiencing problems with queues at immigration which ended up delaying us about an hour. The team at Eurotunnel seemed to handle it well, but it was just like being stuck in a large traffic jam unable to get out of the car. We actually missed our outbound train, but we were put on the next one available.
 
-## Disney's Sequoia Lodge
+## Disney's Sequoia Lodge <a name="disneys-sequoia-lodge"></a>
 
 ![Disney's Sequoia Lodge](/uploads/IMG_0863%20(1).JPG)
 
@@ -36,23 +41,23 @@ All the rooms have a Bambi theme with a large picture on the wall and more subtl
 
 The room came with a low powered hair dryer, some basic shampoo and soaps. It lacked some of the more modern facilities you expect to come across in a hotel nowadays like a kettle and mini fridge.
 
-### Hotel character meet & greet 
+### Hotel character meet & greet <a name="hotel-character-meet-and-greet"></a>
 
 ![Pluto in Sequoia Lodge](/uploads/IMG_0816.JPG)
 
 There was a character meet and greet at the hotel which is a nice touch. I only ever saw Pluto and that was on a Friday morning so I would assume they are only there on busier days. If character meet and greets are important for you check with the hotel for days and times.
 
-### Restaurants
+### Hotel Restaurants <a name="hotel-restaurants"></a>
 
 The hotel has two restaurants a buffet and an a la carte restaurant, however we didn't eat in either. The resturants in the park had a greater selection of food and much better theming. There is also a bar around which surrounds a beautiful fireplace which was never lit. The bar sold basic snacks and tea and coffee. 
 
-*English Breakfast tea in France is hard to find, so if you must have your tea in the morning it would be best to bring your own tea bags.*
+The hotel doesn't have a kettle in the room. You can ask for one at reception if you need one and want to bring your own supplies of tea and coffee.
 
-## Getting to the parks
+## Getting to the parks <a name="getting-to-the-parks"></a>
 
 The fantastic aspect of all the Disneyland Paris hotels is that they are just a 15-minute to 20-minute walk away from the parks. Typically the more expensive the hotel the closer you are to the parks. The majority of the hotels are placed around a central lake which you walk around and then through the Disney Village to get to the parks.
 
-## Disneyland Park
+## Disneyland Park <a name="disneyland-park"></a>
 
 ![Disneyland Hotel](/uploads/DSC01598.JPG)
 
@@ -68,7 +73,7 @@ Walking underneath the train station, through the archways reviles Main Street U
 
 As I take you on a trip around the park, I won’t be covering everything in detail. Some things are better left to be discovered - instead I will try and focus on the main areas and the key attractions.
 
-### Main Street to Central Plaza
+### Main Street to Central Plaza <a name="main-street-to-central-plaza"></a>
 
 ![Main Street at night](/uploads/DSC01842%20(1).JPG)
 
@@ -213,26 +218,30 @@ The dining plans in Disneyland Paris are quite confusing. There are a variety of
 
 The restaurants in Disneyland Paris have generally received a lot of bad reviews, they are typically overprice and lack quality food. However, I researched the restaurants a lot and decided to go for Captain Jack's, Bistrot Chez Remy and the Yacht Club. All the meals I had were fantastic, but if anyone in your family is a fussy eater they may have a hard time from the limited selection.
 
-Disney Village
+## Disney Village
+
 Disney Village is the main shopping area located just outside the park, it’s in drastic need of modernisation.
-Photopass
+
+## Photopass
+
 The Photopass retails for 59 Euros and I was disappointed with the way it works and the lack of Photopass photographers. It was very fiddle, you get given a card which you need to activate on your mobile phone then at each ride you scan a QR code on your phone. Works great if you have a phone signal, otherwise it is useless. We only saw a single photopass photographer our entire trip and the photographers taking photos with the characters tend to scan a new card if you don’t jump in quick. Which means you have to go to a store and get them transferred over to your online account.
-Summary
 
-Overall - 3/5
-
-Design - 5/5
-
-Rides - ⅗
-
-Food - ⅘
-
-Merchandise - 1/5
-
-Organisation 2/5
-Booking
+## Booking
 
 We booked our holiday through magical breaks, it cost XXX for 2 people and included the hotel, park tickets, dining plan and photopass.
 
-We've just returned from a 3 night/4 day stay at Disneyland Paris (DLP) it has to be one of the most beautiful of all the Disney Parks. The level of detail
+## Summary
+
+### Overall <span class="rating 3-star">3/5</span>
+
+### Design <span class="rating 5-star">5/5</span>
+
+### Rides <span class="rating 3-star">3/5</span>
+
+### Food <span class="rating 4-star">4/5</span>
+
+### Merchandise <span class="rating 1-star">1/5</span>
+
+### Organisation <span class="rating 2-star">2/5</span>
+
 
