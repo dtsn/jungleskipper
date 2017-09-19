@@ -1,12 +1,12 @@
 ---
 title: Disneyland Paris Review
 date: 2017-09-05 18:15:00 Z
+published: false
 categories:
 - review
 tags:
 - disneyland-paris
 image: "/uploads/DSC01839.JPG"
-published: false
 ---
 
 Disneyland Paris has always been considered to be the most beautiful Disney theme park. The level of detail that Walt Disney Imagineering gave the park is breathtaking, however, after decades of neglect and underfunding it became a shadow of its former self. Pavements were cracking, the paint was peeling and the rides weren’t maintained.
