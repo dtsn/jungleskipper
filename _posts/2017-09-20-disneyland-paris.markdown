@@ -6,6 +6,7 @@ categories:
 tags:
 - disneyland-paris
 image: "/uploads/DSC01839.JPG"
+published: false
 ---
 
 Disneyland Paris has always been considered to be the most beautiful Disney theme park. The level of detail that Walt Disney Imagineering gave the park is breathtaking, however, after decades of neglect and underfunding it became a shadow of its former self. Pavements were cracking, the paint was peeling and the rides weren’t maintained.
@@ -85,7 +86,7 @@ What sets the Main Street of Disneyland Paris apart from the others is the very 
 
 <div class="fun-fact">The lighting in the Arcade is gas powered, just like it would of in the 1900’s.</div>
 
-### Sleeping Beauty’s Castle & Fantasyland
+### Sleeping Beauty’s Castle & Fantasyland <a name="sleeping-beautys-castle-and-fantasyland"></a>
 
 ![Sleeping Beauty's Castle](/uploads/DSC01974.JPG)
 
@@ -107,7 +108,7 @@ Within Sleeping Beauty’s castle, you can walk up the stair and across a balaco
 
 Fantasyland is the other side of the castle and includes all the traditional rides such as Peter Pan’s Flight, It’s a Small World, Lancelot's Carousel and Flying Dumbos. There are a couple of other attractions I haven’t seen in the other Fantasylands such as Alice’s Curious Labyrinth and Le Pays des Contes de Fees, a fairytale cruise past miniature storybook scenes of Disney classics.
 
-### Adventureland & Frontierland
+### Adventureland & Frontierland <a name="adventureland-and-frontierland"></a>
 
 ![Adventureland](/uploads/DSC01949.JPG)
 
@@ -127,7 +128,7 @@ Frontinerland has a large lake at it's centre, in the middle is large island whi
 
 <div class="fun-fact">Big Thunder Mountain in Disneyland Paris is 10 feet taller than it was meant to be due to a miscommunication between the English and French build teams.</div>
 
-### Discoveryland
+### Discoveryland <a name="discoveryland"></a>
 
 Discoveryland is what makes Disneyland Paris unique. In the 1990’s when the park was being designed, the concept of Tomorrowland was outdated. The realisations of the optimistic ideas of what the future held in the 1960’s didn’t come true and the new Imagineering team which grew up with these ideas were more pessimistic of what was to come. So instead of trying to keep up with what's coming tomorrow, they looked to their past. The popularity of European authors like Jules Verne and H.G. Wells inspired the team to create a land which is unique to all the Disney parks. A land built out of brass, steel and bolted together with rivets.
 
@@ -135,29 +136,47 @@ Discoveryland is what makes Disneyland Paris unique. In the 1990’s when the pa
 
 Discoveryland includes Space Mountain (now Hyperspace Mountain), a beautiful Orbitron, Autopia, and a Nautilus. It also includes some Star Wars crap which doesn’t fit in - I'm looking at you Star Tours.
 
-## Fastpasses
+## Fastpasses <a name="fastpasses"></a>
 
-For anyone who hasn't visited a Disney park before a Fastpass is a ticket which allows you to skip the main queue line. In Disneyland Paris the system works as in other smaller Disney parks: there are kiosks located next to the main entrance of a ride where you can enter your park ticket and recieve a paper slip with a time range of 30 minutes for reentry. Just above the kiosks there are two clocks above them which tell the current time of the Fastpasses.
+For anyone who hasn't visited a Disney park before a Fastpass is a ticket which allows you to skip the main queue line and use a second quicker queue line. The ticket allows you to 'virtually queue' while you do other activites and allows you to return at a specified time where you queue from 5-15mins.
 
-You can only recieve one Fastpass, per ticket, at a time. Once that Fastpass has expired, or used you can recieve another. My tip is to aim for the rides which tend to have the longest queues. In Disneyland Park this is Peter Pan's Flight and Ratatouille in Walt Disney Studios.
+In Disneyland Paris the system works as in other smaller Disney parks: there are kiosks located next to the main entrance of the ride. You enter your park ticket and recieve a paper slip with a  30 minute time range for entry. Just above the kiosks there are two clocks above them which tell the current time of the current Fastpasses which are being issued.
 
-## Parades
+You can only recieve one Fastpass per park ticket at a time. Once that Fastpass has expired, or used, you can go and get another. My tip is to aim for the rides which tend to have the longest queues. In Disneyland Park this is Peter Pan's Flight and Ratatouille in Walt Disney Studios. Not all rides have Fastpasses as of writing these are the rides:
+
+**Disneyland Park:**
+* Peter Pan’s Flight
+* Hyperspace Mountain
+* Indiana Jones et le Temple du Peril
+* Big Thunder Mountain
+* Buzz Lightyear Space Ranger Spin
+* Star Wars “Star Tours”
+
+**Walt Disney Studios**
+* Ratatouille
+* Rock n’ Roller Coaster
+* Twilight Zone Tower of Terror
+* Flying Carpets Over Agrabah
+
+*Fastpasses are also currently being tested at <a href="https://twitter.com/ED92live/status/898155126539657216?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.traveltothemagic.net%2Ffastpass-tested-phantom-manor%2F" target="_blank">Phantom Manor</a>.*
+
+## Parades <a name="parades"></a>
 
 Disney parks always do parades very well and Disneyland Paris is no exception. There is currently only a single parade, which takes place in the evening - please check the times guide for exact times.
 
-<div class="top-tip">Top Tip: There are two pieces of paper to make sure you pick up as you enter the park. The park map and the park times guide. They are available in most languages underneath the train station.</div>
+<div class="top-tip">Top Tip: There are two pieces of paper to make sure you pick up as you enter the park. The park map and the park times guide. They are available in most languages and are available underneath the Main Street train station as you enter the park.</div>
 
 Disney Stars on Parade is designed specifically for the 25th Anniversary. The parade is roughly 15 minutes long with spectacular floats and a fire breathing Maleficent dragon.
 
-## Illuminations
+**VIDEO**
 
-Illuminations is a 15 minute show typically at park closing time. The show is a set of themes from Disney classics and newer Disney movies all set in time to music and fireworks. I think the show is fantastic and not one to miss, however, I don’t think it’s up to the same standard as the any of the shows in Walt Disney World.
+## Illuminations <a name="illuminations"></a>
 
-You can see a brief extract in my video below:
+Illuminations is a 15 minute show typically at park closing time. The show is a set of themes from Disney classics and newer Disney movies all set in time to music and fireworks. I think the show is fantastic and not one to miss.
 
-[insert video]
+**VIDEO**
 
-## Extra Magic Hours
+## Extra Magic Hours <a name="extra-magic-hours"></a>
 
 Extra Magic Hours are additional hours at the parks for Disney Hotel Guests. It’s a great time to visit the parks and ride a few rides before the rest of the crowds come. A fantastic added bonus for those staying onsite.
 
@@ -200,39 +219,72 @@ While we were there Disneyland Park was opening 2 hours (8am) before the main pa
 </table>
 
 
-## Walt Disney Studios
+## Walt Disney Studios <a name="walt-disney-studios"></a>
 
 Often remarked as a ‘half a day park’ for a long time Walt Disney Studios has suffered from little to no investment. This has changed in the last few years when 2 additional lands have been constructed. This has greatly increased the parks offering and I would recommend giving it 3/4’s of day. Not only because there are more things to do at the park but it also includes some of the longest queues.
 
-### Toy Story Land
+### Toy Story Playland <a name="toy-story-land"></a>
 
 Imagine being shrunk down to the size of a kids toy, then walking through a toy chest. Thats the best way I can describe Toy Story land, the themeing is fantastic. Toy Story land was so popular when it opened that the entire concept was taken to Hong Kong Disneyland for their recent expansion.
 
 Unliked the version in Hong Kong ([read my entire review on Hong Kong Disneyland](/review/disneyland-hong-kong)) this version seems more crowded and tightly packed. We were surprised there was no shop, something Disney never normally misses an opportunity for.
 
-<div class="top-tip">If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightears Ranger Blast in Disneyland Park</div>
+<div class="top-tip">If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightears Ranger Blast in Disneyland Park.</div>
 
-Instead of being split up into lands Walt Disney Studios is kind of a miss mash of different areas all over the place. It’s signature attraction is Tower of Terror, which is one of my favourite rides in Disney. However it’s best ride is Ratatouille, which I think ranks up there as one of the all time best dark rides.
-Eating & The Dining Plans
-The dining plans in Disneyland Paris are quite confusing. There are a variety of plans which basically allow you access to different set menus in a restaurant. The more money you pay for the plan the more variety and choice you get in your set menu. When arriving at your hotel you get a number of vouchers which allow you to redeem your dining plan, each voucher is also worth it’s face value (£36 at the time of writing) so you can order something at face value as well.
+### Something else
 
-The restaurants in Disneyland Paris have generally received a lot of bad reviews, they are typically overprice and lack quality food. However, I researched the restaurants a lot and decided to go for Captain Jack's, Bistrot Chez Remy and the Yacht Club. All the meals I had were fantastic, but if anyone in your family is a fussy eater they may have a hard time from the limited selection.
+## Disney Village <a name="disney-village"></a>
 
-## Disney Village
+Disney Village is the main shopping and eating area located just outside the park. The area hasn't changed since the park opened in the 90's and is in need of monderisation.
 
-Disney Village is the main shopping area located just outside the park, it’s in drastic need of modernisation.
+## Photopass <a name="photopass"></a>
 
-## Photopass
+The Photopass retails for 59 Euros which is cheap compared to some other parks. This gets you unlimited digital versions of your images taken on rides and by photopass photographers. There are 6 rides which support the photopass:
 
-The Photopass retails for 59 Euros and I was disappointed with the way it works and the lack of Photopass photographers. It was very fiddle, you get given a card which you need to activate on your mobile phone then at each ride you scan a QR code on your phone. Works great if you have a phone signal, otherwise it is useless. We only saw a single photopass photographer our entire trip and the photographers taking photos with the characters tend to scan a new card if you don’t jump in quick. Which means you have to go to a store and get them transferred over to your online account.
+* Star Wars: Hyperspace Mountain
+* Buzz Lightyear Laser Blast
+* Big Thunder Mountain
+* Pirates of the Caribbean
+* Rock 'n' Roller Coaster avec Aerosmith
+* The Twilight Zone Tower of Terror
+
+I was disappointed with the way it works, it proved to be very fiddley. You get given a card which you need to activate on your mobile phone then at each ride you scan a QR code on your phone. This works great if you have a phone signal, otherwise it is useless resulting in having to queue to get someone to add it to your account. There is another option of entering a code in the mobile phone app, the code is prefixed with a letter which isn't mentioned anywhere in the ride - so it's a lot of guess work if you don't want to queue.
+
+There was a lack of Photopass photographers in the park, I only saw a single photographer our entire trip. When taking photos with the characters you need to make sure you jump in quick with your card. Otherwise they will scan a new card and you will have to go to the camera store on Main Street in order to get them transferred to your account.
+
+You can find more information about the Photopass from the <a href="http://www.disneylandparis.co.uk/guest-services/photopass-service/" target="_blank">Disneyland Paris Website</a>.
 
 ## Food
 
+In general the food we had in the park was good quality. There was a good mix of resturants serving Quick Service (burgers etc), buffet and sit down dining options. The food was relatively expensive but not more than other Disney parks around the world.
+
+### Dinning plans
+
+I found the dinning plans in Disneyland Paris to be very confusing. The best offical reference I found for them was on the <a href="http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans/">Disney Travel Company's website</a>. Essentially there are 3 types:
+
+**Standard** - Access to 5 buffet resturants
+**Plus** - Access to 15 waiter service resturants
+**Premium** - Access to 20 waiter service resturants
+
+For the plus and premium you are limited to a set menu at your chosen resturant. The set menu consists of 2/3 choices for a start/main/dessert plus a non-alcholic drink.
+
+When arriving at your hotel you get a number of vouchers which allow you to redeem your dining plan, each voucher is also worth it’s face value (36 Euros at the time of writing) so you are able to order off the the a la carte menu if someone in your party doesn't like the set menu. However, a main course in one of these resturants sets you back 36 Euros so the set menus are much better value.
+
+You can find a complete list of menus at <a href="http://www.dlpguide.com/planning/dining/restaurant-menus/" target="_blank">DLP Guide</a> which includes details of what you get as a set menu.
+
+We ate at 3 resutrants during our trip, Captain Jacks, Bistro Chez Remy and the Yatch Club all of which I would defienatly recommend.
+
+### Reservations
+
+Dining reservations open up 90 days before the date. While most resturants you will be able to get a table at on the day. If you want to eat at one of the more popular resutrants at dinner time I would recommend you book as soon as possible.
+
+<div class="top-tip">You can also make dining reservations through the email address <a href="mailto:DLP.PARK.RESERVATIONS.RESTAURANT@disney.com" target="_blank">dlp.park.reservations.restaurant@disney.com</a>.</div>
+
 ### Snacks
 
-## Booking
+The snacks in Disneyland Paris were generally dissapointing a lot of popcorn carts and not much else. Unfortunately no Mickey Waffles, Mickey ice creams or Churros. They do however have a rather crude version of a Dole Whip.
 
-We booked our holiday through magical breaks, it cost XXX for 2 people and included the hotel, park tickets, dining plan and photopass.
+**Dole Whip/Pinapple Float** - The all time most popular snack in Disney Parks. In Disneyland Paris it is extremely sweet, thanks mostly to the pineapple syrup used.
 
 ## Security concerns
 
@@ -264,12 +316,12 @@ It doesn't get a full 5 stars for rides because the park still had a lot of old 
 
 ### Food <span class="rating 3-star">3/5</span>
 
-Of the food we ate it was really good and I was really surprised with the quality in the sit down resturants. The quick service resturants (QS) looked terrible and the food looked sub-standard.
-
-Disneyland Paris lacks the snacks of the other Disney parks. There are no Mickey waffles, Mickey ice cream, churros or other classics.
+I tend to thoughly research dining options in a theme park before going and did find a lot of mixed reviews. Even though the resturants we dined at were fantastic it only gets 3 stars due to how complex the meal plans are, how little information is avaialble and how limited the choice is.
 
 ### Overall <span class="rating 3-star">3/5</span>
 
-The centrepiece of Disney Paris is Disneyland Park which is a beautiful theme park. The work that the imagineers have put into the detail of the lands and the rides is truely breathtaking. Disneyland Paris should of got 4 stars however, the park is let down by the Cast Members (CM's) and guests. Guests not respecting smoking areas and queue jumping is a huge problem in Disneyland Paris. While the majority of CM's are fantastic there are a few which don't seem like they want to be there and the majority don't seem to enforce the smoking areas.
+The centrepiece of Disney Paris is Disneyland Park which is a beautiful theme park. The work that the imagineers have put into the detail of the lands and the rides is truely breathtaking. 
+
+Disneyland Paris should of got 4 stars however, the park is let down by the guests and in some way the cast members not policing the guests. We constantely saw guests smoking in the queues, dropping litter and queue jumping.
 
 
