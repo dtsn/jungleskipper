@@ -1,3 +1,6 @@
+$text-color: #4D4D4D !default;
+
+$horizontal-line: #EFEFEF !default;
 
 
 $btn-primary-color: #FFF !default;
@@ -5,6 +8,6 @@ $btn-primary-bg: #EF674E !default;
 
 $btn-border-radius: 3px;
 
-$mobile-nav-background: #353535;
-$mobile-nav-foreground: #FFF;
+$mobile-nav-background: #FFF;
+$mobile-nav-foreground: $text-color;
 
