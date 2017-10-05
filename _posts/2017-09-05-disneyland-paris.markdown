@@ -1,7 +1,7 @@
 ---
 title: Disneyland Paris Review
 date: 2017-09-05 18:15:00 Z
-published: false
+published: true
 categories:
 - review
 tags:
@@ -17,8 +17,28 @@ To see how well ‘Project Sparkle’ was going we took a trip and stayed for 3-
 
 1. [Getting there](#getting-there)
 2. [Disney's Sequoia Lodge](#disneys-sequoia-lodge)
-  1. [Hotel character meet & greet](#hotel-character-meet-and-greet)
-  2. [Hotel Resturants](#hotel-restaurants)
+    1. [Hotel character meet & greet](#hotel-character-meet-and-greet)
+    2. [Hotel Resturants](#hotel-restaurants)
+3. [Getting to the parks](#getting-to-the-parks)
+4. [Disneyland Park](#disneyland-park)
+    1. [Main Street to Central Plaza](#main-street-to-central-plaza)
+    2. [Sleeping Beauty’s Castle & Fantasyland](#sleeping-beautys-castle-and-fantasyland)
+    3. [Adventureland & Frontierland](#adventureland-and-frontierland)
+    4. [Discoveryland](#discoveryland)
+5. [Fastpasses](#fastpasses)
+6. [Parades](#parades)
+7. [Illuminations](#illuminations)
+8. [Extra Magic Hours](#extra-magic-hours)
+9. [Walt Disney Studios](#walt-disney-studios)
+    1. [Toy Story Playland](#toy-story-land)
+10. [Disney Village](#disney-village)
+11. [Photopass](#photopass)
+12. [Food](#food)
+	1. [Dinning Plans](#dinning-plans)
+	2. [Reservations](#reservations)
+	3. [Snacks](#snacks)
+13. [Security concerns](#security-concerns)
+14. [Summary](#summary)
 
 ## Getting there <a name="getting-there"></a>
 
@@ -30,21 +50,19 @@ Getting to the Disney parks is easy enough using your satnav, all of the hotels 
 
 The return journey wasn’t as smooth, Eurotunnel was experiencing problems with queues at immigration which ended up delaying us about an hour. The team at Eurotunnel seemed to handle it well, but it was just like being stuck in a large traffic jam unable to get out of the car. We actually missed our outbound train, but we were put on the next one available.
 
-## Disney's Sequoia Lodge <a name="disneys-sequoia-lodge"></a>
+![Disney's Sequoia Lodge](/uploads/disneys-sequoia-lodge.jpg)
 
-![Disney's Sequoia Lodge](/uploads/IMG_0863%20(1).JPG)
+## Disney's Sequoia Lodge <a name="disneys-sequoia-lodge"></a>
 
 We stayed at Disney’s Sequoia Lodge, a 3-star hotel (moderate by Walt Disney World standards) themed on a Californian country park. The hotel itself was beautiful, surrounded by large trees and designed to look like a park ranger station. The rooms were less impressive as they were quite dated and ours had a musty smell. The room was large and the bed was comfortable, which for a Disney holiday is the most important thing.
 
-![Sequoia Lodge Standard Room](/uploads/DSC01966%20(1).JPG)
+![Sequoia Lodge Standard Room](/uploads/disneys-sequoia-lodge-standard-room.jpg)
 
 All the rooms have a Bambi theme with a large picture on the wall and more subtle Bambi references throughout the rest of the room. The bathroom was clean and looked a lot newer than the rest of the room.
 
 The room came with a low powered hair dryer, some basic shampoo and soaps. It lacked some of the more modern facilities you expect to come across in a hotel nowadays like a kettle and mini fridge.
 
 ### Hotel character meet & greet <a name="hotel-character-meet-and-greet"></a>
-
-![Pluto in Sequoia Lodge](/uploads/IMG_0816.JPG)
 
 There was a character meet and greet at the hotel which is a nice touch. I only ever saw Pluto and that was on a Friday morning so I would assume they are only there on busier days. If character meets and greets are important for you check with the hotel for days and times.
 
@@ -60,9 +78,9 @@ The hotel doesn't have a kettle in the room. You can ask for one at reception if
 
 The fantastic aspect of all the Disneyland Paris hotels is that they are just a 15-minute to 20-minute walk away from the parks. Typically the more expensive the hotel the closer you are to the parks. The majority of the hotels are placed around a central lake which you walk around and then through the Disney Village to get to the parks.
 
-## Disneyland Park <a name="disneyland-park"></a>
-
 ![Disneyland Hotel](/uploads/DSC01598.JPG)
+
+## Disneyland Park <a name="disneyland-park"></a>
 
 There are two parks at Disneyland Paris: Disneyland Park (the equivalent Florida's Magic Kingdom), and Walt Disney Studios. 
 
@@ -76,9 +94,9 @@ Walking underneath the train station, through the archways reviles Main Street U
 
 As I take you on a trip around the park, I won’t be covering everything in detail. Some things are better left to be discovered - instead, I will try and focus on the main areas and the key attractions.
 
-### Main Street to Central Plaza <a name="main-street-to-central-plaza"></a>
-
 ![Main Street at night](/uploads/DSC01842%20(1).JPG)
+
+### Main Street to Central Plaza <a name="main-street-to-central-plaza"></a>
 
 Main Street stretches from the Train Station at one end to the Central Plaza and Sleeping Beauty's Castle beyond. Main Street, originally based on the idealisation of Walt Disney’s childhood town of Marceline, Missouri, feels like you have been taken back in time. It’s a concept which is in every Disneyland Park. The music, the smells and the lights are for me what makes a Disney Park so special.
 
@@ -100,7 +118,9 @@ The Disneyland Paris castle is painted pink to contrast with the predominantly g
 
 Below the castle is La Tanière du Dragon (the lair of the dragon), which features a full-size animatronic dragon. The Dragon comes to life and breathes smoke every few minutes. Next to the Dragon's Lair is a staircase up to the castle.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uwJO4dAafmM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZGkqPSemgw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Within Sleeping Beauty’s castle, you can walk up the stairs and across a balcony to see the beautiful stained glass which depicts the story of Sleeping Beauty.
 
@@ -170,13 +190,15 @@ Disney parks always do parades very well and Disneyland Paris is no exception. T
 
 Disney Stars on Parade is designed specifically for the 25th Anniversary. The parade is roughly 15 minutes long with spectacular floats and a fire-breathing Maleficent dragon.
 
-**VIDEO**
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8RG3_oTBf6w" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Illuminations <a name="illuminations"></a>
 
-Illuminations is a 15-minute show typically at park closing time. The show is a set of themes from Disney classics and newer Disney movies all set in time to music and fireworks. I think the show is fantastic and not one to miss.
+![Disneyland Paris Illuminations](/uploads/DSC01821.jpg)
 
-**VIDEO**
+Illuminations is a 15-minute show typically at park closing time. The show is a set of themes from Disney classics and newer Disney movies all set in time to music and fireworks. I think the show is fantastic and not one to miss.
 
 ## Extra Magic Hours <a name="extra-magic-hours"></a>
 
@@ -184,41 +206,9 @@ Extra Magic Hours are additional hours at the parks for Disney Hotel Guests. It�
 
 While we were there Disneyland Park was opening 2 hours (8 am) before the main park opening (10 am). However, this is due to change on the 1st of October. I’ve listed what I know will be open below:
 
-<table>
-    <tr>
-        <th></th>
-        <th>Disneyland Park</th>
-        <th>Walt Disney Studios</th>
-    </tr>
-    <tr>
-        <th></th>
-        <td colspan="2">Before 1st October 2017</td>
-    </tr>
-    <tr>
-        <th>Time</th>
-        <td>2 hours before the park opens</th>
-        <td>N/A</td>
-    </tr>
-    <tr>
-        <th>Rides</th>
-        <td>Hyperspace Mountain, Buzz Lightyear Ranger Spin, Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
-        <th></th>
-        <td colspan="2">After 1st October 2017</td>
-    </tr>
-    <tr>
-        <th>Time</th>
-        <td>1 hour before the park opens</th>
-        <td>1 hour before the park opens</th>
-    </tr>
-    <tr>
-        <th>Rides</th>
-        <td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
-        <td>Ratatouille and Crush's Coaster</td>
-    </tr>
-</table>
+|       | Disneyland Park | Walt Disney Studios |
+| Time  | 1 hour before park opening | 1 hour before park opening |
+| Rides | Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion | Ratatouille and Crush's Coaster |
 
 
 ## Walt Disney Studios <a name="walt-disney-studios"></a>
@@ -233,11 +223,13 @@ Unlike the version in Hong Kong ([read my entire review on Hong Kong Disneyland]
 
 <div class="top-tip">If you are looking for Toy Story merchandise you can find a large selection at the exit of Buzz Lightyears Ranger Blast in Disneyland Park.</div>
 
-### Something else
+### Ratatouille <a name="ratatouille"></a>
+
+One of the best dark rides in the world. Ratatouille is very similar in vehicle design to [Mystic Manor](/review/mystic-manor) but includes a 3D element. The ride is fantastic and very engaging, it's no wonder they are now going to build it in the French pavillion in EPCOT. 
 
 ## Disney Village <a name="disney-village"></a>
 
-Disney Village is the main shopping and eating area located just outside the park. The area hasn't changed since the park opened in the 90's and is in need of modernisation.
+Disney Village is the main shopping and eating area located just outside the park. The area hasn't changed since the park opened in the 90's and is in need of modernisation. It features a number of Disney stores which all share a very limited range of merchandise.
 
 ## Photopass <a name="photopass"></a>
 
@@ -256,11 +248,11 @@ There was a lack of Photopass photographers in the park, I only saw a single pho
 
 You can find more information about the Photopass from the <a href="http://www.disneylandparis.co.uk/guest-services/photopass-service/" target="_blank">Disneyland Paris Website</a>.
 
-## Food
+## Food <a name="food"></a>
 
 In general, the food we had in the park was good quality. There was a good mix of restaurants serving Quick Service (burgers etc), buffet and sit down dining options. The food was relatively expensive but not more than other Disney parks around the world.
 
-### Dinning plans
+### Dinning Plans <a name="dinning-plans"></a>
 
 I found the dining plans in Disneyland Paris to be very confusing. The best official reference I found for them was to the <a href="http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans/">Disney Travel Company's website</a>. Essentially there are 3 types:
 
@@ -276,25 +268,25 @@ You can find a complete list of menus at <a href="http://www.dlpguide.com/planni
 
 We ate at 3 restaurants during our trip, Captain Jacks, Bistro Chez Remy and the Yacht Club all of which I would recommend.
 
-### Reservations
+### Reservations <a name="reservations"></a>
 
 Dining reservations open up 90 days before the date. While most restaurants you will be able to get a table at on the day. If you want to eat at one of the more popular restaurants at dinner time I would recommend you book as soon as possible.
 
 <div class="top-tip">You can also make dining reservations through the email address <a href="mailto:DLP.PARK.RESERVATIONS.RESTAURANT@disney.com" target="_blank">dlp.park.reservations.restaurant@disney.com</a>.</div>
 
-### Snacks
+### Snacks <a name="snacks"></a>
 
 The snacks in Disneyland Paris were generally disappointing a lot of popcorn carts and not much else. Unfortunately no Mickey Waffles, Mickey ice creams or Churros. They do however have a rather crude version of a Dole Whip.
 
 **Dole Whip/Pineapple Float** - The all-time most popular snack in Disney Parks. In Disneyland Paris it is extremely sweet, thanks mostly to the pineapple syrup used.
 
-## Security concerns
+## Security Concerns <a name="security-concerns"></a>
 
 I've been asked a few times whether or not I feel secure while visiting Disneyland Paris. There is a big security presence at the resort hotels and upon entering the park. The security stations are always manned in park hours and feature metal detectors and x-ray machines. I actually forgot I have a pen knife on me which was confiscated.
 
 Even though there were metal detectors and x-ray machines there still seemed to be a large number of selfi-sticks which have been banned in the park.
 
-## Summary
+## Summary <a name="summary"></a>
 
 I rank theme parks on 4 key factors, value for money, design, the quality of the rides and the food. I feel these are the 4 biggest factors which will affect your enjoyment.
 
