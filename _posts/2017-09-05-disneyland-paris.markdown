@@ -205,9 +205,27 @@ Extra Magic Hours are additional hours at the parks for Disney Hotel Guests. Itâ
 
 While we were there Disneyland Park was opening 2 hours (8 am) before the main park opening (10 am). However, this is due to change on the 1st of October. Iâ€™ve listed what I know will be open below:
 
-|       | Disneyland Park | Walt Disney Studios |
-| Time  | 1 hour before park opening | 1 hour before park opening |
-| Rides | Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion | Ratatouille and Crush's Coaster |
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th width="20%"></th>
+			<th width="40%">Disneyland Park</th>
+			<th width="40%">Walt Disney Studios</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Time</th>
+			<td>1 hour before park opening</td>
+			<td>1 hour before park opening</td>
+		</tr>
+		<tr>
+			<th scope="row">Rides</th>
+			<td>Dumbo, Peter Pan, Tea Cups, Le Carrousel de Lancelot and the Princess Pavilion</td>
+			<td>Ratatouille and Crush's Coaster</td>
+		</tr>
+	</tbody>
+</table>
 
 
 ## Walt Disney Studios <a name="walt-disney-studios"></a>
