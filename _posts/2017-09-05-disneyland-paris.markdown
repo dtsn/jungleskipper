@@ -256,9 +256,9 @@ In general, the food we had in the park was good quality. There was a good mix o
 
 I found the dining plans in Disneyland Paris to be very confusing. The best official reference I found for them was to the <a href="http://www.disneyholidays.co.uk/disneyland-paris/planning-holiday/meal-plans/">Disney Travel Company's website</a>. Essentially there are 3 types:
 
-**Standard** - Access to 5 buffet restaurants
-**Plus** - Access to 15 waiter service restaurants
-**Premium** - Access to 20 waiter service restaurants
+**Standard** - Access to 5 buffet restaurants<br/>
+**Plus** - Access to 15 waiter service restaurants<br/>
+**Premium** - Access to 20 waiter service restaurants<br/>
 
 For the plus and premium, you are limited to a set menu at your chosen restaurant. The set menu consists of 2/3 choices for a start/main/dessert plus a non-alcoholic drink.
 
