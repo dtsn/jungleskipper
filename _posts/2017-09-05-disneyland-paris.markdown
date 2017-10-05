@@ -1,7 +1,6 @@
 ---
 title: Disneyland Paris Review
 date: 2017-09-05 18:15:00 Z
-published: true
 categories:
 - review
 tags:
