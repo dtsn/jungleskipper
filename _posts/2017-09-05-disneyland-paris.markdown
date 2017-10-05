@@ -112,7 +112,7 @@ What sets the Main Street of Disneyland Paris apart from the others is the very 
 
 It wouldn’t a Disney park without a castle at the centre. Sleeping Beauty’s castle is the most beautiful of any Disney park (trust me). It’s a pink castle based upon the original from the movie. Unlike the other parks where the castles were based on European Design, in Europe, the Imagineers decided to be more fanciful and base the castle more on the design in the original movie.
 
-<div class="fun-fact">Le Château de la Belle au Bois Dormant (English: The Castle of the Sleeping Beauty) is painted pink to contrast the typically grey sky. There are 16 **source** spires each covered in gold leaf.</div>
+<div class="fun-fact">Le Château de la Belle au Bois Dormant (English: The Castle of the Sleeping Beauty) is painted pink to contrast the typically grey sky. There are 16 spires each covered in gold leaf.</div>
 
 The Disneyland Paris castle is painted pink to contrast with the predominantly grey sky. It has 16 spires each topped with gold leaf.*
 
