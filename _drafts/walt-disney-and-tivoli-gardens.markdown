@@ -7,10 +7,20 @@ categories:
 
 At the beginning of December this year I visited Tivoli Gardens at the center of Copenhagen, Denmark. The second oldest theme park in the world, the first, [Dyrehavsbakken](https://en.wikipedia.org/wiki/Dyrehavsbakken), is another Danish park about 10km north of Copenhagen.
 
-It is also one of the theme parks which inspired Walt Disney.
+It is also one of the few theme parks which inspired Walt Disney. Walt visited Tivoli in 1951 
+
+Theme parks in the 1950's
+
+After the great depression theme parks became 
+
+
 
 Walt visited Tivoli in 1951
 
+
+https://www.youtube.com/watch?v=vdxBHB6GEhc
+
+https://books.google.co.uk/books?id=RV2hAgAAQBAJ&lpg=PA184&ots=IMzK1Leelk&dq=Art%20Linkletter%20tivoli&pg=PA184#v=onepage&q=Art%20Linkletter%20tivoli&f=false
 
 
 ## Future
