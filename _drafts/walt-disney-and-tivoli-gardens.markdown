@@ -5,7 +5,20 @@ categories:
 - blog
 ---
 
-At the beginning of December this year I visited Tivoli Gardens at the center of Copenhagen, Denmark. The second oldest theme park in the world, the first, [Dyrehavsbakken](https://en.wikipedia.org/wiki/Dyrehavsbakken), is another Danish park about 10km north of Copenhagen.
+Late last year we visited Tivoli Gardens which is at the center of Copenhagen, Denmark. It's the second oldest theme park in the work which is still operating. The oldest is also in Denmark, [Dyrehavsbakken](https://en.wikipedia.org/wiki/Dyrehavsbakken) is located about 10km north of Copenhagen.
+
+Tivoli has been on my must see theme park lists for a while. It was one of only a few theme parks which Walt Disney vistied and its been reported that Tivoli was hugely influential in the design of Disneyland.
+
+In 1951 Walt and his wife Lily boarded a cruise ship heading for Europe. They intended to visit London for the premiere of Alice in Wonderland. On the cruise crossing Walt met an old friend Art Linkletter, the Disneys and Linkletters ended up touring Europe together.
+
+A part of their european tour they visited Tivoli gardens.
+
+In 1951 Walt and his wife Lily were in Europe promoting Alice in Wonderland on the cruise crossing 
+
+Alice in Wonderland was released in cinemas in 1951 
+
+
+At the beginning of December this year I visited Tivoli Gardens at the center of Copenhagen, Denmark. The second oldest theme park in the world, the first, , is another Danish park about 10km north of Copenhagen.
 
 It is also one of the few theme parks which inspired Walt Disney. Walt visited Tivoli in 1951 
 
