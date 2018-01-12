@@ -17,6 +17,8 @@ Walt visited Tivoli in 1951
 
 The relationship between the Walt Disney Company and Tivoli is still active today. As part of Tivoli's 175 year celebration Walt Disney World is contributing a float designed around it's a small world.
 
+https://www.tivoligardens.com/en/om/presse/pressemeddelelser/2017/walt+disney
+
 > “Walt Disney loved Tivoli, and so do we. Out of long friendship and deep mutual respect, Tivoli and Disney Parks have maintained a very cordial dialogue over the years, ranging from employee exchange visits to discussions of best practices amongst our leadership. We at Walt Disney World Resort hold the Tivoli organization in the highest esteem, and we are pleased to express that through our participation in the Tivoli 175-year Jubilee Parade.”
 - George A. Kalogridis, President, Walt Disney World Resort
 
