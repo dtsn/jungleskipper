@@ -1,14 +1,18 @@
 ---
-title: Mystic Manor Review
+title: Mystic Manor
 date: 2017-03-04 11:04:00 Z
 categories:
-- review
+- parks
+- disneyland-hong-kong
+- rides
 tags:
 - hong-kong-disneyland
 - disney
 - ride
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
+redirect_from:
+- /review/mystic-manor
 ---
 
 We visited Mystic Manor on our 2017 trip to [Hong Kong Disneyland](/reviews/disneyland-hong-kong) and were blown away by not only the story but the execution of the ride. I was hooked immediately and being the Disney park nerd that I am, I had to look into its origins and history.

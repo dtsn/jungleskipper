@@ -38,12 +38,14 @@ social:
   - https://instagram.com/_jungleskipper
 lang: en_UK
 baseurl: ''
-paginate: 7
-gems:
+paginate: 10
+plugins:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
+- jekyll-redirect-from
+- jemoji
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass
