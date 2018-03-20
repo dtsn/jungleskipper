@@ -1,9 +1,14 @@
 ---
 title: Packing for the parks
 date: 2017-08-16 09:19:00 Z
+image: "/uploads/IMG_0760.JPG"
+
 categories:
 - planning
-image: "/uploads/IMG_0760.JPG"
+
+tags:
+- planning
+
 ---
 
 We've been to a lot of theme parks over the last few years and have fine tuned what I carry (I do most of the carrying). It's difficult to balance the need to take everything and the practicality of not wanting to carry it around all day.

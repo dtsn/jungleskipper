@@ -1,16 +1,19 @@
 ---
 title: Mystic Manor
 date: 2017-03-04 11:04:00 Z
+image: "/uploads/Mystic-Point-Nightview.jpg"
+layout: post
+
 categories:
 - parks
 - disneyland-hong-kong
 - rides
+
 tags:
 - hong-kong-disneyland
 - disney
 - ride
-image: "/uploads/Mystic-Point-Nightview.jpg"
-layout: post
+
 redirect_from:
 - /review/mystic-manor
 ---

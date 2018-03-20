@@ -1,12 +1,16 @@
 ---
 title: Walt Disney World Planner
 date: 2017-08-03 20:00:00 Z
-categories:
-- planning
-tags:
-- walt-disney-world
 layout: post
 image: "/uploads/Screen%20Shot%202017-08-01%20at%2021.11.28.png"
+
+categories:
+- planning
+
+tags:
+- walt-disney-world
+- wdw
+- planning
 ---
 
 There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved helpful to some people on [reddit](https://www.reddit.com/r/WaltDisneyWorld/comments/5w9ece/my_plan_please_critique/) so I thought I would improve it and share it here:

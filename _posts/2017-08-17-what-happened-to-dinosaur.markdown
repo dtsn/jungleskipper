@@ -1,16 +1,27 @@
 ---
 title: What happened to Dinosaur?
 date: 2017-08-17 08:16:00 Z
+image: "/uploads/DSC01082%20(1).JPG"
+
 categories:
-- blog
-tags:
+- parks
 - walt-disney-world
 - animal-kingdom
-- ride
+- rides
+- dinosaur
+
+tags:
+- walt-disney-world
+- wdw
+- animal-kingdom
+- ak
+- rides
 - dinosaur
 - countdown-to-extinction
-- featured
-image: "/uploads/DSC01082%20(1).JPG"
+
+redirect_from:
+- /blog/what-happened-to-dinosaur
+
 reddit: WaltDisneyWorld
 ---
 
