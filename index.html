@@ -1,21 +1,19 @@
 ---
 layout: default
 ---
-
-{% assign notjekyllposts = ""|split:""%}
-
-{% for apost in site.posts %}
-{% unless apost.categories contains 'blog' %}
-{% assign notjekyllposts = notjekyllposts | push: apost %}
-{% endunless %}
-{% endfor %}
-{% include post-list.html notjekyllposts=notjekyllposts %}
-
 <div class="container">
+
+	{% assign first = paginator.posts | first %}
+
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="{{ first.url }}" class="image" style="background-image: url('{{ first.image }}'); height: 600px; display:block;" rel="{{ first.title }}"></a>
+		</div>
+	</div>
 
 	<div class="row">
 		<div class="col-sm-8 post-list">
-			{% include post-list.html posts=notjekyllposts %}
+			{% include post-list.html posts=paginator.posts %}
 		</div>
 			
 		<div class="col-sm-3 sidebar">

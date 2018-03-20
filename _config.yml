@@ -9,6 +9,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+  category:
+    output: true
 defaults:
 - scope:
     path: ''
@@ -16,6 +18,11 @@ defaults:
   values:
     layout: post
     image: ''
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
 author: Jungle Skipper
 description: Reviews, news and facts from Disney parks around the world.
 url: https://jungleskipper.com
@@ -31,7 +38,7 @@ social:
   - https://instagram.com/_jungleskipper
 lang: en_UK
 baseurl: ''
-paginate: 5
+paginate: 7
 gems:
 - jekyll-paginate
 - jekyll-feed
@@ -40,3 +47,4 @@ gems:
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass
+emptyArray: []

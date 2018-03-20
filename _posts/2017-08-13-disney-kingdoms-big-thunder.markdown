@@ -6,7 +6,8 @@ categories:
 tags:
 - book
 - walt-disney-world
-image: "/uploads/IMG_0289.png"
+image: "/uploads/big-thunder.png"
+image-thumb: "/uploads/big-thunder-thumb.png"
 ---
 
 Disney partnered with Marvel to create a series of original comic books all branded under the Disney Kingdoms banner. The first one that came to my attention is on Big Thunder Mountain Railroad, however, I will be reviewing the rest of them in time. 

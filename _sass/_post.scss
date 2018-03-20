@@ -1,15 +1,17 @@
 article {
 	img, iframe {
 		width: 100%;
+		max-height: 500px;
+		object-fit: cover;
 	}
 
 	a.large.previous {
-		display: block;
-		line-height: 16px;
+		line-height: 1em;
+		position: absolute;
+		top: 1;
 
 		@include media-breakpoint-down(xs) {
-			text-align: center;
-			margin-bottom: 20px;
+			display: none;
 		}
 	}
 
@@ -18,31 +20,7 @@ article {
 		float: right;
 
 		@include media-breakpoint-down(xs) {
-			float: none;
-			text-align: center;
-		}
-	}
-
-	.nsfm {
-		position: relative;
-
-		.blur {
-			filter: blur(5px);
-		}
-
-		&::after {
-			background: white;
-			border-radius: 3px;
-			content: "This is NSFM (Not Safe for Magic) - Click to reveal";
-			padding: 20px;
-			position: absolute;
-			top: calc(50% - 41px);
-			left: calc(50% - 130px);
-			text-align: center;
-			width: 260px;
-			filter: none;
-			line-height: 1.5em;
-			cursor: pointer;
+			display: none;
 		}
 	}
 
@@ -109,8 +87,12 @@ article {
 	}
 }
 
+.post-sidebar {
+	padding-top: 20px;
+}
+
 section.image {
-	margin: 60px 0;
+	margin: 0 0 60px;
 	width: 100%;
 
 	@include media-breakpoint-down(xs) {
@@ -216,61 +198,5 @@ section.comments {
 
 	button {
 
-	}
-}
-
-#sharing {
-	display: block;
-	margin: 48px 0;
-	text-align: right;
-	width: 100%;
-
-	@include media-breakpoint-down(xs) {
-		text-align: center;
-		margin: 20px 0;
-	}
-
-	[class^="icon-"]:before, [class*=" icon-"]:before {
-		font-family: "icons";
-		font-style: normal;
-		font-weight: normal;
-		speak: none;
-		display: inline-block;
-		text-decoration: inherit;
-		text-align: center;
-		font-variant: normal;
-		text-transform: none;
-		line-height: 1em;
-		margin-right: 3px;
-	}
-
-	.icon-facebook:before { content: '\e802'; }
-	.icon-facebook-squared:before { content: '\e800'; }
-	.icon-twitter:before { content: '\e801'; }
-	.icon-twitter-1:before { content: '\e804'; }
-	.icon-facebook-circled:before { content: '\e805'; }
-	.icon-twitter-circled:before { content: '\e806'; }
-	.icon-facebook-rect:before { content: '\e803'; }
-
-
-	a {
-		font-size: 20px;
-		font-size: 13px;
-		color: #fff;
-		padding: 6px 10px;
-		border-radius: 4px;
-
-		&:hover {
-			opacity: 0.8;
-			text-decoration: none;
-		}
-
-		&.facebook {
-			background: #4361b3;
-		}
-
-		&.twitter {
-			background: #4fafed;
-		}
 	}
 }

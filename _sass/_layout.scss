@@ -3,107 +3,6 @@ body {
 	margin: 0;
 }
 
-
-header.main {
-	border-bottom: 1px solid #EEEEEE;
-	width: 100%;
-
-	@include media-breakpoint-down(xs) { 
-		border-bottom: 0;
-	}
-
-	.title {
-		border-bottom: 1px solid #EEEEEE;
-
-		svg {
-			display: block;
-			margin: 30px auto 10px;
-			width: 250px;
-		}
-
-		a {
-			@include lato;
-			color: #4D4D4D;
-			font-size: 24px;
-			text-decoration: none;
-			text-align: center;
-			margin: 0 auto 30px auto;
-			display: block;
-			width: 250px;
-
-			&::before {
-				display: none;
-			}
-		}
-	}
-
-	.nav {
-		display: block;
-		overflow: hidden;
-		margin: 0 auto;
-		width: 574px;
-
-		a {
-			@include poppins;
-			color: #4D4D4D;
-			display: block;
-			float: left;
-			font-size: 18px;
-			line-height: 18px;
-			padding: 30px 20px 25px;
-			letter-spacing: 2px;
-			text-transform: uppercase;
-			text-decoration: none;
-			text-align: center;
-
-			&.selected {
-				border-bottom: 2px solid #EF674E;
-			}
-
-			&::before {
-				border-bottom: 2px solid #EF674E;
-				bottom: -2px;
-				left: 0;
-			}
-		}
-
-		@include media-breakpoint-down(xs) {
-
-			display: block;
-			background: url('/images/handburger.png') no-repeat;
-			height: 36px;
-			position: fixed;
-			top: 5px;
-			left: 5px;
-			width: 36px;
-			z-index: 1;
-
-			a {
-				display: none;
-			}
-
-			&.open {
-				background: #EF674E;
-				width: 130px;
-				padding: 15px 0;
-				height: auto;
-				border-radius: 3px;
-
-				a {
-					@include poppins;
-					display: block;
-					color: #fff;
-					font-size: 14px;
-					padding: 5px 20px;
-					text-transform: none;
-					text-align: left;
-					letter-spacing: 0;
-				}
-			}
-		}
-	}
-}
-
 .post-list {
 	@include margin(60px, auto, 60px, auto);
 
@@ -212,19 +111,6 @@ header.main {
 				}
 			}
 		}
-
-
-		/*
-		a.twitter {
-			background: url('/images/twitter.png') no-repeat 30px center;
-			padding-left: 70px;
-		}
-
-		a.rss {
-			background: url('/images/rss.png') no-repeat 30px center;
-			padding-left: 70px;
-		}
-		*/
 
 		input[type="email"] {
 			margin-bottom: 10px;
