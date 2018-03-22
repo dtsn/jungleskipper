@@ -1,6 +1,5 @@
 ---
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -18,12 +17,19 @@
 
 		<link rel="shortcut icon" href="/images/icon.png">
 		<link rel="stylesheet" href="/css/jungleskipper.css">
+
+		{% if page.gallery %}
+		<link rel="stylesheet" href="/assets/styles/photoswipe.css"> 
+		<link rel="stylesheet" href="/assets/styles/default-skin/default-skin.css"> 
+		<script src="/assets/scripts/photoswipe.min.js"></script> 
+		<script src="/assets/scripts/photoswipe-ui-default.min.js"></script> 
+		{% endif %}
+
 	</head>
 	<body>
 		<div class="container">
 			{% include header/main.html %}
 		</div>
-
 
 		<section class="content">
 			{{ content }}
@@ -88,21 +94,6 @@
 			ga('send', 'pageview');
 		</script>
 
-		<script type="text/javascript">
-			var menu = document.getElementById('menu');
-			menu.addEventListener('click', function (e) {
-				e.stopPropagation();
-				menu.classList.add('open');
-			});
-			document.addEventListener('click', function () {
-				menu.classList.remove('open');
-			});
-
-			Array.prototype.slice.call(document.querySelectorAll('.nsfm')).forEach(function (element) {
-				element.addEventListener('click', function () {
-					element.classList.remove('nsfm');
-				});
-			});
-		</script>
+		<script type="text/javascript" src="/assets/scripts/jungleskipper.js"></script>
 	</body>
 </html>

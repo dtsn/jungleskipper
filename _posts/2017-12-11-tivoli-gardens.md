@@ -11,10 +11,11 @@ categories:
 tags:
 - tivoli-gardens
 
+gallery-path: /gallery/parks/tivoli-gardens
 gallery:
-- filename:
-  thumb:
-  caption:
+- filename: 1.png
+  thumb: 1-thumb.png
+  caption: Testing
 
 ---
 
