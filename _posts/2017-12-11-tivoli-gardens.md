@@ -11,10 +11,9 @@ categories:
 tags:
 - tivoli-gardens
 
-gallery-path: /gallery/parks/tivoli-gardens
+gallery-path: /uploads/parks/tivoli-gardens
 gallery:
-- filename: 1.png
-  thumb: 1-thumb.png
+- filename: nimb-brasserie
   caption: Testing
 
 ---
