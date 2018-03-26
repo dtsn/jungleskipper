@@ -20,7 +20,7 @@ gallery:
 
 # Tivoli Gardens
 
-Tivoli Gardens is a small amusement park located at the centre of Copenhagen. It is one of the oldest theme parks in the world to still be operating, it is only bettered by Bakken park located north of Copenhagen. The park was made world famous by  Walt Disney’s visiting in the 1960’s, and is often referenced as the [inspiration behind Disneyland]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens.md %}).
+Tivoli Gardens is a small amusement park located at the centre of Copenhagen. It is one of the oldest theme parks in the world to still be operating, it is only bettered by Bakken park located north of Copenhagen. The park was made world famous by  Walt Disney’s visiting in the 1960’s, and is often referenced as the [inspiration behind Disneyland]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens %}).
 
 We visited Tivoli Gardens in an extremely cold December and stayed for 3 nights in the Tivoli Hotel.
 
@@ -56,7 +56,7 @@ At the centre of Tivoli there is the food hall, this contains around 10 independ
 The food, a bit like everything in Denmark, is very expensive but the portions large. While we were in the park we mostly stuck to the Churros, which were so good for had them every night. 
 
 ## Atmosphere
-Tivoli Gardens is a beautiful park and you can see why Walt Disney was inspired when visiting the park. If you would like to read more about [Walt Disney and Tivoli Garden you can read my in depth article]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens.md %}).
+Tivoli Gardens is a beautiful park and you can see why Walt Disney was inspired when visiting the park. If you would like to read more about [Walt Disney and Tivoli Garden you can read my in depth article]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens %}).
 
 Tivoli really shines at night, it has thousands of beautiful lights which illuminates the park. The park a beautiful and fun atmosphere. We visited around Christmas time and the park had a Christmas market. All the stalls where beautiful, though they sold a very limited selection.
 

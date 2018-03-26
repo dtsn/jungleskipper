@@ -1,0 +1,7 @@
+{% for post in include.posts %}
+	<div class="row">
+		<div class="col-sm-12">
+			{% include post/summary.html post=post %}
+		</div>
+	</div>
+{% endfor %}

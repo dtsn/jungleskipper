@@ -1,0 +1,14 @@
+<header class="main">
+	<div class="title">
+		<a href="/" rel="Home" class="no-hover">
+			Jungle Skipper
+		</a>
+	</div>
+	<nav>
+		<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
+		<a href="/review" class="{% if page.url == '/review/' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
+		<a href="/planning" class="{% if page.url == '/planning/' %}selected{% endif %}">Planning</a>
+		<a href="/blog" class="{% if page.url == '/blog/' or page.categories[0] == 'blog' %}selected{% endif %}">Blog</a>
+		<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
+	</nav>
+</header>

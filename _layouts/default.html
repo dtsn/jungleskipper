@@ -16,7 +16,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700" rel="stylesheet">
 
 		<link rel="shortcut icon" href="/images/icon.png">
-		<link rel="stylesheet" href="/css/jungleskipper.css">
+		<link rel="stylesheet" href="/assets/styles/jungleskipper.css">
 
 		{% if page.gallery %}
 		<link rel="stylesheet" href="/assets/styles/photoswipe.css"> 
@@ -28,11 +28,26 @@
 	</head>
 	<body>
 		<div class="container">
-			{% include header/main.html %}
+			{% include header.html %}
 		</div>
 
 		<section class="content">
 			{{ content }}
+
+			<!-- Pagination links -->
+			<div class="pagination">
+				{% if paginator.previous_page %}
+					<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+				{% else %}
+					<span class="previous">Previous</span>
+				{% endif %}
+				<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+				{% if paginator.next_page %}
+					<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+				{% else %}
+				<span class="next ">Next</span>
+				{% endif %}
+			</div>
 		</section>
 
 		<footer>

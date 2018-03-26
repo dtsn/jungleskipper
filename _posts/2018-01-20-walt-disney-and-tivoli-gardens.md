@@ -15,7 +15,7 @@ tags:
 
 Tivoli Garden is the second oldest theme park in the world. It’s located right at the heart of Copenhagen, Denmark. Tivoli has strong links to Walt Disney. Walt visited Tivoli in 1951 while on a European tour promoting his latest feature film Alice in Wonderland. It was only a few years after he visited that construction on Disneyland was started.
 
-{% include youtube.html id="vdxBHB6GEhc"}
+{% include youtube.html id='vdxBHB6GEhc' %}
 
 During the Great Depression in the U.S. (1929-1939) a lot of the amusement parks were closed or fell into disrepair. By the 1950’s the ones which were left were dull, almost seedy places which targeted mostly adults. Tivoli, however, was completely different. Known for it’s lush gardens, fine restaurants, nightly fireworks and wholesome family atmosphere[1].
 
@@ -32,7 +32,7 @@ The relationship between the Walt Disney Company and Tivoli is still active toda
 
 The parade will begin in the summer of 2018 so we will have to wait until then to see the design of the parade float.
 
-For more information on Tivoli Gardens, be sure to check out my [review of our Christmas trip]({% post_url 2018-12-11-tivoli-gardens.md %}.
+For more information on Tivoli Gardens, be sure to check out my [review of our Christmas trip]({% post_url 2017-12-11-tivoli-gardens %}.
 
 [1] - How to Be Like Walt: Capturing the Disney Magic Every Day of Your Life - By Pat Williams, Jim Denney - https://books.google.co.uk/books?id=RV2hAgAAQBAJ&lpg=PA184&ots=IMzK1Leelk&dq=Art%20Linkletter%20tivoli&pg=PA184#v=onepage&q=Art%20Linkletter%20tivoli&f=false
 [2] - https://www.tivoligardens.com/en/om/presse/pressemeddelelser/2017/walt+disney
