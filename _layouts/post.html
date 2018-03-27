@@ -10,26 +10,19 @@ layout: default
 	</div>
 
 	<div class="row">
-		<div class="col-md-1">
-			{% if page.previous.url %}
-			<a class="large previous" title="{{page.previous.categories | first}}: {{page.previous.title}}" href="{{page.previous.url}}">&larr;</a>
-			{% endif %}
-		</div>
-		<div class="content col-md-7">
+		<div class="content col-md-8 col-sm-12">
 			<h5>
 				<a href="/{{ page.categories | first }}">{{ page.categories | first }}</a>
 			</h5>
 		</div>
-		<div class="offset-md-1 col-md-3">
-			{% if page.next.url %}
-			<a class="large next" title="{{page.previous.categories | first}}: {{page.previous.title}}" href="{{page.next.url}}">Next Article &rarr;</a>
-			{% endif %}
-		</div>
 	</div>
 	<div class="row">
-		<section class="content col-md-7 offset-md-1">
+		<section class="content col-md-8 col-sm-12">
 			
-			<h1>{{ page.title | replace: 'Review', '' }}</h1>
+			<h1>{{ page.title }}</h1>
+			<div class="comment-count">
+				<a href="#comments">{{ site.data.comments[page.slug] | size }} Comments</a>
+			</div>
 
 			{% if page.tags contains 'nsfm' %}
 				<p><em>This article has been tagged `nsfm` (not safe for magic) and normally reviles something behind the scences.</em></p>
@@ -46,7 +39,7 @@ layout: default
 			</div>
 		</section>
 
-		<div class="post-sidebar offset-md-1 col-md-3">
+		<div class="post-sidebar col-md-4 col-sm-12">
 			{% include share.html %}
 		</div>
 
@@ -59,7 +52,7 @@ layout: default
 <section class="comments">
 	<div class="container">
 		<div class="row">
-			<div class="offset-md-1 col-sm-5">
+			<div class="col-md-6 col-sm-12">
 
 				<h3>Comments</h3>
 
@@ -90,7 +83,8 @@ layout: default
 				{% endif %}
 
 			</div>
-			<div class="offset-sm-1 col-sm-5">
+			<div class="col-md-6 col-sm-12">
+				<a name="comments"></a>
 				<h3>Join the conversation</h3>
 				{% include comment.html %}
 			</div>

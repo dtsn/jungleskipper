@@ -6,26 +6,45 @@ layout: default
 	{% assign first = paginator.posts | first %}
 
 	<div class="row">
-		<div class="col-sm-12">
-			<a href="{{ first.url }}" class="hero" style="background-image: url('{{ first.image }}');" rel="{{ first.title }}"></a>
-			{% for post in paginator.posts %}
-				{% if forloop.first == true %}
-					{% include post/summary.html post=post %}
-				{% endif %}
-			{% endfor %}
+		<div class="col-12">
+			<div class="hero">
+				<a href="{{ first.url }}" rel="{{ first.title }}">
+					<img src="{{ first.image }}" />
+				</a>
+				{% for post in paginator.posts %}
+					{% if forloop.first == true %}
+						{% include post/summary.html post=post %}
+					{% endif %}
+				{% endfor %}
+			</div>
 		</div>
 	</div>
 
 	<div class="row">
-		<div class="col-sm-8 post-list">
+		<div class="col-md-8 col-xs-12 post-list">
 			{% for post in paginator.posts %}
 				{% if forloop.first != true %}
 					{% include post/summary.html post=post %}
 				{% endif %}
 			{% endfor %}
+
+			<!-- Pagination links -->
+			<div class="pagination">
+				{% if paginator.previous_page %}
+					<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+				{% else %}
+					<span class="previous">Previous</span>
+				{% endif %}
+				<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+				{% if paginator.next_page %}
+					<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+				{% else %}
+				<span class="next ">Next</span>
+				{% endif %}
+			</div>
 		</div>
 			
-		<div class="col-sm-3 sidebar">
+		<div class="col-md-3 col-xs-12 sidebar">
 			<h3>Stay up to date</h3>
 
 			<div class="box">
@@ -44,19 +63,6 @@ layout: default
 					</form>
 				</div>
 			</div>
-
-			<h3>Latest in the Blog</h3>
-
-			{% for post in site.categories.blog limit:1 %}
-				<div class="blog-post">
-					<div class="main-image">
-						<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
-					</div>
-					<h3>{{post.title}}</h3>
-					<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
-					<a href="{{ post.url }}" class="large">Read More &rarr;</a>
-				</div>
-			{% endfor %}
 		</div>
 	</div>
 </div>
