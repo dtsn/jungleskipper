@@ -11,12 +11,10 @@ categories:
 - tours
 
 tags:
-- disney
 - walt-disney-world
-- wdw
 - magic-kingdom
-- mk
 - tour
+- review
 - nsfm
 
 redirect_from:

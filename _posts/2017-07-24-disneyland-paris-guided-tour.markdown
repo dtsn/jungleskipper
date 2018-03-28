@@ -10,7 +10,6 @@ categories:
 
 tags:
 - disneyland-paris
-- dlp
 - tony-baxter
 - tours
 

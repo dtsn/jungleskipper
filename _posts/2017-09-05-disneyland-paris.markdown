@@ -13,7 +13,8 @@ categories:
 
 tags:
 - disneyland-paris
-- dlp
+- walt-disney-studios
+- review
 ---
 
 Disneyland Paris has always been considered to be the most beautiful Disney theme park. The level of detail that Walt Disney Imagineering gave the park is breathtaking, however, after decades of neglect and underfunding it became a shadow of its former self. Pavements were cracking, the paint was peeling and the rides , .

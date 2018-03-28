@@ -10,6 +10,8 @@ categories:
 
 tags:
 - tivoli-gardens
+- copenhagen
+- review
 
 gallery-path: /uploads/parks/tivoli-gardens
 gallery:
