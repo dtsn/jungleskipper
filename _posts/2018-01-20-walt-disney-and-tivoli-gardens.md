@@ -1,7 +1,7 @@
 ---
 title: Walt Disney & Tivoli Gardens
 date: 2017-09-05 18:15:00 Z
-image: "/uploads/gallery/parks/tivoli-gardens/walt-disney-at-tivoli.jpg"
+image: "/uploads/walt-disney-at-tivoli.jpg"
 
 categories:
 - parks

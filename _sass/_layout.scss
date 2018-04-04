@@ -3,6 +3,99 @@ body {
 	margin: 0;
 }
 
+header.main {
+	border-bottom: 1px solid #EEEEEE;
+	width: 100%;
+
+	@include media-breakpoint-down(xs) { 
+		border-bottom: 0;
+	}
+
+	.title {
+		border-bottom: 1px solid #EEEEEE;
+
+		svg {
+			display: block;
+			margin: 30px auto 10px;
+			width: 250px;
+		}
+
+		a {
+			@include lato;
+			color: #4D4D4D;
+			font-size: 24px;
+			text-decoration: none;
+			text-align: center;
+			margin: 0 auto 30px auto;
+			display: block;
+			width: 250px;
+
+			&::before {
+				display: none;
+			}
+		}
+	}
+
+	nav {
+		display: block;
+		overflow: hidden;
+		margin: 0 auto;
+
+		ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			text-align: center;
+
+			li {
+				display: inline-block;
+
+				ul {
+					background: #fff;
+					position: absolute;
+					top: 160px;
+					display: none;
+					z-index: 99;
+				}
+
+				&:hover ul {
+					display: block;
+					width: 200px;
+
+					li {
+						display: block;
+					}
+				}
+			}
+		}
+
+		a {
+			@include poppins;
+			color: #4D4D4D;
+			display: block;
+			float: left;
+			font-size: 18px;
+			font-size: 1.8vw;
+			line-height: 18px;
+			padding: 30px 10px 25px;
+			letter-spacing: 2px;
+			text-transform: uppercase;
+			text-decoration: none;
+			text-align: center;
+
+			&.selected {
+				border-bottom: 2px solid #EF674E;
+			}
+
+			&::before {
+				border-bottom: 2px solid #EF674E;
+				bottom: -2px;
+				left: 0;
+			}
+		}
+	}
+}
+
 .post-list {
 	
 
