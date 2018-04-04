@@ -20,8 +20,11 @@ layout: default
 		<section class="content col-md-8 col-sm-12">
 			
 			<h1>{{ page.title }}</h1>
-			<div class="comment-count">
+			<div class="top-meta">
 				<a href="#comments">{{ site.data.comments[page.slug] | size }} Comments</a>
+				{% if page.gallery %}
+				<a href="#gallery">{{ site.data.gallery[page.gallery].pictures | size }} Images</a>
+				{% endif %}
 			</div>
 
 			{% if page.tags contains 'nsfm' %}

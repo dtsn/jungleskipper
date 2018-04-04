@@ -13,10 +13,7 @@ tags:
 - copenhagen
 - review
 
-gallery-path: /uploads/parks/tivoli-gardens
-gallery:
-- filename: nimb-brasserie
-  caption: Testing
+gallery: 2017-12-11-tivoli-gardens
 
 ---
 
