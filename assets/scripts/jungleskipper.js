@@ -1,4 +1,4 @@
-var menu = document.getElementById('menu');
+/*var menu = document.getElementById('menu');
 menu.addEventListener('click', function (e) {
 	e.stopPropagation();
 	menu.classList.add('open');
@@ -11,4 +11,4 @@ Array.prototype.slice.call(document.querySelectorAll('.nsfm')).forEach(function 
 	element.addEventListener('click', function () {
 		element.classList.remove('nsfm');
 	});
-});
+});*/

@@ -20,9 +20,7 @@
 
 		{% if page.gallery %}
 		<link rel="stylesheet" href="/assets/styles/photoswipe.css"> 
-		<link rel="stylesheet" href="/assets/styles/default-skin/default-skin.css"> 
-		<script src="/assets/scripts/photoswipe.min.js"></script> 
-		<script src="/assets/scripts/photoswipe-ui-default.min.js"></script> 
+		<link rel="stylesheet" href="/assets/styles/default-skin.css"> 
 		{% endif %}
 
 	</head>
@@ -93,6 +91,12 @@
 			ga('create', 'UA-102975149-1', 'auto');
 			ga('send', 'pageview');
 		</script>
+
+		{% if page.gallery %}
+		<script src="/assets/scripts/photoswipe.min.js"></script> 
+		<script src="/assets/scripts/photoswipe-ui-default.min.js"></script>
+		<script src="/assets/scripts/photoswipe.js"></script>
+		{% endif %}
 
 		<script type="text/javascript" src="/assets/scripts/jungleskipper.js"></script>
 	</body>

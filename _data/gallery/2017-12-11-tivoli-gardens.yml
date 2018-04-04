@@ -1,0 +1,51 @@
+name: Tivoli Gardens 2017
+basePath: /uploads/gallery/tivoli-2017/
+pictures:
+- filename: nimb-brasserie
+  caption: Numb Brasserie is located in this imposing all white building.
+  height: 1279
+  width: 1920
+- filename: lightbulb
+  caption: The signature Tivoli lightbulb
+  height: 1280
+  width: 1920
+- filename: carousel
+  caption:
+  height: 1280
+  width: 1920
+- filename: chinese-lanterns
+  caption:
+  height: 1280
+  width: 1920
+- filename: entrance
+  caption:
+  height: 1280
+  width: 1920
+- filename: heart-tree
+  caption:
+  height: 1280
+  width: 1920
+- filename: pirate-ship
+  caption:
+  height: 1280
+  width: 1920
+- filename: ride
+  caption:
+  height: 1791
+  width: 1920
+- filename: temple
+  caption:
+  height: 2880
+  width: 1920
+- filename: tivoli-decor
+  caption:
+  height: 1280
+  width: 1920
+- filename: tivoli-solider
+  caption: 
+  height: 2880
+  width: 1920
+- filename: tivoli-street
+  caption: 
+  height: 1280
+  width: 1920
