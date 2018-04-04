@@ -8,7 +8,6 @@ categories:
 
 tags:
 - planning
-
 ---
 
 We've been to a lot of theme parks over the last few years and have fine tuned what I carry (I do most of the carrying). It's difficult to balance the need to take everything and the practicality of not wanting to carry it around all day.

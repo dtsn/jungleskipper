@@ -13,6 +13,8 @@ categories:
 
 tags:
 - disneyland-paris
+- walt-disney-studios
+- review
 - dlp
 
 reddit: disneylandparis

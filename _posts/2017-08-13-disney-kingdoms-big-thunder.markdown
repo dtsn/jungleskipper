@@ -10,8 +10,7 @@ categories:
 
 tags:
 - book
-- walt-disney-world
-- wdw
+- review
 
 redirect_from:
 - /review/disney-kingdoms-big-thunder

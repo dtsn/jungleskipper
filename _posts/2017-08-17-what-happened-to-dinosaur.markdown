@@ -12,9 +12,7 @@ categories:
 
 tags:
 - walt-disney-world
-- wdw
 - animal-kingdom
-- ak
 - rides
 - dinosaur
 - countdown-to-extinction

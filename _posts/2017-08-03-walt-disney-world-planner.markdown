@@ -9,7 +9,6 @@ categories:
 
 tags:
 - walt-disney-world
-- wdw
 - planning
 
 reddit: WaltDisneyWorld

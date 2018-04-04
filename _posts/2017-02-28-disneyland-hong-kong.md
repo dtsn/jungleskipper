@@ -10,6 +10,7 @@ categories:
 - disneyland-hong-kong
 
 tags:
+- review
 - hong-kong-disneyland
 - hkdl
 

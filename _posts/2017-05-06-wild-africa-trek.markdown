@@ -13,9 +13,8 @@ categories:
 tags:
 - tour
 - walt-disney-world
-- wdw
 - animal-kingdom
-- ak
+- review
 
 redirect_from:
 - /review/wild-africa-trek
