@@ -19,6 +19,8 @@ tags:
 
 redirect_from:
 - /review/wild-africa-trek
+
+reddit: WaltDisneyWorld
 ---
 
 It was our first wedding anniversary in early May and we wanted to do something special. Originally we had an African safari planned, but once we realised how expensive I managed to convince Jade to go on a 10 day trip to Walt Disney World (WDW). I spent ages trying to find a surprise, something which would make our experience more special and stumbled across the Wild Africa Trek on the [WDW tours page](https://disneyworld.disney.go.com/events-tours/).

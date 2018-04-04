@@ -16,6 +16,8 @@ tags:
 
 redirect_from:
 - /blog/disneyland-paris-guided-tour
+
+reddit: disneylandparis
 ---
 
 I am heading to Disneyland Paris for the 25th anniversary in less than a month so I have been upping my research around the park and stumbled upon these 3 great videos shared by [Le Parcorama](http://www.leparcorama.com/2017/04/02/a-guided-tour-of-disneyland-paris-with-imagineer-tony-baxter/) and [DLP Guide](http://www.dlpguide.com/).

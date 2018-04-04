@@ -11,6 +11,8 @@ tags:
 - walt-disney-world
 - wdw
 - planning
+
+reddit: WaltDisneyWorld
 ---
 
 There are so many things to do and see in WDW it really helps if you have a spreadsheet. When I went earlier this year I used this simple spreadsheet to help plan what I was doing each day, it proved helpful to some people on [reddit](https://www.reddit.com/r/WaltDisneyWorld/comments/5w9ece/my_plan_please_critique/) so I thought I would improve it and share it here:

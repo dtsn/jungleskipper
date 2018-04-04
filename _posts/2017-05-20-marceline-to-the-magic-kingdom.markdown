@@ -22,6 +22,7 @@ tags:
 redirect_from:
 - /review/marceline-to-the-magic-kingdom
 
+reddit: WaltDisneyWorld
 ---
 
 On a very wet Friday morning, I woke up early and made my way from our room in Coronado Springs to the Magic Kingdom. I had to be there for park opening at 08:00am in order to meet the tour guide. It was a surreal experience, boarding an empty monorail train and riding towards a park normally alive with activity just getting warmed up.
