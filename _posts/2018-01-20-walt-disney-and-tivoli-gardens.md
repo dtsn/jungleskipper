@@ -1,6 +1,6 @@
 ---
 title: Walt Disney & Tivoli Gardens
-date: 2017-09-05 18:15:00 Z
+date: 2018-01-20 18:15:00 Z
 image: "/uploads/walt-disney-at-tivoli.jpg"
 
 categories:
@@ -11,8 +11,6 @@ tags:
 - tivoli-gardens
 - walt-disney
 ---
-# Walt Disney & Tivoli Gardens
-
 Tivoli Garden is the second oldest theme park in the world. It’s located right at the heart of Copenhagen, Denmark. Tivoli has strong links to Walt Disney. Walt visited Tivoli in 1951 while on a European tour promoting his latest feature film Alice in Wonderland. It was only a few years after he visited that construction on Disneyland was started.
 
 {% include youtube.html id='vdxBHB6GEhc' %}
@@ -28,11 +26,8 @@ There are many simularities between Tivoli and the modern day Disney park. I bel
 ## Future
 The relationship between the Walt Disney Company and Tivoli is still active today. As part of Tivoli's 175 year celebration Walt Disney World is contributing a float designed around it's a small world to the Tivoli parade.
 
-> “Walt Disney loved Tivoli, and so do we. Out of long friendship and deep mutual respect, Tivoli and Disney Parks have maintained a very cordial dialogue over the years, ranging from employee exchange visits to discussions of best practices amongst our leadership. We at Walt Disney World Resort hold the Tivoli organization in the highest esteem, and we are pleased to express that through our participation in the Tivoli 175-year Jubilee Parade.” <br/> — George A. Kalogridis, President, Walt Disney World Resort [2]
+> “Walt Disney loved Tivoli, and so do we. Out of long friendship and deep mutual respect, Tivoli and Disney Parks have maintained a very cordial dialogue over the years, ranging from employee exchange visits to discussions of best practices amongst our leadership. We at Walt Disney World Resort hold the Tivoli organization in the highest esteem, and we are pleased to express that through our participation in the Tivoli 175-year Jubilee Parade.” <br/> — George A. Kalogridis, President, Walt Disney World Resort
 
 The parade will begin in the summer of 2018 so we will have to wait until then to see the design of the parade float.
 
-For more information on Tivoli Gardens, be sure to check out my [review of our Christmas trip]({% post_url 2017-12-11-tivoli-gardens %}.
-
-[1] - How to Be Like Walt: Capturing the Disney Magic Every Day of Your Life - By Pat Williams, Jim Denney - https://books.google.co.uk/books?id=RV2hAgAAQBAJ&lpg=PA184&ots=IMzK1Leelk&dq=Art%20Linkletter%20tivoli&pg=PA184#v=onepage&q=Art%20Linkletter%20tivoli&f=false
-[2] - https://www.tivoligardens.com/en/om/presse/pressemeddelelser/2017/walt+disney
+For more information on Tivoli Gardens, be sure to check out my [review of our Christmas trip]({% post_url 2017-12-11-tivoli-gardens %}).

@@ -1,6 +1,6 @@
 ---
 title: Tivoli Gardens
-date: 2017-09-05 18:15:00 Z
+date: 2017-12-11 18:15:00 Z
 image: "/uploads/DSC01839.JPG"
 permalink: /parks/tivoli-gardens/review
 

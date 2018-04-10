@@ -4,7 +4,6 @@ body {
 }
 
 header.main {
-	border-bottom: 1px solid #EEEEEE;
 	width: 100%;
 
 	@include media-breakpoint-down(xs) { 
@@ -49,11 +48,12 @@ header.main {
 
 			li {
 				display: inline-block;
+				
 
 				ul {
 					background: #fff;
 					position: absolute;
-					top: 160px;
+					top: 180px;
 					display: none;
 					z-index: 99;
 				}
@@ -73,24 +73,21 @@ header.main {
 			@include poppins;
 			color: #4D4D4D;
 			display: block;
-			float: left;
 			font-size: 18px;
-			font-size: 1.8vw;
 			line-height: 18px;
-			padding: 30px 10px 25px;
+			padding: 30px 20px 30px 20px;
+			position: relative;
 			letter-spacing: 2px;
 			text-transform: uppercase;
 			text-decoration: none;
 			text-align: center;
 
-			&.selected {
-				border-bottom: 2px solid #EF674E;
+			&:hover {
+				color: #EF674E;
 			}
 
-			&::before {
-				border-bottom: 2px solid #EF674E;
-				bottom: -2px;
-				left: 0;
+			&.selected {
+				background: url('/assets/images/menu-selected.png') no-repeat right 55px;
 			}
 		}
 	}

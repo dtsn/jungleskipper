@@ -2,6 +2,7 @@ article {
 	img, iframe {
 		width: 100%;
 		object-fit: cover;
+		max-height: 650px;
 	}
 	
 	.meta {
@@ -62,7 +63,6 @@ article {
 			left:0;
 			width:100%;
 			height:100%;
-			max-width: 635px;
 		}
 	}
 }

@@ -9,7 +9,7 @@
 		<ul>
 			<li><a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a></li>
 			<li>
-				<a href="/parks/" class="">Parks &amp; Resorts</a>
+				<a href="/parks/" class="{% if page.url == '/parks/' or page.categories[0] == 'parks' %}selected{% endif %}">Parks &amp; Resorts</a>
 				<ul>
 					<li><a href="/parks/walt-disney-world">Walt Disney World</a></li>
 					<li><a href="/parks/disneyland-paris">Disneyland Paris</a></li>

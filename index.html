@@ -2,15 +2,9 @@
 layout: default
 ---
 <div class="container">
-
-	{% assign first = paginator.posts | first %}
-
 	<div class="row">
 		<div class="col-12">
 			<div class="hero">
-				<a href="{{ first.url }}" rel="{{ first.title }}">
-					<img src="{{ first.image }}" />
-				</a>
 				{% for post in paginator.posts %}
 					{% if forloop.first == true %}
 						{% include post/summary.html post=post %}
