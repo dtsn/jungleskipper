@@ -56,12 +56,17 @@ header.main {
 					top: 180px;
 					display: none;
 					z-index: 99;
+					width: 330px;
+					padding: 10px 0;
+
+					a {
+						text-align: left;
+						padding: 10px 20px;
+					}
 				}
 
 				&:hover ul {
 					display: block;
-					width: 200px;
-
 					li {
 						display: block;
 					}
@@ -87,7 +92,8 @@ header.main {
 			}
 
 			&.selected {
-				background: url('/assets/images/menu-selected.png') no-repeat right 55px;
+				color: #EF674E;
+				// background: url('/assets/images/menu-selected.png') no-repeat right 55px;
 			}
 		}
 	}

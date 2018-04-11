@@ -17,9 +17,9 @@
 					<li><a href="/parks/tokyo-disney-resort">Tokyo Disney Resort</a></li>
 				</ul>
 			</li>
-			<li><a href="">Reviews</a></li>
-			<li><a href="">Planning</a></li>
-			<li><a href="">About</a></li>
+			<li><a href="/reviews/" class="{% if page.url == '/reviews/' or page.categories[0] == 'reviews' %}selected{% endif %}">Reviews</a></li>
+			<li><a href="/planning/" class="{% if page.url == '/planning/' or page.categories[0] == 'planning' %}planning{% endif %}">Planning</a></li>
+			<li><a href="/about/" class="{% if page.url == '/about/' %}selected{% endif %}">About</a></li>
 		</ul>
 	</nav>
 </header>

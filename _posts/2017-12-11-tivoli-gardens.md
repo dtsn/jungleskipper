@@ -11,7 +11,7 @@ categories:
 tags:
 - tivoli-gardens
 - copenhagen
-- review
+- reviews
 
 gallery: 2017-12-11-tivoli-gardens
 

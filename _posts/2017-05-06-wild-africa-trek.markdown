@@ -14,7 +14,7 @@ tags:
 - tour
 - walt-disney-world
 - animal-kingdom
-- review
+- reviews
 
 redirect_from:
 - /review/wild-africa-trek

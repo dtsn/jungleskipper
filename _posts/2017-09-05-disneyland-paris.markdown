@@ -14,7 +14,7 @@ categories:
 tags:
 - disneyland-paris
 - walt-disney-studios
-- review
+- reviews
 - dlp
 
 reddit: disneylandparis

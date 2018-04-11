@@ -14,7 +14,7 @@ tags:
 - walt-disney-world
 - magic-kingdom
 - tour
-- review
+- reviews
 - nsfm
 
 redirect_from:

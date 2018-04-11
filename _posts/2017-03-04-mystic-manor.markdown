@@ -12,7 +12,7 @@ categories:
 tags:
 - hong-kong-disneyland
 - ride
-- review
+- reviews
 
 redirect_from:
 - /review/mystic-manor
