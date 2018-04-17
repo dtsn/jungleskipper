@@ -20,6 +20,15 @@ body {
 	line-height: 2em;
 }
 
+a {
+	color: #EF674E;
+	
+	&:hover {
+		color: #EF674E;
+		text-decoration: underlined;
+	}
+}
+
 h1 {
 	@include poppins;
 	font-size: 48px;

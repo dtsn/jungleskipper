@@ -40,6 +40,10 @@ header.main {
 		overflow: hidden;
 		margin: 0 auto;
 
+		#menu {
+			display: none;
+		}
+
 		ul {
 			list-style: none;
 			margin: 0;
@@ -48,8 +52,6 @@ header.main {
 
 			li {
 				display: inline-block;
-				
-
 				ul {
 					background: #fff;
 					position: absolute;
@@ -73,6 +75,59 @@ header.main {
 				}
 			}
 		}
+
+		@include media-breakpoint-down(sm) {
+
+							margin-bottom: 20px;
+
+			#menu {
+				display: block;
+				border: 1px solid #EEE;
+				border-top: 0;
+				@include poppins;
+				color: #4D4D4D;
+				display: block;
+				font-size: 18px;
+				line-height: 18px;
+				padding: 20px 20px 20px 20px;
+				position: relative;
+				letter-spacing: 2px;
+				text-transform: uppercase;
+				text-decoration: none;
+				text-align: center;
+				cursor: pointer;
+			}
+
+			ul {
+				a {
+					text-align: left;
+					padding: 20px;
+					border-bottom: 1px solid #EEE;
+				}
+			}
+
+			& > ul {
+				background: #fff;
+				display: none;
+				border: 1px solid #EEE;
+				border-top: 0;
+				border-bottom: 0;
+				width: auto;
+
+				li {
+					display: block;
+
+					& > ul {
+						position: static;
+						display: block;
+						li {
+							display: block;
+						}
+					}
+				}
+			}
+		}
+		
 
 		a {
 			@include poppins;
@@ -99,6 +154,27 @@ header.main {
 	}
 }
 
+.hero {
+
+	border-bottom: 1px solid #EEE;
+	margin-bottom: 30px;
+	line-height: 1.5em;
+
+	h1 {
+		margin-bottom: 10px;
+	}
+
+	h5 {
+		margin-top: 20px;
+	}
+
+	img {
+		width: 100%;
+		object-fit: cover;
+		max-height: 650px;
+	}
+}
+
 .post-list {
 	
 
@@ -120,10 +196,9 @@ header.main {
 		font-size: 24px;
 	}
 
-	a.image {
+	a img {
 		background-position: center;
 		background-size: cover;
-		height: 240px;
 		width: 100%;
 		display: block;
 		margin-bottom: 15px;
@@ -176,7 +251,7 @@ header.main {
 
 		.social {
 			span {
-				background: #87C2C4 url('/images/social.png') no-repeat;
+				background: #87C2C4 url('/assets/images/social.png') no-repeat;
 				height: 26px;
 				width: 26px;
 				border-radius: 13px;

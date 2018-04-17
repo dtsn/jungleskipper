@@ -1,9 +1,25 @@
 name: Tivoli Gardens 2017
 basePath: /uploads/gallery/tivoli-2017/
 pictures:
-- filename: nimb-brasserie
+- filename: tivoli-gardens
+  caption: The impressive entrance to Tivoli Gardens
+  height: 1280
+  width: 1920
+- filename: bubble-waffles
+  caption: Bubble waffles are one of the fantastic snacks you can get
+  height: 1280
+  width: 1920
+- filename: gallopen
+  caption: The classic racehorse game of gallopen
+  height: 1280
+  width: 1920
+- filename: nimb
   caption: Numb Brasserie is located in this imposing all white building.
-  height: 1279
+  height: 1280
+  width: 1920
+- filename: rickbarn
+  caption: The Rickbarn is one of the oldest wooden rollercoasters in the world
+  height: 1436
   width: 1920
 - filename: lightbulb
   caption: The signature Tivoli lightbulb
@@ -17,10 +33,6 @@ pictures:
   caption:
   height: 1280
   width: 1920
-- filename: entrance
-  caption:
-  height: 1280
-  width: 1920
 - filename: heart-tree
   caption:
   height: 1280
@@ -28,10 +40,6 @@ pictures:
 - filename: pirate-ship
   caption:
   height: 1280
-  width: 1920
-- filename: ride
-  caption:
-  height: 1791
   width: 1920
 - filename: temple
   caption:

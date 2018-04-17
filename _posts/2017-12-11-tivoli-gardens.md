@@ -1,7 +1,8 @@
 ---
 title: Tivoli Gardens
 date: 2017-12-11 18:15:00 Z
-image: "/uploads/DSC01839.JPG"
+image: "/uploads/gallery/tivoli-2017/tivoli-gardens-1000.jpg"
+image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
 permalink: /parks/tivoli-gardens/review
 
 categories:
@@ -28,21 +29,29 @@ We bought a Copenhagen card which covered one entry into Tivoli per day, alterna
 
 We use the [Copenhagen Card](https://copenhagencard.com/) while we were visiting which provides entry into lots of attractions within Copenhagen and also includes free public transport.
 
+<img src="/uploads/gallery/tivoli-2017/tivoli-hotel-room-1000.jpg" alt="Tivoli Hotel Room" />
+
 ## Where to stay
 There are a lot of hotels located around Tivoli Gardens and central Copenhagen. We decided to stay in the Tivoli Hotel, which actually isn’t that close to the park. It’s a 20 minute walk through what appears to be some sort of industrial/hotel district.
 
 The hotel itself was lovely. On arrival we were greeted by Father Christmas, who could pass as the real deal - there was no expense spared. He was handing out chocolates to everyone and provided a meet and greet for the kids. The rooms were slightly on the small size but had everything you needed and where decorated with classic Tivoli attraction posters. 
 
+<img src="/uploads/gallery/tivoli-2017/tivoli-map.jpg" alt="Tivoli Map" />
+
 ## Rides
 Tivoli has a collection of classic fair ground rides alongside custom built rides. It’s amazing how many rides that have managed to fix into a small space. The rides work on a ticket system which costs around 40DKK per ride, see more about the wristband above if you are riding more than a couple rides.
 
-![](Tivoli%20Gardens/Screen%20Shot%202018-02-22%20at%2013.58.08.png)
+<img src="/uploads/gallery/tivoli-2017/rickbarn-1000.jpg" alt="Rickbarn" />
 
 ### Rickbarn
-The Rutschebanen is the oldest operational wooden rollercoaster[1] in the world. Built in 1914 It’s a mountain based rollercoaster where an operator rides the train with you to help brake. It’s slightly odd, but luckily it doesn’t go fast enough to be worrying.
+The Rutschebanen is the oldest operational wooden rollercoaster in the world. Built in 1914 It’s a mountain based rollercoaster where an operator rides the train with you to help brake. It’s slightly odd, but luckily it doesn’t go fast enough to be worrying.
+
+{% include youtube.html id=0Bl_dwLiM6A %}
 
 ### Vertigo
 Tivoli also features more extreme rides including Vertigo where you can experience up to 5G going 100km/h in a loop.
+
+<img src="/uploads/gallery/tivoli-2017/bubble-waffles-1000.jpg" alt="Tivoli Bubble Waffles" />
 
 ## Food
 Tivoli has a large and diverse mix of restaurants and snacks, much like the rides, these seem to be a mix of independent restaurants mixed with stalls selling all kinds of food.
@@ -51,6 +60,8 @@ At the centre of Tivoli there is the food hall, this contains around 10 independ
 
 The food, a bit like everything in Denmark, is very expensive but the portions large. While we were in the park we mostly stuck to the Churros, which were so good for had them every night. 
 
+<img src="/uploads/gallery/tivoli-2017/gallopen-1000.jpg" alt="Gallopen" />
+
 ## Atmosphere
 Tivoli Gardens is a beautiful park and you can see why Walt Disney was inspired when visiting the park. If you would like to read more about [Walt Disney and Tivoli Garden you can read my in depth article]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens %}).
 
@@ -58,9 +69,9 @@ Tivoli really shines at night, it has thousands of beautiful lights which illumi
 
 There is a great family friendly atmosphere for the park and because of the way you pay for the rides there wasn’t really any queues. However, this doesn’t mean the park doesn’t get packed. Our first night there, which was a Saturday the park was rammed. There were a lot of people there visiting the Christmas market.
 
+<img src="/uploads/gallery/tivoli-2017/nimb-1000.jpg" alt="Nimb" />
+
 ## Summary
 Tivoli is a beautiful, clean park and is well worth a visit. It has a regular program of different activities through the year and in 2018 it will be the parks 175 celebration, were Walt Disney World has contributed a ‘it’s a small world’ float to the parade.
 
 {% include post/gallery.html gallery="2017-12-11-tivoli-gardens" %}
-
-[1] - [Tivoli Gardens - Wikipedia](https://en.wikipedia.org/wiki/Tivoli_Gardens)
