@@ -39,7 +39,8 @@ h1 {
 	a {
 		color: #4D4D4D;
 		&:hover {
-			color: #4D4D4D;
+			color: #EF674E;
+			text-decoration: none;
 		}
 		&:hover::before {
 			width: 0;
@@ -74,7 +75,8 @@ h3 {
 	a {
 		color: #4D4D4D;
 		&:hover {
-			color: #4D4D4D;
+			color: #EF674E;
+			text-decoration: none;
 		}
 		&:hover::before {
 			width: 0;
