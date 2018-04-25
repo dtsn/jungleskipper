@@ -21,6 +21,8 @@
 	</figure>
 	{% endfor %}
 
+	<a class="additional" href="#">View {{ site.data.gallery[include.gallery].pictures | size | minus: 4 }} more ...</a>
+
 	{% for image in site.data.gallery[include.gallery].pictures offset:4 %}
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" style="display: none;">
         <a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-1920.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">

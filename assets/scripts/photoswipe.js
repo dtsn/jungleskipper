@@ -22,6 +22,10 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             linkEl = figureEl.children[0]; // <a> element
 
+            if (!linkEl) {
+                continue;
+            }
+
             size = linkEl.getAttribute('data-size').split('x');
 
             // create slide object
@@ -193,6 +197,11 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
         galleryElements[i].setAttribute('data-pswp-uid', i+1);
         galleryElements[i].onclick = onThumbnailsClick;
     }
+
+    document.querySelector(gallerySelector + ' a.additional').addEventListener('click', function (e) {
+        e.preventDefault;
+        openPhotoSwipe(1, galleryElements[0], true, true );
+    });
 
     // Parse URL and open gallery if it contains #&pid=3&gid=1
     var hashData = photoswipeParseHash();
