@@ -12,6 +12,8 @@ tags:
 - disneyland-paris
 - tony-baxter
 - tours
+- parks
+
 
 redirect_from:
 - /blog/disneyland-paris-guided-tour

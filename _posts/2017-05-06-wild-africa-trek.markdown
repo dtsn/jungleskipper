@@ -12,6 +12,7 @@ categories:
 
 tags:
 - tour
+- parks
 - walt-disney-world
 - animal-kingdom
 - reviews

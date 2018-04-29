@@ -13,6 +13,8 @@ tags:
 - tivoli-gardens
 - copenhagen
 - reviews
+- parks
+
 
 gallery: 2017-12-11-tivoli-gardens
 
