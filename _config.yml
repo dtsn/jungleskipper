@@ -2,14 +2,15 @@
 title: Jungle Skipper
 timezone: UTC
 collections:
+  category:
+    title: Category
+    output: true
   posts:
     title: Posts
     output: true
     layout: post
   uploads:
     title: Uploads
-    output: true
-  category:
     output: true
 defaults:
 - scope:

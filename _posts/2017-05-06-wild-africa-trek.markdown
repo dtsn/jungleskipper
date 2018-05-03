@@ -1,24 +1,20 @@
 ---
 title: Wild Africa Trek
-layout: post
 date: 2017-05-06 20:04:00 Z
-image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
-
 categories:
 - parks
 - walt-disney-world
 - animal-kingdom
 - tours
-
 tags:
 - tour
 - walt-disney-world
 - animal-kingdom
 - reviews
-
+layout: post
+image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
 redirect_from:
-- /review/wild-africa-trek
-
+- "/review/wild-africa-trek"
 reddit: WaltDisneyWorld
 ---
 

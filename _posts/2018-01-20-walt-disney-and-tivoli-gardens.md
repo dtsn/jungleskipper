@@ -1,16 +1,15 @@
 ---
 title: Walt Disney & Tivoli Gardens
 date: 2018-01-20 18:15:00 Z
-image: "/uploads/walt-disney-at-tivoli.jpg"
-
 categories:
 - parks
 - tivoli-gardens
-
 tags:
 - tivoli-gardens
 - walt-disney
+image: "/uploads/walt-disney-at-tivoli.jpg"
 ---
+
 Tivoli Garden is the second oldest theme park in the world. It’s located right at the heart of Copenhagen, Denmark. Tivoli has strong links to Walt Disney. Walt visited Tivoli in 1951 while on a European tour promoting his latest feature film Alice in Wonderland. It was only a few years after he visited that construction on Disneyland was started.
 
 {% include youtube.html id='vdxBHB6GEhc' %}
