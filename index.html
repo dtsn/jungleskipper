@@ -1,56 +1,37 @@
 ---
 layout: default
 ---
-
-{% assign notjekyllposts = ""|split:""%}
-
-{% for apost in site.posts %}
-{% unless apost.categories contains 'blog' %}
-{% assign notjekyllposts = notjekyllposts | push: apost %}
-{% endunless %}
-{% endfor %}
-{% include post-list.html notjekyllposts=notjekyllposts %}
-
 <div class="container">
+	{% for post in paginator.posts %}
+		{% if forloop.first == true %}
+			{% include post/large-image-summary.html post=post %}
+		{% endif %}
+	{% endfor %}
 
 	<div class="row">
-		<div class="col-sm-8 post-list">
-			{% include post-list.html posts=notjekyllposts %}
+		<div class="col-md-9 col-xs-12 post-list">
+			{% for post in paginator.posts %}
+				{% if forloop.first != true %}
+					{% include post/summary.html post=post %}
+				{% endif %}
+			{% endfor %}
+
+			<!-- Pagination links -->
+			<div class="pagination">
+				{% if paginator.previous_page %}
+					<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+				{% else %}
+					<span class="previous">Previous</span>
+				{% endif %}
+				<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+				{% if paginator.next_page %}
+					<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+				{% else %}
+				<span class="next ">Next</span>
+				{% endif %}
+			</div>
 		</div>
 			
-		<div class="col-sm-3 sidebar">
-			<h3>Stay up to date</h3>
-
-			<div class="box">
-				<a href="http://twitter.com/_jungleskipper" target="_blank" class="item social"><span class="twitter"></span>@_jungleskipper</a>
-				<a href="https://www.instagram.com/_jungleskipper/" target="_blank" class="item social"><span class="instagram"></span>@_jungleskipper</a>
-				<a href="https://www.facebook.com/thejungleskipper" target="_blank" class="item social"><span class="facebook"></span>@thejungleskipper</a>
-				<a href="/feed.xml" target="_blank" class="item social"><span class="rss"></span>RSS Feed</a>
-				<div class="fill">
-					<h3>Newsletter</h3>
-					<p>Signup to our Newsletter for updates when we post something new. We promise not to spam you.</p>
-					<form action="//emailoctopus.com/lists/4a423829-713e-11e7-a9b5-026662568990/members/external-add" method="post" target="_blank" novalidate>
-						<input type="email" value="" name="emailAddress" class="required email form-control" id="mce-EMAIL" placeholder="Email Address" >
-						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			    		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="hp4a423829-713e-11e7-a9b5-026662568990" tabindex="-1" value=""></div>
-			    		<input type="hidden" name="successRedirectUrl" class="email-octopus-success-redirect-url" value="https://jungleskipper.com/thankyou/newsletter">
-			    		<input type="submit" value="Sign me up" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
-					</form>
-				</div>
-			</div>
-
-			<h3>Latest in the Blog</h3>
-
-			{% for post in site.categories.blog limit:1 %}
-				<div class="blog-post">
-					<div class="main-image">
-						<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.title }}" /></a>
-					</div>
-					<h3>{{post.title}}</h3>
-					<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
-					<a href="{{ post.url }}" class="large">Read More &rarr;</a>
-				</div>
-			{% endfor %}
-		</div>
+		{% include sidebar.html %}
 	</div>
 </div>

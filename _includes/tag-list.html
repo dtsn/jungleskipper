@@ -8,10 +8,11 @@ This will build a list of tags and link them automatically to the tag page if it
 	{% for page in site.pages %}
 		{% if page.tag == tag %}
 			{% assign match = true %}
+			{% assign url = page.url %}
 		{% endif %}
 	{% endfor %}
 	{% if match %}
-		<a href="/tag/{{tag}}">{{tag}}</a>{% if forloop.last == false %},{% endif %}
+		<a href="{{url}}">{{tag}}</a>{% if forloop.last == false %},{% endif %}
 	{% else %}
 		{{tag}}{% if forloop.last == false %},{% endif %}
 	{% endif %}

@@ -1,5 +1,5 @@
 ---
-layout: category
-category: planning
+title: Planning
+layout: tag
+tag: planning
 ---
-

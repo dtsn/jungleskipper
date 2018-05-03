@@ -1,6 +1,5 @@
 ---
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -17,28 +16,18 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700" rel="stylesheet">
 
 		<link rel="shortcut icon" href="/images/icon.png">
-		<link rel="stylesheet" href="/css/jungleskipper.css">
+		<link rel="stylesheet" href="/assets/styles/jungleskipper.css">
+
+		{% if page.gallery %}
+		<link rel="stylesheet" href="/assets/styles/photoswipe.css"> 
+		<link rel="stylesheet" href="/assets/styles/default-skin.css"> 
+		{% endif %}
+
 	</head>
 	<body>
-		<header class="main">
-			<div class="title">
-				<a href="/" rel="Home">
-					{% include logo.html %}
-					Jungle Skipper
-				</a>
-			</div>
-			<div class="nav" id="menu">
-				<nav>
-					<a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a>
-					<!--<a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a>-->
-					<a href="/review" class="{% if page.url == '/review/' or page.categories[0] == 'review' %}selected{% endif %}">Reviews</a>
-					<a href="/planning" class="{% if page.url == '/planning/' %}selected{% endif %}">Planning</a>
-					<a href="/blog" class="{% if page.url == '/blog/' or page.categories[0] == 'blog' %}selected{% endif %}">Blog</a>
-					<a href="/about" class="{% if page.url == '/about' %}selected{% endif %}">About</a>
-				</nav>
-			</div>
-		</header>
-
+		<div class="container">
+			{% include header.html %}
+		</div>
 
 		<section class="content">
 			{{ content }}
@@ -50,24 +39,23 @@
 					<div class="col-sm-3">
 						<h6>Parks</h6>
 						<p>
-							<a href="/tag/walt-disney-world">Walt Disney World</a><br/>
-							<a href="/tag/disneyland-paris">Disneyland Paris</a><br/>
-							<a href="/tag/hong-kong-disneyland">Hong Kong Disneyland</a>
+							<a href="/parks/walt-disney-world">Walt Disney World</a><br/>
+							<a href="/parks/disneyland-paris">Disneyland Paris</a><br/>
+							<a href="/parks/hong-kong-disneyland">Hong Kong Disneyland</a>
+							<a href="/parks/tokyo-disney-resort">Tokyo Disney Resort</a>
 						</p>
 					</div>
 					<div class="col-sm-3">
 						<h6>Rides &amp; Tours</h6>
 						<p>
-							<a href="/tag/walt-disney-world">Mystic Manor Review</a><br/>
-							<a href="/tag/ride">More Rides</a><br/>
-							<a href="/tag/disneyland-paris">Wild Africa Trek Review</a><br/>
-							<a href="/tag/tour">More Tours</a>
+							<a href="/parks/disneyland-hong-kong/rides/mystic-manor">Mystic Manor Review</a><br/>
+							<a href="/parks/walt-disney-world/animal-kingdom/tours/wild-africa-trek">Wild Africa Trek Review</a><br/>
 						</p>
 					</div>
 					<div class="col-sm-3">
 						<h6>Books &amp; Merchandise</h6>
 						<p>
-							<a href="/review/disney-kingdoms-big-thunder">Disney Kingdoms - Big Thunder</a>
+							<a href="/books/reviews/disney-kingdoms-big-thunder">Disney Kingdoms - Big Thunder</a>
 						</p>
 					</div>
 					<div class="col-sm-3">
@@ -82,7 +70,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6">
-							Built with love using Jekyll &amp; hosted on Github.
+							Built with love using <a href="https://jekyllrb.com" target="_blank">Jekyll</a> &amp; hosted on <a href="https://github.com/dtsn/jungleskipper">Github</a>.
 						</div>
 						<div class="col-sm-6 right">
 							Like the site? <strong><a href="https://www.paypal.me/jungleskipper/4.5" target="_blank">Buy me a dole whip</a></strong>.
@@ -103,21 +91,12 @@
 			ga('send', 'pageview');
 		</script>
 
-		<script type="text/javascript">
-			var menu = document.getElementById('menu');
-			menu.addEventListener('click', function (e) {
-				e.stopPropagation();
-				menu.classList.add('open');
-			});
-			document.addEventListener('click', function () {
-				menu.classList.remove('open');
-			});
+		{% if page.gallery %}
+		<script src="/assets/scripts/photoswipe.min.js"></script> 
+		<script src="/assets/scripts/photoswipe-ui-default.min.js"></script>
+		<script src="/assets/scripts/photoswipe.js"></script>
+		{% endif %}
 
-			Array.prototype.slice.call(document.querySelectorAll('.nsfm')).forEach(function (element) {
-				element.addEventListener('click', function () {
-					element.classList.remove('nsfm');
-				});
-			});
-		</script>
+		<script type="text/javascript" src="/assets/scripts/jungleskipper.js"></script>
 	</body>
 </html>

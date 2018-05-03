@@ -1,0 +1,26 @@
+<header class="main">
+	<div class="title">
+		<a href="/" rel="Home">
+			{% include logo.html %}
+			Jungle Skipper
+		</a>
+	</div>
+	<nav>
+		<div id="menu">Menu</div>
+		<ul>
+			<li><a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a></li>
+			<li>
+				<a href="/parks/" class="{% if page.url == '/parks/' or page.categories[0] == 'parks' %}selected{% endif %}">Parks &amp; Resorts</a>
+				<ul>
+					<li><a href="/parks/walt-disney-world">Walt Disney World</a></li>
+					<li><a href="/parks/disneyland-paris">Disneyland Paris</a></li>
+					<li><a href="/parks/hong-kong-disneyland">Hong Kong Disneyland</a></li>
+					<li><a href="/parks/tokyo-disney-resort">Tokyo Disney Resort</a></li>
+				</ul>
+			</li>
+			<li><a href="/reviews/" class="{% if page.url == '/reviews/' or page.categories[0] == 'reviews' %}selected{% endif %}">Reviews</a></li>
+			<li><a href="/planning/" class="{% if page.url == '/planning/' or page.categories[0] == 'planning' %}planning{% endif %}">Planning</a></li>
+			<li><a href="/about/" class="{% if page.url == '/about/' %}selected{% endif %}">About</a></li>
+		</ul>
+	</nav>
+</header>

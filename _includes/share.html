@@ -1,11 +1,26 @@
-<div id="sharing">
-	<a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} by @{{ site.authorTwitter }}"><span class="icon-twitter"> Tweet</span></a>
-
-	<a class="facebook" href="#" onclick="
+<div class="sidebar post">
+	<h3 class="aside">Share this article</h3>
+	<!-- Twitter -->
+	<a class="twitter no-hover" href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} by @{{ site.authorTwitter }}">
+		Tweet
+	</a>
+	
+	<!-- Facebook -->
+	<a class="facebook no-hover" href="#" onclick="
 	    window.open(
-	      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+	      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('{{page.url}}'),
 	      'facebook-share-dialog',
 	      'width=626,height=436');
-	    return false;"><span class="icon-facebook-rect"> Share</span>
+	    return false;">Share
 	</a>
+	
+	{% if page.reddit %}
+	<!-- Reddit -->
+	<a class="reddit no-hover" href="//www.reddit.com/submit" onclick="
+		window.location='//www.reddit.com/r/{{page.reddit}}/submit?url=' + encodeURIComponent('{{page.url}}');
+		return false;
+	">
+		Reddit
+	</a>
+	{% endif %}
 </div>

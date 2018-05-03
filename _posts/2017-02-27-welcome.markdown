@@ -1,0 +1,19 @@
+---
+title: About
+layout: post
+date: 2017-02-27 13:10:00 Z
+image: "/uploads/STUDIO_TOWEROFTERRORARIDE_20170429_8021656192.jpeg"
+permalink: /about
+
+categories:
+- about
+
+redirect_from:
+- /blog/welcome
+---
+
+Welcome to Jungle Skipper a site dedicated to touring, planning and history of Disney Parks.
+
+Jungle Skipper is named after one of the all time classic Disney rides the Jungle Cruise. Did you know that Albert Awol is the original Jungle Cruise skipper, he's also the DJ speaking in the queue lines. That's just one of the million random facts I know about the Disney parks which I hope to share on this site.
+
+Please [follow me](http://twitter.com/_jungleskipper), or subscribe using your RSS reader or by entering your email into the notification box on the right-hand side.

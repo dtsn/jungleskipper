@@ -1,0 +1,4 @@
+---
+category: planning
+permalink: "/planning/"
+---

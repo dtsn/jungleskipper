@@ -1,13 +1,20 @@
 ---
 title: Disneyland Hong Kong Review
-date: 2017-02-28 00:00:00 Z
-categories:
-- review
-tags:
-- hong-kong-disneyland
-- disney
-image: "/uploads/DSC00753.jpg"
 layout: post
+date: 2017-02-28 00:00:00 Z
+image: "/uploads/DSC00753.jpg"
+permalink: /parks/disneyland-hong-kong/review
+
+categories:
+- parks
+- disneyland-hong-kong
+
+tags:
+- reviews
+- hong-kong-disneyland
+- hkdl
+
+reddit: HongKongDisneyland
 ---
 
 Hong Kong is probably the lesser known Disney park. Out of the 6 parks, it probably ranks the lowest on most people's lists. It doesn't have the new feeling of Shangai, nor the new experiences of Disney Sea. But what it lacks, it makes up in other areas.

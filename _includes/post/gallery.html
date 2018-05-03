@@ -1,0 +1,77 @@
+<h2>Gallery</h2>
+
+<div itemscope itemtype="http://schema.org/ImageGallery" class="gallery">
+	{% for image in site.data.gallery[include.gallery].pictures limit:1 %}
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="first">
+		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-{{image.width}}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-1000.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
+		</a>
+		<meta itemprop="width" content="{{ image.width }}">
+		<meta itemprop="height" content="{{ image.height }}">
+	</figure>
+	{% endfor %}
+
+	{% for image in site.data.gallery[include.gallery].pictures offset:1 limit:3 %}
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-{{image.width}}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-340.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
+		</a>
+		<meta itemprop="width" content="{{ image.width }}">
+		<meta itemprop="height" content="{{ image.height }}">
+	</figure>
+	{% endfor %}
+
+	<a class="additional" href="#">View {{ site.data.gallery[include.gallery].pictures | size | minus: 4 }} more ...</a>
+
+	{% for image in site.data.gallery[include.gallery].pictures offset:4 %}
+	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" style="display: none;">
+        <a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-1920.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+            <figcaption itemprop="caption description">
+			{{ image.caption }}
+			</figcaption>
+        </a>
+    </figure>
+	{% endfor %}
+</div>
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+					  <div class="pswp__preloader__cut">
+						<div class="pswp__preloader__donut"></div>
+					  </div>
+					</div>
+				</div>
+			</div>
+
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+			</button>
+
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+			</button>
+
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>

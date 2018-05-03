@@ -13,18 +13,6 @@
 	text-transform: uppercase;
 }
 
-/* social media Icons */
-@font-face {
-	font-family: 'icons';
-	src: url('/fonts/icons.eot');
-	src: url('/fonts/icons.eot#iefix') format('embedded-opentype'),
-	url('/fonts/icons.woff') format('woff'),
-	url('/fonts/icons.ttf') format('truetype'),
-	url('/fonts/icons.svg#icons') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
 body {
 	@include open-sans;
 	color: #4D4D4D;
@@ -32,21 +20,35 @@ body {
 	line-height: 2em;
 }
 
+a {
+	color: #EF674E;
+	
+	&:hover {
+		color: #EF674E;
+		text-decoration: underlined;
+	}
+}
+
 h1 {
 	@include poppins;
 	font-size: 48px;
 	font-weight: bold;
 	line-height: 1.25em;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 
 	a {
 		color: #4D4D4D;
 		&:hover {
-			color: #4D4D4D;
+			color: #EF674E;
+			text-decoration: none;
 		}
 		&:hover::before {
 			width: 0;
 		}
+	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 24px;
 	}
 }
 
@@ -68,12 +70,13 @@ h3 {
 	@include poppins;
 	font-size: 16px;
 	font-weight: 600;
-	line-height: 2em;
+	line-height: 1.5em;
 
 	a {
 		color: #4D4D4D;
 		&:hover {
-			color: #4D4D4D;
+			color: #EF674E;
+			text-decoration: none;
 		}
 		&:hover::before {
 			width: 0;
@@ -81,7 +84,7 @@ h3 {
 	}
 }
 
-.sidebar h3 {
+h3.aside {
 	font-size: 20px;
 }
 
@@ -102,54 +105,18 @@ h5 {
 	a {
 		color: #BFBFBF;
 	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 10px;
+		font-weight: 500;
+		letter-spacing: 1px;
+	}
 }
 
 h6 {
 	@include poppins;
 	font-size: 18px;
 	font-weight: 600;
-}
-
-a {
-	color: #EF674E;
-	text-decoration: none;
-	position: relative;
-	cursor: pointer;
-
-	&:hover {
-		color: #EF674E;
-		text-decoration: none;
-	}
-	&:focus {
-		opacity: 0.5;
-	}
-
-	&::before {
-		content: '';
-		width: 0;
-		bottom: 0;
-		overflow: hidden;
-		position: absolute;
-		white-space: nowrap;
-		border-bottom: 1px solid #EF674E;
-		transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-	}
-
-	&:hover::before {
-		width: 100%;
-	}
-
-	&.large {
-		@include poppins;
-		font-size: 18px;
-		font-weight: 600;
-	}
-
-	&.image {
-		&::before {
-			display: none;
-		}
-	}
 }
 
 blockquote {

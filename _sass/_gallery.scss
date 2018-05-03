@@ -1,0 +1,26 @@
+.gallery {
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+	figure.first {
+	}
+
+	figure:not(.first), .additional {
+		box-sizing:border-box;
+		border-right: 20px solid #fff;
+		background: #fff;
+		width: 25%;
+		margin: 0;
+	}
+
+	.additional {
+		@include poppins;
+		display: block;
+		background: #EF674E;
+		color: #fff;
+		text-align: center;
+		border-right: 0;
+	}
+}
