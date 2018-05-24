@@ -1,15 +1,13 @@
 ---
 title: About
-layout: post
 date: 2017-02-27 13:10:00 Z
-image: "/uploads/STUDIO_TOWEROFTERRORARIDE_20170429_8021656192.jpeg"
-permalink: /about
-
+permalink: "/about"
 categories:
 - about
-
+layout: post
+image: "/uploads/STUDIO_TOWEROFTERRORARIDE_20170429_8021656192.jpeg"
 redirect_from:
-- /blog/welcome
+- "/blog/welcome"
 ---
 
 Welcome to Jungle Skipper a site dedicated to touring, planning and history of Disney Parks.

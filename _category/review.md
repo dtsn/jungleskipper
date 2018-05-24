@@ -1,4 +1,7 @@
 ---
-category: review
+title: Review
 permalink: "/review/"
+categories:
+- review
 ---
+
