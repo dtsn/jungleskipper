@@ -4,6 +4,7 @@
 	padding: 20px;
 	position: sticky;
 	top: 10px;
+	margin-bottom: 20px;
 
 	h3 {
 		margin-bottom: 10px;
@@ -68,6 +69,8 @@
 			background-position: 10px -145px;
 		}
 	}
+
+	input[name="subscribe"] { margin-top: 10px; }
 
 	.fill {
 		background: #EFEFEF;

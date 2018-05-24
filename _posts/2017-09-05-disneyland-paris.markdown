@@ -2,17 +2,21 @@
 title: Disneyland Paris Review
 date: 2017-09-05 18:15:00 Z
 permalink: "/parks/disneyland-paris/review"
+image: "/uploads/DSC01839.JPG"
+
 categories:
 - parks
 - disneyland-paris
+
 tags:
 - disneyland-paris
 - walt-disney-studios
 - reviews
 - dlp
-image: "/uploads/DSC01839.JPG"
+
 redirect_from:
 - "/review/disneyland-paris"
+
 reddit: disneylandparis
 ---
 

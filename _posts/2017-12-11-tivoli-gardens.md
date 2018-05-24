@@ -2,6 +2,9 @@
 title: Tivoli Gardens
 date: 2017-12-11 18:15:00 Z
 permalink: "/parks/tivoli-gardens/review"
+image: "/uploads/gallery/tivoli-2017/tivoli-gardens-1000.jpg"
+image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
+
 categories:
 - parks
 - tivoli-gardens
@@ -9,8 +12,7 @@ tags:
 - tivoli-gardens
 - copenhagen
 - reviews
-image: "/uploads/gallery/tivoli-2017/tivoli-gardens-1000.jpg"
-image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
+
 gallery: 2017-12-11-tivoli-gardens
 ---
 

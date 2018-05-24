@@ -8,6 +8,7 @@ categories:
 - tours
 tags:
 - tour
+- parks
 - walt-disney-world
 - animal-kingdom
 - reviews

@@ -228,7 +228,7 @@ header.main {
 
 footer {
 	background: #F7F7F7;
-	padding: 60px 0 20px;
+	padding: 0px 0 20px;
 
 	@include media-breakpoint-down(xs) {
 		footer: 20px 0 20px;

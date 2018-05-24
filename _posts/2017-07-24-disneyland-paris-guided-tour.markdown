@@ -1,6 +1,8 @@
 ---
 title: Tony Baxter Guided Tour
 date: 2017-07-24 18:48:00 Z
+layout: post
+image: "/uploads/Screen%20Shot%202017-07-24%20at%2020.04.04.png"
 categories:
 - parks
 - disneyland-paris
@@ -8,10 +10,7 @@ tags:
 - disneyland-paris
 - tony-baxter
 - tours
-layout: post
-image: "/uploads/Screen%20Shot%202017-07-24%20at%2020.04.04.png"
-redirect_from:
-- "/blog/disneyland-paris-guided-tour"
+
 reddit: disneylandparis
 ---
 
