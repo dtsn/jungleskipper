@@ -1,20 +1,17 @@
 ---
 title: 20 Facts For Animal Kingdom's 20th Birthday
 date: 2018-04-24 16:00:00 Z
-image: "/uploads/gallery/20-facts-ak/animal-kingdom-1000.jpg"
-image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
-
 categories:
 - parks
 - walt-disney-world
 - animal-kingdom
-
 tags:
 - walt-disney-world
 - animal-kingdom
 - facts
 - trivia
-
+image: "/uploads/gallery/20-facts-ak/animal-kingdom-1000.jpg"
+image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
 reddit: WaltDisneyWorld
 ---
 
