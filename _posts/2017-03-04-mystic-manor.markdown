@@ -4,20 +4,18 @@ date: 2017-03-04 11:04:00 Z
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
 hidden: true
-
 categories:
 - parks
 - disneyland-hong-kong
 - rides
-
 tags:
 - hong-kong-disneyland
 - ride
 - reviews
-
+image: "/uploads/Mystic-Point-Nightview.jpg"
+layout: post
 redirect_from:
-- /review/mystic-manor
-
+- "/review/mystic-manor"
 reddit: HongKongDisneyland
 ---
 

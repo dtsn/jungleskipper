@@ -4,18 +4,16 @@ date: 2017-08-13 17:00:00 Z
 image: "/uploads/big-thunder.png"
 image-thumb: "/uploads/big-thunder-thumb.png"
 hidden: true
-
 categories:
 - books
 - reviews
-
 tags:
 - book
 - reviews
-
+image: "/uploads/big-thunder.png"
+image-thumb: "/uploads/big-thunder-thumb.png"
 redirect_from:
-- /review/disney-kingdoms-big-thunder
-
+- "/review/disney-kingdoms-big-thunder"
 ---
 
 Disney partnered with Marvel to create a series of original comic books all branded under the Disney Kingdoms banner. The first one that came to my attention is on Big Thunder Mountain Railroad, however, I will be reviewing the rest of them in time. 

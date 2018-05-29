@@ -1,4 +1,7 @@
 ---
-category: planning
+title: Planning
 permalink: "/planning/"
+categories:
+- planning
 ---
+
