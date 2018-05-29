@@ -14,6 +14,8 @@ categories:
 tags:
 - disneyland-paris
 - tower-of-terror
+
+hidden: true
 ---
 
 On the 5th of April 2018 Towter of Terror at Disneyland Paris turned 10. To celebrate this Disneyland Paris has just released a 30 minute documentary celebrating the iconic attraction. 

@@ -20,6 +20,7 @@ tags:
 redirect_from:
 - /blog/what-happened-to-dinosaur
 
+hidden: true
 reddit: WaltDisneyWorld
 ---
 

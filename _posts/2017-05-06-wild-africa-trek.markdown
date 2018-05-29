@@ -3,6 +3,7 @@ title: Wild Africa Trek
 layout: post
 date: 2017-05-06 20:04:00 Z
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
+hidden: true
 
 categories:
 - parks

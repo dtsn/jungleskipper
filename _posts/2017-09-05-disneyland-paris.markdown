@@ -18,7 +18,7 @@ tags:
 - dlp
 - parks
 
-
+hidden: true
 reddit: disneylandparis
 ---
 

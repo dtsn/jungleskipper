@@ -3,6 +3,7 @@ title: Disney Kingdoms - Big Thunder Review
 date: 2017-08-13 17:00:00 Z
 image: "/uploads/big-thunder.png"
 image-thumb: "/uploads/big-thunder-thumb.png"
+hidden: true
 
 categories:
 - books

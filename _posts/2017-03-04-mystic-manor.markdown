@@ -3,6 +3,7 @@ title: Mystic Manor
 date: 2017-03-04 11:04:00 Z
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
+hidden: true
 
 categories:
 - parks

@@ -4,6 +4,7 @@ layout: post
 date: 2017-02-28 00:00:00 Z
 image: "/uploads/DSC00753.jpg"
 permalink: /parks/disneyland-hong-kong/review
+hidden: true
 
 categories:
 - parks

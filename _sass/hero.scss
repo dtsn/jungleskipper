@@ -1,0 +1,46 @@
+.hero {
+
+	border-bottom: 1px solid #EEE;
+	margin-bottom: 30px;
+	line-height: 1.5em;
+	padding-bottom: 30px;
+	max-height: 530px;
+	color: #FFF;
+
+	.post-list-item {
+		position: relative;
+
+		.info {
+			background: #429671;
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			padding: 40px;
+			width: 50%;
+		}
+	}
+
+
+	h1 {
+		margin-bottom: 20px;
+		font-size: 42px;
+		font-weight: 600;
+		a {
+			color: #fff;
+		}
+	}
+
+	img {
+		width: 50%;
+		object-fit: cover;
+		height: 450px;
+	}
+
+	.large {
+		font-family: Poppins-Bold;
+		font-size: 18px;
+		color: #FFFFFF;
+		letter-spacing: 0;
+	}
+}
