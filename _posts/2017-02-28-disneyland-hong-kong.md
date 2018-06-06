@@ -3,7 +3,9 @@ title: Disneyland Hong Kong Review
 date: 2017-02-28 00:00:00 Z
 image: "/uploads/DSC00753.jpg"
 permalink: /parks/disneyland-hong-kong/review
-hidden: true
+
+section: reviews
+
 categories:
 - parks
 - disneyland-hong-kong
@@ -11,24 +13,27 @@ tags:
 - reviews
 - hong-kong-disneyland
 - hkdl
+
 layout: post
 image: "/uploads/DSC00753.jpg"
 reddit: HongKongDisneyland
 ---
 
-Hong Kong is probably the lesser known Disney park. Out of the 6 parks, it probably ranks the lowest on most people's lists. It doesn't have the new feeling of Shangai, nor the new experiences of Disney Sea. But what it lacks, it makes up in other areas.
+Hong Kong is probably the lesser known, often forgotten Disney park.
 
-I was lucky enough to have a quick visit this February while visiting friends in Hong Kong. I was amazed by the park, initially hearing bad things about the size, attractions, and queues. I was presently surprised by all 3.
+The park was opened in 2005 on reclaimed land in [Penny's Bay, Lantau Island](https://www.google.co.uk/maps/place/Penny's\+Bay\+Hwy,\+Hong\+Kong/@22.3166186,114.0463596,3050m/data=!3m1!1e3!4m5!3m4!1s0x3403fc3d918a96ab:0xe1a157c9e810c02a!8m2!3d22.329117!4d114.032886). Construction starting in Jan 2003 the park had its opening ceremony on the 15th of September 2005 - one of the fastest ever constructed. It's the smallest Disney theme park by a long way and has a daily capacity of 23,000 guests. 
 
-Before we get into the review let's cover a bit of history. It was opened in 2005 on reclaimed land in [Penny's Bay, Lantau Island](https://www.google.co.uk/maps/place/Penny's\+Bay\+Hwy,\+Hong\+Kong/@22.3166186,114.0463596,3050m/data=!3m1!1e3!4m5!3m4!1s0x3403fc3d918a96ab:0xe1a157c9e810c02a!8m2!3d22.329117!4d114.032886). It was one of the quickest Disney themes parks ever constructed. Construction starting in Jan 2003 the park had its opening ceremony on the 15th of September 2005. It's the smallest Disney theme park and has a daily capacity of 23,000 guests. China actually deliberately slowed down the construction of Shanghai (originally forecasted for the early 2000's) to help support Hong Kong's development after the outbreak of SARS in 2005.
+*China actually deliberately slowed down the construction of Shanghai (originally forecasted for the early 2000's) to help support Hong Kong's development after the outbreak of SARS in 2005.*
 
-We visited on a clear sunny February weekday, a rare occurrence in a city which suffers greatly from the smog rolling in across from Shenzhen and mainland China. It was an easy but long trip from our MTR (Mass Transit Railway) station on Hong Kong Island, it took us an hour and a half and probably cost us approximately £1. The MTR network is simple, easy to use and cheap. It's well signposted and Disneyland has its own signposts so it really easy to find. Avoid travelling at peak times, the train gets hot and very crowded.
+As I'm writing all this, it sounds pretty bad, why would anyone want to visit Hong Kong Disneyland? Well, it's pretty awesome!
 
-Take the MTR to Sunny Bay where you board a special Disneyland train. This train is the start of your adventure, you are suddenly transformed onto a train with soft seats, Mickey shaped windows and even Mickey hand handle bars to hold onto. For us, the train was almost empty.
+We visited on a clear sunny February weekday, a rare occurrence in a city which suffers greatly from smog. The park is located on the MTR (Mass Transit Railway) station on Hong Kong Island, it took us an hour and a half and probably cost us approximately £1. The MTR network is simple, easy to use and cheap. The park is well signposted so it really easy to find. *Avoid travelling at peak times, the train gets hot and very crowded.*
+
+Take the MTR to Sunny Bay where you board a special Disneyland train. This train is the start of your adventure, you are suddenly transformed onto a train with soft seats, Mickey shaped windows and even Mickey hand handle bars to hold onto.
 
 ![Disneyland MTR Sign](/uploads/IMG_0024.JPG)
 
-The train takes you straight to Disneyland and lets you off at the end of the park promenade. The promenade is a strange concept, a single long walk way passing a central fountain and take a right into Disneyland Park. It has been designed to serve two parks, the large left-hand expanse of Penny's Bay has been left for a future expansion of another park.
+The train takes you straight to Disneyland and lets you off at the end of the park promenade. The promenade is a strange concept, a single long walk way passing a central fountain and take a right into Disneyland Park. It has been designed to serve two parks, the large left-hand expanse of Penny's Bay has been left for a future expansion of the second gate.
 
 Standard park entrance at the time of writing was about £60 per adult. Though if you book in advance online you can normally get a package with a free quick service meal in selected restaurants.
 
