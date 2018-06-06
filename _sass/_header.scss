@@ -1,39 +1,27 @@
-header {
-
-	#vines {
-		background-image: url('/assets/images/vine-mobile.png');
-		position: absolute;
-		background-repeat: no-repeat;
-		height: 39px;
-		width: 10px;
-		top: 0;
-		left: 10px;
-
-		@include media-breakpoint-up(sm) {
-			background-image: url('/assets/images/vines.png');
-			background-position: left bottom;
-			background-size: cover;
-			height: 108px;
-			width: 331px;
-		}
-	}
-
-	#leaves {
+.leaves {
 		background-image: url('/assets/images/leaves-mobile.png');
 		position: absolute;
-		height: 28px;
-		width: 72px;
-		top: 0;
-		right: 0;
 
 		@include media-breakpoint-up(sm) {
-			background-image: url('/assets/images/leaves.png');
 			background-size: cover;
-			height: 58px;
-			width: 148px;
+			height: 115px;
+			width: 100px;
+
+			&.left {
+				background-image: url('/assets/images/leaves-left.png');
+				left: 0px;
+				top: 0;
+			}
+
+			&.right {
+				background-image: url('/assets/images/leaves-right.png');
+				right: 0px;
+				top: 0;
+			}
 		}
 	}
 
+header {
 	#logo {
 		text-align: center;
 
@@ -49,8 +37,8 @@ header {
 
 			@include media-breakpoint-up(sm) {
 				background-image: url('/assets/images/jungle-skipper.png');
-				height: 161px;
-				width: 240px;
+				height: 140px;
+				width: 208px;
 			}
 		}
 
