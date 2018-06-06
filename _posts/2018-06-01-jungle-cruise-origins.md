@@ -2,6 +2,9 @@
 title: Jungle Cruise Origins
 date: 2018-06-01 16:00:00 Z
 
+image: "/uploads/posts/jungle-cruise/adventureland-poster.jpg"
+image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
+
 section: history
 
 categories:
@@ -18,8 +21,6 @@ tags:
 - tokyo-disney-resort
 - hong-kong-disneyland
 
-image: ""
-image-thumb: ""
 reddit: Disneyland
 ---
 Can you remember the first time you went on the Jungle Cruise? The animals, the smell, the jokes. It’s a ride which has been running non-stop for the last 60 years. So how has this ride managed to keep guests entertained and still grow in popularity?
