@@ -8,11 +8,10 @@ image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
 section: history
 
 categories:
-- parks
+- history
 - disneyland
 - rides
 - jungle-cruise
-- history
 
 tags:
 - disneyland

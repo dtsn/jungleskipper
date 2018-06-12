@@ -3,17 +3,15 @@
 		<a href="/" rel="Home">
 			Jungle Skipper
 		</a>
-		<span class="tagline">Disney's S.E.A news, reviews and history</span> 
+		<span class="tagline">Navigating you through Disney S.E.A.</span> 
 	</div>
 
 	<nav>
-		<div id="menu">Menu</div>
 		<ul>
 			<li><a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a></li>
-			<li><a href="/sea" class="{% if page.url == '/sea' %}selected{% endif %}">S.E.A.</a></li>
+			<li><a href="/history" class="{% if page.url contains '/history' %}selected{% endif %}">History</a></li>
 			<li><a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a></li>
 			<li><a href="/reviews" class="{% if page.url == '/reviews' %}selected{% endif %}">Reviews</a></li>
-			<li><a href="/photos" class="{% if page.url == '/photos' %}selected{% endif %}">Photos</a></li>
 		</ul>
 	</nav>
 </header>
