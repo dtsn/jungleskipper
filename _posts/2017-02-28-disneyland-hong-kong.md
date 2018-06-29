@@ -6,6 +6,8 @@ permalink: /parks/disneyland-hong-kong/review
 
 section: reviews
 
+hidden: true
+
 categories:
 - parks
 - disneyland-hong-kong
