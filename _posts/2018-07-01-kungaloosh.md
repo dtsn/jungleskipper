@@ -10,6 +10,7 @@ categories:
 - news
 
 tags:
+- news
 ---
 
 Kungaloosh Explorers and Adventurers! Welcome to Jungle Skipper were we aim to guid you through the murky waters of the Society of Explorers and Adventures.
