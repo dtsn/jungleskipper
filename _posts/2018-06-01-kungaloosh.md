@@ -1,8 +1,8 @@
 ---
 title: Kungaloosh
 
-image: "/uploads/posts/jungle-cruise/adventureland-poster.jpg"
-image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
+image: "/uploads/posts/kungaloosh/rhio.jpg"
+image-thumb: "/uploads/posts/kungaloosh/rhio-small.jpg"
 
 section: news
 

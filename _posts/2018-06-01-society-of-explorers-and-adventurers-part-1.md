@@ -1,9 +1,9 @@
 ---
 title: The Society of Explorers and Adventurers - Part 1
-date: 2018-07-01 16:00:00 Z
+date: 2018-06-01 16:00:00 Z
 
-image: "/uploads/posts/jungle-cruise/adventureland-poster.jpg"
-image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
+image: "/uploads/posts/sea-part-1/sea-plaque.jpg"
+image-thumb: "/uploads/posts/sea-part-1/sea-plaque-small.jpg"
 
 section: history
 
@@ -28,6 +28,9 @@ The Society of Explorers and Adventures, S.E.A., is secretive organisation first
 
 The original founding members of S.E.A. opened Fortress Explorations, a walk through attraction at Tokyo DisneySea, to help ‘promote the sharing of nautical and scientific knowledge for world exploration’.
 
+![Welcome to Fortress Explorations](/uploads/posts/sea-part-1/welcome-to-fortress-explorations.png)
+*- Leaflet explaining S.E.A. from Fortress Explorations - 2018*
+
 It is unclear from Fortress Explorations who were the original founding members. The Explorers hall within Fortress Explorations references some of the greatest explorers of all time;
 
 * Sir Francis Drake (1540-1596)
@@ -44,6 +47,8 @@ The next 350 years are the S.E.A. dark ages, we don’t hear anything about the 
 ## Tower of Terror - 1899
 Harrison Hightower III inherited his fortune and used it to get what he wanted. He had a particular interest artefacts from other cultures. If he couldn’t buy it he stole it. It is one particular exploration of the fearful Mtundu he stole their scared idol Shiriki Utundu, dismissing concerns that it was cursed. 
 
+![Harrison Hightower III portrait, hanging in the lobby of the Hightower Hotel](/uploads/posts/sea-part-1/harrison-hightower-entrance-portrait.jpg)
+
 On December 31st 1899 Harrison threw a New Years party to show off his latest acquisition. When the clock stroked 12 Harrison was in the elevator with the idol on the way to his penthouse apartment. The idol came to life and Harrison was blasted into oblivion.
 
 In 1911 the New York Preservation Society opened up the Hightower Hotel for tours.
@@ -51,8 +56,8 @@ In 1911 the New York Preservation Society opened up the Hightower Hotel for tour
 ## Mystic Point - 1911
 Around the same time Lord Henry Mystic opened up a museum which was full of his collections of treasures and antiquities, collected through decades of explorations. He wanted to show off his latest acquisition, a music box, with the help of his Monkey Albert. 
 
-![](2018-07-01-society-of-explorers-and-adventurers-part-1/SocietyPortrait.png)
-*You can see in the above portrait Lord Henry Mystic with Harrison Hightower III along with other members of S.E.A. - this can be found in the Mystic Manor queue line*
+![](/uploads/posts/sea-part-1/SocietyPortrait.png)
+*- Photo from Mystic Manor queue line*
 
 Mystic point is not only home to Mystic Manor but also the Explorers Club Restaurant. Lord Mystic built the restaurant to welcome and entertain the other members of S.E.A. The 5 exotic dining rooms contain more of his of his treasures including a set of masks which come to life. 
 
@@ -70,7 +75,7 @@ Dreamy Ka'imi receives a letter from Pamela Perkins, an Adventurers Club member 
 
 You can read the whole letter below:
 
-![](2018-07-01-society-of-explorers-and-adventurers-part-1/PameliaPerkinsLetter-zpsf5e1dc57.jpg)
+![Pamelia Perkins Letter](/uploads/posts/sea-part-1/PameliaPerkinsLetter.jpg)
 [Photo credit](https://discuss.micechat.com/forum/disney-theme-park-news-and-discussion/disneyland-resort/181132-is-shrunken-ned-a-member-of-the-s-e-a)
 
 ## What have I missed?

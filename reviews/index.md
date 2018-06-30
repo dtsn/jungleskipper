@@ -1,5 +1,5 @@
 ---
 title: Reviews
 layout: tag
-tag: news
+tag: reviews
 ---
