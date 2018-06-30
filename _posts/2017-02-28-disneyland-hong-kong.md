@@ -1,13 +1,7 @@
 ---
 title: Disneyland Hong Kong Review
 date: 2017-02-28 00:00:00 Z
-image: "/uploads/DSC00753.jpg"
-permalink: /parks/disneyland-hong-kong/review
-
-section: reviews
-
-hidden: true
-
+permalink: "/parks/disneyland-hong-kong/review"
 categories:
 - parks
 - disneyland-hong-kong
@@ -15,9 +9,10 @@ tags:
 - reviews
 - hong-kong-disneyland
 - hkdl
-
-layout: post
 image: "/uploads/DSC00753.jpg"
+section: reviews
+hidden: true
+layout: post
 reddit: HongKongDisneyland
 ---
 

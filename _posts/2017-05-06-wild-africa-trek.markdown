@@ -1,8 +1,6 @@
 ---
 title: Wild Africa Trek
 date: 2017-05-06 20:04:00 Z
-image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
-hidden: true
 categories:
 - parks
 - walt-disney-world
@@ -14,8 +12,9 @@ tags:
 - walt-disney-world
 - animal-kingdom
 - reviews
-layout: post
 image: "/uploads/Wild%20Africa%20Trek%20002.jpg"
+hidden: true
+layout: post
 redirect_from:
 - "/review/wild-africa-trek"
 reddit: WaltDisneyWorld

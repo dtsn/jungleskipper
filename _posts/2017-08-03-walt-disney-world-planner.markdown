@@ -1,9 +1,6 @@
 ---
 title: Walt Disney World Planner
 date: 2017-08-03 20:00:00 Z
-layout: post
-image: "/uploads/Screen%20Shot%202017-08-01%20at%2021.11.28.png"
-hidden: true
 categories:
 - planning
 tags:
@@ -11,6 +8,7 @@ tags:
 - planning
 layout: post
 image: "/uploads/Screen%20Shot%202017-08-01%20at%2021.11.28.png"
+hidden: true
 reddit: WaltDisneyWorld
 ---
 

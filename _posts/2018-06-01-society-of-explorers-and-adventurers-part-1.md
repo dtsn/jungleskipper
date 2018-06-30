@@ -1,20 +1,16 @@
 ---
 title: The Society of Explorers and Adventurers - Part 1
 date: 2018-06-01 16:00:00 Z
-
-image: "/uploads/posts/sea-part-1/sea-plaque.jpg"
-image-thumb: "/uploads/posts/sea-part-1/sea-plaque-small.jpg"
-
-section: history
-
 categories:
 - history
-
 tags:
 - history
-
+image: "/uploads/posts/sea-part-1/sea-plaque.jpg"
+image-thumb: "/uploads/posts/sea-part-1/sea-plaque-small.jpg"
+section: history
 reddit: S_E_A
 ---
+
 What if I told you there was a story which linked together different rides from different theme parks throughout the world? Old and new, they are all tied together with one enormous plot arc. The best thing about the story? It’s all hidden in plain sight, you have to know about it to understand it. 
 
 I know - Mind blown! 
