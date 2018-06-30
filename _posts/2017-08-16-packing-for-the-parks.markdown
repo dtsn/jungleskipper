@@ -1,6 +1,8 @@
 ---
 title: Packing for the parks
 date: 2017-08-16 09:19:00 Z
+image: "/uploads/IMG_0760.JPG"
+hidden: true
 categories:
 - planning
 tags:

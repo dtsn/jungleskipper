@@ -1,6 +1,8 @@
 ---
 title: Marceline to the Magic Kingdom Review
 date: 2017-05-20 20:05:00 Z
+image: "/uploads/IMG_0195.JPG"
+hidden: true
 categories:
 - parks
 - walt-disney-world

@@ -13,6 +13,7 @@ tags:
 image: "/uploads/gallery/20-facts-ak/animal-kingdom-1000.jpg"
 image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
 reddit: WaltDisneyWorld
+hidden: true
 ---
 
 Disney’s Animal Kingdom turned 20 this year, opening on Earth Day 1998, it represented Disney’s first foray into live animals. Ever since the first Jungle Cruise Walt always wanted live animals in Disneyland.

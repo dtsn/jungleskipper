@@ -7,6 +7,7 @@ categories:
 tags:
 - tivoli-gardens
 - walt-disney
+hidden: true
 image: "/uploads/walt-disney-at-tivoli.jpg"
 ---
 

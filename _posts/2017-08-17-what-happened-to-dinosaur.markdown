@@ -15,7 +15,9 @@ tags:
 - countdown-to-extinction
 image: "/uploads/DSC01082%20(1).JPG"
 redirect_from:
-- "/blog/what-happened-to-dinosaur"
+- /blog/what-happened-to-dinosaur
+
+hidden: true
 reddit: WaltDisneyWorld
 ---
 

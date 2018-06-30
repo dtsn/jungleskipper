@@ -10,6 +10,7 @@ categories:
 tags:
 - disneyland-paris
 - tower-of-terror
+hidden: true
 image: "/uploads/gallery/2018-04-tower-of-terror/tower-of-terror-1000.jpg"
 image-thumb: "/uploads/gallery/2018-04-tower-of-terror/tower-of-terror-340.jpg"
 ---

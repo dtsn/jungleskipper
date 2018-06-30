@@ -12,6 +12,7 @@ tags:
 image: "/uploads/gallery/tivoli-2017/tivoli-gardens-1000.jpg"
 image-thumb: "/uploads/gallery/tivoli-2017/tivoli-gardens-340.jpg"
 gallery: 2017-12-11-tivoli-gardens
+hidden: true
 ---
 
 Tivoli Gardens is a small amusement park located at the centre of Copenhagen. It is one of the oldest theme parks in the world to still be operating, it is only bettered by Bakken park located north of Copenhagen. The park was made world famous by  Walt Disney’s visiting in the 1960’s, and is often referenced as the [inspiration behind Disneyland]({% post_url 2018-01-20-walt-disney-and-tivoli-gardens %}).
