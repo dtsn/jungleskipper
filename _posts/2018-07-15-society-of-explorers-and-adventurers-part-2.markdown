@@ -1,11 +1,11 @@
 ---
 title: The Society of Explorers and Adventurers - Part 2
 date: 2018-07-15 07:10:00 Z
-hidden: true
 categories:
 - history
 tags:
 - history
+hidden: true
 image: "/uploads/posts/sea-part-2/mystic-manor-poster.png"
 image-thumb: "/uploads/posts/sea-part-2/mystic-manor-poster-small.png"
 section: history
