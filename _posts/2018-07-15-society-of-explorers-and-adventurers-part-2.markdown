@@ -1,7 +1,7 @@
 ---
 title: The Society of Explorers and Adventurers - Part 2
 date: 2018-07-15 07:10:00 Z
-published: false
+hidden: true
 categories:
 - history
 tags:
