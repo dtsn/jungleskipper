@@ -6,6 +6,7 @@ categories:
 tags:
 - history
 hidden: true
+published: false
 image: "/uploads/posts/sea-part-2/mystic-manor-poster.png"
 image-thumb: "/uploads/posts/sea-part-2/mystic-manor-poster-small.png"
 section: history
