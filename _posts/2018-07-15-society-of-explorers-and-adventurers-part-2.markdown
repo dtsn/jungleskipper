@@ -6,8 +6,8 @@ categories:
 - history
 tags:
 - history
-hidden: true
 image: "/uploads/posts/sea-part-2/mystic-manor-poster.png"
+hidden: true
 image-thumb: "/uploads/posts/sea-part-2/mystic-manor-poster-small.png"
 section: history
 reddit: S_E_A
@@ -15,7 +15,7 @@ reddit: S_E_A
 
 Kungaloosh Explorers! [Last time](/history/society-of-explorers-and-adventurers-part-1) we talked about the story which makes up the Society of Explorers and Adventurers (S.E.A.). This week we are going to cover how S.E.A. was created and integrated throughout Disney Attractions around the world. 
 
-It’s a pretty complicated story and I have probably raised more questions than I’ve answered 🤔
+It’s a pretty complicated story and I have probably raised more questions than I’ve answered 🤔 if you have any answers, or think I've missed anything let me know in the comments below.
 
 ## The Adventurers Club
 We are going to start right at the beginning with The Adventurers Club. Opening in 1989 and closing in 2008 the Adventurers Club was a themed nightclub in Walt Disney World’s Pleasure Island. It was designed around a private members club for explorers. 
@@ -25,15 +25,15 @@ S.E.A. isn’t actually mentioned anywhere in the Adventurers Club. Yep, not at 
 Even though we credit The Adventurers Club at the beginning, the first attraction which mentions S.E.A. is Fortress Explorations from Tokyo’s DisneySea.
 
 ## Fortress Explorations
-![The entrace to Fortress Explorations](/uploads/posts/sea-part-2/fortress-explorations.jpg)
+![The entrance to Fortress Explorations](/uploads/posts/sea-part-2/fortress-explorations.jpg)
 Designed by Scott Chase[*](http://thehettemagroup.com/teams/) and opening with the rest of DisneySea in 2001 Fortress Explorations is a walk-through attraction where adventurers can participate solving puzzles in Leonardos Challenge. Fortress Explorations is the first mention of S.E.A. in any Disney park and forms the backstory of the attraction and it's attached restaurant, Magellan’s. 
 
-![The SEA logo on the entrace door to Magellan's Restuarant](/uploads/posts/sea-part-2/sea-entrance-to-magellans.jpg)
-*S.E.A. Logo from the entrance door of Magellan’s*
+![The SEA logo on the entrance door to Magellan's Restuarant](/uploads/posts/sea-part-2/sea-entrance-to-magellans.jpg)
+*Source: Jungle Skipper, taken March 2018 - S.E.A. Logo on the entrance door of Magellan’s*
 
-This attraction is where we get the S.E.A. Logo which adorns everything in Fortress Explorations (it’s a pretty cool logo!). There are a lot of other details in this attraction including when S.E.A. was founded, 1538. 
+This attraction is where we get the S.E.A. Logo which adorns everything in Fortress Explorations (and it’s a pretty cool logo!). There are a lot of other details in this attraction including when S.E.A. was founded, in 1538, the organisation's aims, and it's founding members.
 
-The location os the attraction *probably* explains the name. Fortress Explorations is based on the Medetrainnian Harbour in Tokyo’s DisneySea. I would assume that the Society of Explorers and Adventurers is a play on that Sea name. DisneySea got its name for two reasons, first it’s designed around ports at sea (instead of lands) and secondly, it’s near the sea.
+The location of the attraction *probably* explains the name. Fortress Explorations is based on the Mediterranean Harbour in Tokyo’s DisneySea. I would assume that the Society of Explorers and Adventurers is a play on that Sea name. DisneySea got its name for two reasons, first it’s designed around ports at sea (instead of lands) and secondly, it’s near the sea.
 
 *I am still trying to hunt down the show writer for Fortress Explorations so if any knows who it is please let me know in the comments below or via [contact me](/contact).*
 
@@ -41,40 +41,39 @@ The location os the attraction *probably* explains the name. Fortress Exploratio
 In comes Joe Lanzisero (you are going to hear this name a lot), the Creative Lead for the Tokyo Disney Resort Portfolio. Shortly after the park opened Lanzisero began work on bringing Twilight Zone Tower of Terror to a new expansion, the American Waterfront port. Unfortunately, the Twilight Zone (the storyline to the other versions of this ride) wasn’t popular in Japan so a new backstory was needed.
 
 ![Harrison Hightower in Canada](/uploads/posts/sea-part-2/harrison-hightower-in-canada.jpg)
-*Source: Jungle Skipper, March 2018, Taken in the queue for Tower of Terror Tokyo DisneySea. Copyright The Walt Disney Company*
+*Source: Jungle Skipper, March 2018, Taken in the queue for Tower of Terror Tokyo DisneySea*
 
-The Imagineers came up with Harrison Hightower III (modelled on Joe Rhode). He was a ruthless explorer who had an ill-fated end when travelling in an elevator with a scared idol he stole.
+The Imagineers came up with Harrison Hightower III (modelled on the Imagineer Joe Rhode). He was a ruthless explorer who had an ill-fated end when travelling in an elevator with a scared idol he stole.
 
 *Again if anyone knows the show writer for Tower of Terror in Japan please let me know - they should have credits at the end of these rides!*
 
 Unfortunately, Tower of Terror and Harrison Hightower III had no connection to S.E.A. on the opening day of the attraction ([backstory](http://disney.wikia.com/wiki/Tower_of_Terror_(Tokyo_DisneySea))). At this time S.E.A. was based at Fortress Explorations and had very little to do with the American Waterfront expansion where Tower of Terror was to be located.
 
-This all changed with Joe Lanzisero’s next project, The Mystic Point expansion at Hong Kong Disneyland. What was missing from Hong Kong Disneyland was a Haunted Mansion - one existed in all the other Disney parks. However, just as with the Japanese Tower of Terror, the Hong Kong market doesn’t really understand haunted houses. Ghosts tend to be friendly and don’t jump out to scare you. 
+This all changed with Lanzisero’s next project, The Mystic Point expansion at Hong Kong Disneyland. What was missing from Hong Kong Disneyland was a Haunted Mansion - one existed in all the other Disney parks. However, just as with the Japanese Tower of Terror, the Hong Kong market doesn’t really understand the concept of haunted houses. Ghosts tend to be friendly and don’t jump out to scare you.
 
 A new ride with a unique and original backstory was created.
 
 ![Mystic Manor](/uploads/posts/sea-part-2/mystic-manor.jpg)
 *Source: Jungle Skipper, February 2017 taken at Hong Kong Disneyland*
 
-Mystic Manor, possibly one of the best dark rides in existence, is also central to the story of S.E.A. Watch the video below of Joe Lanzisero explaining Mystic Manor in more detail.
+Mystic Manor, possibly one of the best dark rides in existence, is also central to the story of S.E.A. Watch the video below of Lanzisero explaining Mystic Manor in more detail.
 
 {% include youtube.html id='KyPE0zqz_OM' %}
 
-*Why did Joe Lanzisero pick to use the same society and that is in Fortress Explorations? The attractions are based in different time periods and feature real people versus made up characters.*
+*Why did Lanzisero pick to use the same society as Fortress Explorations? The attractions are based in different time periods and feature fictional and non-fictional members.*
 
-The Explorers Club Restaurant in HKDL Mystic Point also features a S.E.A. Backstory. The same masks which appeared in The Adventurers Club now also appear on the walls of The Explorers Club Restaurant. The decision to add these masks might have been on purpose or completely by accident, but by being their S.E.A. Is now connected to The Adventurers Club. One piece of evidence we do have is a tweet I received from Imagineer Joe Rhode (designer of The Adventurers Club).
+The Explorers Club Restaurant in HKDL Mystic Point also features a S.E.A. Backstory. The same masks which appeared in The Adventurers Club now also appear on the walls of The Explorers Club Restaurant. The decision to add these masks might have been on purpose or completely by accident, but by being there S.E.A. Is now connected to The Adventurers Club. One piece of evidence we do have is a tweet I received from Imagineer Joe Rhode (designer of The Adventurers Club).
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Cannot take credit for SEA..only Adventurers Club. I thought SEA was originally guest generated...which is even cooler. Is it not? <a href="https://t.co/16EdMJl4oc">https://t.co/16EdMJl4oc</a></p>&mdash; Joe Rohde (@Joe_Rohde) <a href="https://twitter.com/Joe_Rohde/status/971390846770663425?ref_src=twsrc%5Etfw">March 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-This tweet demonstrates that Rhode believes that S.E.A. Was a fan made concept. So either no one consulted him about using the masks he designed, or they weren’t used on purpose. Once the masks were added fans noticed the connection and started to link them together. The link was confirmed in the Joe Rhode designed Alunai, a Disney Hotel and Spa in Hawaii (See [part 1]() for more information).
+This tweet demonstrates that Rhode believes that S.E.A. Was a fan made concept. So either no one consulted him about using the masks he helped to design, or they weren’t used on purpose. Once the masks were added fans noticed the connection and started to link them together. The link was confirmed in another area which Joe Rhode designed = Alunai, a Disney Hotel and Spa in Hawaii (See [part 1](/history/society-of-explorers-and-adventurers-part-1) for more information).
 
 Central to Mystic Manors S.E.A. storyline is the poster below:
 
 ![Society Portrait](/uploads/posts/sea-part-1/SocietyPortrait.png)
 
-It introduces us to both old and new characters, *left to right*
+It introduces us to both old and new characters, *left to right*:
 * Harrison Hightower III, Tower of Terror - Tokyo DisneySea
 * Professor R. Blauerhimmel
 * Lord Henry Mystic, Mystic Manor - Hong Kong Disneyland
