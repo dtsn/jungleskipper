@@ -1,6 +1,14 @@
 ---
 title: The Society of Explorers and Adventurers - Part 2
 date: 2018-07-15 07:10:00 Z
+categories:
+- history
+tags:
+- history
+image: "/uploads/posts/sea-part-2/mystic-manor-poster.png"
+image-thumb: "/uploads/posts/sea-part-2/mystic-manor-poster-small.png"
+section: history
+reddit: S_E_A
 ---
 
 Kungaloosh Explorers! [Last time](/history/society-of-explorers-and-adventurers-part-1) we talked about the story which makes up the Society of Explorers and Adventurers (S.E.A.). This week we are going to cover how S.E.A. was created and integrated throughout Disney Attractions around the world. 
@@ -15,10 +23,10 @@ S.E.A. isn’t actually mentioned anywhere in the Adventurers Club. Yep, not at 
 Even though we credit The Adventurers Club at the beginning, the first attraction which mentions S.E.A. is Fortress Explorations from Tokyo’s DisneySea.
 
 ## Fortress Explorations
-![](Introduction%20to%20S.E.A.%20-%20Part%202/DSC03662.jpg)
+![The entrace to Fortress Explorations](/uploads/posts/sea-part-2/fortress-explorations.jpg)
 Designed by Scott Chase[*](http://thehettemagroup.com/teams/) and opening with the rest of DisneySea in 2001 Fortress Explorations is a walk-through attraction where adventurers can participate solving puzzles in Leonardos Challenge. Fortress Explorations is the first mention of S.E.A. in any Disney park and forms the backstory of the attraction and it's attached restaurant, Magellan’s. 
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/DSC03224.jpg)
+![The SEA logo on the entrace door to Magellan's Restuarant](/uploads/posts/sea-part-2/sea-entrance-to-magellans.jpg)
 *S.E.A. Logo from the entrance door of Magellan’s*
 
 This attraction is where we get the S.E.A. Logo which adorns everything in Fortress Explorations (it’s a pretty cool logo!). There are a lot of other details in this attraction including when S.E.A. was founded, 1538. 
@@ -30,7 +38,7 @@ The location os the attraction *probably* explains the name. Fortress Exploratio
 ##  Tower of Terror, Mystic Manor and the Explorers Club Restaurant
 In comes Joe Lanzisero (you are going to hear this name a lot), the Creative Lead for the Tokyo Disney Resort Portfolio. Shortly after the park opened Lanzisero began work on bringing Twilight Zone Tower of Terror to a new expansion, the American Waterfront port. Unfortunately, the Twilight Zone (the storyline to the other versions of this ride) wasn’t popular in Japan so a new backstory was needed.
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/DSC03555.jpg)
+![Harrison Hightower in Canada](/uploads/posts/sea-part-2/harrison-hightower-in-canada.jpg)
 *Source: Jungle Skipper, March 2018, Taken in the queue for Tower of Terror Tokyo DisneySea. Copyright The Walt Disney Company*
 
 The Imagineers came up with Harrison Hightower III (modelled on Joe Rhode). He was a ruthless explorer who had an ill-fated end when travelling in an elevator with a scared idol he stole.
@@ -43,24 +51,26 @@ This all changed with Joe Lanzisero’s next project, The Mystic Point expansion
 
 A new ride with a unique and original backstory was created.
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/DSC00808.JPG)
+![Mystic Manor](/uploads/posts/sea-part-2/mystic-manor.jpg)
 *Source: Jungle Skipper, February 2017 taken at Hong Kong Disneyland*
 
 Mystic Manor, possibly one of the best dark rides in existence, is also central to the story of S.E.A. Watch the video below of Joe Lanzisero explaining Mystic Manor in more detail.
 
-[Exploring Mystic Manor | Hong Kong Disneyland - YouTube](https://www.youtube.com/watch?time_continue=12&v=KyPE0zqz_OM)
+{% include youtube.html id='KyPE0zqz_OM' %}
 
 *Why did Joe Lanzisero pick to use the same society and that is in Fortress Explorations? The attractions are based in different time periods and feature real people versus made up characters.*
 
 The Explorers Club Restaurant in HKDL Mystic Point also features a S.E.A. Backstory. The same masks which appeared in The Adventurers Club now also appear on the walls of The Explorers Club Restaurant. The decision to add these masks might have been on purpose or completely by accident, but by being their S.E.A. Is now connected to The Adventurers Club. One piece of evidence we do have is a tweet I received from Imagineer Joe Rhode (designer of The Adventurers Club).
 
-[Joe Rohde on Twitter: “Cannot take credit for SEA..only Adventurers Club. I thought SEA was originally guest-generated…which is even cooler. Is it not?… https://t.co/WvhfcKHfEX”](https://twitter.com/joe_rohde/status/971390846770663425)
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Cannot take credit for SEA..only Adventurers Club. I thought SEA was originally guest generated...which is even cooler. Is it not? <a href="https://t.co/16EdMJl4oc">https://t.co/16EdMJl4oc</a></p>&mdash; Joe Rohde (@Joe_Rohde) <a href="https://twitter.com/Joe_Rohde/status/971390846770663425?ref_src=twsrc%5Etfw">March 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 This tweet demonstrates that Rhode believes that S.E.A. Was a fan made concept. So either no one consulted him about using the masks he designed, or they weren’t used on purpose. Once the masks were added fans noticed the connection and started to link them together. The link was confirmed in the Joe Rhode designed Alunai, a Disney Hotel and Spa in Hawaii (See [part 1]() for more information).
 
 Central to Mystic Manors S.E.A. storyline is the poster below:
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/SocietyPortrait.png)
+![Society Portrait](/uploads/posts/sea-part-1/SocietyPortrait.png)
 
 It introduces us to both old and new characters, *left to right*
 * Harrison Hightower III, Tower of Terror - Tokyo DisneySea
@@ -80,9 +90,16 @@ The 2016 Destination D event ‘Amazing Adventures’ it was announced that Imag
 ## Jungle Cruise & Skipper Canteen
 The Jungle Cruise had already been connected to The Adventures Club and now by extension to S.E.A. The trunks next to the old Fastpass machines included labels from Emil Bleehall and Pamela Perkins from The Adventurers Club.
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/D16CF137-C36C-46F8-8E29-675B6AF8D256.png)
-![](Introduction%20to%20S.E.A.%20-%20Part%202/F9138A70-D963-4519-B7D2-3A356CA06EB4.png)
-Source: [FigmentJedi](https://twitter.com/Figment_Jedi/status/1002616803166773249) on Twitter
+<div class="row">
+	<div class="col-sm-6 col-xs-12">
+		<image src="/uploads/posts/sea-part-2/jungle-cruise-luggage-tag-1.png" alt="Luggage tag spotted in the Jungle Cruise line" />
+	</div>
+	<div class="col-sm-6 col-xs-12">
+		<image src="/uploads/posts/sea-part-2/jungle-cruise-luggage-tag-2.png" alt="Luggage tag spotted in the Jungle Cruise line" />
+	</div>
+</div>
+
+*Source: [FigmentJedi](https://twitter.com/Figment_Jedi/status/1002616803166773249) on Twitter*
 
 Apart from the Skipper Canteen the Jungle Cruise has further links to S.E.A.  In 2017 the Bengal BBQ was opened which confirmed more S.E.A. connections. You can read a [fantastic article by Freddy Martin](http://freddymartin.net/2017/08/28/disneyland-finally-gets-sea-connection/) on the Disneyland Jungle Cruise and it’s connection to S.E.A. I really recommend giving it a read, some of the Easter Eggs there are are amazing 🤯.
 
@@ -101,13 +118,13 @@ Big Thunder is set in the late 1800’s at roughly the same time period as Lord 
 
 Just a note on the backstory of Big Thunder Mountain, it was split in two with the creation of the Disney Kingdoms version where Jason Chandler is a miner/bandit. For the original backstory (which is S.E.A. related) Jason Chandler is an inventor who created the drilling machine to search for gold in Big Thunder Mountain. This storyline was also the basis for the infamous and unbuilt [Discovery Bay expansion](https://www.themeparktourist.com/features/20150727/30436/discovery-bay-inventive-tale-disneylands-astounding-lost-land).
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/IMG_73B36D6FB3C0-1.jpeg)
+![Jason Chandler](/uploads/posts/sea-part-2/jason-chandler-big-thunder-mountain.jpg)
 *Source: Big Thunder Mountain - Marvel Disney Kingdoms, Copyright The Walt Disney Company*
 
 ## Miss Adventure Falls
 The first S.E.A. based attraction to debut in the US and the first to debut after the 2016 Destination D event. Miss Adventure Falls is a water slide in Walt Disney World’s Typhoon Lagoon. It includes a backstory of Mary Oceaneer (as in the S.E.A. portrait in Mystic Manor) and her parrot who got shipwrecked.
 
-![](Introduction%20to%20S.E.A.%20-%20Part%202/maf934860943.jpg)
+![Captain Mary Oceaneers Nautical Treasures](/uploads/posts/sea-part-2/captain-mary-oceaneers-nautical-treasures.jpg)
 Source: [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2017/03/new-miss-adventure-falls-attraction-to-open-march-12-at-disneys-typhoon-lagoon-water-park/) Copyright The Walt Disney Company 
 
 You may notice that there is Atlantan along the bottom of the diving bell. This could be a link between the film Atlantic: The Lost Empire and S.E.A. though we will have to wait and see if anything else pops up with this.

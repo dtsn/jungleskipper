@@ -17,6 +17,10 @@ article {
 		}
 	}
 
+	.twitter-tweet {
+		text-align: center;
+	}
+
 	.top-tip, .fun-fact {
 		@include open-sans;
 		font-size: 18px;
