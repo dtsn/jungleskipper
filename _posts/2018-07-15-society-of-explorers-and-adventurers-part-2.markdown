@@ -1,14 +1,12 @@
 ---
 title: The Society of Explorers and Adventurers - Part 2
 date: 2018-07-15 07:10:00 Z
-published: false
 categories:
 - history
 tags:
 - history
-image: "/uploads/posts/sea-part-2/magellans-fountain.png"
-hidden: true
-image-thumb: "/uploads/posts/sea-part-2/magellans-fountain-small.png"
+image: "/uploads/posts/sea-part-2/magellans-fountain.jpg"
+image-thumb: "/uploads/posts/sea-part-2/magellans-fountain-small.jpg"
 section: history
 reddit: S_E_A
 ---
