@@ -6,9 +6,9 @@ categories:
 - history
 tags:
 - history
-image: "/uploads/posts/sea-part-2/mystic-manor-poster.png"
+image: "/uploads/posts/sea-part-2/magellans-fountain.png"
 hidden: true
-image-thumb: "/uploads/posts/sea-part-2/mystic-manor-poster-small.png"
+image-thumb: "/uploads/posts/sea-part-2/magellans-fountain-small.png"
 section: history
 reddit: S_E_A
 ---
