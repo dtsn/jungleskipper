@@ -1,5 +1,5 @@
 ---
-title: Jungle Cruise Movie
+title: Jungle Cruise Movie First Look
 date: 2018-08-01 05:25:00 Z
 published: false
 categories:
@@ -11,7 +11,9 @@ tags:
 - movie
 - rumors
 - news
-image: "/uploads/1500x500.jpeg"
+image: "/uploads/jungle-cruise-movie.jpeg"
+image-thumb: "/uploads/jungle-cruise-movie-thumb.jpg"
+section: news
 ---
 
 Disney has just given us our first look into the Jungle Cruise movie via their [Twitter Account](https://twitter.com/JungleCruise). Do we think this movie is going to have anything to do with S.E.A, or is it going to be another [Haunted Mansion](https://www.imdb.com/title/tt0338094/)?
