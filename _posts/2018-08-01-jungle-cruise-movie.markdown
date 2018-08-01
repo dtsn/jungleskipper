@@ -1,7 +1,6 @@
 ---
 title: Jungle Cruise Movie First Look
 date: 2018-08-01 05:25:00 Z
-published: false
 categories:
 - news
 - jungle-cruise
