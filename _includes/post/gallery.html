@@ -3,8 +3,8 @@
 <div itemscope itemtype="http://schema.org/ImageGallery" class="gallery">
 	{% for image in site.data.gallery[include.gallery].pictures limit:1 %}
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="first">
-		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-{{image.width}}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
-			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-1000.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
+		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
 		</a>
 		<meta itemprop="width" content="{{ image.width }}">
 		<meta itemprop="height" content="{{ image.height }}">
@@ -13,8 +13,8 @@
 
 	{% for image in site.data.gallery[include.gallery].pictures offset:1 limit:3 %}
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-{{image.width}}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
-			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-340.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
+		<a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+			<img src="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}.jpg" itemprop="thumbnail" alt="{{ image.caption | strip_html | truncatewords: 5 }}" />
 		</a>
 		<meta itemprop="width" content="{{ image.width }}">
 		<meta itemprop="height" content="{{ image.height }}">
@@ -25,7 +25,7 @@
 
 	{% for image in site.data.gallery[include.gallery].pictures offset:4 %}
 	<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" style="display: none;">
-        <a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}-1920.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
+        <a href="{{ site.data.gallery[include.gallery].basePath }}{{ image.filename }}.jpg" itemprop="contentUrl" data-size="{{image.width}}x{{image.height}}">
             <figcaption itemprop="caption description">
 			{{ image.caption }}
 			</figcaption>
