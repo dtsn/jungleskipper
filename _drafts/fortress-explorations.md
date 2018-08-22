@@ -109,14 +109,10 @@ Yep - thats me having way too much fun pulling the cannon.
 ## Cards
 What didn’t exists when I went earlier in the year but had been at the attraction for a while are a series of pamphlets which explain each of the rooms in more detail. I managed to find a copy of these online at [Parkeology](http://www.parkeology.com/2011/03/story-of-exploration.html).
 
-![](/uploads/posts/fortress-explorations/5302B239-213E-4271-BBF5-B0ECED66F644.png)
-![](/uploads/posts/fortress-explorations/218A2D03-54B2-498C-A087-F2693051D169.png)
-![](/uploads/posts/fortress-explorations/4FCEB380-37A3-4AB2-B27F-14EF4448F894.png)
-![](/uploads/posts/fortress-explorations/7F515CC1-08B0-4527-9E5A-F20FCA018F73.png)
-![](/uploads/posts/fortress-explorations/9FBFAB4E-19A8-49CB-AD82-8C9AE484A85C.png)
-![](/uploads/posts/fortress-explorations/0DE591CE-B781-40B0-BA64-678CCF792636.png)
-![](/uploads/posts/fortress-explorations/9FB5A7B4-9CBC-4024-ABD6-CED9C54CD8D4.png)
+{% include post/gallery.html gallery="fortress-explorations-cards" %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jungleskipper/albums/72157689243096135" title="Walt Disney World"><img src="https://farm5.staticflickr.com/4422/36494876793_3b53d6e5e1_z.jpg" width="640" height="449" alt="Walt Disney World"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+## Gallery
+
+Here are just a few of the pictures I took when visiting Fortress explorations in Feb 2018, it was pouring with rain so probably not some the best i've ever taken.
 
 {% include post/gallery.html gallery="fortress-explorations" %}

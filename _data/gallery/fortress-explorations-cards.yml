@@ -1,0 +1,31 @@
+name: Fortress Explorations Cards
+basePath: /uploads/gallery/fortress-explorations-cards/
+pictures:
+- filename: alchemylab
+  caption: One of the towers
+  height: 640
+  width: 454
+- filename: camera-obsecurer
+  caption: The people rushing by
+  height: 640
+  width: 454
+- filename: chamberofplanets
+  caption: Gold painted dome
+  height: 640
+  width: 454
+- filename: fortressadventure
+  caption: Ceiling of the navigation centre - it rains from the cloud
+  height: 640
+  width: 454
+- filename: fortressatnight
+  caption: Ships in navigation centre
+  height: 640
+  width: 454
+- filename: galleon
+  caption: Liquid map of the navigation centre
+  height: 640
+  width: 454
+- filename: sundail
+  caption: She was still there hours later
+  height: 640
+  width: 454
