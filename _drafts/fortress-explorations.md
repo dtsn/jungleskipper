@@ -1,5 +1,6 @@
 ---
 title: Fortress Explorations
+date: 2018-08-20 07:12:01.775000000 Z
 categories:
 - history
 tags:
