@@ -71,5 +71,3 @@ There is a great family friendly atmosphere for the park and because of the way 
 
 ## Summary
 Tivoli is a beautiful, clean park and is well worth a visit. It has a regular program of different activities through the year and in 2018 it will be the parks 175 celebration, were Walt Disney World has contributed a ‘it’s a small world’ float to the parade.
-
-{% include post/gallery.html gallery="2017-12-11-tivoli-gardens" %}
