@@ -1,8 +1,6 @@
 ---
 title: Soarin' & S.E.A.
-image: "/uploads/posts/soarin/soarin-concept-art.png"
-image-thumb: "/uploads/posts/soarin/soarin-concept-thumb.png"
-date: 2018-08-26 16:24:10.403000000 Z
+date: 2018-08-26 16:24:00 Z
 categories:
 - news
 - soarin
@@ -16,14 +14,14 @@ image: uploads/posts/soarin/soarin-concept-art.png
 image-thumb: uploads/posts/soarin/soarin-concept-thumb.png
 ---
 
-Just across from [Fortress Explorations](/history/fortress-explorations) in the Meditraian Harbour at Tokyo’s DisneySea a Japanese version of Soarin is being built, scheduled to opened in 2019.
+Just across from [Fortress Explorations](/history/fortress-explorations) in the Mediterranian Harbour at Tokyo’s DisneySea a Japanese version of Soarin' is being built, scheduled to open in 2019.
 
-If you are unfamiliar with Soarin it’s a flight motion simulator ride, which sees you suspended over the a film projected on a concave 180-degree dome screen. If you take a look at the concept art above you can see that the Soarin ride vechile will be based on the DaVinci flying machine from Fortress Exploration. This could mean that Soarin may get a tie into Fortress Explorations and therefor a tie into S.E.A.
+If you are unfamiliar with Soarin' it’s a flight motion simulator ride, which sees you suspended over a film projected onto a 180-degree domed screen. If you take a look at the concept art above you can see that the Soarin' ride vehicle will be based on the DaVinci flying machine from Fortress Exploration (below). This could mean that Soarin may get a tie into Fortress Explorations and therefore a tie into S.E.A.
 
 ![DaVinvi flying machine](/uploads/posts/soarin/DSC03261.jpg)
 *DaVinci flying machine from Fortress Explorations*
 
-What do you think? We will keep you posted with devoplements of the ride.
+What do you think? We will keep you posted with developments of the ride.
 
 See the full press release below:
 
