@@ -1,7 +1,5 @@
 ---
 title: Soarin' & S.E.A.
-image: "/uploads/posts/soarin/soarin-concept-art.png"
-image-thumb: "/uploads/posts/soarin/soarin-concept-thumb.png"
 date: 2018-08-26 16:24:10.403000000 Z
 categories:
 - news
