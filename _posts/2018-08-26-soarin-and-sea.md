@@ -10,8 +10,8 @@ tags:
 - ride
 - disneysea
 - news
-image: uploads/posts/soarin/soarin-concept-art.png
-image-thumb: uploads/posts/soarin/soarin-concept-thumb.png
+image: "/uploads/posts/soarin/soarin-concept-art.png"
+image-thumb: "/uploads/posts/soarin/soarin-concept-thumb.png"
 ---
 
 Just across from [Fortress Explorations](/history/fortress-explorations) in the Mediterranian Harbour at Tokyo’s DisneySea a Japanese version of Soarin' is being built, scheduled to open in 2019.
