@@ -7,7 +7,6 @@ tags:
 - fortress-explorations
 - resturant
 - disneysea
-
 image: "/uploads/posts/soarin/soarin-concept-art.png"
 image-thumb: "/uploads/posts/soarin/soarin-concept-thumb.png"
 ---
