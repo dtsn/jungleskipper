@@ -1,4 +1,9 @@
 {% for post in include.posts %}
+
+	{% if post.hidden == true %}
+		{% break %}
+	{% endif %}
+
 	<div class="post-list-item row">
 		<div class="image col-sm-4">
 			<a href="{{ post.url }}" class="image"><img data-image="{{ post.image }}" src="{% if post.image-thumb %}{{post.image-thumb}}{% else %}{{post.image}}{% endif %}" alt="{{ post.title }}" /></a>

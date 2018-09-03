@@ -17,6 +17,10 @@ redirect_from:
 reddit: HongKongDisneyland
 ---
 
+Mystic Manor, and the Mystic Point expansion, is probably one of the most important rides for the creation of S.E.A. and furthering the S.E.A. storyline. 
+
+
+
 We visited Mystic Manor on our 2017 trip to [Hong Kong Disneyland](/reviews/disneyland-hong-kong) and were blown away by not only the story but the execution of the ride. I was hooked immediately and being the Disney park nerd that I am, I had to look into its origins and history.
 
 In early 2009 the executives of Hong Kong Disneyland (HKDL) were looking to expand the park and brought in experienced Imagineer Joe Lanisero. Originally Joe and his college fellow Imagineer Robert Coltrin initially had the idea to build a single land with one big E-ticket attraction. The company then chief financial officer, Jim Hunt, quickly pointed out that Chinese culture is all about the numbers. The Imagineers came up with 10 or 12 concepts but decided to whittle it down to 3 mini lands. This would bring the total number to 9, a lucky number in Chinese culture. Recently Disneyland Paris had just launched their Toy Story playground which was very popular with guests, so what was left were two lands [Gizzly Gulch](/reviews/disneyland-hong-kong#grizzly-gulch) and Mystic Point.
