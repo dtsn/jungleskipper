@@ -1,14 +1,18 @@
 ---
 title: Magellan's - Meeting Place of S.E.A.
 date: 2018-09-03 06:59:00 Z
+categories:
+- review
+tags:
+- reviews
 ---
 
 # Magellan’s - Meeting place of S.E.A.
 #personal/blog
 
-Howdy Explorers, this week we are going to take a brief detour over our in depth look at S.E.A. attractions and cover the first S.E.A. resturant, Magellan’s. Nestled underneath Fortress Explorations this is the original meeting place of S.E.A. and boost possible the first secret dinning room. 
+Howdy Explorers, this week we are going to take a brief detour over our in-depth look at S.E.A. attractions and cover the first S.E.A. restaurant, Magellan’s. Nestled underneath Fortress Explorations this is the original meeting place of S.E.A. and boost possible the first secret dining room. 
 
-Named after the great Ferdinand Magellan who the society recognised as the ‘greatest explorer of our time’. This fine dinning restaurant is often considered the best in Tokyo DisneySea and on an extremely wet day we visited for lunch.
+Named after the great Ferdinand Magellan who the society recognised as the ‘greatest explorer of our time’. This fine dining restaurant is often considered the best in Tokyo DisneySea and on an extremely wet day we visited for lunch.
 
 *Just a warning, this is part review and part history.*
 
@@ -16,17 +20,17 @@ Named after the great Ferdinand Magellan who the society recognised as the ‘gr
 *Source: Magellan’s Menu first page - Inscription from the members of S.E.A.*
 
 ## Getting a Reservation
-First let’s cover reservations - These aren’t easy … advanced reservations are only open to Japanese residents via the web. There is a booking line, but this was also in Japanese.
+First, let’s cover reservations - These aren’t easy … advanced reservations are only open to Japanese residents via the web. There is a booking line, but this was also in Japanese.
 
-The restaurant opens at 10am for on the day reservations but your milage my vary depending on how good the cast members English/your Japanese is.
+The restaurant opens at 10am for on the day reservations but your mileage may vary depending on how good the cast members English/your Japanese is.
 
-With my Google Translator in tow and after about 45 mins of back and forth initially telling me 3 times there were no tables and that I needed to ring the English reservation line (FYI I found the English reservation line wasn’t in English). I eventually managed to speak to a cast member who gave us a table. So a little polite persistence really pays off!
+With my Google Translator in tow and after about 45 mins of back and forth initially telling me 3 times, there were no tables and that I needed to ring the English reservation line (FYI I found the English reservation line wasn’t in English). I eventually managed to speak to a cast member who gave us a table. So a little polite persistence really pays off!
 
 ## Decor
 ![](&&&SFLOCALFILEPATH&&&DSC03223%20(1).jpg)
 *The S.E.A. logo on the entrance doors to Magellan’s*
 
-We have dined in a lot of Disney restaurants around the world and this is by far one of the most richly detailed I have ever seen. You initially enter through enormous doors emblazoned with the S.E.A. logo (see above) to a mezzanine level. The mezzanine wraps the restaurants centre piece, a giant spinning globe set underneath a domed ceiling painted with the constellations. You can walk right around the mezzanine which also contains the bar Magellan’s Lounge (which doesn’t require a reservation).
+We have dined in a lot of Disney restaurants around the world and this is by far one of the most richly detailed I have ever seen. You initially enter through enormous doors emblazoned with the S.E.A. logo (see above) to a mezzanine level. The mezzanine wraps the restaurant's centrepiece, a giant spinning globe set underneath a domed ceiling painted with the constellations. You can walk right around the mezzanine which also contains the bar Magellan’s Lounge (which doesn’t require a reservation).
 
 ![](&&&SFLOCALFILEPATH&&&DSC03247.jpg)
 *The globe as you enter Magellan’s*
@@ -35,19 +39,19 @@ We have dined in a lot of Disney restaurants around the world and this is by far
 *The ceiling of Magellan’s*
 
 ![](&&&SFLOCALFILEPATH&&&DSC03246.jpg)
-*The main dinning lounge contains models and paintings from Fortress Explorations*
+*The main dining lounge contains models and paintings from Fortress Explorations*
 
 ### The Secret Room
 ![](&&&SFLOCALFILEPATH&&&DSC03228.jpg)
 
 This first secret room which I know of in a Disney restaurant (correct me if I’m wrong) is in Magellan’s. Hidden behind an unsuspecting bookcase along the corridor to the restrooms - *From the picture above can you tell where the button is?*
 
-Inside is themed as a wine cellar, each one of the casks is stamped with the Magellan logo. This doesn’t have much to do with S.E.A. unlike the secret dinning room in the Skipper Canteen.
+Inside is themed as a wine cellar, each one of the casks is stamped with the Magellan logo. This doesn’t have much to do with S.E.A. unlike the secret dining room in the Skipper Canteen.
 
 ![](&&&SFLOCALFILEPATH&&&DSC03238.jpg)
 
 ## Design
-Magellan’s was designed by the very talented Wes Cook. As with some other parts of Fortress Explorations a number of drawings from Cook were discovered by Twitter user [Cabel](https://twitter.com/cabel/status/852633504957345792?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fforums.wdwmagic.com%2Fthreads%2Fanyone-know-who-the-team-was-behind-fortress-explorations.944397%2F).
+Magellan’s was designed by the very talented Wes Cook. As with some other parts of Fortress Explorations, a number of drawings from Cook were discovered by Twitter user [Cabel](https://twitter.com/cabel/status/852633504957345792?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fforums.wdwmagic.com%2Fthreads%2Fanyone-know-who-the-team-was-behind-fortress-explorations.944397%2F).
 
 ![](&&&SFLOCALFILEPATH&&&8BBBF0DB-89CE-4C3D-9F20-B6266E8960C6.png)
 *Source:  [Cabel on Twitter](https://twitter.com/cabel/status/852633504957345792?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fforums.wdwmagic.com%2Fthreads%2Fanyone-know-who-the-team-was-behind-fortress-explorations.944397%2F) - Wes Cooks detailed illustration of the ceiling in Magellans.*
