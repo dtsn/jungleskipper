@@ -1,18 +1,15 @@
 ---
 title: Magellan's - Meeting Place of S.E.A.
 date: 2018-09-04 06:00:00 Z
-image: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
-image-thumb: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
-
 categories:
 - reviews
-
 tags:
 - reviews
 - fortress-explorations
 - restaurant
 - disneysea
-
+image: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
+image-thumb: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
 gallery: magellans
 reddit: S_E_A
 ---
