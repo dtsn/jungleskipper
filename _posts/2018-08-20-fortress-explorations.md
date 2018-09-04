@@ -1,12 +1,19 @@
 ---
 title: Fortress Explorations
 date: 2018-08-20 07:12:00 Z
-categories:
-- history
-tags:
-- history
 image: "/uploads/posts/fortress-explorations/fortress-explorations.jpg"
 image-thumb: "/uploads/posts/fortress-explorations/fortress-explorations-small.jpg"
+
+categories:
+- history
+
+
+tags:
+- history
+- fortress-explorations
+- disneysea
+
+
 gallery: fortress-explorations
 section: history
 reddit: S_E_A

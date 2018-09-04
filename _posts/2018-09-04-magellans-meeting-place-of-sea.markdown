@@ -1,17 +1,23 @@
 ---
 title: Magellan's - Meeting Place of S.E.A.
-date: 2018-09-03 06:59:00 Z
+date: 2018-09-04 06:00:00 Z
+image: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
+image-thumb: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
+
 categories:
 - reviews
+
 tags:
+- reviews
 - fortress-explorations
-- resturant
+- restaurant
 - disneysea
-image: "/uploads/posts/soarin/soarin-concept-art.png"
-image-thumb: "/uploads/posts/soarin/soarin-concept-thumb.png"
+
+gallery: magellans
+reddit: S_E_A
 ---
 
-Howdy Explorers, this week we are going to take a brief detour over our in-depth look at S.E.A. attractions and cover the first S.E.A. restaurant, Magellan’s. Nestled underneath Fortress Explorations this is the original meeting place of S.E.A. and boost possible the first secret dining room. 
+Howdy Explorers, this week we are going to take a brief detour over our in-depth look at S.E.A. attractions and cover the first S.E.A. restaurant, Magellan’s. Nestled underneath [Fortress Explorations](/history/fortress-explorations) this is the original meeting place of S.E.A. and boasts, possible, the first secret dining room! 
 
 Named after the great Ferdinand Magellan who the society recognised as the ‘greatest explorer of our time’. This fine dining restaurant is often considered the best in Tokyo DisneySea and on an extremely wet day we visited for lunch.
 
@@ -28,26 +34,26 @@ The restaurant opens at 10am for on the day reservations but your mileage may va
 With my Google Translator in tow and after about 45 mins of back and forth initially telling me 3 times, there were no tables and that I needed to ring the English reservation line (FYI I found the English reservation line wasn’t in English). I eventually managed to speak to a cast member who gave us a table. So a little polite persistence really pays off!
 
 ## Decor
-![](/uploads/posts/magellans/DSC03223%20(1).jpg)
+![](/uploads/posts/magellans/DSC03223.jpg)
 *The S.E.A. logo on the entrance doors to Magellan’s*
 
 We have dined in a lot of Disney restaurants around the world and this is by far one of the most richly detailed I have ever seen. You initially enter through enormous doors emblazoned with the S.E.A. logo (see above) to a mezzanine level. The mezzanine wraps the restaurant's centrepiece, a giant spinning globe set underneath a domed ceiling painted with the constellations. You can walk right around the mezzanine which also contains the bar Magellan’s Lounge (which doesn’t require a reservation).
 
 ![](/uploads/posts/magellans/DSC03247.jpg)
-*The globe as you enter Magellan’s*
+*The globe as you enter Magellan’s, you can see Magellan's Lounge in the top right*
 
 ![](/uploads/posts/magellans/DSC03227.jpg)
-*The ceiling of Magellan’s*
+*The ceiling of Magellan’s, designed by Wes Cook*
 
 ![](/uploads/posts/magellans/DSC03246.jpg)
-*The main dining lounge contains models and paintings from Fortress Explorations*
+*The main dining lounge contains models and paintings of the rooms within Fortress Explorations*
 
 ### The Secret Room
 ![](/uploads/posts/magellans/DSC03228.jpg)
 
 This first secret room which I know of in a Disney restaurant (correct me if I’m wrong) is in Magellan’s. Hidden behind an unsuspecting bookcase along the corridor to the restrooms - *From the picture above can you tell where the button is?*
 
-Inside is themed as a wine cellar, each one of the casks is stamped with the Magellan logo. This doesn’t have much to do with S.E.A. unlike the secret dining room in the Skipper Canteen.
+Inside is themed as a wine cellar, each one of the casks is stamped with the Magellan logo. This doesn’t have much to do with S.E.A. unlike the secret dining room in the Skipper Canteen - but its cool anyway. Unfortunately it was full when we went, so we had to sit outside. However, the decoration and theming outside is a lot better.
 
 ![](/uploads/posts/magellans/DSC03238.jpg)
 
@@ -68,7 +74,7 @@ Even though we love all the S.E.A. references, the majority of people would go t
 
 Magellan’s is classified as a fine dining experience and I would liken it to a signature meal at WDW. It mainly serves a series of set menus, each consisting of 3 courses and range in price from ¥3000 to ¥8000. The full menu can be found [here](https://www.tokyodisneyresort.jp/tds/restaurant/menu/412/) (Japanese only - switch on Google translate)
 
-At lunch Magellan’s also serves an A La Carte menu and a range of cheaper set menus. For around ¥3000 (£21/$26) you can get a 3 course meal, with bread and beverage - I found this to be very cheap for a Disney theme park! 
+At lunch Magellan’s also serves an A La Carte menu and a range of cheaper set menus. For around ¥3000 (£21/$26) you can get a 3 course meal, with bread and beverage - I thought this to be very cheap for a Disney theme park! 
 
 A few people mention that the Japanese portion size is smaller than that of the US parks. I found them to be reasonable, but I also find the portion size in the US parks to be too big.
 
@@ -92,7 +98,7 @@ There isn’t a massive choice of mains to choose from but what is there is beau
 The chicken was lovely, though the tapnard sauce did leave a very oily residue on the plate.
 
 ### Dessert
-This is the best bit of the whole meal, 
+This is the best bit of the whole meal!
 
 ![](/uploads/posts/magellans/IMG_0437.jpg)
 *Strawberry millefeuille - ¥770*
@@ -104,5 +110,9 @@ Throughout this whole meal our server was very attentive and tried her best to s
 ## Summary
 Magellan’s is one of the best themed restaurants I’ve been too. It’s just a shame that the theme doesn’t have much to do with S.E.A. It reflects more of the old world of S.E.A. before we get all the clever references between the different attractions.
 
+## Gallery
 
+Here are a few more pictures just in case the above wasn't enough.
+
+{% include post/gallery.html gallery="magellans" %}
 
