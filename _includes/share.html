@@ -1,14 +1,14 @@
 <div class="sidebar post">
 	<h3 class="aside">Share this article</h3>
 	<!-- Twitter -->
-	<a class="twitter no-hover" href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} by @{{ site.authorTwitter }}">
+	<a class="twitter no-hover" href="https://twitter.com/intent/tweet?text={{page.title}} - https://jungleskipper.com{{ page.url }} - by @_jungleskipper">
 		Tweet
 	</a>
 	
 	<!-- Facebook -->
 	<a class="facebook no-hover" href="#" onclick="
 	    window.open(
-	      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('{{page.url}}'),
+	      'https://www.facebook.com/sharer/sharer.php?u=https://jungleskipper.com'+encodeURIComponent('{{page.url}}'),
 	      'facebook-share-dialog',
 	      'width=626,height=436');
 	    return false;">Share
@@ -17,7 +17,7 @@
 	{% if page.reddit %}
 	<!-- Reddit -->
 	<a class="reddit no-hover" href="//www.reddit.com/submit" onclick="
-		window.location='//www.reddit.com/r/{{page.reddit}}/submit?url=' + encodeURIComponent('{{page.url}}');
+		window.location='//www.reddit.com/r/{{page.reddit}}/submit?url=https://jungleskipper.com' + encodeURIComponent('{{page.url}}');
 		return false;
 	">
 		Reddit
