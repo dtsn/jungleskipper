@@ -1,5 +1,5 @@
 ---
-title: HKDL Merchandise Explains Link
+title: HKDL Merchandise Explains Link Between Old and New
 date: 2018-09-21 09:06:00 Z
 categories:
 - news
@@ -14,8 +14,7 @@ image: "/uploads/mhk194885LARGE.jpg"
 image-thumb: "/uploads/mhk194885SMALL.jpg"
 ---
 
-An interesting development was tweeted to me [@_jungleskipper](https://twitter.com/_jungleskipper) of [@MarkWillard85](https://twitter.com/MarkWillard85) tweet regarding a tag on a piece of marchandise in Hong Kong Disneyland. This tag seemily explains the relationship between the origin S.E.A. from [Fortress Explorations](/history/fortress-explorations) and the new S.E.A. introduced via Mystic Manor.
-
+An interesting development was tweeted to me [@_jungleskipper](https://twitter.com/_jungleskipper) of [@MarkWillard85](https://twitter.com/MarkWillard85) tweet regarding a tag on a piece of merchandise in Hong Kong Disneyland. This tag seemingly explains the relationship between the origin S.E.A. from [Fortress Explorations](/history/fortress-explorations) and the new S.E.A. introduced via Mystic Manor.
 
 > The Society of Explorers and Adventurers (S.E.A.) is an international organization of men and women with ties to the famous explorers of history. During the 16th century, a distinguished body of mariners, scientists, engineers, and artists came together to dedicate themselves to the exploration of the world - its land, seas, people, cultures, art, and science.
 
