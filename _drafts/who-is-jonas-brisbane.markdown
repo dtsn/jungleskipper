@@ -11,7 +11,6 @@ tags:
 - hkdl
 - halloween
 - characters
-
 image: "/uploads/soarin-show-building-concept.png"
 image-thumb: "/uploads/soarin-show-building-concept.png"
 ---
