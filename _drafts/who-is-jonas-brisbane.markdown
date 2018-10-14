@@ -11,7 +11,6 @@ tags:
 - hkdl
 - halloween
 - characters
-
 image: "/uploads/posts/jonas-brisbane/halloween-2014-hong-kong-disneyland.jpg"
 image-thumb: "/uploads/posts/jonas-brisbane/halloween-2014-hong-kong-disneyland-small.jpg"
 ---
