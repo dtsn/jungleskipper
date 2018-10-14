@@ -12,8 +12,8 @@ tags:
 - halloween
 - characters
 
-image: "/uploads/soarin-show-building-concept.png"
-image-thumb: "/uploads/soarin-show-building-concept.png"
+image: "/uploads/posts/jonas-brisbane/halloween-2014-hong-kong-disneyland.jpg"
+image-thumb: "/uploads/posts/jonas-brisbane/halloween-2014-hong-kong-disneyland-small.jpg"
 ---
 
 It’s October so it’s nearly time for Halloween 🎃. This week we are going to look at one of the lesser known characters related to S.E.A. - Jonas Brisbane.
@@ -45,3 +45,5 @@ Then the witch doctor comes alive and says something along the lines of “YOU D
 Jonas finds a vial of the witch doctor’s blood in the coffin and drinks it, thinking he will gain power but actually gets controlled instead !!!! And then after some struggle between them, Jonas finally mysteriously disappears himself.  
 
 The assistant appears and repeats the spells and curses the witch doctor makes and warns everyone that bad things will befall people if they’re not careful in this forest.
+
+*Photo Credit - Used with permission from [Disney Tourist Blog](https://www.disneytouristblog.com/halloween-hong-kong-disneyland/)*
