@@ -14,7 +14,7 @@ image-thumb: "/uploads/soarin-show-building-concept.png"
 
 Hi Explorers, sorry for no updates for a while - I've been busy building a Trader Sams style tiki room in my back garden (more on that to come). 
 
-Some exciting news has just come out from the Oriental Land Co regarding Sorin'. A few months ago I posted an article [announcing the new name of the Attraction](new-details-revealed-of-soarin-at-disneysea). Now, not only has Tokyo DisneySea announced the opening day but also the back story! Guess what? There is a S.E.A. link in the attraction.
+Some exciting news has just come out from the Oriental Land Co regarding Sorin'. A few months ago I posted an article [announcing the new name of the Attraction](new-details-revealed-of-soarin-at-disneysea). Now, not only has Tokyo DisneySea announced the opening day, July 23rd, but also the back story! Guess what? There is a S.E.A. link in the attraction.
 
 >Nestled in the hills of Mediterranean Harbor, amidst the backdrop of an old-world Italian village, the Museum of Fantastic Flight is dedicated to
 humankind’s enduring dream of flying. Today, the museum celebrates Camellia Falco—a visionary innovator in the fledgeling field of aviation—with a special retrospective of her life. 
