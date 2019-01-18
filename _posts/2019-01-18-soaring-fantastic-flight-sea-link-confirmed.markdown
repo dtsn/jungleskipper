@@ -27,11 +27,11 @@ Source: [Laughing Place](https://www.laughingplace.com/w/blogs/disney-buzz/2018/
 >A grand tour of the museum includes a magical visit from the spirit of Camellia and culminates with Guests boarding her latest and
 greatest achievement—a flying vehicle of her own design called the Dream Flyer. Guests soon experience what Camellia believed, that our imagination can propel us into the future and take us everywhere in the world we wish to go. And before Guests know it, their spirits are sent soaring.
 
-![Fantastic Flight concept 1](/uploads/tds-soring-fantastic-flight-concept-1.png)
+![Fantastic Flight concept 1](/uploads/tds-soarin-fantastic-flight-concept-1.png)
 
 We've also been shown some new concept art for the Museum of Fantastic Flight.
 
-![Fantastic Flight concept 2](/uploads/tds-soring-fantastic-flight-2.png)
+![Fantastic Flight concept 2](/uploads/tds-soarin-fantastic-flight-2.png)
 
 Here is the [press release in full](http://www.olc.co.jp/en/news/news_olc/20190118_01e/main/0/link/20190118_01e.pdf).
 
