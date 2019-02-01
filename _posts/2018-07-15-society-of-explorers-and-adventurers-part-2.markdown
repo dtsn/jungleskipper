@@ -41,9 +41,7 @@ In comes Joe Lanzisero (you are going to hear this name a lot), the Creative Lea
 ![Harrison Hightower in Canada](/uploads/posts/sea-part-2/harrison-hightower-in-canada.jpg)
 *Source: Jungle Skipper, March 2018, Taken in the queue for Tower of Terror Tokyo DisneySea*
 
-The Imagineers came up with Harrison Hightower III (modelled on the Imagineer Joe Rhode). He was a ruthless explorer who had an ill-fated end when travelling in an elevator with a scared idol he stole.
-
-*Again if anyone knows the show writer for Tower of Terror in Japan please let me know - they should have credits at the end of these rides!*
+Show writer, who I believe to be [Michael Sprout](https://www.youtube.com/watch?v=bRr3Ej8022I), came up with Harrison Hightower III (modelled on the Imagineer Joe Rhode). He was a ruthless explorer who had an ill-fated end when travelling in an elevator with a scared idol he stole.
 
 Unfortunately, Tower of Terror and Harrison Hightower III had no connection to S.E.A. on the opening day of the attraction ([backstory](http://disney.wikia.com/wiki/Tower_of_Terror_(Tokyo_DisneySea))). At this time S.E.A. was based at Fortress Explorations and had very little to do with the American Waterfront expansion where Tower of Terror was to be located.
 
