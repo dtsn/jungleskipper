@@ -1,5 +1,5 @@
 ---
-title: 'Mystic Manor'
+title: Mystic Manor
 date: 2019-01-18 07:53:00 Z
 categories:
 - history
@@ -12,6 +12,7 @@ image: "/uploads/gallery/mystic-manor/hero-image-large.jpg"
 image-thumb: "/uploads/gallery/mystic-manor/hero-image-small.jpg"
 gallery: mystic-manor
 ---
+
 As we continue our tour through the S.E.A-iverse (my new favourite made-up word 😬) we come to one of the most important attractions, Hong Kong Disneyland’s (HKDL) Mystic Manor. 
 
 This is going to be a long post (this ride is the bedrock of the modern S.E.A.) and it’s taken a while for me to write it. So bare with me, pull up a chair and maybe grab a cup of tea - Lord Mystic would approve.
