@@ -1,5 +1,5 @@
 ---
-title: 'Soaring: Fantastic Flight - S.E.A. Link Confirmed'
+title: 'Soarin: Fantastic Flight - S.E.A. Link Confirmed'
 date: 2019-01-18 07:53:00 Z
 categories:
 - news
@@ -10,6 +10,8 @@ tags:
 - fortress-explorations
 image: "/uploads/soarin-show-building-concept.png"
 image-thumb: "/uploads/soarin-show-building-concept.png"
+redirect-form:
+- "/soaring-fantastic-flight-sea-link-confirmed"
 ---
 
 Hi Explorers, sorry for no updates for a while - I've been busy building a Trader Sams style tiki room in my back garden (more on that to come). 

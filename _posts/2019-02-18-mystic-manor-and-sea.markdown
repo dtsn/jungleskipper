@@ -13,7 +13,7 @@ image-thumb: "/uploads/gallery/mystic-manor/hero-image-small.jpg"
 gallery: mystic-manor
 redirect_from:
 - "/mystic-manor"
-- "/review/mystic-manor"
+- "/reviews/mystic-manor"
 ---
 
 As we continue our tour through the S.E.A-iverse (my new favourite made-up word 😬) we come to one of the most important attractions, Hong Kong Disneyland’s (HKDL) Mystic Manor. 
