@@ -53,9 +53,9 @@ In 1911 the New York Preservation Society opened up the Hightower Hotel for tour
 Around the same time, Lord Henry Mystic opened up a museum which was full of his collections of treasures and antiquities, collected through decades of explorations. He wanted to show off his latest acquisition, a music box, with the help of his Monkey Albert. 
 
 ![](/uploads/posts/sea-part-1/SocietyPortrait.png)
-*- Photo from Mystic Manor queue line*
+*- Photo from [Mystic Manor](/history/mystic-manor-and-sea) queue line*
 
-Mystic point is not only home to Mystic Manor but also the Explorers Club Restaurant. Lord Mystic built the restaurant to welcome and entertain the other members of S.E.A. The 5 exotic dining rooms contain more of his of his treasures including a set of masks which come to life. 
+Mystic point is not only home to [Mystic Manor](/history/mystic-manor-and-sea) but also the Explorers Club Restaurant. Lord Mystic built the restaurant to welcome and entertain the other members of S.E.A. The 5 exotic dining rooms contain more of his of his treasures including a set of masks which come to life. 
 
 ## Jungle Cruise - 1911
 Dr Albert Falls, a seasoned explorer, created the Jungle Navigation Company on April 8th, 1911. After many years of exploring he hoped to improve the shipping in remote areas for other Explorers and Adventurers.
@@ -77,6 +77,6 @@ You can read the whole letter below:
 ## What have I missed?
 A lot! The S.E.A. backstory is very complex and is pieced together from lots of different attractions from Disney parks and cruise ships around the world. Hopefully this brief overview covers the basics of S.E.A. We can explore all the other aspects in future articles - otherwise what else would I write about 🤔
 
-Next time we will look into how the concept evolved all the way from the 1990’s Adventurers Club to the modern day Miss Adventure Falls and why Mystic Manor ties everything together.
+Next time we will look into how the concept evolved all the way from the 1990’s Adventurers Club to the modern day Miss Adventure Falls and why [Mystic Manor](/history/mystic-manor-and-sea) ties everything together.
 
 *Don’t forget to subscribe to our newsletter for the next update to be delivered straight to your inbox!*

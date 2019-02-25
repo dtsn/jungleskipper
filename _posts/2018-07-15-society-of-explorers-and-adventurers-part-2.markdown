@@ -35,7 +35,7 @@ So how did we get the name 'Society of Explorers and Adventurers'? I can only ma
 
 *I am still trying to hunt down the show writer for Fortress Explorations so if any knows who it is please let me know in the comments below or via [contact me](/contact).*
 
-##  Tower of Terror, Mystic Manor and the Explorers Club Restaurant
+##  Tower of Terror, [Mystic Manor](/history/mystic-manor-and-sea) and the Explorers Club Restaurant
 In comes Joe Lanzisero (you are going to hear this name a lot), the Creative Lead for the Tokyo Disney Resort Portfolio. Shortly after the park opened Lanzisero began work on bringing Twilight Zone Tower of Terror to a new expansion, the American Waterfront port. Unfortunately, the Twilight Zone (the storyline to the other versions of this ride) wasn’t popular in Japan so a new backstory was needed.
 
 ![Harrison Hightower in Canada](/uploads/posts/sea-part-2/harrison-hightower-in-canada.jpg)
@@ -52,7 +52,7 @@ A new ride with a unique and original backstory was created.
 ![Mystic Manor](/uploads/posts/sea-part-2/mystic-manor.jpg)
 *Source: Jungle Skipper, February 2017 taken at Hong Kong Disneyland*
 
-Mystic Manor, possibly one of the best dark rides in existence, is also central to the story of S.E.A. Watch the video below of Lanzisero explaining Mystic Manor in more detail.
+Mystic Manor, possibly one of the best dark rides in existence, is also central to the story of S.E.A. Watch the video below of Lanzisero explaining [Mystic Manor](/history/mystic-manor-and-sea) in more detail.
 
 {% include youtube.html id='KyPE0zqz_OM' %}
 
@@ -72,7 +72,7 @@ Central to Mystic Manors S.E.A. storyline is the poster below:
 It introduces us to both old and new characters, *left to right*:
 * Harrison Hightower III, Tower of Terror - Tokyo DisneySea
 * Professor R. Blauerhimmel
-* Lord Henry Mystic, Mystic Manor - Hong Kong Disneyland
+* Lord Henry Mystic, [Mystic Manor](/history/mystic-manor-and-sea) - Hong Kong Disneyland
 * Doctor J.L. Baterista
 * Barnabas T. Bullion? (Looks like Tony Baxter) Big Thunder Mountain, Walt Disney World’s Magic Kingdom
 * Unknown

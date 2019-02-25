@@ -1,6 +1,6 @@
 ---
-title: Mystic Manor
-date: 2019-01-18 07:53:00 Z
+title: Mystic Manor & the origins of S.E.A.
+date: 2019-02-23 07:53:00 Z
 categories:
 - history
 tags:
@@ -11,6 +11,9 @@ tags:
 image: "/uploads/gallery/mystic-manor/hero-image-large.jpg"
 image-thumb: "/uploads/gallery/mystic-manor/hero-image-small.jpg"
 gallery: mystic-manor
+redirect_from:
+- "/mystic-manor"
+- "/review/mystic-manor"
 ---
 
 As we continue our tour through the S.E.A-iverse (my new favourite made-up word 😬) we come to one of the most important attractions, Hong Kong Disneyland’s (HKDL) Mystic Manor. 
@@ -27,7 +30,7 @@ Around the same time Disneyland Paris had just launched their very successful To
 Hong Kong Disneyland was missing an attraction variant that, at that time, existed in every Disney Park - The Haunted Mansion. 
 
 > "There weren’t that many dark rides in the park, so we felt that a Haunted Mansion-type experience was the right thing"
-_- Robert Coltin, talking about Mystic Manor in ‘The Haunted Mansion - Imagineering a Disney Classic’_
+_- Robert Coltin, talking about Mystic Manor in ‘The Haunted Mansion - Imagineering a Disney Classic' - [Amazon UK](https://amzn.to/2E4GU5K)_
 
 The Haunted Mansion was pencilled in for the expansion. However, a direct lift wouldn’t have suited the Chinese market. The Chinese audience doesn’t view ghosts, or spirits in the same way as the western culture. They believe the spirits of the dead should be honoured and respected, which made the Haunted Mansion in its current form a difficult sell.
 
@@ -54,7 +57,7 @@ While the imagineers where developing the characters they realised they have a l
 > “Originally, Lord Henry and Albert were going to be a lot more realistic looking. I have a background in animation, so I think about these things — the expressiveness of an animation character, giving them big eyes, and exaggerated features. The early Imagineers knew this. Marc Davis and Blaine Gibson, when they created all the characters for the Haunted Mansion and Pirates, they’re not real. The proportions are all exaggerated. The eyes are bigger. The limbs are exaggerated. All that’s for an easy read. In our attractions you just have seconds to tell people what they’re suppose to be feeling about this character. The ride is only five minutes long, and we’ve got so much story to tell. These guys have to be recognisable immediately.”
 _- Joe Lanzisero and Mark Schirmer, Disney 2013 D23 event. Thankfully transcribed on [Theme Park Insider](https://www.themeparkinsider.com/flume/201308/3599/)_
 
-![](/uploads/gallery/mystic-manor/slide-1-preshow.jpg)
+![Original concept of Lord Henry Mystic](/uploads/gallery/mystic-manor/slide-1-preshow.jpg)
 /Original concept drawing of Lord Henry Mystic with Alfred, use with permission [Disney & More](http://disneyandmore.blogspot.com/2009/09/d23-expo-special-report-hong-kong.html), Copyright Disney/
 
 ## Ride Pre-show & Queue
@@ -63,7 +66,8 @@ Now we have the story and characters it needed to be articulated to the guests. 
 > "When we base an attraction on a movie, our guests come pre-wired with some emotional connection to the experience. They've seen the movie. They have the music from the movie. They know the characters from the movie. It's all in their head. So our job becomes planning those trigger moments. On a Winnie-the-Pooh ride, you're going to want to see Tigger bouncing around and hear the Tigger song. We just have to show that, and boom, that triggers in people's heads this emotional connection. We were starting here with a blank sheet of paper, so it became important for us to start establishing who these characters were and how they got to know each other. So besides that pre-show film, as you walk through the queue line, it's like a museum in his house. It's Lord Henry showing photos of his travels and the other members of the Society. But we also set up how Lord Henry first met Albert. He chose to rescue Albert, and it really creates this bond. They love each other. It's really a father and son-like relationship."  
 _- Joe Lanzisero and Mark Schirmer, Disney 2013 D23 event. Thankfully transcribed on [Theme Park Insider](https://www.themeparkinsider.com/flume/201308/3599/)_
 
-![](/uploads/gallery/mystic-manor/society-of-explorers-and-adventurers-1899.jpg)
+![Society of Exploerers and Adventurers 1899](/uploads/gallery/mystic-manor/society-of-explorers-and-adventurers-1899.jpg)
+/- [Chris Turner Concept Art](http://www.christurnerart.com/concept-art-1) Copyright Disney/
 
 This queue is essentially telling us the story of S.E.A. It includes the now famous group portrait of the society. You can find more information on this poster in the [Society of Explorers and Adventurers Part 2](https://jungleskipper.com/history/society-of-explorers-and-adventurers-part-2) article
 
@@ -71,21 +75,21 @@ _I think it’s important to note that I can find no proof that Tower of Terror 
 
 There are a few other posters in the Mystic Manor queue line which helped to shed some light onto the unknown characters.
 
-![](/uploads/gallery/mystic-manor/IMG_0194.jpg)
+![Doctor J.L. Baterista](/uploads/gallery/mystic-manor/IMG_0194.jpg)
 _Doctor J.L. Baterista_
 
 
-![](/uploads/gallery/mystic-manor/IMG_0197.jpg)
+![Professor R. Blauerhimmel](/uploads/gallery/mystic-manor/IMG_0197.jpg)
 _Professor R. Blauerhimmel_
 
-![](/uploads/gallery/mystic-manor/IMG_0198.jpg)
+![Captain Mary Oceaneer](/uploads/gallery/mystic-manor/IMG_0198.jpg)
 _Captain Mary Oceaneer_ who’s character is being used in another one of Joe’s projects, Oceaneer Labs on the Disney Cruise Line. The other 2 characters don’t currently have an attraction associated with them.
 
 ## The Mansion
 I want to briefly cover the design of the outside of Mystic Manor since I think it highlights one of the few similarities between Tokyo’s Tower of Tower and Mystic Manor, the architecture style of the buildings are considered to the victorian gothic
 
 > “We took some of our design cues from ToT, where there are architectural nodes to Hightowers international travels”  
-_- Joe Lanzisero - The Haunted Mansion, Imagineering a Disney Classic_
+_- Joe Lanzisero - 'The Haunted Mansion, Imagineering a Disney Classic' - [Amazon UK](https://amzn.to/2E4GU5K)_
 
 Mystic Manor is actually heavily inspired by Carson Mansion in California (see below).
 
@@ -95,8 +99,8 @@ Carson Mansion - Image taken from [Wikipedia](https://en.wikipedia.org/wiki/Cars
 ![Blueprint of Mystic Manor](/uploads/gallery/mystic-manor/mystic-manor-blueprint.jpg)
 *Mystic Manor Blueprint, use with permission [Disney & More](http://disneyandmore.blogspot.com/2009/09/d23-expo-special-report-hong-kong.html), Copyright Disney*
 
-## The rest of Mystic Point
-I’ve babbled on for long enough, we will cover the rest of Mystic Point and how it links into more of the S.E.A. story (completely by accident) next time - promise it won’t be as long. So don’t forget to subscribe!
+## The Rest of Mystic Point
+I’ve babbled on for long enough, we will cover the rest of Mystic Point and how it links into more of the S.E.A. story (completely by accident) next time - promise it won’t be as long. So don’t forget to subscribe! In the meantime checkout all the pictures I took when I visited Hong Kong Disneyland in October 2018.
 
 {% include post/gallery.html gallery="mystic-manor" %}
 

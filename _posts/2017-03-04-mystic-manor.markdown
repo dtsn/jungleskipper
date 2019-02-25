@@ -12,14 +12,10 @@ tags:
 image: "/uploads/Mystic-Point-Nightview.jpg"
 layout: post
 hidden: true
-redirect_from:
-- "/review/mystic-manor"
 reddit: HongKongDisneyland
 ---
 
 Mystic Manor, and the Mystic Point expansion, is probably one of the most important rides for the creation of S.E.A. and furthering the S.E.A. storyline. 
-
-
 
 We visited Mystic Manor on our 2017 trip to [Hong Kong Disneyland](/reviews/disneyland-hong-kong) and were blown away by not only the story but the execution of the ride. I was hooked immediately and being the Disney park nerd that I am, I had to look into its origins and history.
 
