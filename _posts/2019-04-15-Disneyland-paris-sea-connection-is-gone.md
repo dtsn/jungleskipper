@@ -9,7 +9,7 @@ tags:
 - restaurant
 - news
 image: "/uploads/disneyland-paris-sea-missing-create.jpg"
-image-thumb: "uploads/disneyland-paris-sea-missing-create.jpg"
+image-thumb: uploads/disneyland-paris-sea-missing-create.jpg
 reddit: S_E_A
 ---
 
