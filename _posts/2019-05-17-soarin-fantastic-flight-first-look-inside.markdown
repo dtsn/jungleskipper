@@ -1,5 +1,5 @@
 ---
-title: 'Soarin: Fantastic Flight - S.E.A. Link Confirmed'
+title: 'Soarin: Fantastic Flight - First look inside'
 date: 2019-05-17 08:00:00 Z
 categories:
 - news
