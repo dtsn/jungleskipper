@@ -12,6 +12,7 @@ tags:
 - hkdl
 - halloween
 - characters
+- interviews
 image: "/uploads/posts/terrors-of-the-jungle/promo-shot.jpg"
 image-thumb: "/uploads/posts/terrors-of-the-jungle/promo-shot-thumb.jpg"
 ---
