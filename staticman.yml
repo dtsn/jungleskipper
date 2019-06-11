@@ -27,10 +27,10 @@ comments:
   # or "frontmatter"
   format: "json"
 
-  reCaptcha:
-    enabled: true
-    siteKey: "6LdsU6MUAAAAAD-TTAUCVKrrvW6tp__90M5Q7RC5"
-    secret: "yBN/WW3C6qKyA/lqAtVmROUrGhvEDD2bVyGF8TQsDf73wxdc+axaGIEuseZh2zVMvixJ8hRZRs3oTaB3CruEzwCqGgzOuZdQIfTsKcIm8m5rVvDg2ERmKrdbN07z+JuDFOjKjmmukobKWFLEW6e2zu856PbIgQgNlv+pt0eOo9I="
+  #reCaptcha:
+  #  enabled: true
+  #  siteKey: "6LdsU6MUAAAAAD-TTAUCVKrrvW6tp__90M5Q7RC5"
+  #  secret: "yBN/WW3C6qKyA/lqAtVmROUrGhvEDD2bVyGF8TQsDf73wxdc+axaGIEuseZh2zVMvixJ8hRZRs3oTaB3CruEzwCqGgzOuZdQIfTsKcIm8m5rVvDg2ERmKrdbN07z+JuDFOjKjmmukobKWFLEW6e2zu856PbIgQgNlv+pt0eOo9I="
 
   # List of fields to be populated automatically by Staticman and included in
   # the data file. Keys are the name of the field. The value can be an object
