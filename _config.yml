@@ -12,6 +12,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  members:
+    title: Sea members
+    output: true
+    layout: members
 defaults:
 - scope:
     path: ''

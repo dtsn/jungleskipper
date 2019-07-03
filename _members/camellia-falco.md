@@ -1,15 +1,6 @@
 ---
 title: Camellia Falco
-date: 2019-06-01 13:00:00 Z
-categories:
-- member
-tags:
-- camellia-falco
-- member
-- tokyo-disney-sea
-- soarin
-image: "/uploads/people/camellia-falco/camellia_main.jpg"
-image-thumb: "/uploads/people/camellia-falco/camellia_main_thumb.jpg"
+attraction: Soarin
 ---
 
 We are first introduced to Camellia via Soarin: Fantastic Flight as Tokyo DisneySea. She has a special exhibition in the Mueseum of Fantastic Flight which is a celebration of 100 years of her birth (Fantastic Flight is set in 1901).
