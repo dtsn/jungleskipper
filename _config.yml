@@ -16,6 +16,9 @@ collections:
     title: Sea members
     output: true
     layout: members
+  galleries:
+    title: galleries
+    output: true
 defaults:
 - scope:
     path: ''
