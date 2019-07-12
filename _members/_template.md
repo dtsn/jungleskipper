@@ -9,12 +9,14 @@ parks:
 born: Unknown
 died: Unknown
 sea-link: confirmed
-paddle: 1882, Elaho River
+paddle: Yes, 1913 Irrawaddy
 fez: Yes
 
 portrait: ""
 
 gallery:
+
+summary:
 ---
 
 Insert content here
