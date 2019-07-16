@@ -1,5 +1,5 @@
 ---
-title: Barnabas T. Bullion
+name: Barnabas T. Bullion
 attraction: Big Thunder Mountain
 park: Magic Kingdom
 born: Unknown
@@ -24,15 +24,14 @@ Links to S.E.A.
 
 At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member Jason Chandler Identify him as an additional member:
 
->Dear Barney,
+> Dear Barney,
 
->Great Caesar’s Ghost, old chap, I haven’t heard from you since our little misadventure in El Dorado! I am indeed sorry to hear of the second disturbance within Big Thunder Mountain, but I did warn you that you were prospecting at your own peril when I sold you the drilling machine. I took the liberty of consulting Madame Zarkov at the Museum of the Weird, and it is her considered opinion that you should abandon the entire operation at once and find a less volatile site. I wish I had better news for you, old boy, but some forces simply are not to be trifled with.
+> Great Caesar’s Ghost, old chap, I haven’t heard from you since our little misadventure in El Dorado! I am indeed sorry to hear of the second disturbance within Big Thunder Mountain, but I did warn you that you were prospecting at your own peril when I sold you the drilling machine. I took the liberty of consulting Madame Zarkov at the Museum of the Weird, and it is her considered opinion that you should abandon the entire operation at once and find a less volatile site. I wish I had better news for you, old boy, but some forces simply are not to be trifled with.
 
->On behalf of your compatriots of SEA, I do hope to see you around the club a bit more often!
+> On behalf of your compatriots of SEA, I do hope to see you around the club a bit more often!
 
->Yours in Exploration and Adventure,
-Jason Chandler
-Founding Member The Society of Explorers and Adventurers
+> Yours in Exploration and Adventure,
+> Jason Chandler
+> Founding Member The Society of Explorers and Adventurers
 
 He also featuers a paddle at the Tropical Hideaway of the Coloradio River 1870.
-

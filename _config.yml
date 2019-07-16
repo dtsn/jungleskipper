@@ -15,22 +15,23 @@ collections:
   members:
     title: Sea members
     output: true
-    layout: members
+    layout: member
+    permalink: /sea-members/:name
   galleries:
     title: galleries
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    image: ''
-- scope:
-    path: ''
-    type: category
-  values:
-    layout: category
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      image: ""
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: category
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
@@ -41,19 +42,19 @@ facebook:
 social:
   name: Jungle Skipper
   links:
-  - https://twitter.com/_jungleskippr
-  - https://www.facebook.com/thejungleskipper
-  - https://instagram.com/_jungleskippr
+    - https://twitter.com/_jungleskippr
+    - https://www.facebook.com/thejungleskipper
+    - https://instagram.com/_jungleskippr
 lang: en_UK
-baseurl: ''
+baseurl: ""
 paginate: 10
 plugins:
-- jekyll-paginate
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jemoji
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jemoji
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass

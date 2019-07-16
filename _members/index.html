@@ -1,0 +1,7 @@
+---
+layout: default
+---
+
+{% for member in site.members %}
+<li><a href="{{ member.url }}">{{ member.name }}</a></li>
+{% endfor %}
