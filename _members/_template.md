@@ -19,4 +19,8 @@ gallery:
 summary:
 ---
 
-Insert content here
+Insert bio here
+
+## Link to S.E.A.
+
+Insert SEA link here
