@@ -15,11 +15,7 @@ collections:
   members:
     title: Sea members
     output: true
-    layout: member
-    permalink: /sea-members/:name
-  galleries:
-    title: galleries
-    output: true
+    permalink: /sea/members/:name
 defaults:
   - scope:
       path: ""
@@ -32,6 +28,11 @@ defaults:
       type: category
     values:
       layout: category
+  - scope:
+      path: ""
+      type: members
+    values:
+      layout: member
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com

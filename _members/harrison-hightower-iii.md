@@ -8,7 +8,6 @@ died: 1899 [presumed]
 portrait: ""
 
 gallery:
-	-
 ---
 
 Born in 1835 in New York Harrison Hightower is the owner of Hotel Hightower and is portrayed as a corrupt member of S.E.A. He was an avid collector of antiquities - often aquired in dubious circumstances. This would eventually lead to his downfall as he mysteriously disappeared on December 31, 1899, after acquiring the idol Shiriki Utundu.
