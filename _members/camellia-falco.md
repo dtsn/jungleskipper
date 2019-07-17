@@ -1,16 +1,25 @@
 ---
-title: Camellia Falco
-attraction: Soarin
+name: Camellia Falco
+sea-link: confirmed
+attractions:
+    - Soarin: Fantastic Flight
+parks:
+    - Tokyo Disney Sea
+stats:
+    - paddle: Zambezi River, 1831
+    - born: 1801
+    - died: 1875
+portrait: /gallery/members/barnabas-t-bullion/portrait.jpg
+
+gallery-images:
+    - url: "sea-induction.jpg"
+      alt: "Camellia Falco being inducted i"
 ---
 
-We are first introduced to Camellia via Soarin: Fantastic Flight as Tokyo DisneySea. She has a special exhibition in the Mueseum of Fantastic Flight which is a celebration of 100 years of her birth (Fantastic Flight is set in 1901).
+Camellia Falco was the director of the Mueseum of Fantastic Flight, taking over the directorship from her father Cellino Falso in 1850. Camellia was a passionate flyer and developer a flying machine called the Dream Flyer. She becane the first women to be inducted into the Society of Explorers and Adventurers in 1851.
 
-Camellia Falco was a passionate flyer developing the Dream Flyer (soarin's ride vechicle) and was the first women to be inducted into the Society of Explorers and Adventurers in 1851.
+## Link to S.E.A.
 
-![Camellia travelling around the world with hot air balloon](/uploads/people/camellia-falco/camellia_with_hot_air_balloon.jpg)
-
-Camellia is the daughter of Cellino Falco, the first director of the Mueseum. Camellia took over the running of the Museum in 1850.
-
-She died in 1875 aged 74.
+Camellia is introduced via Soarin: Fantastic Flight. The show building is themed to the museam of Fantastic Flight which is currently celebrating the centennial anniversary since Falco was born. Within this exhibition there is a painting which shows Camellia being inducted into S.E.A.
 
 [Source](https://www.tokyodisneyresort.jp/treasure/soaring/museum/special.html), all images copyright Disney.
