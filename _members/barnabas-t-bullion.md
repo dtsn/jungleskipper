@@ -13,6 +13,10 @@ portrait: /gallery/members/barnabas-t-bullion/portrait.jpg
 gallery-images:
     - url: ""
       alt: ""
+
+trivia:
+  -
+
 ---
 
 The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).
