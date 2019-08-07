@@ -17,26 +17,22 @@ stats:
 portrait: /gallery/members/mary-oceaneer/portrait.jpg
 
 gallery-images:
-    - url: ""
-      alt: ""
+    - url: /gallery/members/mary-oceaneer/fez.jpg
+      alt: "Captain Mary Oceaneer fez cap in Skipper Canteen"
+      source: ""
+    - url: /gallery/members/mary-oceaneer/paddle.jpg
+      alt: "Captain Mary Oceaneer paddle from Tropical Hideaway"
+      source: "https://www.laughingplace.com/w/blogs/disney-buzz/2018/12/19/imagineer-says-disneylands-tropical-hideaway-contains-clues-for-future-attractions/"
+    - url: /gallery/members/mary-oceaneer/portrait2.jpg
+      alt: "Captain Mary Oceaneer"
+      source: "Unknown"
 
 trivia:
   - In the queue for Miss Adventure Falls one of the bouys feature Atlantan writing, which could possibly be a link between S.E.A. and the Disney Film Atlantis: The Lost Empire
-
+  - Captain Mary Oceaneer has a foundness for parrots, we know of two - Salty and Duncan.
 ---
 
+Captain Mary Oceaneer is a extrondinary treasure hunter and diver. We first learn of Captain Mary from Mystic Manor where she is featured in two portraits - the first is of Captain Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait.
 
-https://societyofexplorersandadventurers.fandom.com/wiki/Mary_Oceaneer
-
-Captain Mary Oceaneer is a extrondinary treasure hunter and diver. We first learn of Mary in the queue for Mystic Manor where Lord Mystic has his own portrait of her and she's part of the 1899 group portrait. Mary has a huge fondess for parrots and we know about 2 Salty and Duncan
-
-
-She first appeared in 2 places in the queue line in Mystic Manor, the 1899 group portrait and another 
-
-
-We first saw here in the 1899 S.E.A. portrait from Mystic Manor, but she is also now featured on the Disney Cruise Line, Oceaneer Lab opened 30th July 1898, and Miss Adventure Falls at Disney's Typhoon Lagoon.
-
-Captain Mary also has a foundness for parrots called Salty and Duncan.
-
-Mary is also one of the authors of a map charting the legendary beasts of the Mediterranean Sea which can be found in Skipper Canteen at the Magic Kingdom.
+Captain Mary is one of the few S.E.A. characters who have more than one attraction. She is the back story to Oceaneer Lab on Disney Cruise Line, Miss Adventure falls at Disney's Typhoon Lagoon and features on the Map of Legendary Beasts which can be found in the Skipper Canteen.
 
