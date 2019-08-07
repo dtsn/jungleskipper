@@ -1,30 +1,42 @@
 ---
-title: Captain Mary Oceaneer
-attraction: 
-  - Oceaneer Labs, Disney Cruise Line
-  - Mystic Manor
-  - Miss Adventure Falls
-  - Skipper Canteen
-park: 
-born: Unknown
-died: Unknown
+name: Captain Mary Oceaneer
 sea-link: confirmed
-paddle: 1899 Orinoco River in South America
-fez:
+attractions:
+      - Oceaneer Labs, Disney Cruise Line
+	  - Mystic Manor
+	  - Miss Adventure Falls
+	  - Skipper Canteen
+parks:
+    - Magic Kingdom
+    - Hong Kong Disneyland
+    - Disney Cruise Line
+stats:
+    - paddle: 1899 Orinoco River in South America
+    - fez: yes
 
-portrait: ""
+portrait: /gallery/members/mary-oceaneer/portrait.jpg
 
-gallery:
+gallery-images:
+    - url: ""
+      alt: ""
+
+trivia:
+  - In the queue for Miss Adventure Falls one of the bouys feature Atlantan writing, which could possibly be a link between S.E.A. and the Disney Film Atlantis: The Lost Empire
+
 ---
 
-Captain Mary Oceaneer is a treasure hunter and diver. She first appeared in the Mystic Manor queue line as part of the 1899 S.E.A. portrait. She is now featured as part of the Disney Cruise Line's Oceaneer Lab, which had it's maiden voyage on the 30th July 1898.
 
-Opening in 2016 she is also the main character in the story line for Typhoon Lagoons Miss Adventure Falls. This water ride is based around the story of one of her adventures where she was stranded on Typhoon Lagoon with her pet parrot Duncan.
+https://societyofexplorersandadventurers.fandom.com/wiki/Mary_Oceaneer
 
-Mary is also one of the authors of a map charting the legendary beasts of tge Mediterranean Sea.
+Captain Mary Oceaneer is a extrondinary treasure hunter and diver. We first learn of Mary in the queue for Mystic Manor where Lord Mystic has his own portrait of her and she's part of the 1899 group portrait. Mary has a huge fondess for parrots and we know about 2 Salty and Duncan
 
-## Links to S.E.A.
 
-Mary Oceaneer is one of the few characters which have more than one S.E.A. based attraction. She originally appears in Mystic Manor where imagineer Joe Lanisero than expanded in his work for the Disney Cruise Line.
+She first appeared in 2 places in the queue line in Mystic Manor, the 1899 group portrait and another 
 
-Through the diving bell featured on Miss Adventure Falls we are also introduced to the Atlantean Language possibly signifying that Disney Animation "Atlantis" is related to S.E.A.
+
+We first saw here in the 1899 S.E.A. portrait from Mystic Manor, but she is also now featured on the Disney Cruise Line, Oceaneer Lab opened 30th July 1898, and Miss Adventure Falls at Disney's Typhoon Lagoon.
+
+Captain Mary also has a foundness for parrots called Salty and Duncan.
+
+Mary is also one of the authors of a map charting the legendary beasts of the Mediterranean Sea which can be found in Skipper Canteen at the Magic Kingdom.
+
