@@ -2,10 +2,10 @@
 name: Captain Mary Oceaneer
 sea-link: confirmed
 attractions:
-      - Oceaneer Labs, Disney Cruise Line
-	  - Mystic Manor
-	  - Miss Adventure Falls
-	  - Skipper Canteen
+    - Oceaneer Labs, Disney Cruise Line
+    - Mystic Manor
+    - Miss Adventure Falls
+    - Skipper Canteen
 parks:
     - Magic Kingdom
     - Hong Kong Disneyland
