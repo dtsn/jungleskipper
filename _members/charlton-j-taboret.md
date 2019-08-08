@@ -16,6 +16,6 @@ gallery-images:
       source: ""
 
 trivia:
-	- All of the Mystic Manor portraits and art are actually drawn by the artist [Chris Turner](http://christurnerart.com/concept-art-1).
+    - All of the Mystic Manor portraits and art are actually drawn by the artist [Chris Turner](http://christurnerart.com/concept-art-1).
 ---
 Charlton J Taboret is an artist who documents the adventures of [Lord Henry Mystic](/members/lord-henry-mystic). He is featured in a self portrait in the queue line to Mystic Manor.
