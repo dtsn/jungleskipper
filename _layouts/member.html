@@ -2,21 +2,25 @@
 layout: default
 ---
 
-<article class="container">
-	<div class="row">
-		<div class="col-md-4 col-sm-12">
+<div class="member-page">
+	<section class="wallpaper">
+		<div class="portrait">
 			<img src="{{page.portrait}}" alt="{{ page.name }}" />
 		</div>
-		<div class="col-md-8 col-sm-12">
-			<h1>{{ page.name }}</h1>
+	</section>
+	<article class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-12">
+				<h1>{{ page.name }}</h1>
 
-			<!-- facts table -->
+				<!-- facts table -->
 
-			{{ page.content }}
+				{{ page.content }}
 
+			</div>
 		</div>
-	</div>
-</article>
+	</article>
+</div>
 
 
 
