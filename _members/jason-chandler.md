@@ -1,16 +1,12 @@
 ---
-published: false
-
-name: Chef Tandaji
+name: Jason Chandler
+sea-link: confirmed
 attractions: 
-  - Skipper Canteen
+  - Big Thunder Mountain
 parks:
   - Magic Kingdom
-born: Unknown
-died: Unknown
-sea-link: confirmed
-paddle: 1882, Elaho River
-fez: Yes
+stats:
+    - paddle: Coloradio River, 1870
 
 portrait: ""
 
