@@ -13,9 +13,6 @@ portrait: /gallery/members/barnabas-t-bullion/portrait.jpg
 gallery-images:
     - url: ""
       alt: ""
-
-trivia:
-    -
 ---
 
 The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).
@@ -24,7 +21,7 @@ Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thu
 
 > Barnabas T. Bullion is the founder and president of the Big Thunder Mining Company. The longtime mining magnate comes from a powerful East Coast family and considers gold to be his very birthright by virtue of his oddly appropriate name; in fact, he considers the ultimate gold strike to be his destiny. And that is why he is having so much trouble with Big Thunder Mountain. According to superstitious locals, Big Thunder Mountain is very protective of the gold it holds within, and the unfortunate soul who attempts to mine its riches is destined to fail. And so far that prophecy is coming to pass. The mine has been plagued by mysterious forces and natural disasters ever since. And yet the Big Thunder Mining Co. is still in operation. In fact, Bullion is discovering new veins of gold and digging new shafts every day, offering a closer look at the Big Thunder mining operation than ever before. But a word to the wise for anyone attempting to visit the mountain: watch out for runaway trains.
 
-## Link to S.E.A.
+## References
 
 At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member [Jason Chandler](/members/jason-chandler) identify him as an additional member:
 
@@ -44,3 +41,11 @@ At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. memb
 ## Disney Kingdoms
 
 In 2015 Disney in collaboration with Marvel released a set of comics based upon existing ride attractions. This included “Big Thunder Mountain Railroad” which deviates from the story listed in the ride. In the comic books Jason Chandler's is an employee of Bullion, who with Bullions daughter, encounter trouble within the mine. There is no mention of S.E.A. in any of the Disney Kingdom comics (as of 2019).
+
+![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabas-t-bullion.png)
+_Source: Copyright Marvel/Disney, Disney Kingdoms_
+
+![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabus-t-bullion.jpeg)
+_Source: Copyright Marvel/Disney, Disney Kingdoms_
+
+The Disney Kingdoms book also reveals the original artist for the Barnabus T. Bullion portrait shown above is <a href="https://www.roihorn.com" target="_blank">Roi Horn</a>.
