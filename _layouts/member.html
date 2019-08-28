@@ -2,6 +2,51 @@
 layout: default
 ---
 
+{% assign members = site.members %}
+
+{% for person in members %}
+	{% if person.name == page.name %}
+		{% assign currentPosition = forloop.index %}
+	{% endif %}
+{% endfor %}
+
+
+<ul class="portraits">
+
+{% if currentPosition == 1 %}
+	<li></li>
+	<li></li>
+	<li class="selected">{{ page.name }}</li>
+	{% for person in members limit:2 offset:2 %}
+		<li>{{ person.name }}</li>
+	{% endfor %}
+{% endif %}
+
+{% if currentPosition == 2 %}
+	<li></li>
+	{% for person in members limit:1 offset:0 %}
+		<li>{{ person.name }}</li>
+	{% endfor %}
+	<li class="selected">{{ page.name }}</li>
+	{% for person in members limit:2 offset:3 %}
+		<li>{{ person.name }}</li>
+	{% endfor %}
+{% endif %}
+
+{% assign currentPositionPlusOne = currentPosition | plus:'1' %}
+
+{% if currentPosition > 2 %}
+	{% for person in members limit:2 offset:0 %}
+		<li>{{ person.name }}</li>
+	{% endfor %}
+	<li class="selected">{{ page.name }}</li>
+	{% for person in members limit:2 offset:currentPositionPlusOne %}
+		<li>{{ person.name }}</li>
+	{% endfor %}
+{% endif %}
+
+</ul>
+
 <div class="member-page">
 	<section class="wallpaper">
 		<div class="portrait">
