@@ -1,8 +1,6 @@
 ---
 title: Marceline to the Magic Kingdom Review
 date: 2017-05-20 20:05:00 Z
-image: "/uploads/IMG_0195.JPG"
-hidden: true
 categories:
 - parks
 - walt-disney-world
@@ -14,8 +12,9 @@ tags:
 - tour
 - reviews
 - nsfm
-layout: post
 image: "/uploads/IMG_0195.JPG"
+hidden: true
+layout: post
 redirect_from:
 - "/review/marceline-to-the-magic-kingdom"
 reddit: WaltDisneyWorld

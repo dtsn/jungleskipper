@@ -1,16 +1,13 @@
 ---
 title: Kungaloosh
-
-image: "/uploads/posts/kungaloosh/rhio.jpg"
-image-thumb: "/uploads/posts/kungaloosh/rhio-small.jpg"
-
-section: news
-
+date: 2018-07-01 00:00:00 Z
 categories:
 - news
-
 tags:
 - news
+image: "/uploads/posts/kungaloosh/rhio.jpg"
+image-thumb: "/uploads/posts/kungaloosh/rhio-small.jpg"
+section: news
 ---
 
 Kungaloosh Explorers and Adventurers! Welcome to Jungle Skipper were we aim to guid you through the murky waters of the Society of Explorers and Adventures.

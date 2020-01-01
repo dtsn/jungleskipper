@@ -11,7 +11,6 @@ tags:
 - reviews
 - dlp
 - parks
-
 hidden: true
 image: "/uploads/DSC01839.JPG"
 redirect_from:
