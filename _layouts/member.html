@@ -2,7 +2,14 @@
 layout: default
 ---
 
+<div class="member-page">
+
 {% assign members = site.members %}
+{% assign memberLength = site.members | size %}
+{% assign memberLengthMinusOne = memberLength | minus:1 %}
+{% assign memberLengthMinusTwo = memberLength | minus:2 %}
+{% assign memberLengthMinusThree = memberLength | minus:3 %}
+{% assign memberLengthMinusFour = memberLength | minus:4 %}
 
 {% for person in members %}
 	{% if person.name == page.name %}
@@ -10,61 +17,181 @@ layout: default
 	{% endif %}
 {% endfor %}
 
-
-<ul class="portraits">
-
-{% if currentPosition == 1 %}
-	<li></li>
-	<li></li>
-	<li class="selected">{{ page.name }}</li>
-	{% for person in members limit:2 offset:2 %}
-		<li>{{ person.name }}</li>
-	{% endfor %}
-{% endif %}
-
-{% if currentPosition == 2 %}
-	<li></li>
-	{% for person in members limit:1 offset:0 %}
-		<li>{{ person.name }}</li>
-	{% endfor %}
-	<li class="selected">{{ page.name }}</li>
-	{% for person in members limit:2 offset:3 %}
-		<li>{{ person.name }}</li>
-	{% endfor %}
-{% endif %}
-
-{% assign currentPositionPlusOne = currentPosition | plus:'1' %}
-
-{% if currentPosition > 2 %}
-	{% for person in members limit:2 offset:0 %}
-		<li>{{ person.name }}</li>
-	{% endfor %}
-	<li class="selected">{{ page.name }}</li>
-	{% for person in members limit:2 offset:currentPositionPlusOne %}
-		<li>{{ person.name }}</li>
-	{% endfor %}
-{% endif %}
-
-</ul>
-
-<div class="member-page">
 	<section class="wallpaper">
-		<div class="portrait">
-			<img src="{{page.portrait}}" alt="{{ page.name }}" />
-		</div>
+		<ul class="portraits">
+
+		{% if currentPosition == 1 %}
+			<li class="hidden"><img src="" alt="{{ page.name }}" /></li>
+			<li class="hidden"><img src="" alt="{{ page.name }}" /></li>
+			<li class="selected">
+				<div class="wrap">
+					<img src="{{page.portrait}}" alt="{{ page.name }}" />
+				</div>
+			</li>
+			{% for person in members limit:2 offset:1 %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+		{% endif %}
+
+		{% if currentPosition == 2 %}
+			<li class="hidden"></li>
+			{% for person in members limit:1 offset:0 %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+			<li class="selected">
+				<div class="wrap">
+					<img src="{{page.portrait}}" alt="{{ page.name }}" />
+				</div>
+			</li>
+			{% for person in members limit:2 offset:2 %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade" ></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+		{% endif %}
+
+		{% assign currentPositionPlusOne = currentPosition | plus:'1' %}
+		{% assign currentPositionMinusOne = currentPosition | minus:'1' %}
+		{% assign currentPositionMinusTwo = currentPosition | minus:'2' %}
+		{% assign currentPositionMinusThree = currentPosition | minus:'3' %}
+
+		{% if currentPosition > 2 and currentPosition <= memberLengthMinusTwo %}
+		1
+			{% for person in members limit:2 offset:currentPositionMinusThree %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+			<li class="selected">
+				<div class="wrap">
+					<img src="{{page.portrait}}" alt="{{ page.name }}" />
+				</div>
+			</li>
+			{% for person in members limit:2 offset:currentPosition %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+						<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+		{% endif %}
+
+
+		{% if currentPosition == memberLengthMinusOne %}
+			{% for person in members limit:2 offset:currentPositionMinusThree %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+			<li class="selected">
+				<div class="wrap">
+					<img src="{{page.portrait}}" alt="{{ page.name }}" />
+				</div>
+			</li>
+			{% for person in members limit:1 offset:memberLengthMinusOne %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+			<li></li>
+		{% endif %}
+
+		{% if currentPosition == memberLength %}
+			{% for person in members limit:2 offset:memberLengthMinusThree %}
+				<li>
+					<div class="wrap">
+						<a href="{{ person.url }}" title="{{ person.name }}">
+							<img src="{{person.portrait}}" alt="{{ person.name }}" />
+							<div class="shade"></div>
+						</a>
+					</div>
+				</li>
+			{% endfor %}
+			<li class="selected">
+				<div class="wrap">
+					<img src="{{page.portrait}}" alt="{{ page.name }}" />
+				</div>
+			</li>
+			<li class="hidden"></li>
+			<li class="hidden"></li>
+		{% endif %}
+
+		</ul>
 	</section>
 	<article class="container">
 		<div class="row">
 			<div class="col-md-8 col-sm-12">
 				<h1>{{ page.name }}</h1>
-
-				<!-- facts table -->
-
 				{{ page.content }}
-
+			</div>
+			<div class="col-12 col-md-4">
+				<div class="stats">
+					<table>
+						<tr>
+							<th>Membership</th>
+							<td>{{ page.membership }}</td>
+						</tr>
+						<tr>
+							<th>Paddle</th>
+							<td>{{ page.paddle }}</td>
+						</tr>
+						<tr>
+							<th>Membership</th>
+							<td>{{ page.fez }}</td>
+						</tr>
+						<tr>
+							<th>Attractions</th>
+							<td>{{ page.attractions | join: ", " }}</td>
+						</tr>
+						<tr>
+							<th>Parks</th>
+							<td>{{ page.parks | join: ", " }}</td>
+						</tr>
+					</table>
+				</div>
 			</div>
 		</div>
 	</article>
+
+	<!-- Related posts -->
+	{% include related-posts.html %}
 </div>
 
 

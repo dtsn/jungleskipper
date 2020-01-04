@@ -1,13 +1,180 @@
 .member-page {
 	.wallpaper {
-		background: #0F1522 url('/assets/images/wallpaper.png');
+		background: url('/assets/images/map-edge.png') no-repeat bottom left;
 		height: 350px;
-		padding: 40px;
+		padding-bottom: 10px;
+		
+		ul.portraits {
+			list-style: none;
+			margin: 0;
+			padding: 40px;
+			background: #171F31 url('/assets/images/wallpaper.png');
+			height: 343px;
+			@include media-breakpoint-up(sm) { display: flex; }
+			flex-wrap: nowrap;
+			justify-content: center;
+			align-items: flex-start;
 
-		img {
-			height: 240px;
-			margin: 0px auto;
+			li {
+
+				flex: 0 100%;
+				padding: 0 2%;
+
+				&.hidden {
+					visibility: hidden;
+				}
+
+				@include media-breakpoint-down(sm) {
+					display: none;
+				}
+
+
+				.wrap {
+					position: relative;
+					height: 210px;
+					margin-top: 30px;
+				
+					&::before, &::after {
+						content: '';
+						position: absolute;
+					}
+
+					&::before {
+						background: linear-gradient(to bottom, #DBD5B1, #9F9763);
+						top: -7px;
+						bottom: -7px;
+						left: -7px;
+						right: -7px;
+					}
+
+					&::after {
+						background: linear-gradient(to top, #DBD5B1, #9F9763);
+						top: -2px;
+						bottom: -2px;
+						left: -2px;
+						right: -2px;
+					}
+
+					img {
+						height: 210px;
+						width: 100%;
+						object-fit: cover;
+						margin: 0px auto;
+						display: block;
+						position: relative;
+						z-index: 1;
+					}
+
+					.shade {
+						position: absolute;
+						z-index: 2;
+						background: #000;
+						opacity: 0.6;
+						top: -7px; left: -7px; bottom: -7px; right: -7px;
+						cursor: pointer;
+
+						&:hover {
+							visibility: hidden;
+						}
+					}
+				}
+
+				&:hover {
+					.shade {
+						visibility: hidden;
+					}
+				}
+
+				&.selected {
+
+					@include media-breakpoint-down(sm) {
+						display: block;
+					}
+
+					.wrap {
+						height: 270px;
+						width: 200px;
+						margin: 0 auto;
+
+						img {
+							height: 270px;
+						}
+					}
+
+					@include media-breakpoint-up(sm) {
+						flex: 2 200%;
+						
+						.wrap {
+							height: 270px;
+							img {
+								height: 270px;
+							}
+						}
+					}
+
+					@include media-breakpoint-up(md) {
+						.wrap {
+							height: 340px;
+							margin: none;
+							width: 100%;
+							img {
+								height: 340px;
+							}
+						}
+					}
+
+					@include media-breakpoint-up(lg) {
+						.wrap {
+							height: 400px;
+							margin: none;
+							width: 100%;
+							img {
+								height: 400px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	article {
+		clear: both;
+
+		h1 {
+			font-family: 'Merriweather', serif;
+			margin-bottom: 40px;
+			@include media-breakpoint-down(sm) { margin-top: 20px; }
+			@include media-breakpoint-up(md) { margin-top: 60px; }
+			@include media-breakpoint-up(lg) { margin-top: 140px; }
+		}
+	}
+
+	.stats {
+		border: 11px solid #DCD6B1;
+		padding: 50px 20px 20px 20px;
+		border-image: url("/assets/images/members/stats-border.png") 11 repeat;
+		position: realtive;
+
+		@include media-breakpoint-down(sm) { margin-top: 78px; }
+		@include media-breakpoint-up(md) { margin-top: 118px; }
+		@include media-breakpoint-up(lg) { margin-top: 198px; }
+
+		th {
+			font-family: 'Merriweather', serif;
+		}
+
+		&::before {
+			width: 104px;
+			height: 116px;
+			content: '';
 			display: block;
+			background: url("/assets/images/members/sea-logo.svg");
+			position: absolute;
+			left: calc(50% - 52px);
+			@include media-breakpoint-down(sm) { top: 20px; }
+			@include media-breakpoint-up(md) { top: 60px; }
+			@include media-breakpoint-up(lg) { top: 140px; }
 		}
 	}
 }
