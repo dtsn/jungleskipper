@@ -84,9 +84,18 @@ section.image {
 }
 
 section.related {
-	background: #F7F7F7;
 	margin-top: 60px;
 	padding: 60px;
+	border: 9px solid;
+	border-left: 0;
+	border-right: 0;
+	border-image: url("/assets/images/map-border.png") 9 repeat;
+
+	h4 {
+		text-align: left;
+		font-weight: bold;
+		font-size: 26px;
+	}
 
 	@include media-breakpoint-down(xs) {
 		margin-top: 20px;

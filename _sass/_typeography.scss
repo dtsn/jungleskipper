@@ -6,6 +6,10 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+@mixin merriweather {
+	font-family: 'Merriweather', serif;
+}
+
 @mixin lato {
 	font-family: 'Lato', sans-serif;
 	letter-spacing: 2px;
@@ -30,7 +34,7 @@ a {
 }
 
 h1 {
-	@include poppins;
+	@include merriweather;
 	font-size: 48px;
 	font-weight: bold;
 	line-height: 1.25em;
@@ -53,7 +57,7 @@ h1 {
 }
 
 h2 {
-	@include poppins;
+	@include merriweather;
 	font-size: 18px;
 	font-weight: 600;
 	line-height: 48px;
@@ -67,7 +71,7 @@ h2 {
 
 // Secondary section headings
 h3 {
-	@include poppins;
+	@include merriweather;
 	font-size: 16px;
 	font-weight: 600;
 	line-height: 1.5em;
@@ -90,14 +94,14 @@ h3.aside {
 
 // major section headings
 h4 {
-	@include lato;
+	@include merriweather;
 	font-size: 24px;
 	text-align: center;
 }
 
 // h5 is the post category
 h5 {
-	@include lato;
+	@include merriweather;
 	color: #BFBFBF;
 	font-size: 13px;
 	margin: 0 0 10px 0;
@@ -114,7 +118,7 @@ h5 {
 }
 
 h6 {
-	@include poppins;
+	@include merriweather;
 	font-size: 18px;
 	font-weight: 600;
 }

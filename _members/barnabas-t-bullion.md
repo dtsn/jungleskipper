@@ -8,6 +8,9 @@ parks:
     - Disneyland
 stats:
     - paddle: Colorado River, 1870
+tags:
+    - barnabas-t-bullion
+
 portrait: /gallery/members/barnabas-t-bullion/portrait.jpg
 
 gallery-images:
