@@ -23,6 +23,10 @@ fields:
 - type: list
   name: parks
   label: parks
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
 pages:
 - _members/barnabas-t-bullion.md
 - _members/camellia-falco.md
