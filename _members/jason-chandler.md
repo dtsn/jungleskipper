@@ -9,7 +9,7 @@ stats:
     - paddle: 1882, Elaho River
     - fez: true
 
-portrait: "/gallery/members/jason-chandler/portrait.jpg"
+portrait: "/gallery/members/jason-chandler/portrait.jpeg"
 
 gallery-images:
     - url: ""

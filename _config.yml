@@ -33,6 +33,13 @@ defaults:
       type: members
     values:
       layout: member
+      name: ""
+      membership: ""
+      paddle: ""
+      fez: ""
+      portrait: ""
+      attractions: []
+      parks: []
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
