@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Member
 hide_body: false
 fields:
@@ -29,4 +26,5 @@ fields:
 pages:
 - _members/barnabas-t-bullion.md
 - _members/camellia-falco.md
+- _members/captain-brieux.md
 - _members/captain-mary-oceaneer.md
