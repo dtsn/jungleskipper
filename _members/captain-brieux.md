@@ -12,8 +12,8 @@ paddle: ''
 fez: false
 
 ---
-Captain Brieux is a charater in the 1974 film, The Island at the Top of World. Portrayed by Jacques Marin, he is a French inventor who pilots an expedition in a French dirigible name the Hyperion (a model can be found at Disneyland Paris).
+Captain Brieux is a character in the 1974 film, The Island at the Top of World. Portrayed by Jacques Marin, he is a French inventor who pilots an expedition in a French dirigible name the Hyperion (a model can be found at Disneyland Paris).
 
 ![Legendary Flying Beasts of the Mekong River and the surrounding territories](/gallery/members/captain-brieux/legendary-flying-beasts.jpg)
 
-Captain Brieux is referenced as the second author of the map "Legendary Flying Beasts of the Mekong River and the surrounding territories" (the first being the honorable [J. Chandler]({% link _members/jason-chandler.md %}).
+Captain Brieux is referenced as the second author of the map "Legendary Flying Beasts of the Mekong River and the surrounding territories" (the first being the honourable [J. Chandler]({% link _members/jason-chandler.md %}).
