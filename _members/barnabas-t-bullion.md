@@ -10,8 +10,10 @@ attractions:
 parks:
 - Magic Kingdom
 - Disneyland
----
+paddle: ''
+fez: false
 
+---
 The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).
 
 Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thunder Mountain in the Magic Kingdom. At the time of the launch the [Disney Blog](https://disneyparks.disney.go.com/blog/2012/11/walt-disney-imagineers-unveil-the-backstory-of-barnabas-t-bullion-prioprietor-and-president-of-big-thunder-mining-company/) released the following bio:
@@ -22,22 +24,21 @@ Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thu
 
 At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member [Jason Chandler](/members/jason-chandler) identify him as an additional member:
 
-<blockquote class="letter">
-	<p>
-		Dear Barney,<br/>
-		Great Caesar’s Ghost, old chap, I haven’t heard from you since our little misadventure in El Dorado! I am indeed sorry to hear of the second disturbance within Big Thunder Mountain, but I did warn you that you were prospecting at your own peril when I sold you the drilling machine. I took the liberty of consulting Madame Zarkov at the Museum of the Weird, and it is her considered opinion that you should abandon the entire operation at once and find a less volatile site. I wish I had better news for you, old boy, but some forces simply are not to be trifled with.
-	</p>
-	<p>On behalf of your compatriots of SEA, I do hope to see you around the club a bit more often!</p>
-	<p>
-		Yours in Exploration and Adventure,<br/>
-		Jason Chandler<br/>
-		Founding Member The Society of Explorers and Adventurers
-	</p>
-</blockquote>
+> Dear Barney,
+>
+> Great Caesar’s Ghost, old chap, I haven’t heard from you since our little misadventure in El Dorado! I am indeed sorry to hear of the second disturbance within Big Thunder Mountain, but I did warn you that you were prospecting at your own peril when I sold you the drilling machine. I took the liberty of consulting Madame Zarkov at the Museum of the Weird, and it is her considered opinion that you should abandon the entire operation at once and find a less volatile site. I wish I had better news for you, old boy, but some forces simply are not to be trifled with.
+>
+> On behalf of your compatriots of SEA, I do hope to see you around the club a bit more often!
+>
+> Yours in Exploration and Adventure,
+>
+> Jason Chandler
+>
+> Founding Member The Society of Explorers and Adventurers
 
 ## Disney Kingdoms
 
-In 2015 Disney in collaboration with Marvel released a set of comics based upon existing ride attractions. This included “Big Thunder Mountain Railroad” which deviates from the story listed in the ride. In the comic books Jason Chandler's is an employee of Bullion, who with Bullions daughter, encounter trouble within the mine. There is no mention of S.E.A. in any of the Disney Kingdom comics (as of 2019).
+In 2015 Disney in collaboration with Marvel released a set of comics based upon existing ride attractions. This included “Big Thunder Mountain Railroad” which deviates from the story listed in the ride. In the comic books, Jason Chandler's is an employee of Bullion, who with Bullions daughter, encounter trouble within the mine. There is no mention of S.E.A. in any of the Disney Kingdom comics (as of 2019).
 
 ![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabas-t-bullion.png)
 _Source: Copyright Marvel/Disney, Disney Kingdoms_
@@ -45,4 +46,4 @@ _Source: Copyright Marvel/Disney, Disney Kingdoms_
 ![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabus-t-bullion.jpeg)
 _Source: Copyright Marvel/Disney, Disney Kingdoms_
 
-The Disney Kingdoms book also reveals the original artist for the Barnabus T. Bullion portrait shown above is <a href="https://www.roihorn.com" target="_blank">Roi Horn</a>.
+The Disney Kingdoms book also reveals the original artist for the Barnabus T. Bullion portrait shown above is[ Roi Horn](https://www.roihorn.com).
