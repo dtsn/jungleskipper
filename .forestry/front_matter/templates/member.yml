@@ -24,8 +24,37 @@ fields:
   name: parks
   label: parks
 - name: gallery
-  type: image_gallery
-  config: {}
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: thumbnail
+    type: file
+    config:
+      maxSize: 250
+    label: Thumbnail
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt
+  - name: source
+    type: text
+    config:
+      required: false
+    label: Source
+  - name: source_link
+    type: text
+    config:
+      required: false
+    label: Source Link
+  config:
+    min: 
+    max: 
+    labelField: 
   label: Gallery
 pages:
 - _members/barnabas-t-bullion.md
