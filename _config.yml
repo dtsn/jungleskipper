@@ -40,7 +40,7 @@ defaults:
       portrait: ""
       attractions: []
       parks: []
-      - gallery-images:
+      gallery-images:
         url: ""
         alt: ""
         source: ""
