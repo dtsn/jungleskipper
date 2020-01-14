@@ -1,0 +1,28 @@
+---
+label: Member
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: name
+  label: name
+- type: text
+  name: membership
+  label: membership
+- type: text
+  name: paddle
+  label: paddle
+- type: boolean
+  name: fez
+  label: fez
+- type: file
+  name: portrait
+  label: portrait
+- type: list
+  name: attractions
+  label: attractions
+- type: list
+  name: parks
+  label: parks
