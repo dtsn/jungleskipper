@@ -1,20 +1,18 @@
 ---
+title: Jason Chandler
 name: Jason Chandler
-sea-link: confirmed
-attractions:
-    - Big Thunder Mountain
-parks:
-    - Walt Disney World
-stats:
-    - paddle: 1882, Elaho River
-    - fez: true
-
+membership: Confirmed
+paddle: 1882, Elaho River
+fez: true
 portrait: "/gallery/members/jason-chandler/portrait.jpeg"
-
+attractions:
+- Big Thunder Mountain
+parks:
+- Walt Disney World
 gallery-images:
-    - url: ""
-      alt: ""
-      source: ""
+- url: 
+  alt: 
+  source: 
 ---
 
 Jason Chandler is a character originally developed for the unbuilt Discovery Bay. His back story linked the new area with the story line of Big Thunder Mountain. In 1992 an issue of Disney News was published which describes Jason Chandler:

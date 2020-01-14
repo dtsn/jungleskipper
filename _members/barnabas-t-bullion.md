@@ -1,21 +1,15 @@
 ---
+title: Barnabas T Bullion
+tags:
+- barnabas-t-bullion
 name: Barnabas T. Bullion
 membership: Confirmed
+portrait: "/gallery/members/barnabas-t-bullion/portrait.jpg"
 attractions:
-    - Big Thunder Mountain
+- Big Thunder Mountain
 parks:
-    - Magic Kingdom
-    - Disneyland
-stats:
-    - paddle: Colorado River, 1870
-tags:
-    - barnabas-t-bullion
-
-portrait: /gallery/members/barnabas-t-bullion/portrait.jpg
-
-gallery-images:
-    - url: ""
-      alt: ""
+- Magic Kingdom
+- Disneyland
 ---
 
 The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).

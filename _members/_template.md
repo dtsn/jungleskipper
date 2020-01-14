@@ -1,22 +1,18 @@
 ---
 published: false
-
 name: Chef Tandaji
-attractions: 
-  - Skipper Canteen
+attractions:
+- Skipper Canteen
 parks:
-  - Magic Kingdom
+- Magic Kingdom
 born: Unknown
 died: Unknown
 sea-link: confirmed
 paddle: Yes, 1913 Irrawaddy
-fez: Yes
-
-portrait: ""
-
-gallery:
-
-summary:
+fez: true
+portrait: ''
+gallery: 
+summary: 
 ---
 
 Insert bio here

@@ -1,78 +1,76 @@
 ---
+title: Harrison Hightower III
 name: Harrison Hightower III
-sea-link: confirmed
-attractions:
-    - Tower of Terror
-    - Mystic Manor
-    - Tropical Hideaway
-parks:
-    - Tokyo DisneySea
-    - Hong Kong Disneyland
-    - Disneyland
-stats:
-    - paddle: 1906, Congo River
-    - fez: false
-
+membership: Confirmed
+paddle: 1906, Congo River
+fez: false
 portrait: "/gallery/members/harrison-hightower/portrait.jpg"
-
+attractions:
+- Tower of Terror
+- Mystic Manor
+- Tropical Hideaway
+parks:
+- Tokyo DisneySea
+- Hong Kong Disneyland
+- Disneyland
 gallery-images:
-    - url: "/gallery/members/harrison-hightower/newspaper-1.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-2.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-3.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-4.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-5.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-6.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-7.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-8.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-9.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-10.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-11.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/newspaper-12.jpg"
-      alt: "Opening day Tower of Terror Newspaper"
-      source: "@osakanakurage on Twitter"
-    - url: "/gallery/members/harrison-hightower/tot-romania.jpg"
-      alt: "One of the portraits of Hightower which surround the hotel lobby"
-      source: "Sean Sullivan"
-    - url: "/gallery/members/harrison-hightower/shop1.jpg"
-      alt: "Hightower bathing"
-      source: "@robyeo on Twitter"
-    - url: "/gallery/members/harrison-hightower/shop2.jpg"
-      alt: "Harrison Hightower portrayed as a God"
-      source: "@robyeo on Twitter"
-    - url: "/gallery/members/harrison-hightower/olympic-menu.jpg"
-      alt: "Menu of the olympic dining room at Hotel Hightower"
-      source: ""
-    - url: "/gallery/members/harrison-hightower/adventure-shots-1.jpg"
-      alt: "A variety of photos which show Hightower's adventures"
-      source: ""
-    - url: "/gallery/members/harrison-hightower/adventure-shots-2.jpg"
-      alt: "A variety of photos which show Hightower's adventures"
-      source: ""
-    - url: "/gallery/members/harrison-hightower/adventure-shots-3.jpg"
-      alt: "A variety of photos which show Hightower's adventures"
-      source: ""
+- url: "/gallery/members/harrison-hightower/newspaper-1.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-2.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-3.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-4.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-5.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-6.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-7.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-8.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-9.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-10.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-11.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/newspaper-12.jpg"
+  alt: Opening day Tower of Terror Newspaper
+  source: "@osakanakurage on Twitter"
+- url: "/gallery/members/harrison-hightower/tot-romania.jpg"
+  alt: One of the portraits of Hightower which surround the hotel lobby
+  source: Sean Sullivan
+- url: "/gallery/members/harrison-hightower/shop1.jpg"
+  alt: Hightower bathing
+  source: "@robyeo on Twitter"
+- url: "/gallery/members/harrison-hightower/shop2.jpg"
+  alt: Harrison Hightower portrayed as a God
+  source: "@robyeo on Twitter"
+- url: "/gallery/members/harrison-hightower/olympic-menu.jpg"
+  alt: Menu of the olympic dining room at Hotel Hightower
+  source: 
+- url: "/gallery/members/harrison-hightower/adventure-shots-1.jpg"
+  alt: A variety of photos which show Hightower's adventures
+  source: 
+- url: "/gallery/members/harrison-hightower/adventure-shots-2.jpg"
+  alt: A variety of photos which show Hightower's adventures
+  source: 
+- url: "/gallery/members/harrison-hightower/adventure-shots-3.jpg"
+  alt: A variety of photos which show Hightower's adventures
+  source: 
 ---
 
 We know quite a lot about Harrison Hightower III, he was one of the first characters and is portrayed as a corrupt member of S.E.A. who reached an untimely end.

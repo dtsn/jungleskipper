@@ -1,16 +1,13 @@
 ---
+title: Captain Brieux
 name: Captain Brieux
-sea-link: suggested
+membership: Unconfirmed
+portrait: "/gallery/members/captain-brieux/portrait.jpg"
 attractions:
-    - Skipper Canteen
+- Skipper Canteen
 parks:
-    - Magic Kingdom
-    - Disneyland Paris
-stats:
-    - paddle: false
-    - fez: false
-
-portrait: /gallery/members/captain-brieux/portrait.jpg
+- Magic Kingdom
+- Disneyland Paris
 ---
 
 Captain Brieux is a charater in the 1974 film, The Island at the Top of World. Portrayed by Jacques Marin, he is a French inventor who pilots an expedition in a French dirigible name the Hyperion (a model can be found at Disneyland Paris).
