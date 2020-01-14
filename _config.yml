@@ -44,7 +44,7 @@ defaults:
         url: ""
         alt: ""
         source: ""
-        source link: ""
+        "source link": ""
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
@@ -55,9 +55,9 @@ facebook:
 social:
   name: Jungle Skipper
   links:
-    - https://twitter.com/_jungleskippr
+    - https://twitter.com/jungleskippr
     - https://www.facebook.com/thejungleskipper
-    - https://instagram.com/_jungleskippr
+    - https://instagram.com/jungleskippr
 lang: en_UK
 baseurl: ""
 paginate: 10
