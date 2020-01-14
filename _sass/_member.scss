@@ -1,5 +1,47 @@
-.member-page {
+.member-list {
+	background: #171F31 url('/assets/images/wallpaper.png');
+	padding: 40px 0;
+	.member {
+		.wrap {
+			position: relative;
+			height: 210px;
+			margin: 9px;
+		
+			&::before, &::after {
+				content: '';
+				position: absolute;
+			}
 
+			&::before {
+				background: linear-gradient(to bottom, #DBD5B1, #9F9763);
+				top: -7px;
+				bottom: -7px;
+				left: -7px;
+				right: -7px;
+			}
+
+			&::after {
+				background: linear-gradient(to top, #DBD5B1, #9F9763);
+				top: -2px;
+				bottom: -2px;
+				left: -2px;
+				right: -2px;
+			}
+
+			img {
+				height: 210px;
+				width: 100%;
+				object-fit: cover;
+				margin: 0px auto;
+				display: block;
+				position: relative;
+				z-index: 1;
+			}
+		}
+	}
+}
+
+.member-page {
 	background: url('/assets/images/creature.png') no-repeat right 80%;
 
 	.wallpaper {

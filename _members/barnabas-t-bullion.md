@@ -1,6 +1,6 @@
 ---
 name: Barnabas T. Bullion
-sea-link: confirmed
+membership: Confirmed
 attractions:
     - Big Thunder Mountain
 parks:
