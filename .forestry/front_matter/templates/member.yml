@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Member
 hide_body: false
 fields:
@@ -28,4 +25,5 @@ fields:
   label: parks
 pages:
 - _members/barnabas-t-bullion.md
+- _members/camellia-falco.md
 - _members/captain-mary-oceaneer.md
