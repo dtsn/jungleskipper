@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Member
 hide_body: false
 fields:
@@ -26,3 +23,5 @@ fields:
 - type: list
   name: parks
   label: parks
+pages:
+- _members/captain-mary-oceaneer.md
