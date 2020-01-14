@@ -40,6 +40,11 @@ defaults:
       portrait: ""
       attractions: []
       parks: []
+      - gallery-images:
+        url: ""
+        alt: ""
+        source: ""
+        source link: ""
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
