@@ -5,6 +5,10 @@ fields:
 - type: text
   name: name
   label: name
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: text
   name: membership
   label: membership
