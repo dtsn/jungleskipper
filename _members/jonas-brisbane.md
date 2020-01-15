@@ -8,12 +8,15 @@ paddle: ''
 fez: false
 attractions: []
 gallery: []
-tags: []
+tags:
+- Jonas Brisbane
 
 ---
 Jonas Brisbane was a character created exclusively for the 2014 Horrors of the Amazon Halloween stage show for Hong Kong Disneyland. Played by local Hong Kong Celebrity Power Chan the story is about an adventurer who wants to join S.E.A.
 
-You can see the full video below, but for those of you who don’t speak Cantonese I have asked someone to give us an overview of the plot:
+{% include youtube.html id="QJB4kSWIGag" %}
+
+You can see the full video above, but for those of you who don’t speak Cantonese I have asked someone to give us an overview of the plot:
 
 The story follows Jonas Brisbane, a Jungle Cruise Skipper, wanting to join the Society of Explorers and Adventurers. His uncle became obsessed and went on a lot of dangerous adventures in the Amazon, all recorded in his Journal. One day he mysteriously disappears.
 
