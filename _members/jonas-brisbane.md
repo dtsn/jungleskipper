@@ -1,5 +1,5 @@
 ---
-name: Jonas Bisbane
+name: Jonas Brisbane
 membership: Unconfirmed
 portrait: "/gallery/halloween-2014-hong-kong-disneyland.jpg"
 parks:
@@ -8,6 +8,7 @@ paddle: ''
 fez: false
 attractions: []
 gallery: []
+tags: []
 
 ---
 Jonas Brisbane was a character created exclusively for the 2014 Horrors of the Amazon Halloween stage show for Hong Kong Disneyland. Played by local Hong Kong Celebrity Power Chan the story is about an adventurer who wants to join S.E.A.
