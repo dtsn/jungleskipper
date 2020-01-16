@@ -23,8 +23,15 @@ gallery-images:
 - url: "/gallery/members/albert-falls/hightower-spirit-of-adventure.jpg"
   alt: Hightower Spirit of Adventure - Dr. Albert Falls
   source: 
----
+tags: []
+gallery:
+- image: "/gallery/fez-dr-albert-falls-luana-teixeira.jpg"
+  thumbnail: "/gallery/fez-dr-albert-falls-luana-teixeira.thumb.jpeg"
+  alt: Fez Dr Albert Falls (left hand side)
+  source: Jungle Skipper
+  source_link: ''
 
+---
 Dr Albert Falls is an explorer known for his ability to navigate rivers. In 1911 he founded the Jungle Navigation Skipper Company (J.N.C.) to help navigate his fellow explorers. He is best well known for the water fall which bares his name, Schweitzer Falls which earned him the Elephant Juju in 1903.
 
 Upon Dr Falls persumed death his granddaugter, Alberta, took over the running of the company and discovered a secret S.E.A. meeting room in the offices of the J.N.C. which was later turned into the Skipper Canteen.
