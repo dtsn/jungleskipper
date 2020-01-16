@@ -11,6 +11,11 @@ attractions:
 parks:
 - Hong Kong Disneyland
 gallery:
+- image: "/gallery/albert-the-monkey-bangal-bbq.jpg"
+  thumbnail: "/gallery/albert-the-monkey-bangal-bbq copy.thumb.jpg"
+  alt: Albert the Monkey on board the Jungle Skipper Boat
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 - image: "/gallery/albert-the-monkey-skipper-canteen-1.jpg"
   thumbnail: "/gallery/albert-the-monkey-skipper-canteen.thumb.jpeg"
   alt: Albert the Monkey's book in the Skipper Canteen
