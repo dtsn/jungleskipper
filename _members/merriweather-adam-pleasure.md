@@ -8,8 +8,8 @@ parks:
 attractions:
 - Adventurers Club
 gallery:
-- image: "/gallery/fez-merriweather-adam-pleasure.jpeg"
-  thumbnail: "/gallery/fez-merriweather-adam-pleasure.thumb.jpg"
+- image: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.jpeg"
+  thumbnail: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.thumb.jpeg"
   alt: Meriweather Adam Pleasure (left hand side)
   source: Jungle Skipper
   source_link: ''
