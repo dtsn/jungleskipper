@@ -1,12 +1,16 @@
 ---
-tags: []
+tags:
+- Luana Teixeira
 name: Luana Teixeira
-membership: ''
+membership: Unconfirmed
 paddle: ''
 fez: false
 portrait: ''
-attractions: []
-parks: []
+attractions:
+- Skipper Canteen
+parks:
+- Magic Kingdom
 gallery: []
 
 ---
+Luana Teixeira is one of the authors of the books in the Skipper Canteen.
