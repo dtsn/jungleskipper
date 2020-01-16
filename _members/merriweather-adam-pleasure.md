@@ -8,10 +8,10 @@ parks:
 attractions:
 - Adventurers Club
 gallery:
-- image: ''
-  thumbnail: ''
-  alt: ''
-  source: ''
+- image: "/gallery/fez-merriweather-adam-pleasure.jpeg"
+  thumbnail: "/gallery/fez-merriweather-adam-pleasure.thumb.jpg"
+  alt: Meriweather Adam Pleasure (left hand side)
+  source: Jungle Skipper
   source_link: ''
 paddle: ''
 fez: false
