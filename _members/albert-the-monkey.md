@@ -30,3 +30,5 @@ published: false
 
 ---
 Albert has a book in the Skipper Canteen titled "FUZNEWI PDMWH CHF JS U".
+
+There is also a picture of him with Humphrey Bogart and Audry Hepburn from the African Queen inside the Bengal BBQ in Disneyland.
