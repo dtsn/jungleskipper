@@ -20,6 +20,14 @@ gallery-images:
 - url: "/gallery/members/chef-tandaji/great-recipes-of-africa.jpg"
   alt: Great Recipies of Africa by Chef Tandaji
   source: Jungle Skipper
----
+tags: []
+gallery:
+- image: "/gallery/great-recipes-of-africa-tandaji.jpg"
+  thumbnail: "/gallery/great-recipes-of-africa-tandaji.thumb.jpeg"
+  alt: Great Recipes of Africa - Chef Tandaji
+  source: Jungle Skipper
+  source_link: ''
+portrait: ''
 
+---
 Chef Tandaji is a chef and author, publising the book Great Recipes of Africa which can be found on the shelves of Skipper Canteen. Thats not the only thing, he also has a [dish named after him](https://disneyworld.disney.go.com/en_GB/dining/magic-kingdom/jungle-navigation-skipper-canteen/menus/).
