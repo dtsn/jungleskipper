@@ -8,6 +8,11 @@ paddle: ''
 portrait: ''
 attractions: []
 parks: []
-gallery: []
+gallery:
+- image: "/gallery/fez-henry-mystic-albert-the-monkey.jpg"
+  thumbnail: "/gallery/fez-henry-mystic-albert-the-monkey.thumb.jpeg"
+  alt: Fez Henry Mystic (left hand side)
+  source: Jungle Skipper
+  source_link: ''
 
 ---
