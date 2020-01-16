@@ -20,11 +20,12 @@ gallery:
   alt: M. Oceaneer Orinoco River 1899
   source: Laughing Place
   source_link: https://www.laughingplace.com/w/blogs/disney-buzz/2018/12/19/imagineer-says-disneylands-tropical-hideaway-contains-clues-for-future-attractions/
-- image: "/gallery/members/merriweather-adam-pleasure/fez.jpg"
-  thumbnail: ''
+- image: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.jpeg"
+  thumbnail: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.thumb.jpeg"
   alt: Captain Mary Oceaneer Fez (right hand side)
-  source: ''
+  source: Jungle Skipper
   source_link: ''
+tags: []
 
 ---
 Captain Mary Oceaneer is an extraordinary treasure hunter and diver. We first learn of Captain Mary from Mystic Manor where she is featured in two portraits - the first is of Captain Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait.
