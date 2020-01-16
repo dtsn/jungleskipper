@@ -22,6 +22,11 @@ gallery-images:
   source: Jungle Skipper
 tags: []
 gallery:
+- image: "/gallery/fez-chef-tandaji-sango-sio.jpg"
+  thumbnail: "/gallery/fez-chef-tandaji-sango-sio.thumb.jpeg"
+  alt: Fez Chef Tandaji (left hand side)
+  source: Jungle Skipper
+  source_link: ''
 - image: "/gallery/great-recipes-of-africa-tandaji.jpg"
   thumbnail: "/gallery/great-recipes-of-africa-tandaji.thumb.jpeg"
   alt: Great Recipes of Africa - Chef Tandaji
