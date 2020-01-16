@@ -26,7 +26,6 @@ gallery:
   alt: Fez Albert the Monkey (right hand side)
   source: Jungle Skipper
   source_link: ''
-published: false
 
 ---
 Albert has a book in the Skipper Canteen titled "FUZNEWI PDMWH CHF JS U".
