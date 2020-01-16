@@ -11,8 +11,8 @@ attractions:
 parks:
 - Magic Kingdom
 gallery:
-- image: "/gallery/fez-luana-teixeira.jpg"
-  thumbnail: "/gallery/fez-luana-teixeira.thumb.jpeg"
+- image: "/gallery/fez-dr-albert-falls-luana-teixeira.jpg"
+  thumbnail: "/gallery/fez-dr-albert-falls-luana-teixeira.thumb.jpeg"
   alt: Luana Teixeria Fez (right hand side)
   source: Jungle Skipper
   source_link: ''
