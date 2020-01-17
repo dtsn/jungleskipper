@@ -12,11 +12,14 @@ gallery:
   source_link: ''
   alt: Fez Sango Sio (right hand side)
 name: ''
-membership: ''
-paddle: ''
-fez: false
+membership: Confirmed
+paddle: Amazon River, 1910
+fez: true
 portrait: ''
-attractions: []
+attractions:
+- _attractions/skipper-canteen.md
+- _attractions/tropical-hideaway.md
 parks: []
+title: Sango Sio
 
 ---
