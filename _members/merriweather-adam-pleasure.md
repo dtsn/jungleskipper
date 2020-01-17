@@ -1,12 +1,11 @@
 ---
-tags:
-- Merriweather Adam Pleasure
+tags: []
 name: Merriweater Adam Pleasure
 membership: Confirmed
 parks:
 - Pleasure Island
 attractions:
-- Adventurers Club
+- _attractions/adventurers-club.md
 gallery:
 - image: "/gallery/paddle-m-a-pleasure.jpg"
   thumbnail: "/gallery/paddle-m-a-pleasure copy.thumb.jpg"
@@ -18,8 +17,9 @@ gallery:
   alt: Meriweather Adam Pleasure (left hand side)
   source: Jungle Skipper
   source_link: ''
-paddle: ''
+paddle: Kissimmee River, 1900
 fez: false
 portrait: ''
+title: Merriweather Adam Pleasure
 
 ---
