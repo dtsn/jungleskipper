@@ -88,7 +88,7 @@ gallery:
   alt: Skipper Canteen Table
   source: Jungle Skipper
   source_link: ''
-image: "/gallery/skipper-canteen.jpg"
-thumbnail: "/gallery/skipper-canteen.thumb.jpg"
+image: "/gallery/skipper-canteen-1.jpg"
+thumbnail: "/gallery/skipper-canteen.thumb-1.jpg"
 
 ---
