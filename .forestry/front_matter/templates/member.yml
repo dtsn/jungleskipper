@@ -2,6 +2,11 @@
 label: Member
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: text
   name: name
   label: name
@@ -11,22 +16,27 @@ fields:
   label: Tags
 - type: text
   name: membership
-  label: membership
+  label: Membership
 - type: text
   name: paddle
-  label: paddle
+  label: Paddle
 - type: boolean
   name: fez
-  label: fez
+  label: Fez
 - type: file
   name: portrait
-  label: portrait
+  label: Portrait
 - type: list
   name: attractions
-  label: attractions
+  label: Attractions
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: attractions
 - type: list
   name: parks
-  label: parks
+  label: Parks
 - name: gallery
   type: field_group_list
   fields:
