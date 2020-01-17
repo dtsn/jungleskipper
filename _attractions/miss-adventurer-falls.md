@@ -1,8 +1,9 @@
 ---
-title: Miss Adventurer Falls
+title: Miss Adventure Falls
 members:
 - _members/captain-mary-oceaneer.md
 gallery: []
-published: false
+image: ''
+thumbnail: ''
 
 ---
