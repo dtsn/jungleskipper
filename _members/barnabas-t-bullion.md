@@ -6,7 +6,7 @@ name: Barnabas T. Bullion
 membership: Confirmed
 portrait: "/gallery/members/barnabas-t-bullion/portrait.jpg"
 attractions:
-- Big Thunder Mountain
+- _attractions/big-thunder-mountain.md
 parks:
 - Magic Kingdom
 - Disneyland

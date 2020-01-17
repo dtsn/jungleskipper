@@ -6,8 +6,8 @@ paddle: ''
 fez: true
 portrait: ''
 attractions:
+- _attractions/jungle-cruise.md
 - _attractions/mystic-manor.md
-- Jungle Cruise
 parks:
 - Hong Kong Disneyland
 gallery:
