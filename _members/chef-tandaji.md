@@ -5,7 +5,8 @@ membership: Confirmed
 paddle: 1913 Irrawaddy
 fez: true
 attractions:
-- Skipper Canteen
+- _attractions/tropical-hideaway.md
+- _attractions/skipper-canteen.md
 parks:
 - Magic Kingdom
 sea-link: confirmed
