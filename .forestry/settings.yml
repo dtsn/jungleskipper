@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _attractions
+  label: Attractions
+  create: all
+  match: "**/*"
+  templates:
+  - attraction
 - type: jekyll-pages
   label: Pages
   create: all
