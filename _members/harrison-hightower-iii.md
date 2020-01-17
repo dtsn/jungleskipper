@@ -71,8 +71,15 @@ gallery-images:
 - url: "/gallery/members/harrison-hightower/adventure-shots-3.jpg"
   alt: A variety of photos which show Hightower's adventures
   source: 
----
+tags: []
+gallery:
+- image: "/gallery/paddle-h-hightower.jpg"
+  thumbnail: "/gallery/paddle-h-hightower copy.thumb.jpg"
+  alt: Harrison Hightower's Paddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 
+---
 We know quite a lot about Harrison Hightower III, he was one of the first characters and is portrayed as a corrupt member of S.E.A. who reached an untimely end.
 
 Born in 1835 in New York Harrison Hightower is the owner of Hotel Hightower, which was inherited from his father. He was an avid collector of antiquities which he often gathered in questionable ways. This eventually lead to his downfall as he mysteriously disappeared on December 31st, 1899 after acquiring the Shiriki Utundu idol.
