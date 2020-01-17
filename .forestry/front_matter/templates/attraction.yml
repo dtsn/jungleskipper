@@ -51,6 +51,7 @@ fields:
     labelField: 
   label: Gallery
 pages:
+- _attractions/adventurers-club.md
 - _attractions/mystic-manor.md
 - _attractions/skipper-canteen.md
 - _attractions/tower-of-terror.md
