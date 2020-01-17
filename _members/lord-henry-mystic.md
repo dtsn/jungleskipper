@@ -1,12 +1,14 @@
 ---
-tags:
-- Lord Henry Mystic
+tags: []
 name: Lord Henry Mystic
 membership: Confirmed
 fez: true
-paddle: ''
+paddle: Ganges River, 1874
 portrait: ''
-attractions: []
+attractions:
+- _attractions/tropical-hideaway.md
+- _attractions/skipper-canteen.md
+- _attractions/mystic-manor.md
 parks: []
 gallery:
 - image: "/gallery/paddle-h-mystic.jpg"
@@ -19,5 +21,6 @@ gallery:
   alt: Fez Henry Mystic (left hand side)
   source: Jungle Skipper
   source_link: ''
+title: Lord Henry Mystic
 
 ---
