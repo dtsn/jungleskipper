@@ -6,8 +6,8 @@ paddle: ''
 fez: true
 portrait: ''
 attractions:
+- _attractions/mystic-manor.md
 - Jungle Cruise
-- Mystic Manor
 parks:
 - Hong Kong Disneyland
 gallery:
@@ -26,6 +26,7 @@ gallery:
   alt: Fez Albert the Monkey (right hand side)
   source: Jungle Skipper
   source_link: ''
+title: Albert the Monkey
 
 ---
 Albert has a book in the Skipper Canteen titled "FUZNEWI PDMWH CHF JS U".
