@@ -15,6 +15,11 @@ gallery-images:
   source: 
 tags: []
 gallery:
+- image: "/gallery/paddle-j-chandler.jpg"
+  thumbnail: "/gallery/paddle-j-chandler copy.thumb.jpg"
+  alt: Jason Chandler's Paddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 - image: "/gallery/jason-chandler-stage-coach-disneyland-zoom.jpg"
   thumbnail: "/gallery/jason-chandler-stage-coach-disneyland-zoom.thumb.jpeg"
   alt: Jason Chandler Stage Coach in Disneyland
