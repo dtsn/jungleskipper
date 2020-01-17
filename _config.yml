@@ -10,9 +10,13 @@ collections:
     output: true
     layout: post
   members:
-    title: Sea members
+    title: SEA Members
     output: true
     permalink: "/sea/members/:name"
+  attractions:
+    title: SEA Attractions
+    output: true
+    permalink: "/sea/attractions/:name"
   uploads:
     title: Uploads
     output: true
