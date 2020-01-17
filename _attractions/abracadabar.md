@@ -71,6 +71,10 @@ image: "/gallery/abracadabar.jpg"
 thumbnail: "/gallery/abracadabar.thumb.jpg"
 
 ---
-AbracadaBar is a magician themed cocktail bar on Disney's Boardwalk in Walt Disney World.
+AbracadaBar is a magician themed cocktail bar on Disney's Boardwalk in Walt Disney World. Here's how the [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2016/07/all-in-the-details-first-look-inside-abracadabar-at-disneys-boardwalk/) sums up the backstory of the bar:
 
-It contains a mysterious S.E.A. fez belonging to an unknown member.
+> This little lounge was a former stomping ground for the famous magicians, boardwalk illusionists, and lovely magician’s assistants of the Golden Age. After a show, prestidigitators would gather to “conjure” up new cocktails, swap magic tips and tricks, and stay up all night attempting to “out-charm” each other with their extraordinary illusions. According to BoardWalk lore, it was on just such an evening that every single magician in the lounge vanished into thin air, and was never seen again …
+
+In one of the bookcases there exists a S.E.A. fez rumoured to belong to one of the Magicians.
+
+![](/gallery/abracadabar-sea-fez.jpg)
