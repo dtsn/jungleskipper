@@ -16,6 +16,8 @@ gallery-images:
   alt: Tropical Hideaway Paddle, Dr J L Baterista 1906 Congo River
   source: Laughing Place
   source link: https://www.laughingplace.com/w/blogs/disney-buzz/2018/12/19/imagineer-says-disneylands-tropical-hideaway-contains-clues-for-future-attractions/
----
+tags: []
+gallery: []
 
+---
 Not much is known about Dr J L Baterista apart from he bares a striking resemblance to the Imagineer Joe Lanisero. The name 'baterista' means drummer in portuguease.
