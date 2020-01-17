@@ -15,11 +15,11 @@ parks:
 - Hong Kong Disneyland
 - Disney Cruise Line
 gallery:
-- image: "/gallery/members/mary-oceaneer/paddle.jpeg"
-  thumbnail: ''
-  alt: M. Oceaneer Orinoco River 1899
-  source: Laughing Place
-  source_link: https://www.laughingplace.com/w/blogs/disney-buzz/2018/12/19/imagineer-says-disneylands-tropical-hideaway-contains-clues-for-future-attractions/
+- image: "/gallery/paddle-m-oceaneer.jpg"
+  thumbnail: "/gallery/paddle-m-oceaneer copy.thumb.jpg"
+  alt: Captain Mary Oceaneer's Paddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 - image: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.jpeg"
   thumbnail: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.thumb.jpeg"
   alt: Captain Mary Oceaneer Fez (right hand side)
