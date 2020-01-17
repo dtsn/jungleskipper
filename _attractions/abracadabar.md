@@ -2,8 +2,8 @@
 title: AbracadaBar
 members: []
 gallery: []
-image: "/gallery/abracadabar-1.jpg"
-thumbnail: "/gallery/abracadabar.thumb-1.jpg"
+image: "/gallery/abracadabar.jpg"
+thumbnail: "/gallery/abracadabar.thumb.jpg"
 
 ---
 AbracadaBar is a magician themed cocktail bar on Disney's Boardwalk in Walt Disney World.
