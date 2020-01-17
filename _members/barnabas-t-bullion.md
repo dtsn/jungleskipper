@@ -12,8 +12,14 @@ parks:
 - Disneyland
 paddle: ''
 fez: false
----
+gallery:
+- image: "/gallery/paddle-b-t-bullion.jpg"
+  thumbnail: "/gallery/paddle-b-t-bullion copy.thumb.jpg"
+  alt: Barnabas T Bullion PAddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 
+---
 The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).
 
 Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thunder Mountain in the Magic Kingdom. At the time of the launch the [Disney Blog](https://disneyparks.disney.go.com/blog/2012/11/walt-disney-imagineers-unveil-the-backstory-of-barnabas-t-bullion-prioprietor-and-president-of-big-thunder-mining-company/) released the following bio:
