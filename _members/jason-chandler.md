@@ -6,7 +6,7 @@ paddle: 1882, Elaho River
 fez: true
 portrait: "/gallery/members/jason-chandler/portrait.jpeg"
 attractions:
-- Big Thunder Mountain
+- _attractions/big-thunder-mountain.md
 parks:
 - Walt Disney World
 gallery-images:
