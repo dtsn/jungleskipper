@@ -6,10 +6,10 @@ paddle: 1899 Orinoco River in South America
 fez: true
 portrait: "/gallery/members/mary-oceaneer/portrait.jpg"
 attractions:
-- Oceaneer Labs, Disney Cruise Line
-- Mystic Manor
-- Miss Adventure Falls
-- Skipper Canteen
+- _attractions/skipper-canteen.md
+- _attractions/mystic-manor.md
+- _attractions/oceaneer-labs.md
+- _attractions/miss-adventurer-falls.md
 parks:
 - Magic Kingdom
 - Hong Kong Disneyland
