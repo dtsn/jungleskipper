@@ -50,3 +50,5 @@ fields:
     max: 
     labelField: 
   label: Gallery
+pages:
+- _attractions/skipper-canteen.md
