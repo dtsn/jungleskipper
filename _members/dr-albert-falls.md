@@ -6,7 +6,8 @@ paddle: 1903, Mbei River, Gabon
 fez: true
 portrait: "/gallery/members/albert-falls/portrait.jpg"
 attractions:
-- Jungle Cruise
+- _attractions/tropical-hideaway.md
+- _attractions/jungle-cruise.md
 parks:
 - Disneyland
 - Magic Kingdom
