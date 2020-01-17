@@ -51,4 +51,5 @@ fields:
     labelField: 
   label: Gallery
 pages:
+- _attractions/mystic-manor.md
 - _attractions/skipper-canteen.md
