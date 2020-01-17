@@ -6,9 +6,9 @@ paddle: 1906, Congo River
 fez: false
 portrait: "/gallery/members/harrison-hightower/portrait.jpg"
 attractions:
-- Tower of Terror
-- Mystic Manor
-- Tropical Hideaway
+- _attractions/tropical-hideaway.md
+- _attractions/mystic-manor.md
+- _attractions/tower-of-terror.md
 parks:
 - Tokyo DisneySea
 - Hong Kong Disneyland
