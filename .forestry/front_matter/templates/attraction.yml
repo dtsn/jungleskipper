@@ -51,6 +51,7 @@ fields:
     labelField: 
   label: Gallery
 pages:
+- _attractions/abracadabar.md
 - _attractions/adventurers-club.md
 - _attractions/hanger-bar.md
 - _attractions/jungle-cruise.md
