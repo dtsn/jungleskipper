@@ -7,7 +7,8 @@ membership: Confirmed
 paddle: Zambezi River, 1831
 fez: false
 attractions:
-- 'Soarin: Fantastic Flight'
+- _attractions/tropical-hideaway.md
+- _attractions/soarin-fantastic-flight.md
 parks:
 - Tokyo Disney Sea
 portrait: "/gallery/members/camellia-falco/camellia-hot-air-balloon.jpg"
