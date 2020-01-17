@@ -6,8 +6,8 @@ paddle: 1906, Congo River
 fez: false
 portrait: "/gallery/members/dr-j-l-baterista/portrait.jpg"
 attractions:
-- Mystic Manor
-- Tropical Hideaway
+- _attractions/tropical-hideaway.md
+- _attractions/mystic-manor.md
 parks:
 - Hong Kong Disneyland
 - Disneyland
