@@ -1,4 +1,29 @@
 ---
 label: Attraction
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: members
+  type: field_group_list
+  fields:
+  - name: member
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: members
+        file: 
+        path: 
+    label: Member
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Members
