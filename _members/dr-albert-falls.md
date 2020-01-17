@@ -25,6 +25,11 @@ gallery-images:
   source: 
 tags: []
 gallery:
+- image: "/gallery/paddle-dr-a-falls.jpg"
+  thumbnail: "/gallery/paddle-dr-a-falls copy.thumb.jpg"
+  alt: Dr Albert Fall's Paddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
 - image: "/gallery/fez-dr-albert-falls-luana-teixeira.jpg"
   thumbnail: "/gallery/fez-dr-albert-falls-luana-teixeira.thumb.jpeg"
   alt: Fez Dr Albert Falls (left hand side)
