@@ -22,6 +22,11 @@ gallery-images:
   source: Jungle Skipper
 tags: []
 gallery:
+- image: "/gallery/paddle-chef-tandaji.jpg"
+  thumbnail: "/gallery/paddle-chef-tandaji copy.thumb.jpg"
+  alt: Chef Tandaji's Paddle at Disneyland's Tropical Hideaway
+  source: ''
+  source_link: ''
 - image: "/gallery/fez-chef-tandaji-sango-sio.jpg"
   thumbnail: "/gallery/fez-chef-tandaji-sango-sio.thumb.jpeg"
   alt: Fez Chef Tandaji (left hand side)
