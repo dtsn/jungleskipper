@@ -1,11 +1,13 @@
 ---
 tags: []
 name: ''
-membership: ''
-paddle: ''
+membership: Confirmed
+paddle: Ucayali River, 1904
 fez: false
 portrait: ''
-attractions: []
+attractions:
+- _attractions/bengal-bbq.md
+- _attractions/tropical-hideaway.md
 parks: []
 gallery:
 - image: "/gallery/paddle-prof-r-blauerhimmel.jpg"
@@ -23,5 +25,6 @@ gallery:
   alt: Prof R Blauerhimmerl on the shelf at Disneyland's Bengal BBQ
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
+title: Prof R Blauerhimmel
 
 ---
