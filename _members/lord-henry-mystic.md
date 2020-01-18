@@ -24,3 +24,4 @@ gallery:
 title: Lord Henry Mystic
 
 ---
+Author of ‘Primates as Shipmates’
