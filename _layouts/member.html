@@ -160,6 +160,10 @@ layout: default
 			<div class="col-md-8 col-sm-12">
 				<h1>{{ page.name }}</h1>
 				{{ page.content }}
+				{% if page.gallery.size > 0 %}
+					<h2>Gallery</h2>
+					{% include gallery.html gallery=page.gallery %}
+				{% endif %}
 			</div>
 			<div class="col-12 col-md-4">
 				<div class="stats">

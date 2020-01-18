@@ -222,4 +222,10 @@
 			@include media-breakpoint-up(lg) { top: 140px; }
 		}
 	}
+
+	.gallery {
+		figcaption {
+			display: none;
+		}
+	}
 }

@@ -11,20 +11,6 @@ attractions:
 parks:
 - Disneyland
 - Magic Kingdom
-gallery-images:
-- url: "/gallery/members/albert-falls/fez.jpg"
-  alt: Albert Falls fez hat
-  source: 
-- url: "/gallery/members/albert-falls/certificate-of-discover-cambodian-shrine.jpg"
-  alt: Certificate of discovery, Ancient Cambodian Shrine - Dr. Albert Falls
-  source: 
-- url: "/gallery/members/albert-falls/certificate-of-discovery-schwitzer-falls.jpg"
-  alt: Certificate of discovery, Schweitzer Falls - Dr. Albert Falls
-  source: 
-- url: "/gallery/members/albert-falls/hightower-spirit-of-adventure.jpg"
-  alt: Hightower Spirit of Adventure - Dr. Albert Falls
-  source: 
-tags: []
 gallery:
 - image: "/gallery/paddle-dr-a-falls.jpg"
   thumbnail: "/gallery/paddle-dr-a-falls copy.thumb.jpg"
