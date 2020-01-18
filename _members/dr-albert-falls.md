@@ -12,6 +12,11 @@ parks:
 - Disneyland
 - Magic Kingdom
 gallery:
+- image: "/gallery/skipper-canteen-certificate-2.jpg"
+  thumbnail: "/gallery/skipper-canteen-certificate.thumb.jpg"
+  alt: Certificate of Offical Discovery - Schweitzer Falls - Dr Albert Falls
+  source: Jungle Skipper
+  source_link: ''
 - image: "/gallery/paddle-dr-a-falls.jpg"
   thumbnail: "/gallery/paddle-dr-a-falls copy.thumb.jpg"
   alt: Dr Albert Fall's Paddle at Disneyland's Tropical Hideaway
