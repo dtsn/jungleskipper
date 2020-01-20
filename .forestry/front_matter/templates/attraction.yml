@@ -1,0 +1,75 @@
+---
+label: Attraction
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: Thumbnail
+- name: members
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: members
+  label: Members
+- name: gallery
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: thumbnail
+    type: file
+    config:
+      maxSize: 250
+    label: Thumbnail
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt
+  - name: source
+    type: text
+    config:
+      required: false
+    label: Source
+  - name: source_link
+    type: text
+    config:
+      required: false
+    label: Source Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Gallery
+pages:
+- _attractions/abracadabar.md
+- _attractions/adventurers-club.md
+- _attractions/big-thunder-mountain.md
+- _attractions/hangar-bar.md
+- _attractions/jungle-cruise.md
+- _attractions/miss-adventure-falls.md
+- _attractions/mystic-manor.md
+- _attractions/oceaneer-labs.md
+- _attractions/skipper-canteen.md
+- _attractions/soarin-fantastic-flight.md
+- _attractions/tower-of-terror.md
+- _attractions/tropical-hideaway.md

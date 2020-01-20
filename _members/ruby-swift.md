@@ -1,22 +1,23 @@
 ---
+title: Ruby Swift
 name: Ruby Swift
-sea-link: unconfirmed
-attractions:
-  - Jungle Cruise
-parks:
-  - Hong Kong Disneyland
-stats:
-  - paddle: false
-  - fez: false
-
+membership: Unconfirmed
+paddle: ''
+fez: false
 portrait: "/gallery/members/ruby-swift/portrait.png"
-
+attractions:
+- _attractions/jungle-cruise.md
+parks:
+- Hong Kong Disneyland
 gallery-images:
-  - url: "/gallery/members/ruby-swift/curse-of-the-emerald-trinity-newspaper.png"
-    alt: "The Daily Colonial Journal"
-    source: 'Copyright Disney, used with permission - <a href="https://www.andysinclairharris.com/" target="_blank">Andy Sinclair Harris</a>'
----
+- url: "/gallery/members/ruby-swift/curse-of-the-emerald-trinity-newspaper.png"
+  alt: The Daily Colonial Journal
+  source: Copyright Disney, used with permission - <a href="https://www.andysinclairharris.com/"
+    target="_blank">Andy Sinclair Harris</a>
+tags: []
+gallery: []
 
+---
 As part of Hong Kong Disneyland's Jungle Cruise overlay a newspaper, The Daily Colonial Journal, was produced. This newpaper references two people, the first being [Professor Garrett Reed]({% link _members/professor-garrett-reed.md %}) and the second is Ruby Swift.
 
 > <strong>Ice in the Jungle</strong>

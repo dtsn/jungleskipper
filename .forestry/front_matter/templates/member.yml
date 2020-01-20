@@ -1,0 +1,94 @@
+---
+label: Member
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- type: text
+  name: name
+  label: name
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- type: text
+  name: membership
+  label: Membership
+- type: text
+  name: paddle
+  label: Paddle
+- type: boolean
+  name: fez
+  label: Fez
+- type: file
+  name: portrait
+  label: Portrait
+- type: list
+  name: attractions
+  label: Attractions
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: attractions
+- type: list
+  name: parks
+  label: Parks
+- name: gallery
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: thumbnail
+    type: file
+    config:
+      maxSize: 250
+    label: Thumbnail
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt
+  - name: source
+    type: text
+    config:
+      required: false
+    label: Source
+  - name: source_link
+    type: text
+    config:
+      required: false
+    label: Source Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Gallery
+pages:
+- _members/albert-the-monkey.md
+- _members/barnabas-t-bullion.md
+- _members/camellia-falco.md
+- _members/captain-brieux.md
+- _members/captain-mary-oceaneer.md
+- _members/charlton-j-taboret.md
+- _members/chef-tandaji.md
+- _members/dr-albert-falls.md
+- _members/dr-j-l-baterista.md
+- _members/harrison-hightower-iii.md
+- _members/jason-chandler.md
+- _members/jock-lindsey.md
+- _members/jonas-brisbane.md
+- _members/lauana-teixeira.md
+- _members/lord-henry-mystic.md
+- _members/merriweather-adam-pleasure.md
+- _members/prof-r-blauerhimmel.md
+- _members/professor-garrett-reed.md
+- _members/ruby-swift.md
+- _members/sango-sio.md
+- contributing.md

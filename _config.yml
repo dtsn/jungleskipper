@@ -9,30 +9,46 @@ collections:
     title: Posts
     output: true
     layout: post
+  members:
+    title: SEA Members
+    output: true
+    permalink: "/sea/members/:name"
+  attractions:
+    title: SEA Attractions
+    output: true
+    permalink: "/sea/attractions/:name"
   uploads:
     title: Uploads
     output: true
-  members:
-    title: Sea members
-    output: true
-    permalink: /sea/members/:name
 defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      image: ""
-  - scope:
-      path: ""
-      type: category
-    values:
-      layout: category
-  - scope:
-      path: ""
-      type: members
-    values:
-      layout: member
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    image: ''
+- scope:
+    path: ''
+    type: category
+  values:
+    layout: category
+- scope:
+    path: ''
+    type: members
+  values:
+    layout: member
+    name: ''
+    membership: ''
+    paddle: ''
+    fez: ''
+    portrait: ''
+    attractions: []
+    parks: []
+    gallery-images:
+      url: ''
+      alt: ''
+      source: ''
+      source-link: ''
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
@@ -43,19 +59,19 @@ facebook:
 social:
   name: Jungle Skipper
   links:
-    - https://twitter.com/_jungleskippr
-    - https://www.facebook.com/thejungleskipper
-    - https://instagram.com/_jungleskippr
+  - https://twitter.com/jungleskippr
+  - https://www.facebook.com/thejungleskipper
+  - https://instagram.com/jungleskippr
 lang: en_UK
-baseurl: ""
+baseurl: ''
 paginate: 10
 plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jemoji
+- jekyll-paginate
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jemoji
 permalink: "/:categories/:title"
 sass:
   sass_dir: _sass

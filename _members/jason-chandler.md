@@ -1,22 +1,37 @@
 ---
+title: Jason Chandler
 name: Jason Chandler
-sea-link: confirmed
+membership: Confirmed
+paddle: 1882, Elaho River
+fez: true
+portrait: "/gallery/members/jason-chandler/portrait.jpeg"
 attractions:
-    - Big Thunder Mountain
+- _attractions/big-thunder-mountain.md
 parks:
-    - Walt Disney World
-stats:
-    - paddle: 1882, Elaho River
-    - fez: true
-
-portrait: "/gallery/members/jason-chandler/portrait.jpg"
-
+- Walt Disney World
 gallery-images:
-    - url: ""
-      alt: ""
-      source: ""
----
+- url: 
+  alt: 
+  source: 
+tags: []
+gallery:
+- image: "/gallery/paddle-j-chandler.jpg"
+  thumbnail: "/gallery/paddle-j-chandler copy.thumb.jpg"
+  alt: Jason Chandler's Paddle at Disneyland's Tropical Hideaway
+  source: "Bruno via Email (thanks Bruno \U0001F603)"
+  source_link: ''
+- image: "/gallery/jason-chandler-stage-coach-disneyland-zoom.jpg"
+  thumbnail: "/gallery/jason-chandler-stage-coach-disneyland-zoom.thumb.jpeg"
+  alt: Jason Chandler Stage Coach in Disneyland
+  source: "Rich (via Email, thanks Rich \U0001F603)"
+  source_link: ''
+- image: "/gallery/jason-chandler-stagecoach-disneyland-large.jpg"
+  thumbnail: "/gallery/jason-chandler-stagecoach-disneyland-large.thumb.jpeg"
+  alt: Jason Chandler Stage Coach
+  source: "Rich (via Email, thanks Rich \U0001F603)"
+  source_link: ''
 
+---
 Jason Chandler is a character originally developed for the unbuilt Discovery Bay. His back story linked the new area with the story line of Big Thunder Mountain. In 1992 an issue of Disney News was published which describes Jason Chandler:
 
 > The highly imaginative tale includes the legend of a young inventor, named Jason Chandler, who lived in a town called International Village during the peak gold rush years in the Big Thunder region - circa 1849. According to the chronicles, "...the young inventor devised the drilling machine with the capability of boring into the very heart of Big Thunder Mountain. There, the veins of gold ran so deep, it was rumored they could produce a mother lode that would bring a man enough wealth to last a hundred lifetimes and more."
