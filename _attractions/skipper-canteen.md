@@ -606,88 +606,202 @@ gallery:
     Married To Someone Born Into The Jungle (Sneh Falls)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00034.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00034.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Ancient Structures of Wonder (Lewis)
+
+    Adventure Lodging Principals (P. Fisher)
+
+    Management Down The Hall (Timothy Hall)
+
+    Myths of the Galaxy (Karrison)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00035.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00035.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    The Dramatic Arts 1500 – 1899 (Richard Bird)
+
+    Faries and Magic (Wargo)
+
+    Like a Fox (Randy L.)
+
+    Two Skippers of Verona (Shake-Spear)
+
+    Puns of the Amazon (Loy)
+
+    A View From Above (S. W. Buckets)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00036.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00036.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    The Scent of Ostrich (Prof Eggward)
+
+    An Odd Set of Stories Vol. 11, 13, 15, 17& 18 (Morris)
+
+    The Harambe Chronicles (Wilson)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00037.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00037.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: " Right Bookshelf: 5th Shelf"
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Library of Travel:Central Asia- Illustrated (Edited by Bayard Taylor) (Scribners)
+
+    800 Leagues on the Amazon (Verne) (The Home Library) (A. L. Burt New York)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00038.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00038.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 5th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    World History
+
+    World History
+
+    My Larger Than Life Adventures VOL 1 - 7 (Richard Morganson)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00039.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00039.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Those Are My Eggs (L. Goosey)
+
+    Seven Blusterous Days (Gus T.)
+
+    North to the Orient (Anne Morrow Lindbergh) (Harcourt, Brace and Company)
+
+    We’ve Got It Covered (Patterson Montoya)
+
+    Bending The Rules (M. D. Intem)
+
+    Small But Mighty (T. Smith)
+
+    Treehouse Construction (Mills)
+
+    Classic American Theatrical Staging (A Myers)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00040.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00040.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    British Natural History
+
+    The Story of Civilization: Our Oriental Heritage (Will Durant)
+
+    The Library of Choice Literature Vol. I – IV (Gebbie & Co.)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00041.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00041.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: Tales of the Old West Vol. 1 – 6 (Durham)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00042.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00042.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Raining Cats and Dogs: Weather Oddities of the 18th Century (Prof. James Newton)
+
+    Teaching in the Field (Professor Bice)
+
+    Temple Crashing (Dr. Ladine)
+
+    Temple Tours: Hall of Anticipation (Paco)
+
+    Temple Tours: The Chamber of Purity (Paco)
+
+    Temple Tours: Gates of Doom (Paco)
+
+    Temple Tours: Hall of Temptation (Paco
+
+    Temple Tours: The Tunnel of Torment (Paco)
+
+    Temple Tours: Snake Temple (Paco)
+
+    Temple Tours: The Well of Souls (Paco)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00043.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00043.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: Artifact Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00044.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00044.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 5th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Ancient Architecture (Dr. A. Wynne)
+
+    Wonderful Music of South America (J. A. Ellis)
+
+    Wonderful Music of Eastern Europe (J. A. Ellis)
+
+    Wonderful Music of Atlantis (J. A. Ellis)
+
+    Wonderful Music of Asia (J. A. Ellis)
+
+    A Graphic Past 582 – 1885 (Tepper)
+
+    From North to South: Journey Between the Arctic Poles (Perreault)
+
+    Technically Speaking… (Prof Herpy)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00045.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00045.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Photos of Morocco (Luana Teixeira)
+
+    Photos of Mexico (Luana Teixeira)
+
+    Photos of Canada (Luana Teixeira)
+
+    Photos of Norway (Luana Teixeira)
+
+    Photos of Florida (Luana Teixeira)
+
+    Photos of Congo (Luana Teixeira)
+
+    Photos of the Tropics (Luana Teixeira)
+
+    Photos of Scotland (Luana Teixeira)
+
+    Photos of Persia (Luana Teixeira)
+
+    Photos of Egypt (Luana Teixeira)
+
+    Photos of Brazil (Luana Teixeira)
+
+    Photos of Nile (Luana Teixeira)
+
+    Photos of Peru (Luana Teixeira)
+
+    Photos of Mekong (Luana Teixeira)
+
+    Photos of Bakersfield (Luana Teixeira)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00046.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00046.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: S.E.A. Room Entrance
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00047.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00047.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: Funny Drawings Vol. I – IV (Runco)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.thumb.jpg"
   alt: Skipper Canteen Table
