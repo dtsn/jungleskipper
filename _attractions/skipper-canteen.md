@@ -126,7 +126,7 @@ gallery:
     Recipes of the Congo (B. Anna)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00002.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00002.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Bookshelf: Artifact Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
