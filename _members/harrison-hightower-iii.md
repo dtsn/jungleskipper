@@ -107,3 +107,9 @@ With the explosion on the top floors, the cables of the hotel elevator were also
 After Mr. Hightower’s mysterious disappearance the hotel was closed down. People in New York began calling it the “Tower of Terror”. For 13 years, no one dared to enter the hotel until the New York City Preservation Society, led by its president and founder, Miss Beatrice Rose Endicott, began a plan to offer tours of the building to the public. The Society hopes that through its efforts people will again appreciate the architectural beauty of the hotel and the cultural value of the treasures in Harrison Hightower’s collection.
 
 Still, dark rumors persist amongst the people of New York. Some say how they saw the “strange, green lights” on that fateful night, while others recall hearing “a terrible scream”. The passage of time seems only to have increased the mystery surrounding Hotel Hightower.
+
+Author of 
+
+Treasure of the Animal Kingdom (Harrison Hightower III)
+
+Mine! (Hightower)
