@@ -107,12 +107,10 @@ gallery:
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00001.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00001.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: |-
-    Right Bookshelf: 3rd Shelf
-
     Alligator or Crocodile?
 
     Baboons of Africa (Alfred Matthews)
