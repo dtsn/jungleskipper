@@ -24,3 +24,7 @@ title: Merriweather Adam Pleasure
 
 ---
 Author of Global Night Celebrations, as seen on the Skipper Canteen Bookshelf.
+
+## Sightings
+
+* American Prosperity Abroad - Skipper Canteen
