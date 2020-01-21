@@ -24,4 +24,4 @@ gallery:
 title: Lord Henry Mystic
 
 ---
-Author of ‘Primates as Shipmates’
+Author of ‘Primates as Shipmates’, 'A Manor of Fact'
