@@ -32,7 +32,8 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
             item = {
                 src: linkEl.getAttribute('href'),
                 w: parseInt(size[0], 10),
-                h: parseInt(size[1], 10)
+                h: parseInt(size[1], 10),
+                pid: figureEl.getAttribute('pid')
             };
 
 
@@ -145,6 +146,8 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
             // define gallery index (for URL)
             galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+            history: true,
+            galleryPIDs:true,
 
             getThumbBoundsFn: function(index) {
                 // See Options -> getThumbBoundsFn section of documentation for more info
@@ -198,10 +201,12 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
         galleryElements[i].onclick = onThumbnailsClick;
     }
 
-    document.querySelector(gallerySelector + ' a.additional').addEventListener('click', function (e) {
-        e.preventDefault;
-        openPhotoSwipe(1, galleryElements[0], true, true );
-    });
+    if (document.querySelector(gallerySelector + ' a.additional')) {
+        document.querySelector(gallerySelector + ' a.additional').addEventListener('click', function (e) {
+            e.preventDefault;
+            openPhotoSwipe(1, galleryElements[0], true, true );
+        });
+    }
 
     // Parse URL and open gallery if it contains #&pid=3&gid=1
     var hashData = photoswipeParseHash();
