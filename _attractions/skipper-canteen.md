@@ -804,118 +804,335 @@ gallery:
   description: Funny Drawings Vol. I – IV (Runco)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Ferocious Tiger Lillies (Pepper)
+
+    The Rule Book (Edited by DFE)
+
+    Dodging Local Authorities (Gruber)
+
+    Gorilla Theater (J. Thompson Gazelle)
+
+    South African Penguins (Lewis)
+
+    A Steady Stream (Prof. K. Rivers)
+
+    Rock or Stone (Col. Kathryn Pebble)
+
+    Is This Deadly? (Mort, Al)
+
+    Artist Biographies (Claude Reynole) (Houghton Mifflin & Co.)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00049.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00049.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Scheduling Your Expedition In 1 Simple Step (Franklyn)
+
+    Primates of the Caribbean (Coats)
+
+    Profiles of Legendary Pirates of the Caribbean (Gibson)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00050.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00050.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Pink Elephants and Other Rarities (Lopez)
+
+    Art of the Wild (S. K. E.)
+
+    Ghosts of New Orleans (Scholtz)
+
+    Living With The Lambs (Hogley)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00051.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00051.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Optimism in Exploration (Lemoine)
+
+    An Odd Set of Stories Vol. 1, 3, 5, 7 & 9 (Morris)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00052.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00052.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Running in Kenya (I. M. Fast)
+
+    Fishing in the Amazon (Oscar Fisher)
+
+    Swimming in the Amazon (Doug E. Paddle)
+
+    The Ten Minute Voyage (S. H. Tick)
+
+    Top Hats and Umbrellas (T. Sam)
+
+    The Missing Mask (T. Sam)
+
+    True Life Adventures (W. E. D.)
+
+    A Small World of Traditional Wardrobe (A. Davis)
+
+    Myths of the Supernatural (Gracey)
+
+    Castles of Magical Kingdoms (Professor Ryman)
+
+    Traditional Juju Charms (MacGuffin)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00053.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00053.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: Tribal Patterns of African Fabrics VOL. 1 – 6 (Armagost & James)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00054.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00054.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Great Engineers of the 19th Century (Katzenberger)
+
+    History of the English-Speaking Peoples
+
+    British Natural History
+    British Natural History
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00055.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00055.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Cruising in the East (Vagnini)
+
+    American Prosperity Abroad (Merriwether Pleasure)
+
+    Native Sports (C. Netcrash)
+
+    Rivers of Paris (N. O. Cruisa)
+
+    The Gray Area (A. Grayman)
+
+    Creating a Space for Adventure (Kwannet)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00056.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00056.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Havet’s Datter (Johanne Schjørring)
+
+    Gydens Pionerer I (Maxim Gorki)
+
+    Kyinnomakt (Geijerstam)
+
+    Discovery of the South Seas (S. Sio)
+
+    Elephant Graveyards (Dr D. B.Hughes)
+
+    Beautiful Birds of the Tropics (Rubenstein)
+
+    The Snake Book (K. Lively)
+
+    The River Puns Through (H. Yuck)
+
+    Two Bees or Not Two Bees (Bronski)
+
+    Traditional Native Holiday Décor (Prof. R. Blauerhimmel)
+
+    Tribal Trading (Caporaso)
+
+    The Panther Book (K. Lively)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00057.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00057.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    My Quest 23,000 Leagues Into The Pacific
+
+    An Adventure 6,000 Meters Above The World
+
+    My Journey 6,100 Meters in the Sky
+
+    Soaring 6,200 Meters Above Sea Level
+
+    A Breeze at 6,250 Meters
+
+    Blue Skies at 6,274 Meters
+
+    Ballooning at 6,283 Meters
+
+    At The Top Of The World At 6,287 Meters
+
+    Thoughts From The Heavens at 6,291 Meters
+
+    A Rocket to 6,891 Meters
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00058.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00058.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Book League: Poems of William Blake (Blake)
+
+    Book League: The Way of All Flesh (Butler)
+
+    Book League: Father and Sons (Turgenev)
+
+    Book League: The Golden Treasury (Palgrave)
+
+    Book League: Notre-Dame De Paris (Hugo)
+
+    Book League: The Love Books of Ovid (Ovid)
+
+    Book League: The Lives of Twelve Caesars (Suetonius)
+
+    Book League: The Complete Works of Horace (Horace)
+
+    Book League: Nana (Zola)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00059.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00059.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    A Manor of Fact (Mystic)
+
+    A Journey to the Stars (Kimball)
+
+    Birds of Song (Tiki Kiki Serbano)
+
+    A History of Magical Kingdoms (Magnum)
+
+    Bears of the Wild Country (Theodore Barry)
+
+    The Sun Above (Pro)
+
+    Charles Dickens X: Pickwick Papers Part Two
+
+    Charles Dickens V: Dombey and Son Part One
+
+    Charles Dickens VI: Dombey and Son Part Two
+
+    Charles Dickens XVIII: Nicholas Nickleby Part One
+
+    Charles Dickens XIX: Nicholas Nickleby Part Two
+
+    Charles Dickens XXI: David Copperfield Part Two
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00060.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00060.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Tramp Streamers of Africa (Goff)
+
+    Kipling: A Selection of His Stories and Poems (By John Beecroft) (Doubleday)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00061.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00061.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    The Majestic Sloth (S. Low Poke)
+
+    The Mighty Termite (Willow)
+
+    Shades of Khaki (B. Land)
+
+    Rockefeller: Hippo, Pet, Family (Albert Falls)
+
+    Another New Year (M. A. Pleasure)
+
+    The Eyes of Mara (Jones)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00062.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00062.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Exploring Great Waterfalls (Matthew Michaels)
+
+    Standing Upon Great Waterfalls (Matthew Michaels)
+
+    Surviving Falls From Great Waterfalls (Matthew Michaels)
+
+    The Works of Alexander Dumas 3: The Two Dianas (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 4: The Two Dianas (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 16: (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 17: The Regent’s Daughter (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 19: The Memoirs of a Physician (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 20: The Queen’s Necklace (P. F. Collier & Son)
+
+    The Works of Alexander Dumas 25: The Whites and The Blues (P. F. Collier & Son)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00063.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00063.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Sandy Claws: Indonesian Beach Tigers (K. P. Rafferty)
+
+    Culture of River Guide (Dr. D. Marley)
+
+    The Crocodile and the Candy Cane (A. Debont)
+
+    The Lost Temple of Shir Lee (Mo Williams)
+
+    Cheetahs Never Prosper (Hirano)
+
+    Friends for Dinner (T. Sam)
+
+    A Small Village With A Large Heart (Dr. Albert Falls)
+
+    In Search of the Elusive Yellow Snow Tiger (J. Frost)
+
+    Everest Exhibition: In Search of the Yeti (Harrison Hightower III)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00064.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00064.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Left Bookshelf
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00065.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00065.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: The Big Book of Fairy Tales I –VII (Friday)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00066.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00066.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Music To Smile To (Watanabe)
+
+    Renaissance in Italy: Volume Two (Symonds) (Modern Library)
+
+    Ocean Wonders (Damon)
+
+    A New Anthology of Modern Poetry
+
+    Our Primitive Contemporaries (Murdock) (Macmillan)
+
+    America In Midpassage Vol. I & II (Charles A. Beard & Mary R. Beard) (Macmillan)
+
+    Man of Mystery (Benjamin Van Beusekom)
+
+    Hats of the World (Allen)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.thumb.jpg"
   alt: Skipper Canteen Table
