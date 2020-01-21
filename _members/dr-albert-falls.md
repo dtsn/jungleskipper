@@ -11,6 +11,7 @@ attractions:
 parks:
 - Disneyland
 - Magic Kingdom
+tags: []
 gallery:
 - image: "/gallery/skipper-canteen-certificate-2.jpg"
   thumbnail: "/gallery/skipper-canteen-certificate.thumb.jpg"
@@ -35,9 +36,15 @@ Upon Dr Falls persumed death his granddaugter, Alberta, took over the running of
 
 Dr Albert Falls was awarded 3 S.E.A. certificates:
 
-- Certificate of Discovery, Ancient Cambodian Shrine
-- Certificate of Discover, Schweitzer Falls
-- Hightower Spirit of Adventure
+* Certificate of Discovery, Ancient Cambodian Shrine
+* Certificate of Discover, Schweitzer Falls
+* Hightower Spirit of Adventure
 
 ![Dr Albert Falls discovery the cambodian shrine](/gallery/members/albert-falls/albert-falls-cambodian-shrine.jpg)
 _Source: Dr Albert Falls discovery the cambodian shrine - Jungle Skipper_
+
+Sightings:
+
+Rockefeller: Hippo, Pet, Family - Skipper Canteen
+
+A Small Village With A Large Heart
