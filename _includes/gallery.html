@@ -5,6 +5,7 @@
 			<img src="{{ image.image }}" alt="{{ image.alt }}" />
 			<figcaption itemprop="caption description">
 				{{ image.alt }} <br/>
+				{{ image.description }}
 				<small>
 					Source -
 				{% if image.source_link %}
@@ -24,6 +25,7 @@
 			<img src="{{ image.thumbnail }}" itemprop="thumbnail" alt="{{ image.alt }}" />
 			<figcaption itemprop="caption description">
 				{{ image.alt }} <br/>
+				{{ image.description }}
 				<small>
 					Source -
 				{% if image.source_link %}
@@ -44,6 +46,7 @@
 	        <a href="{{ image.image }}" itemprop="contentUrl">
 	            <figcaption itemprop="caption description">
 				{{ image.alt }} <br/>
+				{{ image.description }}
 				<small>
 					Source -
 				{% if image.source_link %}

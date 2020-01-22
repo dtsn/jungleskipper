@@ -75,7 +75,6 @@ layout: default
 		{% assign currentPositionMinusThree = currentPosition | minus:'3' %}
 
 		{% if currentPosition > 2 and currentPosition <= memberLengthMinusTwo %}
-		1
 			{% for person in members limit:2 offset:currentPositionMinusThree %}
 				<li>
 					<div class="wrap">
