@@ -1135,235 +1135,424 @@ gallery:
     Hats of the World (Allen)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Sam IV Part 1 & 2 (Shake-Spear)
+
+    Sam V (Shake-Spear)
+
+    Sam VI Part 1, 2 & 3 (Shake-Spear)
+
+    Games of Far Away Lands (Ahem)
+
+    The Spin (Reifsynder)
+
+    Heroes Through History (Spiegel)
+
+    Performing on the Great Wall (Dr. David Fisher)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00068.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00068.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Days in Old Spain (Gertrude Bone) (Drawings by Muirhead Bone) (Macmillan)
+
+    The Dessert Island (Chef J. Wysa)
+
+    Underwater Basket Weaving for Beginners (Burress)
+
+    Knocking Around (Frank H. Shaw) (Casseu)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00069.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00069.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    The Spectator Vol II, III, VII, VI & I
+
+    Swiss Family Robinson (Routledge)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00070.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00070.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Teaching from the Heart of the Jungle (Prof. Reinard)
+
+    Chomp! (Allison Gator)
+
+    The Monkey and the Coconut (A. Debont)
+
+    A Resourceful Human (J. P. Lopez)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00071.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00071.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Bayard Taylor’s Works: India China and Japan (Putnam)
+
+    Finding The Worth While In Europe (Osborne) (W. Bride)
+
+    Aimée Villard (Silvestre)
+
+    Aziyadé (Pierre Loti)
+
+    Bayard Taylor’s Works: Saracens (Putnam)
+
+    Views A-Foot (Taylor)
+
+    Charles Dickens XVII: Great Expectations
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00072.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00072.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Right Bookshelf
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00073.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00073.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 6th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00074.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00074.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Crocodiles of the Nile (Lamothe)
+
+    Hot Peppers of Peru ( P. Lily)
+
+    The Lion and the Lolli (A. Debont)
+
+    The Greedy Gorilla (Col. Samuel Taylor III)
+
+    Seeking Knowledge (Mara)
+
+    Poetry of the Parrots (Heather Inkwell)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00075.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00075.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 5th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Hamlet: A Lion’s Tale (Shakes Speare)
+
+    Babbling Brooks (Kaminsky)
+
+    Lively Duck Footed Natives of The Jungle (D. Murphy)
+
+    They’ve Gone Bananas (Yuen)
+
+    Fix Anything With A Wrench (Donald Archibald)
+
+    Rongo’s Rite (Tiki Kiki Serbano)
+
+    In Pursuit of Shells (Roy Ster)
+
+    The Crocodile Book (K. Lively)
+
+    Hunger of Hippos (Prof. R. Wilson)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00076.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00076.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: Top Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    The Art of Travel Planning Vol 1 – 9 (T. Smith)
+
+    Droolius Caesar (Shake-Spear)
+
+    This Goodly Frame The Earth (Tiffany) (Houghton Mifflin & Co.)
+
+    Kennebec Cradle of Americans : The Rivers of America (Robert R Tristram Coffin)(Farrar & Rinehart)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00077.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00077.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 4th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    Rare Artifacts of Africa (Probus)
+
+    Rare Artifacts of Polynesia (Probus)
+
+    Rare Artifacts of Asia (Probus)
+
+    Rare Artifacts of Central America (Probus)
+
+    Rare Artifacts of Australia (Probus)
+
+    Rare Artifacts of Europe (Probus)
+
+    Rare Artifacts of North America (Probus)
+
+    Mekong and Youkong (Spieler)
+
+    Poisonous Fish and How I Learned That They Were
+
+    Poisonous (R. Siam)
+
+    Mysteries of Mystic Manor (Yuen)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00078.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00078.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Center Shelf
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00079.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00079.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    The Congo Queen (M. Pittman)
+
+    Native Orange Birds of the Southeastern United States (Dr. Sid Truss)
+
+    Songs of the Tiki Birds (Prof. Boag)
+
+    Crooning Flowers (Sherman and Sherman)
+
+    Bathing With Elephants (Bertha Trunkstien)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00080.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00080.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Right Bookshelf: 2nd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |
+    The Country of Rivers (Grayman)
+
+    The Overwhelming Dodo Population (Dr. Francis X. Tinct)
+
+    The Fountain of Youth (Diego)
+
+    Treasures From The Manor (Henry Mystic)
+
+    The Unknown History of Navies (Jack Francis Murphy)
+
+    Chinese Alligators (Ho)
+
+    Beneath The Island (S. Sio)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00081.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00081.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Bookshelf: Artifact Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00082.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00082.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Center Shelf: 5th Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Encyclopedia Explorare Brazil/Canyon (Flower Street Publishing)
+
+    Encyclopedia Explorare Cat/Cruise (Flower Street Publishing)
+
+    Encyclopedia Explorare Danger/Dogs (Flower Street Publishing)
+
+    Encyclopedia Explorare Dragon/East Africa (Flower Street Publishing)
+
+    Encyclopedia Explorare East Asia/Elephant (Flower Street Publishing)
+
+    Encyclopedia Explorare Excursion/Fauna (Flower Street Publishing)
+
+    Encyclopedia Explorare Fern/Flora (Flower Street Publishing)
+
+    Encyclopedia Explorare Food Chain/Fungi (Flower Street Publishing)
+
+    Encyclopedia Explorare Gazelle/Gibbon (Flower Street Publishing)
+
+    Encyclopedia Explorare Giraffe/Gorilla (Flower Street Publishing)
+
+    Encyclopedia Explorare Gray Parrot/Herbivore (Flower Street Publishing)
+
+    Encyclopedia Explorare Howler Monkey/ (Flower Street Publishing)
+
+    Encyclopedia Explorare Ice/Iguana (Flower Street Publishing)
+
+    Encyclopedia Explorare Insect/Invertebrate (Flower Street Publishing)
+
+    Encyclopedia Explorare Irrawaddy/Jaguar (Flower Street Publishing)
+
+    Encyclopedia Explorare Joke/Jungle (Flower Street Publishing)
+
+    Encyclopedia Explorare Kakapo/Kangaroo (Flower Street Publishing)
+
+    Encyclopedia Explorare Kip/Kungaloosh (Flower Street Publishing)
+
+    Encyclopedia Explorare Ladybug/Lava (Flower Street Publishing)
+
+    Encyclopedia Explorare Leach/Lemur (Flower Street Publishing)
+
+    Encyclopedia Explorare Lion/Lizard (Flower Street Publishing)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00083.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00083.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: 'Left Bookshelf: 3rd Shelf'
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
-  description: ''
+  description: |-
+    Tours Around the World (Alexander Williams)
+
+    Banana Trade (S. Sam)
+
+    What’s In A Name (T. Sam)
+
+    Charting Course (Oceaneer)
+
+    Birds of East (Watanabe)
+
+    The History of Pith Helmets (Hattie)
+
+    The Green Gorilla (Verde)
+
+    Ancient Crocodiles (Grant)
+
+    Caring for Baboons (Sergio F.)
+
+    The Gorilla Book (K. Lively)
+
+    The Baboon and the Banana (A. DeBont)
+
+    Primate As Shipmates (Henry Mystic)
+
+    Crock Wrastlin’ (R. Osawld)
+
+    The Baboon Book (K. Lively)
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00001.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00001.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00002.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00002.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00003.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00003.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00004.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00004.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00005.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00005.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00006.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00006.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00007.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00007.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00008.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00008.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00009.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00009.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00010.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00010.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River - Overview
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00011.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00011.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00012.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00012.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00013.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00013.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River - S.E.A. Emblem
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00014.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00014.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00015.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00015.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River - description
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00016.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00016.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00017.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00017.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00018.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00018.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00019.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00019.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00020.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00020.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00021.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00021.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00022.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00022.thumb.jpg"
-  alt: Skipper Canteen Table
+  alt: Legendary Flying Beasts of the Mekong River
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
