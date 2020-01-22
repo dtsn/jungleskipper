@@ -36,3 +36,4 @@ Captain Mary is one of the few S.E.A. characters who have more than one attracti
 
 * Features on the Map of Legendary Beasts - Skipper Canteen
 * Author of "Parrots as Pets" - Skipper Canteen
+* Charting Course - Skipper Canteen
