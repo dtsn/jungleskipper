@@ -181,7 +181,15 @@ layout: default
 						</tr>
 						<tr>
 							<th>Attractions</th>
-							<td>{{ page.attractions | join: ", " }}</td>
+							<td>
+								{% for attraction in site.attractions %}
+									{% for linkedAttract in page.attractions %}
+										{% if attraction.path == linkedAttract %}
+											<a href="{{ attraction.id}}">{{ attraction.title }}</a>
+										{% endif %}
+									{% endfor %}
+								{% endfor %}
+							</td>
 						</tr>
 						<tr>
 							<th>Parks</th>

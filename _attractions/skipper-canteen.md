@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Skipper Canteen
 members:
 - _members/dr-albert-falls.md

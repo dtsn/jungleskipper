@@ -41,7 +41,7 @@
 
 	{% if include.gallery.size > 4 %}
 		<a class="additional" href="#">View {{ include.gallery | size | minus: 4 }} more ...</a>
-		{% for image in include.gallery.pictures offset:4 %}
+		{% for image in include.gallery offset:4 %}
 		<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" style="display: none;" pid="{{ image.alt | slugify }}-c{{ forloop.index }}">
 	        <a href="{{ image.image }}" itemprop="contentUrl">
 	            <figcaption itemprop="caption description">
