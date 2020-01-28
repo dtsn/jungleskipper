@@ -198,6 +198,7 @@
 	.stats {
 		border: 11px solid #DCD6B1;
 		padding: 50px 20px 20px 20px;
+		background: #FFF;
 		border-image: url("/assets/images/members/stats-border.png") 11 repeat;
 		position: realtive;
 
@@ -207,6 +208,7 @@
 
 		th {
 			font-family: 'Merriweather', serif;
+			vertical-align: top;
 		}
 
 		&::before {

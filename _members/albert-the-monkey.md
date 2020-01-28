@@ -27,13 +27,13 @@ gallery:
     Manor
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/albert-the-monkey-bangal-bbq.jpg"
-  thumbnail: "/gallery/albert-the-monkey-bangal-bbq copy.thumb.jpg"
+- image: "/gallery/members/albert-the-monkey/albert-the-monkey-bangal-bbq.jpg"
+  thumbnail: "/gallery/members/albert-the-monkey/albert-the-monkey-bangal-bbq.thumb.jpg"
   alt: Albert the Monkey on board the Jungle Skipper Boat
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-- image: "/gallery/albert-the-monkey-skipper-canteen-1.jpg"
-  thumbnail: "/gallery/albert-the-monkey-skipper-canteen.thumb.jpeg"
+- image: "/gallery/members/albert-the-monkey/albert-the-monkey-skipper-canteen.jpg"
+  thumbnail: "/gallery/members/albert-the-monkey/albert-the-monkey-skipper-canteen.thumb.jpeg"
   alt: Albert the Monkey's book in the Skipper Canteen
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
