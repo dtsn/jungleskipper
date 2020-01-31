@@ -1,4 +1,19 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: Thumbnail
