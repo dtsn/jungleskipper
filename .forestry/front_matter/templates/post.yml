@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image-thumb
   label: image-thumb
+pages:
+- _posts/tropical-hideaway.md
