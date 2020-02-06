@@ -1,3 +1,5 @@
+var PhotoSwipeGallery = null;
+
 var initPhotoSwipeFromDOM = function(gallerySelector) {
 
     // parse slide data (url, title, size ...) from DOM elements 
@@ -204,7 +206,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
     if (document.querySelector(gallerySelector + ' a.additional')) {
         document.querySelector(gallerySelector + ' a.additional').addEventListener('click', function (e) {
             e.preventDefault;
-            openPhotoSwipe(1, galleryElements[0], true, true );
+            openPhotoSwipe(4, galleryElements[0], false, false );
         });
     }
 
