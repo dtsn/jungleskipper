@@ -45,7 +45,7 @@ gallery:
 title: Albert the Monkey
 
 ---
-Albert the Monkey is [Lord Henery Mystic's]({% link _members/lord-henry-mystic.md %} faithful companion. On a trip to Papua New Guinea, Lord Mystic rescued Albert from a giant spider and named him after his uncle Albert.
+Albert the Monkey is [Lord Henery Mystic's]({% link _members/lord-henry-mystic.md %}) faithful companion. On a trip to Papua New Guinea, Lord Mystic rescued Albert from a giant spider and named him after his uncle Albert.
 
 Albert the Monkey is the central character to Mystic Manor, opening the enchanted Balinese Music Box which brings objects to life.
 

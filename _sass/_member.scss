@@ -1,41 +1,33 @@
-.member-list {
-	background: #171F31 url('/assets/images/wallpaper.png');
-	.member {
+.collection {
+
+	h2 {
+		@include h1;
+	}
+
+	.portrait {
 		.wrap {
-			position: relative;
-			height: 210px;
-			margin: 9px;
-		
-			&::before, &::after {
-				content: '';
-				position: absolute;
-			}
+			// single
+			@include media-breakpoint-up(xs) { @include frame(400px); }
+			// double
+			@include media-breakpoint-up(sm) { @include frame(265px); }
+			// triple
+			@include media-breakpoint-up(md) { @include frame(235px); }
+			// four
+			@include media-breakpoint-up(lg) { @include frame(235px); }
+			// four
+			@include media-breakpoint-up(xl) { @include frame(315px); }
 
-			&::before {
-				background: linear-gradient(to bottom, #DBD5B1, #9F9763);
-				top: -7px;
-				bottom: -7px;
-				left: -7px;
-				right: -7px;
-			}
+			margin-bottom: 30px !important;
+		}
 
-			&::after {
-				background: linear-gradient(to top, #DBD5B1, #9F9763);
-				top: -3px;
-				bottom: -3px;
-				left: -3px;
-				right: -3px;
+		h3 {
+			a {
+				color: $gold;
 			}
+		}
 
-			img {
-				height: 204px;
-				width: 100%;
-				object-fit: cover;
-				margin: 0px auto;
-				display: block;
-				position: relative;
-				z-index: 1;
-			}
+		p {
+			line-height: 20px;
 		}
 	}
 }
@@ -43,14 +35,13 @@
 .member-page {
 	background: url('/assets/images/creature.png') no-repeat right 80%;
 	.wallpaper {
-		background: url('/assets/images/map-edge.png') no-repeat bottom left;
+		background: url(/assets/images/map-border.png) repeat-x bottom center;
 		height: 350px;
 		ul.portraits {
 			list-style: none;
 			margin: 0;
-			background: #171F31 url('/assets/images/wallpaper.png');
-			height: 343px;
-			padding: 50px 0 90px;
+			height: 230px;
+			padding: 20px 0 60px;
 			@include media-breakpoint-up(sm) { display: flex; }
 			flex-wrap: nowrap;
 			justify-content: center;
@@ -60,6 +51,14 @@
 
 				flex: 0 100%;
 				padding: 0 2%;
+
+				&:first-child {
+					padding-left: 0;
+				}
+
+				&:last-child {
+					padding-right: 0;
+				}
 
 				&.hidden {
 					visibility: hidden;
@@ -106,24 +105,7 @@
 						z-index: 1;
 					}
 
-					.shade {
-						position: absolute;
-						z-index: 2;
-						background: #000;
-						opacity: 0.6;
-						top: -7px; left: -7px; bottom: -7px; right: -7px;
-						cursor: pointer;
-
-						&:hover {
-							visibility: hidden;
-						}
-					}
-				}
-
-				&:hover {
-					.shade {
-						visibility: hidden;
-					}
+					
 				}
 
 				&.selected {

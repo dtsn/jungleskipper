@@ -73,7 +73,7 @@ gallery:
   source_link: ''
 
 ---
-[Lord Henry Mystic]({% post_url _members/lord-henry-mystic.md %}) built his club to resemble 5 countries that he admired—China, India, Russia, Morocco and Egypt. As a member of the renowned Society of Explorers and Adventurers, Lord Mystic travelled the world in search of uncharted lands and extraordinary artefacts. He built Explorer's Club Restaurant to welcome fellow club members and to pay tribute to some of the society’s favourite places.
+[Lord Henry Mystic]({% link _members/lord-henry-mystic.md %}) built his club to resemble 5 countries that he admired—China, India, Russia, Morocco and Egypt. As a member of the renowned Society of Explorers and Adventurers, Lord Mystic travelled the world in search of uncharted lands and extraordinary artefacts. He built Explorer's Club Restaurant to welcome fellow club members and to pay tribute to some of the society’s favourite places.
 
 It features the masks from Walt Disney World's Adventurers Club, which were relocated there after the club was closed. This actually sparked the fan-made link between The Adventurers Club and S.E.A. which was later confirmed by a letter in Disney's Aulani in Hawaii. You can see the masks in the hallway as you enter the restaurant.
 

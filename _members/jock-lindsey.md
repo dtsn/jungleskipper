@@ -4,7 +4,7 @@ name: Jock Lindsey
 membership: Confirmed
 paddle: 1882, Elaho River
 fez: true
-portrait: "/gallery/members/jason-chandler/portrait.jpg"
+portrait: "/gallery/members/jock-lindsey/jock-lindsey.jpg"
 attractions:
 - Jock Lindsey's Hangar Bar
 parks:
