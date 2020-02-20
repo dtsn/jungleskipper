@@ -2,6 +2,8 @@
 title: Barnabas T Bullion
 tags:
 - barnabas-t-bullion
+- big-thunder-mountain
+- tropical-hideaway
 name: Barnabas T. Bullion
 membership: Confirmed
 portrait: "/gallery/members/barnabas-t-bullion/portrait.jpg"
@@ -11,7 +13,7 @@ parks:
 - Magic Kingdom
 - Disneyland
 paddle: ''
-fez: false
+fez: ''
 gallery:
 - image: "/gallery/paddle-b-t-bullion.jpg"
   thumbnail: "/gallery/paddle-b-t-bullion copy.thumb.jpg"
@@ -20,7 +22,7 @@ gallery:
   source_link: ''
 
 ---
-The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/members/jason-chandler).
+The founder and president of Big Thunder Mining Company, Barnabas T. Bullion if a powerful mining magnate from the East Coast of the US. He is currently trying to extract gold and minerals from Big Thunder Mountain with the help of a machine he purchased from [Jason Chandler](/sea/members/jason-chandler).
 
 Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thunder Mountain in the Magic Kingdom. At the time of the launch the [Disney Blog](https://disneyparks.disney.go.com/blog/2012/11/walt-disney-imagineers-unveil-the-backstory-of-barnabas-t-bullion-prioprietor-and-president-of-big-thunder-mining-company/) released the following bio:
 
@@ -28,7 +30,7 @@ Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thu
 
 ## References
 
-At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member [Jason Chandler](/members/jason-chandler) identify him as an additional member:
+At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member [Jason Chandler](/sea/members/jason-chandler) identify him as an additional member:
 
 > Dear Barney,
 >

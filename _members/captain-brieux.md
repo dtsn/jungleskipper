@@ -18,4 +18,4 @@ Captain Brieux is a character in the 1974 film, The Island at the Top of World. 
 
 ![Legendary Flying Beasts of the Mekong River and the surrounding territories](/gallery/members/captain-brieux/legendary-flying-beasts.jpg)
 
-Captain Brieux is referenced as the second author of the map "Legendary Flying Beasts of the Mekong River and the surrounding territories" (the first being the honourable [J. Chandler]({% link _members/jason-chandler.md %}).
+Captain Brieux is referenced as the second author of the map "Legendary Flying Beasts of the Mekong River and the surrounding territories" (the first being the honourable [J. Chandler](/sea/members/jason-chandler).

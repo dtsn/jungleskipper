@@ -10,6 +10,9 @@
 
 	figure.first {
 		margin: 0 0 10px 0;
+		img {
+			max-height: 400px;
+		}
 	}
 
 	figure:not(.first), .additional {

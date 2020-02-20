@@ -59,12 +59,12 @@ More importantly, the Tropical Hideaway features 8 expedition paddles left behin
 * [J. Chandler]({% link _members/jason-chandler.md %}), Elaho River, 1882
 * [H. Mystic]({% link _members/lord-henry-mystic.md %}), Ganges River, 1874
 * S. Shio, Amazon River, 1910
-* [H. Hightower]({% link _members/harrison-hightower.md %}), Yangtze River, 1872
+* [H. Hightower]({% link _members/harrison-hightower-iii.md %}), Yangtze River, 1872
 * [Dr. J. L. Baterista]({% link _members/dr-j-l-baterista.md %}), Congo River, 1906
 * [Dr. A. Falls]({% link _members/dr-albert-falls.md %}), Mbei River, 1903
 * [Prof. R. Blauerhimmel]({% link _members/prof-r-blauerhimmel.md %}), Ucayali River, 1904
-* [M. Oceaneer]({% link _members/mary-oceaneer.md %}), Orinoco River, 1899
+* [M. Oceaneer]({% link _members/captain-mary-oceaneer.md %}), Orinoco River, 1899
 * [M.A. Pleasure]({% link _members/merriweather-adam-pleasure.md %}), Kissimmee River, 1900
-* [Chef Tandaji]({% link _members/chef-tanji.md %}), Irawaddy River, 1913
+* [Chef Tandaji]({% link _members/chef-tandaji.md %}), Irawaddy River, 1913
 
 _We use these paddles as one of the ways we confirm membership of S.E.A. You can find our more about what makes a member 'confirmed' over in [help]({% link help/membership.md %}).
