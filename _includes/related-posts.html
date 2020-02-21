@@ -11,21 +11,11 @@
 		</div>
 		<ul class="row">
 
-		{% assign pageTags = [] %}{% if page.tags %}{% assign pageTags = page.tags %}{% endif %}
-		{% assign pageAttractions = [] %}{% if page.attractions %}{% assign pageAttractions = page.attractions %}{% endif %}
-		{% assign pageMembers = [] %}
-		{% assign pageParks = [] %}{% if page.parks %}{% assign pageParks = page.parks %}{% endif %}
-
-		{{ page | inspect }}
-
-		{{ pageTags | inspect }}
-
-		{{ pageMembers | inspect }}
-
-		{{ pageAttractions | inspect }}
-
-		{{ pageParks | inspect }}
-
+		{% assign pageTags = [] %}{% if page.tags.first %}{% assign pageTags = page.tags %}{% endif %}
+		{% assign pageAttractions = [] %}{% if page.attractions.first %}{% assign pageAttractions = page.attractions %}{% endif %}
+		{% assign pageMembers = [] %}{% if page.members.first %}{% assign pageMembers = page.members %}{% endif %}
+		{% assign pageParks = [] %}{% if page.parks.first %}{% assign pageParks = page.parks %}{% endif %}
+		{% assign pageTagList = pageTags | concat: pageAttractions | concat: pageMembers | concat: pageParks %}
 
 		{% for post in site.documents %}
 			{% assign sameTagCount = 0 %}
@@ -35,9 +25,8 @@
 			{% assign postMembers = [] %}{% if post.members %}{% assign postMembers = post.members %}{% endif %}
 			{% assign postParks = [] %}{% if post.parks %}{% assign postParks = post.parks %}{% endif %}
 
-			{% assign postTageList = [] %}
-			{% assign pageTagList = [] %}
-
+			{% assign postTageList =  postTags | concat: postAttractions | concat: postMembers | concat postParks %}
+			
 			{% if post.hidden == true %}
 				{% break %}
 			{% endif %}
