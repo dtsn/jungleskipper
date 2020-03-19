@@ -1,5 +1,83 @@
 ---
-layout: collection
-collection: members
+layout: default
 ---
 
+{% assign members = site.members %}
+
+<div class="container collection">
+	<div class="row">
+		<div class="col-12">
+			<h2 data-help="Members which have an explicit link to S.E.A.">Confirmed Members</h2>
+		</div>
+	</div>
+	<div class="row">
+		{% for member in members %}
+			{% unless member.membership == 'Confirmed' %}
+				{% continue %}
+			{% endunless %}
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+				<div class="wrap">
+					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
+				</div>
+				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<p>
+					{% if member.description %}
+						{{ member.description }}
+					{% else %}
+						{{ member.content | markdownify | truncatewords: 40 }}
+					{% endif %}
+				</p>
+			</div>
+		{% endfor %}
+	</div>
+	<div class="row">
+		<div class="col-12">
+			<h2 data-help="Characters which could be members but have no confirmed linked">Unconfirmed Members</h2>
+		</div>
+	</div>
+	<div class="row">
+		{% for member in members %}
+			{% unless member.membership == 'Unconfirmed' %}
+				{% continue %}
+			{% endunless %}
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+				<div class="wrap">
+					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
+				</div>
+				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<p>
+					{% if member.description %}
+						{{ member.description }}
+					{% else %}
+						{{ member.content | markdownify | truncatewords: 40 }}
+					{% endif %}
+				</p>
+			</div>
+		{% endfor %}
+	</div>
+	<div class="row">
+		<div class="col-12">
+			<h2 data-help="These are members which found in Fortress Explorations">Honory Members</h2>
+		</div>
+	</div>
+	<div class="row">
+		{% for member in members %}
+			{% unless member.membership == 'Honory' %}
+				{% continue %}
+			{% endunless %}
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+				<div class="wrap">
+					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
+				</div>
+				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<p>
+					{% if member.description %}
+						{{ member.description }}
+					{% else %}
+						{{ member.content | markdownify | truncatewords: 40 }}
+					{% endif %}
+				</p>
+			</div>
+		{% endfor %}
+	</div>
+</div>
