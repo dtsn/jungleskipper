@@ -19,7 +19,7 @@ gallery:
   source_link: ''
 paddle: Kissimmee River, 1900
 fez: false
-portrait: ''
+portrait: '/assets/images/no-portrait.png'
 title: Merriweather Adam Pleasure
 
 ---

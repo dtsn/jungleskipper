@@ -4,7 +4,7 @@ name: Albert the Monkey
 membership: Confirmed
 paddle: ''
 fez: true
-portrait: "/gallery/albert-the-monkey.jpg"
+portrait: "/gallery/members/albert-the-monkey/albert-the-monkey.jpg"
 attractions:
 - _attractions/jungle-cruise.md
 - _attractions/mystic-manor.md

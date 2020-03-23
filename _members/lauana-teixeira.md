@@ -4,7 +4,7 @@ name: Luana Teixeira
 membership: Confirmed
 paddle: ''
 fez: true
-portrait: ''
+portrait: '/assets/images/no-portrait.png'
 attractions:
 - _attractions/skipper-canteen.md
 parks:
