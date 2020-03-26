@@ -1,6 +1,5 @@
 ---
 title: Captain Mary Oceaneer
-name: Captain Mary Oceaneer
 membership: Confirmed
 paddle: 1899 Orinoco River in South America
 fez: true
@@ -9,7 +8,7 @@ attractions:
 - _attractions/skipper-canteen.md
 - _attractions/mystic-manor.md
 - _attractions/oceaneer-labs.md
-- _attractions/miss-adventurer-falls.md
+- _attractions/miss-adventure-falls.md
 parks:
 - Magic Kingdom
 - Hong Kong Disneyland
