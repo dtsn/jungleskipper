@@ -30,7 +30,7 @@ Barnabas T. Bullion was introduced as part of the 2013 re-imagination of Big Thu
 
 ## References
 
-At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. member [Jason Chandler](/sea/members/jason-chandler) identify him as an additional member:
+In the Magic Kingdom's version of Big Thunder Mountain letters between Bullion and fellow S.E.A. member [Jason Chandler](/sea/members/jason-chandler) identify him as an additional member:
 
 > Dear Barney,
 >
@@ -45,13 +45,8 @@ At the Magic Kingdom letters in the queue between Bullion and fellow S.E.A. memb
 > Founding Member The Society of Explorers and Adventurers
 
 ## Disney Kingdoms
-
 In 2015 Disney in collaboration with Marvel released a set of comics based upon existing ride attractions. This included “Big Thunder Mountain Railroad” which deviates from the story listed in the ride. In the comic books, Jason Chandler's is an employee of Bullion, who with Bullions daughter, encounter trouble within the mine. There is no mention of S.E.A. in any of the Disney Kingdom comics (as of 2019).
 
-![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabas-t-bullion.png)
-_Source: Copyright Marvel/Disney, Disney Kingdoms_
+{% include image.html src="/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabas-t-bullion.png" description="The portrayal of Barnabas T. Bullion in the Disney Kingdoms series, copyright Marvel/Disney, Disney Kingdoms" %}
 
-![The portrayal of Barnabas T. Bullion in the Disney Kingdoms series](/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabus-t-bullion.jpeg)
-_Source: Copyright Marvel/Disney, Disney Kingdoms_
-
-The Disney Kingdoms book also reveals the original artist for the Barnabus T. Bullion portrait shown above is[ Roi Horn](https://www.roihorn.com).
+{% include image.html src="/gallery/members/barnabas-t-bullion/disney-kingdoms-barnabus-t-bullion.jpeg" description="The portrayal of Barnabas T. Bullion in the Disney Kingdoms series, copyright Marvel/Disney, Disney Kingdoms" %}

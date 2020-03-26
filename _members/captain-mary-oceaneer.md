@@ -20,20 +20,19 @@ gallery:
   alt: Captain Mary Oceaneer's Paddle at Disneyland's Tropical Hideaway
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-- image: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.jpeg"
-  thumbnail: "/gallery/fez-merriweather-adam-pleasure-captain-mary-oceaneer.thumb.jpeg"
+- image: "/gallery/attractions/skipper-canteen/fez-merriweather-adam-pleasure-captain-mary-oceaneer.jpeg"
+  thumbnail: "/gallery/attractions/skipper-canteen/fez-merriweather-adam-pleasure-captain-mary-oceaneer.thumb.jpeg"
   alt: Captain Mary Oceaneer Fez (right hand side)
   source: Jungle Skipper
   source_link: ''
 tags: []
 
 ---
-Captain Mary Oceaneer is an extraordinary treasure hunter and diver. We first learn of Captain Mary from Mystic Manor where she is featured in two portraits - the first is of Captain Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait.
+The pirate loving, collector and protector of deep sea antiquies, Captain Mary Oceaneer, was first introduced to use through the [Mystic Manor](/sea/attractions/mystic-manor) where she is featured in two pictures - the first is of Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait. Her character was then developed further by Joe Lanisero (imagineer for Mystic Manor) for his next project the Disney Cruise Line. Joe created the Oceaneer labs and expanding on the backstory of Mary Oceaneer. It introduced us to her pet parrot Salty who followed her on adventures discovering antiqiues. A few of these antiqiues ended up at Castaway Cay.
 
-Captain Mary is one of the few S.E.A. characters who have more than one attraction. She is the back story to Oceaneer Lab on Disney Cruise Line, Miss Adventure Falls at Disney's Typhoon Lagoon.
+Captain Mary is one of the few S.E.A. characters to have more than one attraction. She was featured in the first S.E.A. based attraction in the U.S., Miss Adventurer Falls and Disney's Typhoon Lagoon. The backstory is of Captain Mary Oceaneer and another parrot, Salty, who was diving for treasure when a typhoon hit and shipwrecked them on an island. Manwhile, Duncan has chosen to roost in the exposed cabin of the ship, looking for treasure by spyglass.
 
 ## Sightings
-
-* Features on the Map of Legendary Beasts - Skipper Canteen
-* Author of "Parrots as Pets" - Skipper Canteen
-* Charting Course - Skipper Canteen
+* Features on the Map of Legendary Beasts - [Skipper Canteen](/sea/attractions/skipper-canteen)
+* Author of "Parrots as Pets" - [Skipper Canteen](/sea/attractions/skipper-canteen)
+* Charting Course - [Skipper Canteen](/sea/attractions/skipper-canteen)

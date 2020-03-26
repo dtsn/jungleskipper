@@ -184,9 +184,24 @@
 		@include media-breakpoint-up(md) { margin-top: 118px; }
 		@include media-breakpoint-up(lg) { margin-top: 198px; }
 
-		th {
-			font-family: 'Merriweather', serif;
-			vertical-align: top;
+		table {
+			table-layout: fixed;
+			border-collapse: collapse;
+			width: 100%;
+			th {
+				font-family: 'Merriweather', serif;
+				vertical-align: top;
+				width: 45%;
+			}
+			th,td {
+				padding: 5px;
+			}
+		}
+
+		@include media-breakpoint-down(md) { 
+			table, tr, th, td {
+				display: block;
+			}
 		}
 
 		&::before {

@@ -5,7 +5,7 @@ tags:
 name: Camellia Falco
 membership: Confirmed
 paddle: Zambezi River, 1831
-fez: false
+fez:
 attractions:
 - _attractions/tropical-hideaway.md
 - _attractions/soarin-fantastic-flight.md
@@ -22,9 +22,9 @@ gallery:
 ---
 Camellia Falco was the director of the Museum of Fantastic Flight, taking over the directorship from her father Cellino Falco in 1850. Camellia was a passionate flyer and developer a flying machine called the Dream Flyer. She became the first women to be inducted into the Society of Explorers and Adventurers in 1851.
 
-![Camellia Being Inducted to S.E.A.](/gallery/members/camellia-falco/sea-induction.jpg)
+{% capture description %}Copyright Disney, <a href="https://www.tokyodisneyresort.jp/treasure/soaring/museum/special.html" target="_blank">Tokyo Disney Resort Information</a>{% endcapture %}
 
-_Source: Copyright Disney, <a href="https://www.tokyodisneyresort.jp/treasure/soaring/museum/special.html" target="_blank">Tokyo Disney Resort Information</a>_
+{% include image.html src="/gallery/members/camellia-falco/sea-induction.jpg" description=description %}
 
 ## References
 

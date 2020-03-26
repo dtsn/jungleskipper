@@ -6,16 +6,11 @@ paddle: ''
 fez: true
 portrait: "/gallery/members/albert-the-monkey/albert-the-monkey.jpg"
 attractions:
-- _attractions/jungle-cruise.md
 - _attractions/mystic-manor.md
+- _attractions/skipper-canteen.md
 parks:
 - Hong Kong Disneyland
 gallery:
-- image: "/gallery/members/albert-the-monkey/albert-and-lord-mystic.jpg"
-  thumbnail: "/gallery/members/albert-the-monkey/albert-and-lord-mystic.thumb.jpg"
-  alt: Albert hugging Lord Mystic from Mystic Manor queue line
-  source: Jungle Skipper
-  source_link: ''
 - image: "/gallery/members/albert-the-monkey/albert-and-lord-mystic-2.jpg"
   thumbnail: "/gallery/members/albert-the-monkey/albert-and-lord-mystic-2.thumb.jpg"
   alt: Lord Henry Mystic and Albert from Mystic Manor
@@ -33,12 +28,12 @@ gallery:
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
 - image: "/gallery/members/albert-the-monkey/albert-the-monkey-skipper-canteen.jpg"
-  thumbnail: "/gallery/members/albert-the-monkey/albert-the-monkey-skipper-canteen.thumb.jpeg"
+  thumbnail: "/gallery/members/albert-the-monkey/albert-the-monkey-skipper-canteen.thumb.jpg"
   alt: Albert the Monkey's book in the Skipper Canteen
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-- image: "/gallery/fez-henry-mystic-albert-the-monkey.jpg"
-  thumbnail: "/gallery/fez-henry-mystic-albert-the-monkey.thumb.jpeg"
+- image: "/gallery/attractions/skipper-canteen/fez-henry-mystic-albert-the-monkey.jpg"
+  thumbnail: "/gallery/attractions/skipper-canteen/fez-henry-mystic-albert-the-monkey.thumb.jpg"
   alt: Fez Albert the Monkey (right hand side)
   source: Jungle Skipper
   source_link: ''
@@ -51,9 +46,7 @@ Albert the Monkey is the central character to Mystic Manor, opening the enchante
 
 Originally both Lord Mystic and Albert were going to be more realistic characters but were cartoonified to be able to express more emotion in the limited time available.
 
-![](/gallery/members/albert-the-monkey/albert-the-monley-original.jpg "Albert i")
-
-_Original concept sketch of Albert in his more ‘natural’ look. Source:_ [_Chris Turner Concept Art_](http://www.christurnerart.com/concept-art-1) _Copyright Disney._
+{% include image.html src="/gallery/members/albert-the-monkey/albert-the-monley-original.jpg" description="Original concept sketch of Albert in his more ‘natural’ look. Source: Chris Turner Concept Art, Copyright Disney." %}
 
 ## Sightings
 
