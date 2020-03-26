@@ -15,6 +15,11 @@ parks:
 - Hong Kong Disneyland
 - Disney Cruise Line
 gallery:
+- image: "/gallery/members/mary-oceaneer/under-the-sea-quarterly.jpg"
+  thumbnail: "/gallery/members/mary-oceaneer/under-the-sea-quarterly.thumb.jpg"
+  alt: Under the S.E.A. Quarterly
+  source: Disney Wiki
+  source_link: https://disney.fandom.com/wiki/Mary_Oceaneer
 - image: "/gallery/paddle-m-oceaneer.jpg"
   thumbnail: "/gallery/paddle-m-oceaneer copy.thumb.jpg"
   alt: Captain Mary Oceaneer's Paddle at Disneyland's Tropical Hideaway
