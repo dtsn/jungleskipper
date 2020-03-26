@@ -21,12 +21,12 @@ gallery:
   source_link: https://disney.fandom.com/wiki/Mary_Oceaneer
 - image: "/gallery/members/mary-oceaneer/mary-castaway-cay.jpg"
   thumbnail: "/gallery/members/mary-oceaneer/mary-castaway-cay.thumb.jpg"
-  alt:
+  alt: ''
   source: Disney Wiki
   source_link: https://disney.fandom.com/wiki/Mary_Oceaneer
 - image: "/gallery/members/mary-oceaneer/mary-dive.jpg"
   thumbnail: "/gallery/members/mary-oceaneer/mary-dive.thumb.jpg"
-  alt:
+  alt: ''
   source: Disney Wiki
   source_link: https://disney.fandom.com/wiki/Mary_Oceaneer
 - image: "/gallery/members/mary-oceaneer/mary-maiden-voyage.jpg"
@@ -50,13 +50,15 @@ gallery:
   source: Jungle Skipper
   source_link: ''
 tags: []
+name: ''
 
 ---
-The pirate loving, collector and protector of deep sea antiquies, Captain Mary Oceaneer, was first introduced to use through the [Mystic Manor](/sea/attractions/mystic-manor) where she is featured in two pictures - the first is of Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait. Her character was then developed further by Joe Lanisero (imagineer for Mystic Manor) for his next project the Disney Cruise Line. Joe created the Oceaneer labs and expanding on the backstory of Mary Oceaneer. It introduced us to her pet parrot Salty who followed her on adventures discovering antiqiues. A few of these antiqiues ended up at Castaway Cay.
+The pirate loving, collector and protector of deep-sea antiquities, Captain Mary Oceaneer, was first introduced to use through the [Mystic Manor](/sea/attractions/mystic-manor) where she is featured in two pictures - the first is of Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait. Her character was then developed further by Joe Lanisero (Imagineer for Mystic Manor) for his next project the Disney Cruise Line. Joe created the Oceaneer labs and expanding on the backstory of Mary Oceaneer. It introduced us to her pet parrot Salty who followed her on adventures discovering antiquities. A few of these antiquities ended up at Castaway Cay.
 
-Captain Mary is one of the few S.E.A. characters to have more than one attraction. She was featured in the first S.E.A. based attraction in the U.S., Miss Adventurer Falls and Disney's Typhoon Lagoon. The backstory is of Captain Mary Oceaneer and another parrot, Salty, who was diving for treasure when a typhoon hit and shipwrecked them on an island. Manwhile, Duncan has chosen to roost in the exposed cabin of the ship, looking for treasure by spyglass.
+Captain Mary is one of the few S.E.A. characters to have more than one attraction. She was featured in the first S.E.A. based attraction in the U.S., Miss Adventurer Falls and Disney's Typhoon Lagoon. The backstory is of Captain Mary Oceaneer and another parrot, Salty, who was diving for treasure when a typhoon hit and shipwrecked them on an island. Meanwhile, Duncan has chosen to roost in the exposed cabin of the ship, looking for treasure by spyglass.
 
 ## Sightings
+
 * Features on the Map of Legendary Beasts - [Skipper Canteen](/sea/attractions/skipper-canteen)
 * Author of "Parrots as Pets" - [Skipper Canteen](/sea/attractions/skipper-canteen)
 * Charting Course - [Skipper Canteen](/sea/attractions/skipper-canteen)
