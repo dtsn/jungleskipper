@@ -4,7 +4,7 @@ layout: default
 
 {% assign members = site.members %}
 
-<div class="container collection">
+<div class="container collection-list">
 	<div class="row">
 		<div class="col-12">
 			<h2 data-help="Members which have an explicit link to S.E.A.">Confirmed Members</h2>
@@ -15,16 +15,16 @@ layout: default
 			{% unless member.membership == 'Confirmed' %}
 				{% continue %}
 			{% endunless %}
-			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 member">
 				<div class="wrap">
 					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
 				</div>
-				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<h3><a href="{{ member.url }}">{% if member.name %}{{ member.name }}{% else %}{{ member.title }}{% endif %}</a></h3>
 				<p>
 					{% if member.description %}
 						{{ member.description }}
 					{% else %}
-						{{ member.content | markdownify | truncatewords: 30 }}
+						{{ member.excerpt | markdownify | remove: '<p>' | remove: '</p>' | truncatewords: 30 }}
 					{% endif %}
 				</p>
 			</div>
@@ -40,16 +40,16 @@ layout: default
 			{% unless member.membership == 'Unconfirmed' %}
 				{% continue %}
 			{% endunless %}
-			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 member">
 				<div class="wrap">
 					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
 				</div>
-				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<h3><a href="{{ member.url }}">{% if member.name %}{{ member.name }}{% else %}{{ member.title }}{% endif %}</a></h3>
 				<p>
 					{% if member.description %}
 						{{ member.description }}
 					{% else %}
-						{{ member.content | markdownify | truncatewords: 30 }}
+						{{ member.content | markdownify | remove: '<p>' | remove: '</p>' | truncatewords: 30 }}
 					{% endif %}
 				</p>
 			</div>
@@ -65,16 +65,16 @@ layout: default
 			{% unless member.membership == 'Honory' %}
 				{% continue %}
 			{% endunless %}
-			<div class="col-12 col-sm-6 col-md-4 col-lg-3 portrait">
+			<div class="col-12 col-sm-6 col-md-4 col-lg-3 member">
 				<div class="wrap">
 					<a href="{{ member.url }}" class="image"><img src="{{member.portrait}}" alt="{{ member.name }}" /></a>
 				</div>
-				<h3><a href="{{ member.url }}">{{ member.name }}</a></h3>
+				<h3><a href="{{ member.url }}">{% if member.name %}{{ member.name }}{% else %}{{ member.title }}{% endif %}</a></h3>
 				<p>
 					{% if member.description %}
 						{{ member.description }}
 					{% else %}
-						{{ member.content | markdownify | truncatewords: 30 }}
+						{{ member.content | markdownify | remove: '<p>' | remove: '</p>' | truncatewords: 30 }}
 					{% endif %}
 				</p>
 			</div>

@@ -2,73 +2,73 @@
 title: AbracadaBar
 members: []
 gallery:
-- image: "/gallery/attractions/abracadabarabracadabar-wall-2.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-wall-2.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-wall-2.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-wall-2.thumb.jpg"
   alt: AbracadaBar Wall 2
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-wall-1.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-wall-1.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-wall-1.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-wall-1.thumb.jpg"
   alt: AbracadaBar Wall 1
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-shelf.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-shelf.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-shelf.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-shelf.thumb.jpg"
   alt: AbracadaBar Shelf
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-sea-fez.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-sea-fez.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-sea-fez.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-sea-fez.thumb.jpg"
   alt: AbracadaBar S.E.A. Fez
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-sea-fez-wide.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-sea-fez-wide.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-sea-fez-wide.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-sea-fez-wide.thumb.jpg"
   alt: AbracadaBar S.E.A. Fez (wide shot)
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-photo-2.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-photo-2.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-photo-2.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-photo-2.thumb.jpg"
   alt: 'Photo found on the wall of AbracadaBar '
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-photo-1.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-photo-1.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-photo-1.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-photo-1.thumb.jpg"
   alt: 'Photo found on the wall of AbracadaBar '
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-missing-magicians.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-missing-magicians.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-missing-magicians.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-missing-magicians.thumb.jpg"
   alt: AbracadaBar Missing Magicians Newspaper
   source: ''
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-mickey-card.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-mickey-card.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-mickey-card.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-mickey-card.thumb.jpg"
   alt: AbracadaBar Hidden Mickey
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-card-photo.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-card-photo.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-card-photo.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-card-photo.thumb.jpg"
   alt: AbracadaBar picture of cards
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-bookcase-2.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-bookcase-2.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-bookcase-2.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-bookcase-2.thumb.jpg"
   alt: AbracadaBar Bookcase
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-bookcase-1.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-bookcase-1.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-bookcase-1.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-bookcase-1.thumb.jpg"
   alt: AbracadaBar Bookcase
   source: Jungle Skipper
   source_link: ''
-- image: "/gallery/attractions/abracadabarabracadabar-bar-closed.jpg"
-  thumbnail: "/gallery/attractions/abracadabarabracadabar-bar-closed.thumb.jpg"
+- image: "/gallery/attractions/abracadabar/abracadabar-bar-closed.jpg"
+  thumbnail: "/gallery/attractions/abracadabar/abracadabar-bar-closed.thumb.jpg"
   alt: AbracadaBar bar
   source: Jungle Skipper
   source_link: ''
-image: "/gallery/attractions/abracadabarabracadabar.jpg"
-thumbnail: "/gallery/attractions/abracadabarabracadabar.thumb.jpg"
+image: "/gallery/attractions/abracadabar/abracadabar.jpg"
+thumbnail: "/gallery/attractions/abracadabar/abracadabar.thumb.jpg"
 
 ---
 AbracadaBar is a magician themed cocktail bar on Disney's Boardwalk in Walt Disney World. Here's how the [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2016/07/all-in-the-details-first-look-inside-abracadabar-at-disneys-boardwalk/) sums up the backstory of the bar:
@@ -77,4 +77,4 @@ AbracadaBar is a magician themed cocktail bar on Disney's Boardwalk in Walt Disn
 
 In one of the bookcases there exists a S.E.A. fez rumoured to belong to one of the Magicians.
 
-![](/gallery/attractions/abracadabarabracadabar-sea-fez.jpg)
+![](/gallery/attractions/abracadabar/abracadabar-sea-fez.jpg)

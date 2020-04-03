@@ -12,6 +12,7 @@ collections:
   members:
     title: SEA Members
     output: true
+    sort_by: membership
     permalink: "/sea/members/:name"
   attractions:
     title: SEA Attractions

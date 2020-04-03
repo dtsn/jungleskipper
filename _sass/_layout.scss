@@ -25,6 +25,9 @@ body {
 
 footer {
 	background: url(/assets/images/header-background.png) top center;
+	border-image: url(/assets/images/map-border.png) 9 repeat;
+	border-top: 9px solid;
+
 	@include media-breakpoint-down(xs) {
 		p {
 			margin-bottom: 20px;
@@ -40,7 +43,10 @@ footer {
 	.sub-footer {
 		border-top: 1px solid #D8D8D8;
 		padding: 10px 0;
-		line-height: 49px;
+
+		.col-sm-9 {
+			padding: 13px 0;
+		}
 
 		a {
 			font-weight: bold;
@@ -53,6 +59,10 @@ footer {
 		@include media-breakpoint-down(xs) {
 			margin-top: 0px;
 			text-align: center !important;
+
+			.right, .col-sm-9 {
+				text-align: center;
+			}
 		}
 	}
 }

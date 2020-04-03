@@ -1,6 +1,18 @@
 ---
 title: Tropical Hideaway
-members: []
+members:
+- _members/camellia-falco.md
+- _members/barnabas-t-bullion.md
+- _members/jason-chandler.md
+- _members/lord-henry-mystic.md
+- _members/harrison-hightower-iii.md
+- _members/dr-j-l-baterista.md
+- _members/dr-albert-falls.md
+- _members/prof-r-blauerhimmel.md
+- _members/captain-mary-oceaneer.md
+- _members/merriweather-adam-pleasure.md
+- _members/chef-tandaji.md
+opening: December 21, 2018
 gallery:
 - image: "/gallery/attractions/tropical-hideaway/tropical-hideaway-bird.jpg"
   thumbnail: "/gallery/attractions/tropical-hideaway/tropical-hideaway-bird.thumb.jpg"

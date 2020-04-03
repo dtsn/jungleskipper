@@ -2,8 +2,6 @@
 title: Ruby Swift
 name: Ruby Swift
 membership: Unconfirmed
-paddle: ''
-fez: false
 portrait: "/gallery/members/ruby-swift/portrait.png"
 attractions:
 - _attractions/jungle-cruise.md

@@ -1,7 +1,7 @@
 ---
 name: Jonas Brisbane
 membership: Unconfirmed
-portrait: "/gallery/halloween-2014-hong-kong-disneyland.jpg"
+portrait: "/gallery/members/jonas-brisbane/portrait.jpg"
 parks:
 - Hong Kong Disneyland
 paddle: ''

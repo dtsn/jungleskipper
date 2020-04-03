@@ -1,5 +1,6 @@
 ---
 title: Hangar Bar
+opening: 22nd Sep 2015
 members:
 - _members/jock-lindsey.md
 gallery:
@@ -48,7 +49,27 @@ gallery:
   alt: Hangar Bar Bar
   source: Jungle Skipper
   source_link: ''
+- image: "/gallery/attractions/hangar-bar/concept-1.jpg"
+  thumbnail: "/gallery/attractions/hangar-bar/concept-1.thumb.jpg"
+  alt: Hangar Bar concept art
+  source: Disney Parks Blog
+  source_link: 'https://disneyparks.disney.go.com/blog/2015/05/jock-lindseys-hangar-bar-to-open-this-fall-at-downtown-disney-at-walt-disney-worldresort/'
+- image: "/gallery/attractions/hangar-bar/concept-2.jpg"
+  thumbnail: "/gallery/attractions/hangar-bar/concept-2.thumb.jpg"
+  alt: Hangar Bar concept art
+  source: Disney Parks Blog
+  source_link: 'https://disneyparks.disney.go.com/blog/2015/05/jock-lindseys-hangar-bar-to-open-this-fall-at-downtown-disney-at-walt-disney-worldresort/'
 image: "/gallery/attractions/hangar-bar/hangar-bar.jpg"
 thumbnail: "/gallery/attractions/hangar-bar/hangar-bar.thumb.jpg"
-
 ---
+
+[Jock Lindsey’s](/sea/members/jock-lindsey) Hangar Bar opened in Disney Springs at Walt Disney World on the 22nd of September 2015. Its a bar based on Indiana Jones pilot Jock Lindsey. 
+
+>The tale goes, Jock made a home at this waterfront property in the 1940s after discovering this charming little town while flying Indiana Jones over the Sunshine State in search of the elusive Fountain of Youth in 1938. As a member of the Society of Explorers and Adventurers, Jock often welcomed his globetrotting friends to his hangar for a drink and fun times.  
+>  
+>Now Jock and Indy may be gone, but his legendary adventures live on at this exotic watering hole. And that’s what gives the place its charm – and a creative menu of adventurous tastes.
+
+Source [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2015/08/more-delicious-details-for-jock-lindseys-hangar-bar-opening-this-fall-at-downtowndisney/)
+
+
+

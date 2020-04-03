@@ -50,8 +50,6 @@ gallery:
   source: Jungle Skipper
   source_link: ''
 tags: []
-name: ''
-
 ---
 The pirate loving, collector and protector of deep-sea antiquities, Captain Mary Oceaneer, was first introduced to use through the [Mystic Manor](/sea/attractions/mystic-manor) where she is featured in two pictures - the first is of Mary navigating stormy seas and the second is the 1899 S.E.A. group portrait. Her character was then developed further by Joe Lanisero (Imagineer for Mystic Manor) for his next project the Disney Cruise Line. Joe created the Oceaneer labs and expanding on the backstory of Mary Oceaneer. It introduced us to her pet parrot Salty who followed her on adventures discovering antiquities. A few of these antiquities ended up at Castaway Cay.
 

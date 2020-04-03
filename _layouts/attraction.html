@@ -1,8 +1,18 @@
 ---
 layout: default
 ---
-
-<div class="attraction-page">
+<div class="collection-item attraction">
+	<section class="wallpaper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="wrap">
+						<img src="{{ page.image }}" alt="{{ page.title }}" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<article class="container">
 		<div class="row">
 			<div class="col-md-8 col-sm-12">
@@ -16,13 +26,25 @@ layout: default
 			<div class="col-12 col-md-4">
 				<div class="stats">
 					<table>
+						{% if page.opening %}
 						<tr>
-							<th>Members</th>
+							<th>Opening Date</th>
+							<td>{{ page.opening }}</td>
+						</tr>
+						{% endif %}
+						{% if page.closing %}
+						<tr>
+							<th>Closing Date</th>
+							<td>{{ page.closing }}</td>
+						</tr>
+						{% endif %}
+						<tr>
+							<th>Related Members</th>
 							<td>
 								{% for member in site.members %}
 									{% for linkedMember in page.members %}
 										{% if member.path == linkedMember %}
-											<a href="{{ member.id}}">{{ member.title }}</a>
+											<a href="{{ member.id}}">{{ member.title }}</a><br/>
 										{% endif %}
 									{% endfor %}
 								{% endfor %}
@@ -35,9 +57,8 @@ layout: default
 	</article>
 
 	<!-- Related posts -->
-
+	{% include related-posts.html %}
 </div>
-
 
 
 

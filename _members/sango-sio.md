@@ -1,25 +1,27 @@
 ---
 tags: []
 gallery:
-- image: "/gallery/paddle-s-shio.jpg"
-  thumbnail: "/gallery/paddle-s-shio copy.thumb-1.jpg"
+- image: "/gallery/attractions/tropical-hideaway/paddle-s-shio.jpg"
+  thumbnail: "/gallery/attractions/tropical-hideaway/paddle-s-shio.thumb.jpg"
   alt: Sango Sio's Paddle at Disneyland's Tropical Hideaway
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-- image: "/gallery/fez-chef-tandaji-sango-sio.jpg"
-  thumbnail: "/gallery/fez-chef-tandaji-sango-sio.thumb.jpeg"
+- image: "/gallery/attractions/skipper-canteen/fez-chef-tandaji-sango-sio.jpg"
+  thumbnail: "/gallery/attractions/skipper-canteen/fez-chef-tandaji-sango-sio.thumb.jpg"
   source: Jungle Skipper
   source_link: ''
   alt: Fez Sango Sio (right hand side)
-name: ''
+title: Sango Sio
 membership: Confirmed
 paddle: Amazon River, 1910
-fez: true
-portrait: ''
+fez: Yes
+portrait: '/assets/images/no-portrait.png'
 attractions:
 - _attractions/skipper-canteen.md
 - _attractions/tropical-hideaway.md
-parks: []
-title: Sango Sio
-
+parks:
+- Magic Kingdom
+- Disneyland
 ---
+
+We do not know anything about Sango Sio. He appears to be a senior member of the socitey with both a Fez in the [Skipper Canteen](/sea/attractions/skipper-canteen) and a paddle in [Tropical Hideaway](/sea/attractions/tropical-hideaway).
