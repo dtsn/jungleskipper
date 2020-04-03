@@ -5,7 +5,7 @@ tags:
 name: Camellia Falco
 membership: Confirmed
 paddle: Zambezi River, 1831
-fez:
+fez: false
 attractions:
 - _attractions/tropical-hideaway.md
 - _attractions/soarin-fantastic-flight.md
@@ -26,6 +26,6 @@ Camellia Falco was the director of the Museum of Fantastic Flight, taking over t
 
 {% include image.html src="/gallery/members/camellia-falco/sea-induction.jpg" description=description %}
 
-## References
+## Sightings
 
-Camellia is introduced via Soaring: Fantastic Flight. The show building is themed to the museum of Fantastic Flight which is currently celebrating the centennial anniversary since Falco was born. Within this exhibition there is a painting which shows Camellia being inducted into S.E.A.
+Camellia is introduced via [Soaring: Fantastic Flight](/sea/attractions/sorin-fantastic-flight). The show building is themed to the museum of Fantastic Flight which is currently celebrating the centennial anniversary since Falco was born. Within this exhibition, there is a painting which shows Camellia being inducted into S.E.A.
