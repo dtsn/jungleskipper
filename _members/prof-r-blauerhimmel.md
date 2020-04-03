@@ -1,8 +1,8 @@
 ---
-title: 'Professor R Blauerhimmel'
+title: Prof R Blauerhimmel
 membership: Confirmed
 paddle: Ucayali River, 1904
-portrait: '/gallery/members/prof-r-blauerhimmel/portrait.jpg'
+portrait: "/gallery/members/prof-r-blauerhimmel/portrait.jpg"
 attractions:
 - _attractions/bengal-bbq.md
 - _attractions/tropical-hideaway.md
@@ -25,11 +25,13 @@ gallery:
   alt: Prof R Blauerhimmerl on the shelf at Disneyland's Bengal BBQ
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-title: Prof R Blauerhimmel
+tags: []
+fez: false
 
 ---
 Not much is known about Professor R Blauerhimmel. His portrait appears in a number of places and was first seen in the queue line of [Mystic Manor](/sea/attractions/mystic-manor) where it appears twice. Once in the 1899 group S.E.A. portrait and the second in his own dedicated portrait (where we see his name).
 
 ## Sightings
-- Authored the book "Traditional Native Holiday Décor" at the [Skipper Canteen](/sea/attractions/skipper-canteen)
-- Portrait is on the shelf inside the [Bengal BBQ](/sea/attractions/bengal-bbq), Disneyland.
+
+* Authored the book "Traditional Native Holiday Décor" at the [Skipper Canteen](/sea/attractions/skipper-canteen)
+* The portrait is on the shelf inside the [Bengal BBQ](/sea/attractions/bengal-bbq), Disneyland.
