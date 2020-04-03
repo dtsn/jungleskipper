@@ -25,4 +25,4 @@ gallery:
   source_link: ''
 
 ---
-Not much is known about Dr J L Baterista apart from he bares a striking resemblance to the Imagineer Joe Lanisero. The name 'baterista' means drummer in portuguease.
+Not much is known about Dr J L Baterista apart from he bears a striking resemblance to the Imagineer Joe Lanisero. The name 'baterista' means drummer in Portuguese.
