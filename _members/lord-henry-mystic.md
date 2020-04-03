@@ -1,8 +1,8 @@
 ---
-title: "Lord Henry Mystic"
+title: Lord Henry Mystic
 membership: Confirmed
 fez: true
-paddle: "Ganges River, 1874"
+paddle: Ganges River, 1874
 portrait: "/gallery/members/lord-henry-mystic/portrait.jpg"
 attractions:
 - _attractions/tropical-hideaway.md
@@ -53,34 +53,37 @@ gallery:
   source_link: ''
 - image: "/gallery/members/lord-henry-mystic/lexposition-de-paris-1900.jpg"
   thumbnail: "/gallery/members/lord-henry-mystic/lexposition-de-paris-1900.thumb.jpg"
-  alt: Henry Mystic presenting the Mystic Magneto Eletrical Carriage at the 1900 L'expoistion De Paris
-  source:
+  alt: Henry Mystic presenting the Mystic Magneto Eletrical Carriage at the 1900 L'expoistion
+    De Paris
+  source: ''
   source_link: ''
 - image: "/gallery/members/lord-henry-mystic/lord-mystic-with-albert.jpg"
   thumbnail: "/gallery/members/lord-henry-mystic/lord-mystic-with-albert.thumb.jpg"
   alt: Portrait of Henry Mystic with Albert at the entrance of Mystic Manor
-  source:
+  source: ''
   source_link: ''
 - image: "/gallery/members/lord-henry-mystic/society-of-explorers-and-adventurers-1899.jpg"
   thumbnail: "/gallery/members/lord-henry-mystic/society-of-explorers-and-adventurers-1899.thumb.jpg"
   alt: 1899 Portrait of the members of S.E.A.
-  source:
+  source: ''
   source_link: ''
 - image: "/gallery/members/lord-henry-mystic/mystic-magneto-electric-arriage.jpg"
   thumbnail: "/gallery/members/lord-henry-mystic/mystic-magneto-electric-arriage.thumb.jpg"
   alt: The Mystic Magneto Eletical Carriage
   source: Jungle Skipper
   source_link: ''
+tags: []
+
 ---
+Lord Henry Mystic is an English aristocrat who is a massive collector of antiquities and treasures from around the world. He rescued inseparable companion [Albert the monkey](/sea/members/albert-the-monkey) from a giant spider while on an expedition in New Guinea. He has now settled down in the New Guinea jungle, founding Mystic point in 1896.
 
-Lord Henry Mystic is an English aristocrate who is a massive collector of antiquities and treasures from around the world. He rescued inseperable companion [Albert the monkey](/sea/members/albert-the-monkey) from a giant spider while on an expidition in New Guinea. He has now settled down in the New Guinea jungle, founding Mystic point in 1896.
-
-Mystic point houses his enourmous collections from his many voyagers in it's two buildings, [Mystic Manor](/sea/attractions/mystic-manor) and [The Explorers Club Resturant](/sea/attractions/the-explorers-club-resturant). He has recently opened up his home, Mystic Manor, to showcase his latest find a Balinese music box. He is also an inventor, presenting his latest invention the Mystic Magneto Electrical Carriage at the 1900 L'expoistion De Paris. Which he utilises to transport guests around his museam.
+Mystic point houses his enormous collections from his many voyagers in its two buildings, [Mystic Manor](/sea/attractions/mystic-manor) and [The Explorers Club Restaurant](/sea/attractions/the-explorers-club-resturant). He has recently opened up his home, Mystic Manor, to showcase his latest find a Balinese music box. He is also an inventor, presenting his latest invention the Mystic Magneto Electrical Carriage at the 1900 L'expoistion De Paris. Which he utilises to transport guests around his museum.
 
 Lord Henry is one of the foundering members of the 1899 chapter of S.E.A. and a portrait of the group is hung within his house.
 
 ## Sightings
-- He is the author of three books at the [Skipper Canteen](/sea/attractions/skipper-canteen) ‘Primates as Shipmates’, 'A Manor of Fact' and 'Treasures From The Manor'.
-- He's fez cap (plain red) is presented next to Albert's at the [Skipper Canteen](/sea/attractions/skipper-canteen).
-- He has an expedition paddle at the [Topical Hideaway](/sea/attractions/tropical-hideaway) from his trip down the Ganges River in 1874.
-- He featured in "The Daily Gnus" from the Adventure Trading Company game at Disneyland. He is a noted recipinet of the Elephant Juju, given for "assembling the largest collection of lost goods of the last century".
+
+* He is the author of three books at the [Skipper Canteen](/sea/attractions/skipper-canteen) ‘Primates as Shipmates’, 'A Manor of Fact' and 'Treasures From The Manor'.
+* He's fez cap (plain red) is presented next to Albert's at the [Skipper Canteen](/sea/attractions/skipper-canteen).
+* He has an expedition paddle at the [Topical Hideaway](/sea/attractions/tropical-hideaway) from his trip down the Ganges River in 1874.
+* He featured in "The Daily Gnus" from the Adventure Trading Company game at Disneyland. He is a noted recipient of the Elephant Juju, given for "assembling the largest collection of lost goods of the last century".
