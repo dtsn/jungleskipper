@@ -82,15 +82,15 @@ gallery:
 ---
 We know quite a lot about Harrison Hightower III, he was one of the first characters and is portrayed as a corrupt member of S.E.A. who reached an untimely end.
 
-Born in 1835 in New York Harrison Hightower is the owner of Hotel Hightower, which was inherited from his father. He was an avid collector of antiquities which he often gathered in questionable ways. This eventually lead to his downfall as he mysteriously disappeared on December 31st, 1899 after acquiring the Shiriki Utundu idol.
+Born in 1835 in New York Harrison Hightower is the owner of Hotel Hightower, which was inherited from his father. He was an avid collector of antiquities which he often gathered in questionable ways. This eventually leads to his downfall as he mysteriously disappeared on December 31st, 1899 after acquiring the Shiriki Utundu idol.
 
 The rest of this article is from the press release for Tokyo DisneySea's Tower of Terror.
 
 In 1899, Hightower embarked on the most hazardous expedition of his life, heading up the Congo River and into the dangerous parts of uncharted Africa. Though his intention was to collect the art and craftwork of the region, Hightower soon found himself the object of attacks by hostile local tribes, and many members of his team lost their lives.
 
-Then one day, Hightower’s severely reduced party was chased into the area of the dreaded Mtundu tribe. Though greatly feared by neighboring tribes, the Mtundu welcomed Harrison Hightower’s ill-fated expedition quite cordially, and actually invited the adventurers to eat with them.
+Then one day, Hightower’s severely reduced party was chased into the area of the dreaded Mtundu tribe. Though greatly feared by neighbouring tribes, the Mtundu welcomed Harrison Hightower’s ill-fated expedition quite cordially and actually invited the adventurers to eat with them.
 
-During the meal, Hightower learned of the existence of the tribe’s protective idol. The statue was called “**_Shiriki Utundu_**” and Harrison Hightower wanted it for his own. He tried to persuade the village headman to sell him the idol, but was refused, which only served to increase his desire. He then told his men to prepare for battle, and grabbing Shiriki Utundu from its altar, stole the idol and escaped the village.
+During the meal, Hightower learned of the existence of the tribe’s protective idol. The statue was called “**_Shiriki Utundu_**” and Harrison Hightower wanted it for his own. He tried to persuade the village headman to sell him the idol but was refused, which only served to increase his desire. He then told his men to prepare for battle, and grabbing Shiriki Utundu from its altar, stole the idol and escaped the village.
 
 The expedition was nervous and afraid that the many warriors of the Mtundu tribe would pursue and attack them, but strangely they only stood by and watched expressionlessly as Hightower took their idol. Some thought they may even have been slightly smiling…
 
@@ -104,12 +104,14 @@ However, the most astonishing thing of all was that Harrison Hightower III, who 
 
 With the explosion on the top floors, the cables of the hotel elevator were also cut, and Harrison Hightower III was heard screaming in fright. The only thing that was found in the remains of the shattered elevator, though, was Shiriki Utundu. Harrison Hightower was gone. Had Hightower somehow escaped from the elevator unharmed, or was he not even riding it when it crashed? Could he have been transported away somewhere? No one knows the truth.
 
-After Mr. Hightower’s mysterious disappearance the hotel was closed down. People in New York began calling it the “Tower of Terror”. For 13 years, no one dared to enter the hotel until the New York City Preservation Society, led by its president and founder, Miss Beatrice Rose Endicott, began a plan to offer tours of the building to the public. The Society hopes that through its efforts people will again appreciate the architectural beauty of the hotel and the cultural value of the treasures in Harrison Hightower’s collection.
+After Mr Hightower’s mysterious disappearance the hotel was closed down. People in New York began calling it the “Tower of Terror”. For 13 years, no one dared to enter the hotel until the New York City Preservation Society, led by its president and founder, Miss Beatrice Rose Endicott, began a plan to offer tours of the building to the public. The Society hopes that through its efforts people will again appreciate the architectural beauty of the hotel and the cultural value of the treasures in Harrison Hightower’s collection.
 
-Still, dark rumors persist amongst the people of New York. Some say how they saw the “strange, green lights” on that fateful night, while others recall hearing “a terrible scream”. The passage of time seems only to have increased the mystery surrounding Hotel Hightower.
+Still, dark rumours persist amongst the people of New York. Some say how they saw the “strange, green lights” on that fateful night, while others recall hearing “a terrible scream”. The passage of time seems only to have increased the mystery surrounding Hotel Hightower.
 
-Author of 
+Author of
 
 Treasure of the Animal Kingdom (Harrison Hightower III)
 
 Mine! (Hightower)
+
+Everest Exhibition: In Search of the Yeti
