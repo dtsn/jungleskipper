@@ -57,12 +57,12 @@ layout: default
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<h2 data-help="These are members which found in Fortress Explorations">Honory Members</h2>
+			<h2 data-help="These are members which found in Fortress Explorations">Honorary Members</h2>
 		</div>
 	</div>
 	<div class="row">
 		{% for member in members %}
-			{% unless member.membership == 'Honory' %}
+			{% unless member.membership == 'Honorary' %}
 				{% continue %}
 			{% endunless %}
 			<div class="col-12 col-sm-6 col-md-4 col-lg-3 member">
