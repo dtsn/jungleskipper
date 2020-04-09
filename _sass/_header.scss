@@ -28,6 +28,10 @@ header {
 			right: 0;
 			background: url('/assets/images/sea-medal.png');
 			background-size: 141px 141px;
+
+			@include media-breakpoint-down(xs) {
+				display: none;
+			}
 		}
 	}
 
