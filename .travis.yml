@@ -10,4 +10,4 @@ branches:
   only:
     - feature/members
 rvm:
- - 2.4
+ - 2.5.3
