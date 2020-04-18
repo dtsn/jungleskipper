@@ -74,3 +74,6 @@ exclude: [vendor]
 algolia:
   application_id: '4SMCUD3ZF5'
   index_name: jungleskipper
+  extensions_to_index:
+  - md
+  - markdown

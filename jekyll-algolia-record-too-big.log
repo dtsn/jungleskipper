@@ -1,0 +1,996 @@
+{
+  "title": "Skipper Canteen",
+  "members": [
+    "_members/dr-albert-falls.md"
+  ],
+  "gallery": [
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-boat.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-boat.thumb.jpg",
+      "alt": "Jungle Cruise boat",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-2.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-2.thumb.jpg",
+      "alt": "Bookshelf 2",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-3.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-3.thumb.jpg",
+      "alt": "Bookshelf 3",
+      "source": "",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-4.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-4.thumb.jpg",
+      "alt": "Bookshelf 4",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-5.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-5.thumb.jpg",
+      "alt": "Bookshelf 5",
+      "source": "",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-6.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-6.thumb.jpg",
+      "alt": "Bookshelf 6",
+      "source": "",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf.thumb.jpg",
+      "alt": "Bookshelf 1",
+      "source": "",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-butterflies.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-butterflies.thumb.jpg",
+      "alt": "Butterflies",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate-2.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate-2.thumb.jpg",
+      "alt": "Certificate of Official Discover - Schweitzer Falls - Dr. Albert Falls",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate-3.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate-3.thumb.jpg",
+      "alt": "The Hightower Spirit of Adventure Award - Dr. Albert Falls",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-certificate.thumb.jpg",
+      "alt": "Certificate of Official Discover - Ancient Cambodian Shrine - Dr. Albert Falls",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-menu.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-menu.thumb.jpg",
+      "alt": "Menu",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-message-board.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-message-board.thumb.jpg",
+      "alt": "Message board",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-ornaments.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-ornaments.thumb.jpg",
+      "alt": "Ornaments",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-portrait.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-portrait.thumb.jpg",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "alt": "Portrait of the Cambodian shrine",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-sea-logo.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-sea-logo.thumb.jpg",
+      "alt": "S.E.A. Logo",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-table.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-table.thumb.jpg",
+      "alt": "Skipper Canteen Table",
+      "source": "Jungle Skipper",
+      "source_link": "",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00001.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00001.thumb.jpg",
+      "alt": "Right Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Alligator or Crocodile?\n\nBaboons of Africa (Alfred Matthews)\n\nThe Howl of Monkeys (Wright)\n\nSavanna Rovers (Babette Boon)\n\nPrincess of the Nile (M. Pittman)\n\nNot Everything is a Competition\n\nRecipes of the Congo (B. Anna)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00002.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00002.thumb.jpg",
+      "alt": "Center Bookshelf: Artifact Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00003.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00003.thumb.jpg",
+      "alt": "Center Shelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Scarlet Pimpernel / Tom Sawyer / The Good Earth / Robin Hood\n\nEn Krise / Til Lykkens Land (Johanne Schjørring)\n\nDickens’ Works: Our Mutual Friend (T. Y. Crowell & Co.)\n\nLegend of Mythica (C. Tokyo)\n\nGreat Recipes of Africa (Tandaji)\n\nThe Jungle Book (Rudyard Kipling)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00004.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00004.thumb.jpg",
+      "alt": "Center Shelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Tiger Book (K. Livley)\n\nLeas Navidad and Other Winter Insects (Hart)\n\nHuts! (Prof. Potter)\n\nHow To Survive A Lava Flow (U. B. Ash)\n\nGenus Papio (Barbette Boon)\n\nOld World Monkeys (Barbette Boon)\n\nThe Hippo Book (K. Lively)\n\nBengals and Bagels (Prof. R. Sherbill)\n\n101 Ways to Split A Banana (B. N. Peale)\n\nMonkey Or Ape: A Tail tale (Loy)\n\nThe Hippo and the Grapes (A. DeBondt)\n\nLocal Trading in the Amazon (Wilder & Wilder)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00005.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00005.thumb.jpg",
+      "alt": "Center Shelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Reasonable Expectations (Charles Kippens)\n\nNocturnal Flying Mammals of the American Northwest\n\nEmergency Transportation Techniques\n\nTravels into Spain (D’aulnoy)\n\nTimes of Changes (G. Garter)\n\nScaling The Matterhorn\n\nSteam in the Victorian Era (K. Reid)\n\nLaw of the Land (Sfe)\n\nSounds of the Past (JK Kirkman)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00006.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00006.thumb.jpg",
+      "alt": "Right Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Jungle Commerce (Philip M. Gray)\n\nGreat Characters of World Literature (J. Lasseter)\n\nLeft At The Falls (Trunksnot)\n\nMeeting Royalty (Sklar)\n\nFuznewi Pdmwh Chf Jd U (Albert the Monkey)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00007.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00007.thumb.jpg",
+      "alt": "Right Bookshelf: Artifact Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00008.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00008.thumb.jpg",
+      "alt": "Center Shelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Strange Bazaar (James Q. Treeface)\n\nRemembering Kwango Kate (Lingley)\n\nThe Monkey Book (K. Lively)\n\nLetters From Egypt (Cleo & Pat Ra)\n\nThe History of Bananas (B. N. Peale)\n\nThe Snake and the Prune (A. Debont)\n\nThe Later Gator: Ancient Amphibians (Dr. B.)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00009.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00009.thumb.jpg",
+      "alt": "Left Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Encyclopedia Explorare Aardvark/Africa (Flower Street Publishing)\n\nEncyclopedia Explorare Amazon/Armadillo (Flower Street Publishing)\n\nEncyclopedia Explorare Ascot/Bat (Flower Street Publishing)\n\nEncyclopedia Explorare Bait /Boulder (Flower Street Publishing)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00010.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00010.thumb.jpg",
+      "alt": "Right Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Inversus Arboribus (B. M. Evans)\n\nMonkey Business Ethics (Prof. Kevin Lee)\n\nSpotted Tigers (G. Rowl)\n\nThe Tiger and the Mango (A. DeBondt)\n\nLeadership on the River (York)\n\nThe Monkey and the Coconut (A. Debont)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00011.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00011.thumb.jpg",
+      "alt": "Center Shelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Encyclopedia Explorare Lost/Maloca (Flower Street Publishing)\n\nEncyclopedia Explorare Mandrill/Mara (Flower Street Publishing)\n\nEncyclopedia Explorare Marsupial/Monsoon (Flower Street Publishing)\n\nEncyclopedia Explorare Mosquito/Nectar (Flower Street Publishing)\n\nEncyclopedia Explorare Nature/Nest (Flower Street Publishing)\n\nEncyclopedia Explorare Nile/Nutria (Flower Street Publishing)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00012.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00012.thumb.jpg",
+      "alt": "Center Shelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "A Family Flight Through Mexico\n\nThe Quiver 1879 – 1882\n\nSunday Magazine 1892\n\nFamily Treasury 1860\n\nMoore’s Poetical Works"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00013.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00013.thumb.jpg",
+      "alt": "Right Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Gorilla and the Salad (A. Debont)\n\nNorth American Alligators (Poo)\n\nThe Panther and the Pasta (A. Debont)\n\nThe Travel Diary of a Philosopher: Volume One (Keyserling) (Harcourt, Brace and Company)\n\nTruck Repair in the Field (Donald Archibald)\n\nExotic Cuisine of Mexico (B. Faye)\n\nGulliver’s Travels (Jonathan Swift)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00014.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00014.thumb.jpg",
+      "alt": "Left Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Silva and Gold: Mining The South Pole (R. Silva)\n\nSilva and Gold: Mining The Americas (R. Silva)\n\nSilva and Gold: Mining Africa (R. Silva)\n\nSilva and Gold: Mining The North Pole (R. Silva)\n\nSilva and Gold: Mining The South Pacific (R. Silva)\n\nSilva and Gold: Mining Asia (R. Silva)\n\nSilva and Gold: Mining Australia (R. Silva)\n\nHistory of Rome\n\nWorld History"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00015.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00015.thumb.jpg",
+      "alt": "Left Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Charles Dickens II: Sketches by “Boz”\n\nCharles Dickens XV: Our Mutual Friend Part Two\n\nCharles Dickens XVI: Christmas Books\n\nCharles Dickens IX: Pickwick Papers Part One\n\nCharles Dickens VII: Bleak House Part Two"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00016.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00016.thumb.jpg",
+      "alt": "Right Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Polar Voyage (Nemo)\n\nThe Wildest Ride (J. T. Toad)\n\nThe 1871 Annual Review of Song (M. M. R.)\n\nKeel Boats of the Mississippi (Fink)\n\nCreatures from Space! (Clench)\n\nMission to the Red Planet (Morrow)\n\nKeeping Time (Williams)\n\nA Flight Through Dreams (B. L.)\n\nIf You Had Wings You Could Fly (B. L.)\n\nA New Way To Manage Birds (I & Z Management Publications)\n\nThe Grace of a Swan (Plaza)\n\nThe Mystery Castle (Cindy Ella)\n\nIllustrated Guide to Radio Broadcasting (Albert Awol)\n\nTiki, Tiki, Tikis of the South Pacific (B. Baker)\n\nBoat Evacuation Procedures (Cap Size)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00017.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00017.thumb.jpg",
+      "alt": "Left Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Zebra and the Grass (A. DeBondt)\n\nMonsters of the Jungle (Klawitter)\n\nThe World Through A Lens (B. Lasseter)\n\nThe Stars Above Us (Quill)\n\nGlobal Night Celebrations (Pleasure)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00018.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00018.thumb.jpg",
+      "alt": "Left Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Encyclopedia Explorare Vertebrate/Vine (Flower Street Publishing)\n\nEncyclopedia Explorare Volcano/Water (Flower Street Publishing)\n\nEncyclopedia Explorare Waterfall/Whitewater (Flower Street Publishing)\n\nEncyclopedia Explorare Zebra/Zzyxx (Flower Street Publishing"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00019.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00019.thumb.jpg",
+      "alt": "Center Shelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00020.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00020.thumb.jpg",
+      "alt": "Left Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Survival in the Entertainment Jungle (Nigel Greenwater)\n\nLet There Be Light: An Illuminating World History (Fox)\n\nLegends of the Frontier (Rouse)\n\nStories From The Campfire (A Leahy)\n\nThe Comedy of Ears (Shakes-Spear)\n\nDry Socks and Other Basics (Ingradli)\n\nIn Search of the Lost Peruvian Handkerchief (Minichiello)\n\nThe Printer of Udell’s (Harold Bell Wright) (A.L. Burt Company)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00021.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00021.thumb.jpg",
+      "alt": "Left Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Watts Next: The Future of Exploration Innovation 1900 – 1912 (Dr. Watts)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00022.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00022.thumb.jpg",
+      "alt": "Skipper Canteen Table",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00023.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00023.thumb.jpg",
+      "alt": "Left Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Bayard Taylor’s Works: By Ways Of Europe (Putnam)\n\nThat Untravell’d World\n\nLittle Journeys Abroad (Warren)\n\nLeaders Throughout History (Prof. G. Kalogridis)\n\nNorthern Bears in the Wild (U. Ency)\n\nYour Satchel and You (Zielbauer)\n\nGreatest Short Stories 1 (P. F. Collier & Son)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00024.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00024.thumb.jpg",
+      "alt": "Center Shelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00025.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00025.thumb.jpg",
+      "alt": "Left Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Encyclopedia Explorare Aardvark/Africa (Flower Street Publishing)\n\nEncyclopedia Explorare Amazon/Armadillo (Flower Street Publishing)\n\nEncyclopedia Explorare Ascot/Bat (Flower Street Publishing)\n\nEncyclopedia Explorare Bait /Boulder (Flower Street Publishing)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00026.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00026.thumb.jpg",
+      "alt": "Left Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Library of Choice Literature Vol. V - X (Spofford)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00027.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00027.thumb.jpg",
+      "alt": "Center Bookshelf: Artifact Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00028.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00028.thumb.jpg",
+      "alt": "Right Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Comptons Picured Encyclopedia A, C, I J, KL, M, QR & TUV (Compton Company)\n\nCanterbury Tales: In Modern English (Geoffrey\nChaucer) (Illustrated by Rockwell Kent)\n\nWishes on a Star (K. L.)\n\nLife in the Cosmos (Lavine)\n\nFlights of Fancy (Hicks)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00029.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00029.thumb.jpg",
+      "alt": "Center Shelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00030.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00030.thumb.jpg",
+      "alt": "Center Shelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Skipper Handbook for River Navigation (Rex M. Hall)\n\nBanjos and Baboons (Goff)\n\nTreasure of the Animal Kingdom (Harrison Hightower III)\n\nBaboons of the Zambezi (Zelda)\n\nLarge Teeth and the Things They Do (F. Ang)\n\nDecades in the Jungle (Grant)\n\nParrots as Pets (Mary Oceaneer)\n\nMine! (Hightower)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00031.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00031.thumb.jpg",
+      "alt": "Center Shelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Drums of the Congo (Dr. Vile)\n\nA Look To The Stars (B. Strong)\n\nThe Great Book Cover Up (K. D. K.)\n\nSuspicious Tikis (D. B. Olly)\n\nEnjoying Life in the Jungle (MBR)\n\nThe Popular Dicator Library: Volume 9 4005-4508 (National Educational Alliance)\n\nA History of Dirt (Gezurian)\n\nKeep Your Head Up High (Prof McCan)\n\nBlue Skies Ahead (Chew)\n\nProspectors of the Old West (J. Rhipley)\n\nA Midsummer Night’s Cruise"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00032.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00032.thumb.jpg",
+      "alt": "Right Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00033.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00033.thumb.jpg",
+      "alt": "Left Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Babies of the Animal Kingdom (D. Serban)\n\nRasing Children (S. Frank)\n\nTales From The Veldt (Dr. G. Nu)\n\nMarried Into The Jungle (Victoria Marie Falls)\n\nBorn Into The Jungle (Albert Falls Jr.)\n\nMarried To Someone Born Into The Jungle (Sneh Falls)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00034.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00034.thumb.jpg",
+      "alt": "Center Shelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Ancient Structures of Wonder (Lewis)\n\nAdventure Lodging Principals (P. Fisher)\n\nManagement Down The Hall (Timothy Hall)\n\nMyths of the Galaxy (Karrison)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00035.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00035.thumb.jpg",
+      "alt": "Right Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Dramatic Arts 1500 – 1899 (Richard Bird)\n\nFaries and Magic (Wargo)\n\nLike a Fox (Randy L.)\n\nTwo Skippers of Verona (Shake-Spear)\n\nPuns of the Amazon (Loy)\n\nA View From Above (S. W. Buckets)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00036.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00036.thumb.jpg",
+      "alt": "Left Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Scent of Ostrich (Prof Eggward)\n\nAn Odd Set of Stories Vol. 11, 13, 15, 17& 18 (Morris)\n\nThe Harambe Chronicles (Wilson)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00037.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00037.thumb.jpg",
+      "alt": " Right Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Library of Travel:Central Asia- Illustrated (Edited by Bayard Taylor) (Scribners)\n\n800 Leagues on the Amazon (Verne) (The Home Library) (A. L. Burt New York)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00038.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00038.thumb.jpg",
+      "alt": "Left Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "World History\n\nWorld History\n\nMy Larger Than Life Adventures VOL 1 - 7 (Richard Morganson)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00039.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00039.thumb.jpg",
+      "alt": "Center Shelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Those Are My Eggs (L. Goosey)\n\nSeven Blusterous Days (Gus T.)\n\nNorth to the Orient (Anne Morrow Lindbergh) (Harcourt, Brace and Company)\n\nWe’ve Got It Covered (Patterson Montoya)\n\nBending The Rules (M. D. Intem)\n\nSmall But Mighty (T. Smith)\n\nTreehouse Construction (Mills)\n\nClassic American Theatrical Staging (A Myers)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00040.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00040.thumb.jpg",
+      "alt": "Left Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "British Natural History\n\nThe Story of Civilization: Our Oriental Heritage (Will Durant)\n\nThe Library of Choice Literature Vol. I – IV (Gebbie & Co.)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00041.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00041.thumb.jpg",
+      "alt": "Left Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Tales of the Old West Vol. 1 – 6 (Durham)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00042.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00042.thumb.jpg",
+      "alt": "Right Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Raining Cats and Dogs: Weather Oddities of the 18th Century (Prof. James Newton)\n\nTeaching in the Field (Professor Bice)\n\nTemple Crashing (Dr. Ladine)\n\nTemple Tours: Hall of Anticipation (Paco)\n\nTemple Tours: The Chamber of Purity (Paco)\n\nTemple Tours: Gates of Doom (Paco)\n\nTemple Tours: Hall of Temptation (Paco\n\nTemple Tours: The Tunnel of Torment (Paco)\n\nTemple Tours: Snake Temple (Paco)\n\nTemple Tours: The Well of Souls (Paco)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00043.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00043.thumb.jpg",
+      "alt": "Left Bookshelf: Artifact Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00044.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00044.thumb.jpg",
+      "alt": "Right Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Ancient Architecture (Dr. A. Wynne)\n\nWonderful Music of South America (J. A. Ellis)\n\nWonderful Music of Eastern Europe (J. A. Ellis)\n\nWonderful Music of Atlantis (J. A. Ellis)\n\nWonderful Music of Asia (J. A. Ellis)\n\nA Graphic Past 582 – 1885 (Tepper)\n\nFrom North to South: Journey Between the Arctic Poles (Perreault)\n\nTechnically Speaking… (Prof Herpy)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00045.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00045.thumb.jpg",
+      "alt": "Right Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Photos of Morocco (Luana Teixeira)\n\nPhotos of Mexico (Luana Teixeira)\n\nPhotos of Canada (Luana Teixeira)\n\nPhotos of Norway (Luana Teixeira)\n\nPhotos of Florida (Luana Teixeira)\n\nPhotos of Congo (Luana Teixeira)\n\nPhotos of the Tropics (Luana Teixeira)\n\nPhotos of Scotland (Luana Teixeira)\n\nPhotos of Persia (Luana Teixeira)\n\nPhotos of Egypt (Luana Teixeira)\n\nPhotos of Brazil (Luana Teixeira)\n\nPhotos of Nile (Luana Teixeira)\n\nPhotos of Peru (Luana Teixeira)\n\nPhotos of Mekong (Luana Teixeira)\n\nPhotos of Bakersfield (Luana Teixeira)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00046.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00046.thumb.jpg",
+      "alt": "S.E.A. Room Entrance",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00047.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00047.thumb.jpg",
+      "alt": "Right Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Funny Drawings Vol. I – IV (Runco)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00048.thumb.jpg",
+      "alt": "Right Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Ferocious Tiger Lillies (Pepper)\n\nThe Rule Book (Edited by DFE)\n\nDodging Local Authorities (Gruber)\n\nGorilla Theater (J. Thompson Gazelle)\n\nSouth African Penguins (Lewis)\n\nA Steady Stream (Prof. K. Rivers)\n\nRock or Stone (Col. Kathryn Pebble)\n\nIs This Deadly? (Mort, Al)\n\nArtist Biographies (Claude Reynole) (Houghton Mifflin & Co.)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00049.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00049.thumb.jpg",
+      "alt": "Right Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Scheduling Your Expedition In 1 Simple Step (Franklyn)\n\nPrimates of the Caribbean (Coats)\n\nProfiles of Legendary Pirates of the Caribbean (Gibson)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00050.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00050.thumb.jpg",
+      "alt": "Center Shelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Pink Elephants and Other Rarities (Lopez)\n\nArt of the Wild (S. K. E.)\n\nGhosts of New Orleans (Scholtz)\n\nLiving With The Lambs (Hogley)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00051.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00051.thumb.jpg",
+      "alt": "Center Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Optimism in Exploration (Lemoine)\n\nAn Odd Set of Stories Vol. 1, 3, 5, 7 & 9 (Morris)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00052.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00052.thumb.jpg",
+      "alt": "Center Shelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Running in Kenya (I. M. Fast)\n\nFishing in the Amazon (Oscar Fisher)\n\nSwimming in the Amazon (Doug E. Paddle)\n\nThe Ten Minute Voyage (S. H. Tick)\n\nTop Hats and Umbrellas (T. Sam)\n\nThe Missing Mask (T. Sam)\n\nTrue Life Adventures (W. E. D.)\n\nA Small World of Traditional Wardrobe (A. Davis)\n\nMyths of the Supernatural (Gracey)\n\nCastles of Magical Kingdoms (Professor Ryman)\n\nTraditional Juju Charms (MacGuffin)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00053.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00053.thumb.jpg",
+      "alt": "Right Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Tribal Patterns of African Fabrics VOL. 1 – 6 (Armagost & James)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00054.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00054.thumb.jpg",
+      "alt": "Left Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Great Engineers of the 19th Century (Katzenberger)\n\nHistory of the English-Speaking Peoples\n\nBritish Natural History\nBritish Natural History"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00055.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00055.thumb.jpg",
+      "alt": "Left Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Cruising in the East (Vagnini)\n\nAmerican Prosperity Abroad (Merriwether Pleasure)\n\nNative Sports (C. Netcrash)\n\nRivers of Paris (N. O. Cruisa)\n\nThe Gray Area (A. Grayman)\n\nCreating a Space for Adventure (Kwannet)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00056.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00056.thumb.jpg",
+      "alt": "Center Shelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Havet’s Datter (Johanne Schjørring)\n\nGydens Pionerer I (Maxim Gorki)\n\nKyinnomakt (Geijerstam)\n\nDiscovery of the South Seas (S. Sio)\n\nElephant Graveyards (Dr D. B.Hughes)\n\nBeautiful Birds of the Tropics (Rubenstein)\n\nThe Snake Book (K. Lively)\n\nThe River Puns Through (H. Yuck)\n\nTwo Bees or Not Two Bees (Bronski)\n\nTraditional Native Holiday Décor (Prof. R. Blauerhimmel)\n\nTribal Trading (Caporaso)\n\nThe Panther Book (K. Lively)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00057.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00057.thumb.jpg",
+      "alt": "Center Shelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "My Quest 23,000 Leagues Into The Pacific\n\nAn Adventure 6,000 Meters Above The World\n\nMy Journey 6,100 Meters in the Sky\n\nSoaring 6,200 Meters Above Sea Level\n\nA Breeze at 6,250 Meters\n\nBlue Skies at 6,274 Meters\n\nBallooning at 6,283 Meters\n\nAt The Top Of The World At 6,287 Meters\n\nThoughts From The Heavens at 6,291 Meters\n\nA Rocket to 6,891 Meters\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00058.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00058.thumb.jpg",
+      "alt": "Center Shelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Book League: Poems of William Blake (Blake)\n\nBook League: The Way of All Flesh (Butler)\n\nBook League: Father and Sons (Turgenev)\n\nBook League: The Golden Treasury (Palgrave)\n\nBook League: Notre-Dame De Paris (Hugo)\n\nBook League: The Love Books of Ovid (Ovid)\n\nBook League: The Lives of Twelve Caesars (Suetonius)\n\nBook League: The Complete Works of Horace (Horace)\n\nBook League: Nana (Zola)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00059.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00059.thumb.jpg",
+      "alt": "Left Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "A Manor of Fact (Mystic)\n\nA Journey to the Stars (Kimball)\n\nBirds of Song (Tiki Kiki Serbano)\n\nA History of Magical Kingdoms (Magnum)\n\nBears of the Wild Country (Theodore Barry)\n\nThe Sun Above (Pro)\n\nCharles Dickens X: Pickwick Papers Part Two\n\nCharles Dickens V: Dombey and Son Part One\n\nCharles Dickens VI: Dombey and Son Part Two\n\nCharles Dickens XVIII: Nicholas Nickleby Part One\n\nCharles Dickens XIX: Nicholas Nickleby Part Two\n\nCharles Dickens XXI: David Copperfield Part Two\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00060.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00060.thumb.jpg",
+      "alt": "Right Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Tramp Streamers of Africa (Goff)\n\nKipling: A Selection of His Stories and Poems (By John Beecroft) (Doubleday)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00061.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00061.thumb.jpg",
+      "alt": "Center Shelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Majestic Sloth (S. Low Poke)\n\nThe Mighty Termite (Willow)\n\nShades of Khaki (B. Land)\n\nRockefeller: Hippo, Pet, Family (Albert Falls)\n\nAnother New Year (M. A. Pleasure)\n\nThe Eyes of Mara (Jones)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00062.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00062.thumb.jpg",
+      "alt": "Left Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Exploring Great Waterfalls (Matthew Michaels)\n\nStanding Upon Great Waterfalls (Matthew Michaels)\n\nSurviving Falls From Great Waterfalls (Matthew Michaels)\n\nThe Works of Alexander Dumas 3: The Two Dianas (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 4: The Two Dianas (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 16: (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 17: The Regent’s Daughter (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 19: The Memoirs of a Physician (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 20: The Queen’s Necklace (P. F. Collier & Son)\n\nThe Works of Alexander Dumas 25: The Whites and The Blues (P. F. Collier & Son)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00063.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00063.thumb.jpg",
+      "alt": "Left Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Sandy Claws: Indonesian Beach Tigers (K. P. Rafferty)\n\nCulture of River Guide (Dr. D. Marley)\n\nThe Crocodile and the Candy Cane (A. Debont)\n\nThe Lost Temple of Shir Lee (Mo Williams)\n\nCheetahs Never Prosper (Hirano)\n\nFriends for Dinner (T. Sam)\n\nA Small Village With A Large Heart (Dr. Albert Falls)\n\nIn Search of the Elusive Yellow Snow Tiger (J. Frost)\n\nEverest Exhibition: In Search of the Yeti (Harrison Hightower III)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00064.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00064.thumb.jpg",
+      "alt": "Left Bookshelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00065.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00065.thumb.jpg",
+      "alt": "Right Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Big Book of Fairy Tales I –VII (Friday)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00066.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00066.thumb.jpg",
+      "alt": "Right Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Music To Smile To (Watanabe)\n\nRenaissance in Italy: Volume Two (Symonds) (Modern Library)\n\nOcean Wonders (Damon)\n\nA New Anthology of Modern Poetry\n\nOur Primitive Contemporaries (Murdock) (Macmillan)\n\nAmerica In Midpassage Vol. I & II (Charles A. Beard & Mary R. Beard) (Macmillan)\n\nMan of Mystery (Benjamin Van Beusekom)\n\nHats of the World (Allen)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00067.thumb.jpg",
+      "alt": "Center Shelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Sam IV Part 1 & 2 (Shake-Spear)\n\nSam V (Shake-Spear)\n\nSam VI Part 1, 2 & 3 (Shake-Spear)\n\nGames of Far Away Lands (Ahem)\n\nThe Spin (Reifsynder)\n\nHeroes Through History (Spiegel)\n\nPerforming on the Great Wall (Dr. David Fisher)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00068.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00068.thumb.jpg",
+      "alt": "Center Shelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Days in Old Spain (Gertrude Bone) (Drawings by Muirhead Bone) (Macmillan)\n\nThe Dessert Island (Chef J. Wysa)\n\nUnderwater Basket Weaving for Beginners (Burress)\n\nKnocking Around (Frank H. Shaw) (Casseu)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00069.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00069.thumb.jpg",
+      "alt": "Left Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Spectator Vol II, III, VII, VI & I\n\nSwiss Family Robinson (Routledge)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00070.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00070.thumb.jpg",
+      "alt": "Center Shelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Teaching from the Heart of the Jungle (Prof. Reinard)\n\nChomp! (Allison Gator)\n\nThe Monkey and the Coconut (A. Debont)\n\nA Resourceful Human (J. P. Lopez)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00071.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00071.thumb.jpg",
+      "alt": "Right Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Bayard Taylor’s Works: India China and Japan (Putnam)\n\nFinding The Worth While In Europe (Osborne) (W. Bride)\n\nAimée Villard (Silvestre)\n\nAziyadé (Pierre Loti)\n\nBayard Taylor’s Works: Saracens (Putnam)\n\nViews A-Foot (Taylor)\n\nCharles Dickens XVII: Great Expectations\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00072.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00072.thumb.jpg",
+      "alt": "Right Bookshelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00073.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00073.thumb.jpg",
+      "alt": "Right Bookshelf: 6th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00074.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00074.thumb.jpg",
+      "alt": "Right Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Crocodiles of the Nile (Lamothe)\n\nHot Peppers of Peru ( P. Lily)\n\nThe Lion and the Lolli (A. Debont)\n\nThe Greedy Gorilla (Col. Samuel Taylor III)\n\nSeeking Knowledge (Mara)\n\nPoetry of the Parrots (Heather Inkwell)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00075.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00075.thumb.jpg",
+      "alt": "Left Bookshelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Hamlet: A Lion’s Tale (Shakes Speare)\n\nBabbling Brooks (Kaminsky)\n\nLively Duck Footed Natives of The Jungle (D. Murphy)\n\nThey’ve Gone Bananas (Yuen)\n\nFix Anything With A Wrench (Donald Archibald)\n\nRongo’s Rite (Tiki Kiki Serbano)\n\nIn Pursuit of Shells (Roy Ster)\n\nThe Crocodile Book (K. Lively)\n\nHunger of Hippos (Prof. R. Wilson)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00076.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00076.thumb.jpg",
+      "alt": "Left Bookshelf: Top Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Art of Travel Planning Vol 1 – 9 (T. Smith)\n\nDroolius Caesar (Shake-Spear)\n\nThis Goodly Frame The Earth (Tiffany) (Houghton Mifflin & Co.)\n\nKennebec Cradle of Americans : The Rivers of America (Robert R Tristram Coffin)(Farrar & Rinehart)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00077.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00077.thumb.jpg",
+      "alt": "Left Bookshelf: 4th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Rare Artifacts of Africa (Probus)\n\nRare Artifacts of Polynesia (Probus)\n\nRare Artifacts of Asia (Probus)\n\nRare Artifacts of Central America (Probus)\n\nRare Artifacts of Australia (Probus)\n\nRare Artifacts of Europe (Probus)\n\nRare Artifacts of North America (Probus)\n\nMekong and Youkong (Spieler)\n\nPoisonous Fish and How I Learned That They Were\n\nPoisonous (R. Siam)\n\nMysteries of Mystic Manor (Yuen)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00078.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00078.thumb.jpg",
+      "alt": "Center Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00079.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00079.thumb.jpg",
+      "alt": "Right Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Congo Queen (M. Pittman)\n\nNative Orange Birds of the Southeastern United States (Dr. Sid Truss)\n\nSongs of the Tiki Birds (Prof. Boag)\n\nCrooning Flowers (Sherman and Sherman)\n\nBathing With Elephants (Bertha Trunkstien)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00080.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00080.thumb.jpg",
+      "alt": "Right Bookshelf: 2nd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "The Country of Rivers (Grayman)\n\nThe Overwhelming Dodo Population (Dr. Francis X. Tinct)\n\nThe Fountain of Youth (Diego)\n\nTreasures From The Manor (Henry Mystic)\n\nThe Unknown History of Navies (Jack Francis Murphy)\n\nChinese Alligators (Ho)\n\nBeneath The Island (S. Sio)\n"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00081.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00081.thumb.jpg",
+      "alt": "Center Bookshelf: Artifact Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00082.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00082.thumb.jpg",
+      "alt": "Center Shelf: 5th Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Encyclopedia Explorare Brazil/Canyon (Flower Street Publishing)\n\nEncyclopedia Explorare Cat/Cruise (Flower Street Publishing)\n\nEncyclopedia Explorare Danger/Dogs (Flower Street Publishing)\n\nEncyclopedia Explorare Dragon/East Africa (Flower Street Publishing)\n\nEncyclopedia Explorare East Asia/Elephant (Flower Street Publishing)\n\nEncyclopedia Explorare Excursion/Fauna (Flower Street Publishing)\n\nEncyclopedia Explorare Fern/Flora (Flower Street Publishing)\n\nEncyclopedia Explorare Food Chain/Fungi (Flower Street Publishing)\n\nEncyclopedia Explorare Gazelle/Gibbon (Flower Street Publishing)\n\nEncyclopedia Explorare Giraffe/Gorilla (Flower Street Publishing)\n\nEncyclopedia Explorare Gray Parrot/Herbivore (Flower Street Publishing)\n\nEncyclopedia Explorare Howler Monkey/ (Flower Street Publishing)\n\nEncyclopedia Explorare Ice/Iguana (Flower Street Publishing)\n\nEncyclopedia Explorare Insect/Invertebrate (Flower Street Publishing)\n\nEncyclopedia Explorare Irrawaddy/Jaguar (Flower Street Publishing)\n\nEncyclopedia Explorare Joke/Jungle (Flower Street Publishing)\n\nEncyclopedia Explorare Kakapo/Kangaroo (Flower Street Publishing)\n\nEncyclopedia Explorare Kip/Kungaloosh (Flower Street Publishing)\n\nEncyclopedia Explorare Ladybug/Lava (Flower Street Publishing)\n\nEncyclopedia Explorare Leach/Lemur (Flower Street Publishing)\n\nEncyclopedia Explorare Lion/Lizard (Flower Street Publishing)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00083.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-bookcase-00083.thumb.jpg",
+      "alt": "Left Bookshelf: 3rd Shelf",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": "Tours Around the World (Alexander Williams)\n\nBanana Trade (S. Sam)\n\nWhat’s In A Name (T. Sam)\n\nCharting Course (Oceaneer)\n\nBirds of East (Watanabe)\n\nThe History of Pith Helmets (Hattie)\n\nThe Green Gorilla (Verde)\n\nAncient Crocodiles (Grant)\n\nCaring for Baboons (Sergio F.)\n\nThe Gorilla Book (K. Lively)\n\nThe Baboon and the Banana (A. DeBont)\n\nPrimate As Shipmates (Henry Mystic)\n\nCrock Wrastlin’ (R. Osawld)\n\nThe Baboon Book (K. Lively)"
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00001.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00001.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00002.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00002.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00003.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00003.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00004.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00004.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00005.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00005.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00006.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00006.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00007.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00007.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00008.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00008.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00009.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00009.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00010.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00010.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River - Overview",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00011.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00011.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00012.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00012.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00013.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00013.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River - S.E.A. Emblem",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00014.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00014.thumb.jpg",
+      "alt": "Legendary Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00015.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00015.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River - description",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00016.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00016.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00017.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00017.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00018.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00018.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00019.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00019.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00020.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00020.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00021.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00021.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    },
+    {
+      "image": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00022.jpg",
+      "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-legendary-flying-beasts-of-the-mekong-river-00022.thumb.jpg",
+      "alt": "Legendary Flying Beasts of the Mekong River",
+      "source": "Ian Janosko, S.E.A. Facebook Group",
+      "source_link": "https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/",
+      "description": ""
+    }
+  ],
+  "image": "/gallery/attractions/skipper-canteen/skipper-canteen-1.jpg",
+  "thumbnail": "/gallery/attractions/skipper-canteen/skipper-canteen-1.thumb.jpg",
+  "collection": "attractions",
+  "tags": [
+
+  ],
+  "categories": [
+
+  ],
+  "slug": "skipper-canteen",
+  "type": "document",
+  "url": "/sea/attractions/skipper-canteen"
+}
