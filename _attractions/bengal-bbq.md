@@ -3,7 +3,7 @@ title: Bengal BBQ
 members:
 - _members/prof-r-blauerhimmel.md
 - _members/albert-the-monkey.md
-- _members/albert-falls.md
+- _members/dr-albert-falls.md
 gallery:
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-books.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-books.thumb.jpg"
@@ -147,7 +147,7 @@ thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq.thumb.jpg"
 ---
 Disneyland's Bengal BBQ opened in 1992 but it wasn't until a 2017 renovation that it incorportate a number of S.E.A. references.
 
-The first reference you come across is on a shelf where you can find a photo of S.E.A. member [Professor R. Blauerhimmel](/sea/members/prof-r-blauerhimmel). Next to this shelf is another reference, the same 1899 S.E.A. portrait you can find in [Mystic Manor](/sea/attractions/mystic-manor). The final link is hidden in a photo on the wall of Katharine Hepburn and Humphrey Bogart from the film The African Queen. If you look closely you can see [Albert the Monkey](/sea/members/albert-the-monkey), but if you look really closly you can also see a picture of [Albert Falls](/sea/members/albert-falls) on the table - looks like they have joined the search for him.
+The first reference you come across is on a shelf where you can find a photo of S.E.A. member [Professor R. Blauerhimmel](/sea/members/prof-r-blauerhimmel). Next to this shelf is another reference, the same 1899 S.E.A. portrait you can find in [Mystic Manor](/sea/attractions/mystic-manor). The final link is hidden in a photo on the wall of Katharine Hepburn and Humphrey Bogart from the film The African Queen. If you look closely you can see [Albert the Monkey](/sea/members/albert-the-monkey), but if you look really closly you can also see a picture of [Albert Falls](/sea/members/dr-albert-falls) on the table - looks like they have joined the search for him.
 
 {% include image.html src="/gallery/attractions/bengal-bbq/bengal-bbq-photo-albert.jpg" description="You can see Albert the Monkey in this shot taken from the film the African Queen. Source: Bruno, Copyright Disney." %}
 
