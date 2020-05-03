@@ -2,47 +2,13 @@
 title: Skipper Canteen
 members:
 - _members/dr-albert-falls.md
+parks:
+- _parks/walt-disney-world-resort.md
 gallery:
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-boat.jpg"
   thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-boat.thumb.jpg"
   alt: Jungle Cruise boat
   source: Jungle Skipper
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-2.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-2.thumb.jpg"
-  alt: Bookshelf 2
-  source: Jungle Skipper
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-3.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-3.thumb.jpg"
-  alt: Bookshelf 3
-  source: ''
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-4.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-4.thumb.jpg"
-  alt: Bookshelf 4
-  source: Jungle Skipper
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-5.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-5.thumb.jpg"
-  alt: Bookshelf 5
-  source: ''
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-6.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf-6.thumb.jpg"
-  alt: Bookshelf 6
-  source: ''
-  source_link: ''
-  description: ''
-- image: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf.jpg"
-  thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-bookshelf.thumb.jpg"
-  alt: Bookshelf 1
-  source: ''
   source_link: ''
   description: ''
 - image: "/gallery/attractions/skipper-canteen/skipper-canteen-butterflies.jpg"
@@ -1556,7 +1522,7 @@ gallery:
   source: Ian Janosko, S.E.A. Facebook Group
   source_link: https://www.facebook.com/groups/1888833644766222/permalink/1953535508296035/
   description: ''
-image: "/gallery/attractions/skipper-canteen/skipper-canteen-1.jpg"
-thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen-1.thumb.jpg"
+image: "/gallery/attractions/skipper-canteen/skipper-canteen.jpg"
+thumbnail: "/gallery/attractions/skipper-canteen/skipper-canteen.thumb.jpg"
 
 ---

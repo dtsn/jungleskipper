@@ -157,18 +157,18 @@
 			th {
 				font-family: 'Merriweather', serif;
 				vertical-align: top;
-				width: 45%;
+				width: 100%;
 			}
 			th,td {
 				padding: 5px;
 			}
 		}
 
-		@include media-breakpoint-down(md) { 
-			table, tr, th, td {
-				display: block;
-			}
+
+		table, tr, th, td {
+			display: block;
 		}
+		
 
 		&::before {
 			width: 104px;

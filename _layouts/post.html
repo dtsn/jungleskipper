@@ -8,92 +8,24 @@ layout: default
 			<img src="{{page.image}}" alt="{{page.title}}" />
 		</section>
 	</div>
-
-	<div class="row">
-		<div class="content col-md-8 col-sm-12">
-			<h5>
-				<span>{{ page.categories | first }}</span>
-			</h5>
-		</div>
-	</div>
 	<div class="row">
 		<section class="content col-md-8 col-sm-12">
-			
 			<h1>{{ page.title }}</h1>
 			<div class="top-meta">
 				<a href="#comments">{{ site.data.comments[page.slug] | size }} Comments</a>
-				{% if page.gallery %}
-				&middot;&nbsp;&nbsp;<a href="#gallery">{{ site.data.gallery[page.gallery].pictures | size }} Images</a>
-				{% endif %}
 			</div>
-
-			{% if page.tags contains 'nsfm' %}
-				<p><em>This article has been tagged `nsfm` (not safe for magic) and normally reviles something behind the scences.</em></p>
-			{% endif %}
 
 			{{content}}
-
-			<div class="meta">
-				<span>First Published:</span> {{ page.date | date_to_long_string }} <br/>
-				{% if page.tags.size > 0 %}
-					<span>Tagged With:</span> 
-					{% include tag-list.html tags=page.tags %}
-				{% endif %}
-			</div>
 		</section>
-
 		<div class="post-sidebar col-md-4 col-sm-12">
 			{% include share.html %}
 		</div>
-
 	</div>
 </article>
 
-<!-- Related posts -->
+{% include related-posts.html %}
 
-
-<section class="comments">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 col-sm-12">
-
-				<h3>Comments</h3>
-
-				{% if site.data.comments[page.slug] %}
-					{% assign comments = site.data.comments[page.slug] | sort %}
-					<ul>
-					{% for comment in comments %}
-						<li>
-							<img src="//www.gravatar.com/avatar/{{ comment[1].email }}?d=https%3A%2F%2Fjungleskipper.com%2Fassets/%2Fimages%2Favatar.png&s=60" alt="Avatar" />
-							<div class="content">
-								<div class="title">
-									{{ comment[1].name }} 
-									&middot; 
-									<time datetime="{{ comment[1].date | date_to_xmlschema }}" itemprop="datePublished">
-										{{ comment[1].date | date: "%B %d, %Y at %I:%M %p" }}
-									</time>
-								</div>
-
-								<div class="message">
-									{{ comment[1].message }}
-								</div>
-							</div>
-						</li>
-					{% endfor %}
-					</ul>
-				{% else %}
-					<p>No comments yet.</p>
-				{% endif %}
-
-			</div>
-			<div class="col-md-6 col-sm-12">
-				<a name="comments"></a>
-				<h3>Join the conversation</h3>
-				{% include comment.html %}
-			</div>
-		</div>
-	</div>
-</section>
+{% include comments.html %}
 
 
 

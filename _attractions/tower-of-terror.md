@@ -2,9 +2,162 @@
 title: Tower of Terror
 members:
 - _members/harrison-hightower-iii.md
-gallery: []
-image: ''
-thumbnail: ''
+parks:
+- _parks/walt-disney-world-resort.md
+- _parks/disneyland.md
+- _parks/tokyo-disney-resort.md
+gallery:
+- image: "/gallery/attractions/tower-of-terror/concept-art-dan-gooze.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/concept-art-dan-gooze.thumb.jpg"
+  alt: Original concept art by Dan Gooze
+  source: Unknown, copyright Disney
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/fastpass-booth.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/fastpass-booth.thumb.jpg"
+  alt: The fastpass booth located outside Tower of Terror. It reads "Tower of Terror - A baffling mystery of epic porportions. Tours Daily"
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/guided-tour.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/guided-tour.thumb.jpg"
+  alt: The side of a bench outside the attraction
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/harrison-hightowe-2.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/harrison-hightowe-2.thumb.jpg"
+  alt: Harrison Hightower III portrait
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/harrison-hightower.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/harrison-hightower.thumb.jpg"
+  alt: Harrison Hightower III portrait
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-ceiling.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-ceiling.thumb.jpg"
+  alt: An email of the lobby ceiling. The murals on show were designed by Sean Sullivan who also did the artwork for Soarin Fantastic Flight
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-floor-directory.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-floor-directory.thumb.jpg"
+  alt: The Hightower Hotel directory located next the lift
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-hightower-portrait-2.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-hightower-portrait-2.thumb.jpg"
+  alt: The main portrait of Harrison Hightower III located in the lobby
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-hightower-portrait.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-hightower-portrait.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-lift.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-lift.thumb.jpg"
+  alt: The lobby lift after the unfortunate accident
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-menu.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-menu.thumb.jpg"
+  alt: The Olympic resturant menu. Notice Hightower portrait on this as well
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-mural.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-mural.thumb.jpg"
+  alt: These murals are dotted around the place. This one shows Hightower offloading his cargo
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/lobby-poster.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/lobby-poster.thumb.jpg"
+  alt: The poster for the party which leads to Hightowers dissapearence
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/newspaper1.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper1.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: osakanakurage on Twitter
+- image: "/gallery/attractions/tower-of-terror/newspaper2.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper2.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: osakanakurage on Twitter
+- image: "/gallery/attractions/tower-of-terror/newspaper3.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper3.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: osakanakurage on Twitter
+- image: "/gallery/attractions/tower-of-terror/newspaper4.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper4.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: osakanakurage on Twitter
+- image: "/gallery/attractions/tower-of-terror/newspaper5.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper5.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: osakanakurage on Twitter
+- image: "/gallery/attractions/tower-of-terror/newspaper6.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper6.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/newspaper7.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/newspaper7.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/outside-newspaper-2.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/outside-newspaper-2.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/outside-newspaper-3.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/outside-newspaper-3.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/outside-newspaper-4.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/outside-newspaper-4.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/outside-newspaper.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/outside-newspaper.thumb.jpg"
+  alt:
+  source: osakanakurage on Twitter
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/photos.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/photos.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/ride-queue.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/ride-queue.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/showroom.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/showroom.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/tds-poster.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/tds-poster.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link: ''
+- image: "/gallery/attractions/tower-of-terror/tot-romania-mural-sean-sullivan.jpg"
+  thumbnail: "/gallery/attractions/tower-of-terror/tot-romania-mural-sean-sullivan.thumb.jpg"
+  alt:
+  source: Jungle Skipper
+  source_link:
+
+
+
+
+image: '/gallery/attractions/tower-of-terror/entrance.jpg'
+thumbnail: '/gallery/attractions/tower-of-terror/entrance.thumb.jpg'
 
 ---
 The Tower of Terror (ToT) is a simulated free-fall drop ride. It can be found in Walt Disney World, Disneyland Paris, Disneyland and Tokyo Disney Sea. The version in Tokyo Disney Sea is the only version with links to S.E.A. via [Harrison Hightower III](/sea/members/harrison-hightower-iii).
@@ -45,10 +198,38 @@ There were two problems with a direct lift of the ride from the U.S. markets. Fi
 
 From a [2006 press release.](https://disney.fandom.com/wiki/Tower_of_Terror_(Tokyo_DisneySea))
 
+You can hear Michael Sprout, ToT show writer, talk about transforming the attraction for a different market in the Tower of Terror panel at Midsummer Scream, 2017.
+
+{% include youtube.html id="bRr3Ej8022I" start=2220 %}
+
 ## Links to S.E.A.
 
 When Tower of Terror originally opened it **had no links to S.E.A.** which, at that time solely existed in [Fortress Explorations ](/sea/attractions/fortress-explorations)across the harbour. It was linked to S.E.A. by Joe Lanisero who was the Imagineer for ToT in Tokyo and [Mystic Manor](/sea/attractions/mystic-manor) in Hong Kong. He decided to add [Harrison Hightower](/sea/members/harrison-hightower-iii) into the 1899 group portrait, which hangs in the hallway of [Mystic Manor](/sea/attractions/mystic-manor).
 
-{% include image.html description="1899 S.E.A. group portrait, Harrison Hightower is the first person on the left" %}
+{% include image.html src="/gallery/attractions/mystic-manor/1899-group-portrait.jpg" description="1899 S.E.A. group portrait, Harrison Hightower is the first person on the left" %}
 
 {% include youtube.html id="qX8sjjCaHIY" %}
+
+## Newspaper Translation
+
+{% include image.html src="/gallery/attractions/tower-of-terror/newspaper1.jpg" description="Newspaper released when ToT opened" %}
+
+When Tower of Terror opened they gave out a newspaper with additional information about the story. This has been translated from Japanese, so see the original take a look at the gallery below.
+
+>Time is New York in 1912. Since the mystery of the owner’s disappearance in 1899, the Hotel High Tower has come to be called the Tower of Terror hotel, and after 13 years, has been repaired by the New York City Conservation Association Finally, the inside of the hotel will be released. The truth of the mystery is …
+>
+>Finally the whole picture of Hotel High Tower is clear!
+>
+>The American waterfront, Hotel High Tower, opened on January 23, 1892, built by the wealthy man Harrison High Tower III to exhibit his collection with an adventure boat. It was called the Tower of Terror hotel and had been closed for 13 years since Harrison Hightower III achieved the mystery disappearance on the night of December 31, 1899. However, because of its high value as a building, it has been restored and made public by the New York City Conservation Association.
+
+### Interview with the New York City Conservation Association President, Beatrice Rose Endicott
+>We are an organization working for the preserva.tion of historical buildings in New York City. This time we have opened a tour of Hotel High Tower, which is part of that activity, and to many of you By looking at it, we hope that this historic hotel will continue to be protected for future generations.
+
+### Hightower’s Adventures and Rumors Around Him
+> Harrison Hightower III, owner of the Hotel Hightower and a collector of art and crafts. The adventure boat was numerous, and on unexplored travel around the world, he brought back valuable goods from the area. There are rumors that some of them have been looted, but it is also true that the value of the items he has collected is extremely high. The Hotel High Tower, which will be unveiled this time, exhibits many pictures and photographs depicting the adventure.
+
+### Shiriki Utundu: Harmless Idol??
+> In 1899, a strange idol “Siriki Utundu” with the meaning of “Believe in disaster” which Harrison Hightower III acquired in unexplored regions of Africa. Harrison Hightower III took this idol and took the elevator to head to his room on the top floor. And then he lost the mystery. Whether or not this idol is related behind the case has not yet been elucidated.
+
+### Mysterious Disappearance Still Unsolved
+> On 31st December 1899, a big party was held at the Hotel Hightower, showing the strange idol “Siriki Utundu” brought back from Congo, Africa. New York Globe News Press Manfred Strang, who attended the previous press conference, said what happened at that time. “It was clear that Mr. Hightower had forcibly obtained the idol from the natives of Africa. And, as if it was a shame on my question of being an idol of a curse?” After the party, “ Mr. Hightower who went to his room on the top floor with the elevator elevator with “Siriki Utundu”, then the elevator of the hotel falls! Since then, no one has seen him. Only the “Siriki Utundu” was left in the dropped elevator. Where did he go?

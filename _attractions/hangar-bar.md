@@ -3,6 +3,8 @@ title: Hangar Bar
 opening: 22nd Sep 2015
 members:
 - _members/jock-lindsey.md
+parks:
+- _parks/walt-disney-world-resort.md
 gallery:
 - image: "/gallery/attractions/hangar-bar/hangar-bar-wall.jpg"
   thumbnail: "/gallery/attractions/hangar-bar/hangar-bar-wall.thumb.jpg"

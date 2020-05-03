@@ -25,6 +25,7 @@ layout: default
 			</div>
 			<div class="col-12 col-md-4">
 				<div class="stats">
+					{% if page.members.size > 0 or page.parks.size > 0 or page.opening or page.closing %}
 					<table>
 						{% if page.opening %}
 						<tr>
@@ -38,6 +39,7 @@ layout: default
 							<td>{{ page.closing }}</td>
 						</tr>
 						{% endif %}
+						{% if page.members.size > 0 %}
 						<tr>
 							<th>Related Members</th>
 							<td>
@@ -50,15 +52,31 @@ layout: default
 								{% endfor %}
 							</td>
 						</tr>
+						{% endif %}
+						{% if page.parks.size > 0 %}
+						<tr>
+							<th>Park{% if page.parks.size > 1 %}s{% endif %}</th>
+							<td>
+								{% for park in site.parks %}
+									{% for linkedPark in page.parks %}
+										{% if park.path == linkedPark %}
+											<a href="{{ park.id}}">{{ park.title }}</a><br/>
+										{% endif %}
+									{% endfor %}
+								{% endfor %}
+							</td>
+						</tr>
+						{% endif %}
 					</table>
+					{% else %}
+						<p>There are no statistics related to this attraction</p>
+					{% endif %} 
 				</div>
 			</div>
 		</div>
 	</article>
-
 	<!-- Related posts -->
 	{% include related-posts.html %}
+	<!-- Comments -->
+	<!--{% include comments.html %}-->
 </div>
-
-
-

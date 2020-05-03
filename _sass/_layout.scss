@@ -23,15 +23,24 @@ body {
 	margin-bottom: 60px;
 }
 
+.horizontal-post-list {
+	@include horizontal-post-list;
+}
+
 footer {
 	background: url(/assets/images/header-background.png) top center;
 	border-image: url(/assets/images/map-border.png) 9 repeat;
 	border-top: 9px solid;
+	margin-top: 30px;
 
 	@include media-breakpoint-down(xs) {
 		p {
 			margin-bottom: 20px;
 		}
+	}
+
+	h6 {
+		font-weight: normal;
 	}
 
 	.main-footer {

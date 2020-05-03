@@ -12,6 +12,8 @@ members:
 - _members/captain-mary-oceaneer.md
 - _members/merriweather-adam-pleasure.md
 - _members/chef-tandaji.md
+parks:
+- _parks/disneyland.md
 opening: December 21, 2018
 gallery:
 - image: "/gallery/attractions/tropical-hideaway/tropical-hideaway-bird.jpg"

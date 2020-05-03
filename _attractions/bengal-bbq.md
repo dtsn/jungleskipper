@@ -4,6 +4,8 @@ members:
 - _members/prof-r-blauerhimmel.md
 - _members/albert-the-monkey.md
 - _members/dr-albert-falls.md
+parks:
+- _parks/disneyland.md
 gallery:
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-books.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-books.thumb.jpg"

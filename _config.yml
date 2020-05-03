@@ -18,6 +18,10 @@ collections:
     title: SEA Attractions
     output: true
     permalink: "/sea/attractions/:name"
+  parks:
+    title: SEA Parks
+    output: true
+    permalink: "/sea/parks/:name"
   uploads:
     title: Uploads
     output: true

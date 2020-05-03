@@ -3,16 +3,3 @@ layout: default
 ---
 
 {% assign posts = site.tags[page.tag] %}
-
-<div class="container post-list">
-	<div class="row">
-		<div class="col-sm-9">
-			{% if posts == null %}
-				<p>Sorry, but there is no content here yet. Please check back soon.</p>
-			{% else %}
-				{% include post/list.html posts=posts %}
-			{% endif %}
-		</div>
-		{% include sidebar.html %}
-	</div>
-</div>

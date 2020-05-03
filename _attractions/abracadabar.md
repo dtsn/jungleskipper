@@ -1,6 +1,8 @@
 ---
 title: AbracadaBar
 members: []
+parks:
+- _parks/walt-disney-world-resort.md
 gallery:
 - image: "/gallery/attractions/abracadabar/abracadabar-wall-2.jpg"
   thumbnail: "/gallery/attractions/abracadabar/abracadabar-wall-2.thumb.jpg"
