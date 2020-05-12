@@ -102,7 +102,6 @@ Carson Mansion - Image taken from [Wikipedia](https://en.wikipedia.org/wiki/Cars
 ## The Rest of Mystic Point
 I’ve babbled on for long enough, we will cover the rest of Mystic Point and how it links into more of the S.E.A. story (completely by accident) next time - promise it won’t be as long. So don’t forget to subscribe! In the meantime checkout all the pictures I took when I visited Hong Kong Disneyland in October 2018.
 
-{% include post/gallery.html gallery="mystic-manor" %}
 
 
 

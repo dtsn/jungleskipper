@@ -1,6 +1,6 @@
 ---
 title: Sean Sullivan Shares Artwork from Fantastic Flight
-date: 2019-06-10 13:00:00
+date: 2019-06-10 13:00:00 Z
 published: false
 categories:
 - news

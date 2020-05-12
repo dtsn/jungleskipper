@@ -1,6 +1,32 @@
 ---
-title: News
-layout: tag
-tag: news
+layout: default
 ---
-
+<div class="container">
+	<div class="row">
+		<div class="col-md-9 col-xs-12 post-list">
+			{% for post in site.posts %}
+				<div class="post-list-item row">
+					<div class="image col-sm-4">
+						<a href="{{ post.url }}" class="image">
+							<img src="{% if post.image-thumb %}{{post.image-thumb}}{% else %}{{post.image}}{% endif %}" alt="{{ post.title }}" />
+						</a>
+					</div>
+					<div class="info col-sm-8">
+						<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+						<p> 
+							{% if post.description %}
+								{{ post.description }}
+							{% else %}
+								{{ post.content | strip_html | truncatewords: 40 }}
+							{% endif %}
+						</p>
+						<p>
+							<a href="{{ post.url }}" class="large">Read Article &rarr;</a>
+						</p>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+		{% include sidebar.html %}
+	</div>
+</div>

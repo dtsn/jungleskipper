@@ -111,5 +111,4 @@ Magellan’s is one of the best themed restaurants I’ve been too. It’s just 
 
 Here are a few more pictures just in case the above wasn't enough.
 
-{% include post/gallery.html gallery="magellans" %}
 
