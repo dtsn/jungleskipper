@@ -61,7 +61,7 @@ social:
   - https://www.facebook.com/thejungleskipper
   - https://instagram.com/jungleskippr
 lang: en_UK
-baseurl: ''
+baseurl: 
 paginate: 10
 plugins:
 - jekyll-paginate

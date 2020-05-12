@@ -1,6 +1,6 @@
 ---
 title: The Society of Explorers and Adventurers - Part 1
-date: 2018-07-01 16:00:00 Z
+date: 2018-06-01 16:00:00 Z
 categories:
 - history
 tags:
