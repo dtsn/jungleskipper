@@ -11,7 +11,7 @@ body {
 }
 
 .btn {
-	@include poppins;
+	@include open-sans;
 	font-size: 14px;
 
 	&:hover {
@@ -47,6 +47,26 @@ footer {
 		background: #FFF;
 		padding: 32px 0;
 		margin: 0;
+
+		#mce-EMAIL {
+			border-radius: 0;
+			&::placeholder {
+				font-style: italic;
+				font-weight: 300;
+			}
+		}
+
+		#mc-embedded-subscribe {
+			height: 45px;
+			width: 45px;
+			background: #429671;
+			padding: 10px;
+
+			svg {
+				width: 19px;
+				height: 19px;
+			}
+		}
 	}
 
 	.sub-footer {
@@ -72,6 +92,34 @@ footer {
 			.right, .col-sm-9 {
 				text-align: center;
 			}
+		}
+	}
+}
+
+.post-list {
+	margin-top: 30px;
+
+	.row {
+		margin-bottom: 30px;
+	}
+
+	h3 {
+		font-size: 24px;
+		font-weight: 500;
+	}
+
+	a img {
+		background-position: center;
+		object-fit: cover;
+		width: 100%;
+		display: block;
+		cursor: pointer;
+		height: 200px;
+	}
+
+	.info {
+		p:last-child {
+			margin-bottom: 0;
 		}
 	}
 }
