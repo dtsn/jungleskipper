@@ -2,7 +2,6 @@
 title: UK Pavilion EPCOT
 parks:
 - _parks/walt-disney-world-resort.md
-
 image: "/gallery/attractions/epcot-uk-pavillion/uk-pavillion-epcot-sea.jpg"
 thumbnail: "/gallery/attractions/epcot-uk-pavillion/uk-pavillion-epcot-sea.thumb.jpg"
 gallery:
@@ -25,6 +24,7 @@ gallery:
     in EPCOT.
   source: PirateCreations via Email
   source_link: https://www.instagram.com/p/B54QY5dlnop/
----
+members: []
 
-Outside the Winnie the Pooh meet and greet in the UK pavillion at Epcot you can find a few S.E.A. links. We are unclear what relation Winnie the Pooh or the UK pavillion has to S.E.A.
+---
+Outside the Winnie the Pooh meet and greet in the UK pavilion at Epcot you can find a few S.E.A. links. We are unclear what relation Winnie the Pooh or the UK pavilion has to S.E.A.

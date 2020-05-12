@@ -24,7 +24,7 @@ gallery:
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-hat.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-photo-2.thumb.jpg"
-  alt:
+  alt: 
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/letters.jpg"
@@ -34,12 +34,12 @@ gallery:
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-map.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-map.thumb.jpg"
-  alt:
+  alt: 
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-postcars.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-postcards.thumb.jpg"
-  alt:
+  alt: 
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-sea-portrait-close-up.jpg"
@@ -59,15 +59,15 @@ gallery:
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-shelf.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-shelf-close-up.thumb.jpg"
-  alt: You can see Prof R. Blauerhimmel on this shelf, alongside a camera holdal  from the Eastman Kodak Company. A long time sponsor of Disneylands Adventureland
+  alt: You can see Prof R. Blauerhimmel on this shelf, alongside a camera holdal  from
+    the Eastman Kodak Company. A long time sponsor of Disneylands Adventureland
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-shrunken-ned.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-shrunken-ned.thumb.jpg"
-  alt:
+  alt: 
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-
 - image: "/gallery/attractions/bengal-bbq/bengal-bbq-photo-1.jpg"
   thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq-photo-1.thumb.jpg"
   alt: Bengal BBQ wall photo
@@ -143,13 +143,12 @@ gallery:
   alt: Bengal BBQ wall photo
   source: "Bruno via Email (thanks Bruno \U0001F603)"
   source_link: ''
-
 image: "/gallery/attractions/bengal-bbq/bengal-bbq.jpg"
 thumbnail: "/gallery/attractions/bengal-bbq/bengal-bbq.thumb.jpg"
----
-Disneyland's Bengal BBQ opened in 1992 but it wasn't until a 2017 renovation that it incorportate a number of S.E.A. references.
 
-The first reference you come across is on a shelf where you can find a photo of S.E.A. member [Professor R. Blauerhimmel](/sea/members/prof-r-blauerhimmel). Next to this shelf is another reference, the same 1899 S.E.A. portrait you can find in [Mystic Manor](/sea/attractions/mystic-manor). The final link is hidden in a photo on the wall of Katharine Hepburn and Humphrey Bogart from the film The African Queen. If you look closely you can see [Albert the Monkey](/sea/members/albert-the-monkey), but if you look really closly you can also see a picture of [Albert Falls](/sea/members/dr-albert-falls) on the table - looks like they have joined the search for him.
+---
+Disneyland's Bengal BBQ opened in 1992 but it wasn't until a 2017 renovation that it incorporated a number of S.E.A. references.
+
+The first reference you come across is on a shelf where you can find a photo of S.E.A. member [Professor R. Blauerhimmel](/sea/members/prof-r-blauerhimmel). Next to this shelf is another reference, the same 1899 S.E.A. portrait you can find in [Mystic Manor](/sea/attractions/mystic-manor). The final link is hidden in a photo on the wall of Katharine Hepburn and Humphrey Bogart from the film The African Queen. If you look closely you can see [Albert the Monkey](/sea/members/albert-the-monkey), but if you look really closely you can also see a picture of [Albert Falls](/sea/members/dr-albert-falls) on the table - looks like they have joined the search for him.
 
 {% include image.html src="/gallery/attractions/bengal-bbq/bengal-bbq-photo-albert.jpg" description="You can see Albert the Monkey in this shot taken from the film the African Queen. Source: Bruno, Copyright Disney." %}
-

@@ -81,4 +81,4 @@ More importantly, the Tropical Hideaway features 8 expedition paddles left behin
 * [M.A. Pleasure]({% link _members/merriweather-adam-pleasure.md %}), Kissimmee River, 1900
 * [Chef Tandaji]({% link _members/chef-tandaji.md %}), Irawaddy River, 1913
 
-_We use these paddles as one of the ways we confirm membership of S.E.A. You can find our more about what makes a member 'confirmed' over in [help]({% link help/membership.md %}).
+_We use these paddles as one of the ways we confirm membership of S.E.A. You can find out more about what makes a member 'confirmed' over in [help]({% link help/membership.md %}).
