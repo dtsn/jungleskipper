@@ -32,8 +32,8 @@ sections:
   label: Category
   create: all
   match: "**/*"
-upload_dir: gallery
-public_path: "/gallery"
+upload_dir: _uploads/posts
+public_path: "/uploads/posts"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
