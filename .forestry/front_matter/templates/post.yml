@@ -21,4 +21,5 @@ fields:
   name: image-thumb
   label: image-thumb
 pages:
+- _posts/jungle-cruise-board-game.md
 - _posts/tropical-hideaway.md
