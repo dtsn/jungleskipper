@@ -1,5 +1,9 @@
 ---
 title: Mystic Manor
+redirect_from:
+- "/mystic-manor"
+- "/reviews/mystic-manor"
+- "/history/mystic-manor-and-sea"
 members:
 - _members/lord-henry-mystic.md
 - _members/albert-the-monkey.md
