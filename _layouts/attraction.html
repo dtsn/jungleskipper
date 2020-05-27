@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<div class="collection-item attraction">
+	<section class="wallpaper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="wrap">
+						<img src="{{ page.image }}" alt="{{ page.title }}" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<article class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-12">
+				<h1>{{ page.title }}</h1>
+				{% if page.content == blank %}
+					<p style="background: #EFEFEF; padding: 15px;">We don't have any information about {{ page.title }} at the moment, but it's coming soon!</p>
+				{% else %}
+					{{ page.content }}
+				{% endif %}
+				{% if page.gallery.size > 0 %}
+					<h2>Gallery</h2>
+					{% include gallery.html gallery=page.gallery %}
+				{% endif %}
+			</div>
+			<div class="col-12 col-md-4">
+				<div class="stats">
+					{% if page.members.size > 0 or page.parks.size > 0 or page.opening or page.closing %}
+					<table>
+						{% if page.opening %}
+						<tr>
+							<th>Opening Date</th>
+							<td>{{ page.opening }}</td>
+						</tr>
+						{% endif %}
+						{% if page.closing %}
+						<tr>
+							<th>Closing Date</th>
+							<td>{{ page.closing }}</td>
+						</tr>
+						{% endif %}
+						{% if page.members.size > 0 %}
+						<tr>
+							<th>Related Members</th>
+							<td>
+								{% for member in site.members %}
+									{% for linkedMember in page.members %}
+										{% if member.path == linkedMember %}
+											<a href="{{ member.id}}">{{ member.title }}</a><br/>
+										{% endif %}
+									{% endfor %}
+								{% endfor %}
+							</td>
+						</tr>
+						{% endif %}
+						{% if page.parks.size > 0 %}
+						<tr>
+							<th>Park{% if page.parks.size > 1 %}s{% endif %}</th>
+							<td>
+								{% for park in site.parks %}
+									{% for linkedPark in page.parks %}
+										{% if park.path == linkedPark %}
+											<a href="{{ park.id}}">{{ park.title }}</a><br/>
+										{% endif %}
+									{% endfor %}
+								{% endfor %}
+							</td>
+						</tr>
+						{% endif %}
+					</table>
+					{% else %}
+						<p>There are no statistics related to this attraction</p>
+					{% endif %} 
+				</div>
+			</div>
+		</div>
+	</article>
+	<!-- Related posts -->
+	{% include related-posts.html %}
+	<!-- Comments -->
+	<!--{% include comments.html %}-->
+</div>

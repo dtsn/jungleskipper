@@ -1,0 +1,120 @@
+@mixin open-sans {
+	font-family: 'Open Sans', sans-serif;
+}
+
+@mixin poppins {
+	font-family: 'Poppins', sans-serif;
+}
+
+@mixin merriweather {
+	font-family: 'Merriweather', serif;
+}
+
+@mixin lato {
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+body {
+	@include open-sans;
+	color: #4D4D4D;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+a {
+	color: #429671;
+	
+	&:hover {
+		color: #429671;
+		text-decoration: underlined;
+	}
+}
+
+@mixin h1() {
+	@include merriweather;
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 1.5em;
+	margin-bottom: 20px;
+
+	a {
+		color: #4D4D4D;
+		&:hover {
+			color: #EF674E;
+			text-decoration: none;
+		}
+		&:hover::before {
+			width: 0;
+		}
+	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 24px;
+	}
+}
+
+h1 { @include h1; color: #292B2C; }
+
+h2 {
+	@include merriweather;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 30px;
+	margin: 0 0 20px 0;
+	color: #292B2C;
+}
+
+h3 {
+	@include merriweather;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 27px;
+	margin: 0 0 20px 0;
+	color: #292B2C;
+}
+
+
+// major section headings
+h4 {
+	@include merriweather;
+	font-size: 24px;
+	text-align: center;
+	color: #292B2C;
+}
+
+// h5 is the post category
+h5 {
+	@include merriweather;
+	color: #BFBFBF;
+	font-size: 13px;
+	margin: 0 0 10px 0;
+
+	a, span {
+		color: #BFBFBF;
+	}
+
+	@include media-breakpoint-down(xs) {
+		font-size: 10px;
+		font-weight: 500;
+		letter-spacing: 1px;
+	}
+}
+
+h6 {
+	@include merriweather;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+blockquote {
+	@include open-sans;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: 300;
+	border-left: 3px solid #D6CFAA;
+	margin: 30px 0;
+	padding: 15px 0 15px 30px;
+}

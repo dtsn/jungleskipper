@@ -1,0 +1,19 @@
+{% comment %}
+# Tag List
+This will build a list of tags and link them automatically to the tag page if it exists.
+{% endcomment %}
+
+{% for tag in include.tags %}
+	{% assign match = false %}
+	{% for page in site.pages %}
+		{% if page.tag == tag %}
+			{% assign match = true %}
+			{% assign url = page.url %}
+		{% endif %}
+	{% endfor %}
+	{% if match %}
+		<a href="{{url}}">{{tag}}</a>{% if forloop.last == false %},{% endif %}
+	{% else %}
+		{{tag}}{% if forloop.last == false %},{% endif %}
+	{% endif %}
+{% endfor %}

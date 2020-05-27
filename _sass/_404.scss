@@ -1,0 +1,11 @@
+.not-found {
+	text-align: center;
+
+	span {
+		display: block;
+		@include poppins;
+		font-size: 150px;
+		font-weight: 600;
+		line-height: 200px;
+	}
+}

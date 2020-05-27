@@ -1,0 +1,47 @@
+.gallery {
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+	figcaption {
+		display: none;
+	}
+
+	figure.first {
+		margin: 0 0 10px 0;
+		img {
+			max-height: 400px;
+		}
+	}
+
+	figure:not(.first), .additional {
+		box-sizing:border-box;
+		border-right: 10px solid #fff;
+		background: #fff;
+		width: 25%;
+		margin: 0;
+	}
+
+	.additional-images {
+		img {
+			height: 80px;
+			object-fit: cover;
+		}
+	}
+
+	.additional {
+		display: block;
+		background: #B7AE78;
+		color: #fff;
+		text-align: center;
+		border-right: 0;
+		padding: 10px;
+		line-height: 60px;
+	}
+}
+
+// photoswope overrides
+.pswp__bg {
+	background: rgba(0,0,0,0.8);
+}
