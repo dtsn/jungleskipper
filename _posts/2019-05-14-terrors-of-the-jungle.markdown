@@ -15,6 +15,8 @@ tags:
 - interviews
 image: "/uploads/posts/terrors-of-the-jungle/promo-shot.jpg"
 image-thumb: "/uploads/posts/terrors-of-the-jungle/promo-shot-thumb.jpg"
+redirect_from:
+- "/history/hong-kong-disneyland/characters/terrors-of-the-jungle"
 ---
 
 **In the dark hours, the Jungle River Cruise is not quite as one remembers. It will be transformed into a voyage of terror from which we hope you return! Those joining the perilous quest will have to count on the Navigator and the Skipper on board the boat to guide them through the Adventureland jungle. The quest for the voodooed emerald stones may have dire consequences. Only the Navigator can guide the explorers to safe shores, or can he?**
