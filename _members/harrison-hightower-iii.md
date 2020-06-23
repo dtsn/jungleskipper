@@ -13,7 +13,7 @@ parks:
 - Tokyo DisneySea
 - Hong Kong Disneyland
 - Disneyland
-gallery-images:
+gallery:
 - url: "/gallery/members/harrison-hightower/newspaper-1.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
