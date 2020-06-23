@@ -71,14 +71,6 @@ gallery-images:
 - url: "/gallery/members/harrison-hightower/adventure-shots-3.jpg"
   alt: A variety of photos which show Hightower's adventures
   source: 
-tags: []
-gallery:
-- image: "/gallery/paddle-h-hightower.jpg"
-  thumbnail: "/gallery/paddle-h-hightower copy.thumb.jpg"
-  alt: Harrison Hightower's Paddle at Disneyland's Tropical Hideaway
-  source: "Bruno via Email (thanks Bruno \U0001F603)"
-  source_link: ''
-
 ---
 We know quite a lot about Harrison Hightower III, he was one of the first characters and is portrayed as a corrupt member of S.E.A. who reached an untimely end.
 
@@ -86,8 +78,7 @@ Born in 1835 in New York Harrison Hightower is the owner of Hotel Hightower, whi
 
 The rest of this article is from the press release for Tokyo DisneySea's Tower of Terror.
 
-In 1899, Hightower embarked on the most hazardous expedition of his life, heading up the Congo River and into the dangerous parts of uncharted Africa. Though his intention was to collect the art and craftwork of the region, Hightower soon found himself the object of attacks by hostile local tribes, and many members of his team lost their lives.
-
+> In 1899, Hightower embarked on the most hazardous expedition of his life, heading up the Congo River and into the dangerous parts of uncharted Africa. Though his intention was to collect the art and craftwork of the region, Hightower soon found himself the object of attacks by hostile local tribes, and many members of his team lost their lives.
 Then one day, Hightower’s severely reduced party was chased into the area of the dreaded Mtundu tribe. Though greatly feared by neighbouring tribes, the Mtundu welcomed Harrison Hightower’s ill-fated expedition quite cordially and actually invited the adventurers to eat with them.
 
 During the meal, Hightower learned of the existence of the tribe’s protective idol. The statue was called “**_Shiriki Utundu_**” and Harrison Hightower wanted it for his own. He tried to persuade the village headman to sell him the idol but was refused, which only served to increase his desire. He then told his men to prepare for battle, and grabbing Shiriki Utundu from its altar, stole the idol and escaped the village.
@@ -108,10 +99,9 @@ After Mr Hightower’s mysterious disappearance the hotel was closed down. Peopl
 
 Still, dark rumours persist amongst the people of New York. Some say how they saw the “strange, green lights” on that fateful night, while others recall hearing “a terrible scream”. The passage of time seems only to have increased the mystery surrounding Hotel Hightower.
 
-Author of
+## Sightings 
 
-Treasure of the Animal Kingdom (Harrison Hightower III)
-
-Mine! (Hightower)
-
-Everest Exhibition: In Search of the Yeti
+Authored 3 books at the [Skipper Canteen](/sea/attractions/skipper-canteen). Note he is the author of Everest Exhibition, which could be a tie in to Animal Kingdoms Exhibition Everest
+* Treasure of the Animal Kingdom (Harrison Hightower III)
+* Mine! (Hightower)
+* Everest Exhibition: In Search of the Yeti
