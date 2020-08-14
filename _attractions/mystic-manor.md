@@ -329,5 +329,8 @@ _Joe Lanzisero - The Haunted Mansion, Imagineering a Disney Classic_
 
 Mystic Manor is also heavily inspired by Carson Mansion in California.
 
-{% capture carsonManor %}Source [Carson Mansion](https://en.wikipedia.org/wiki/Carson_Mansion){% endcapture %}
-{% include image.html src="/gallery/attractions/mystic-manor/Carson_Mansion.jpg" description=carsonManor %}
+{% capture carsonManor %}Source [Carson Mansion](https://en.wikipedia.org/wiki/Carson_Mansion){% endcapture %} {% include image.html src="/gallery/attractions/mystic-manor/Carson_Mansion.jpg" description=carsonManor %}
+
+## Additional Resources
+
+* [Mystic Manor queue soundtrack](https://open.spotify.com/playlist/2XDZLvToqRVDufXSE4ncYr?si=s27jdPcnSfC4OTDvp41vVA) by [parcorama](https://twitter.com/parcorama "parcorama")

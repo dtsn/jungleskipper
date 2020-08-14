@@ -22,7 +22,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: documents
-  match: "**/*"
 upload_dir: _uploads/posts
 public_path: "/uploads/posts"
 front_matter_path: ''
