@@ -331,6 +331,12 @@ Mystic Manor is also heavily inspired by Carson Mansion in California.
 
 {% capture carsonManor %}Source [Carson Mansion](https://en.wikipedia.org/wiki/Carson_Mansion){% endcapture %} {% include image.html src="/gallery/attractions/mystic-manor/Carson_Mansion.jpg" description=carsonManor %}
 
+## News
+
+**2020/08/20** - Disney Parks Blog posts a new [virtual tour of Mystic Manor](https://disneyparks.disney.go.com/blog/2020/08/disneymagicmoments-take-a-mystifying-ride-on-mystic-manor-at-hong-kong-disneyland/)
+
+{% include youtube.html id="w8U4MSPTyII" %}
+
 ## Additional Resources
 
 * [Mystic Manor queue soundtrack](https://open.spotify.com/playlist/2XDZLvToqRVDufXSE4ncYr?si=s27jdPcnSfC4OTDvp41vVA) by [parcorama](https://twitter.com/parcorama "parcorama")
