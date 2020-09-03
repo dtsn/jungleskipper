@@ -1,16 +1,16 @@
 ---
-title: Interview with Ethan Reed, Imagineer on Mystic Manor
+title: Interview with Ethan Reed
 date: 2020-08-31 23:00:00 +0000
 categories:
 - interview
 tags:
 - mystic-manor
 - imagineer
-image: ''
-image-thumb: ''
+image: '/gallery/members/albert-the-monkey/ethan-reed-and-albert.jpg'
+image-thumb: '/gallery/members/albert-the-monkey/ethan-reed-and-albert.thumb.jpg'
 
 ---
-We have been really lucky over the last few weeks and managed to grab some of Imagineer Ethan Reed's time. Ethan worked on various parts of [Mystic Manor](Character Design, Story, Show Design, Art Direction, Media Direction, Programing and Animation) but is probably most notable to us for the character design behind [Albert the monkey](/sea/members/albert-the-monkey).
+We have been really lucky over the last few weeks and managed to grab some of Ethan Reed's time. Ethan was one of the Imagineers who worked on various parts of [Mystic Manor](Character Design, Story, Show Design, Art Direction, Media Direction, Programing and Animation) but is probably most notable to us for the character design behind [Albert the monkey](/sea/members/albert-the-monkey).
 
 **Hi Ethan, can you start off by explaining a little bit about you and your roles at WDI?**
 > I started at WDI as an intern in the Show Animation and Programming department in my senior year while studying Animation at CalArts. While at CalArts, I became an Annual Passholder at Disneyland and went to the park as much as possible, so WDI was perfect for me.
@@ -41,6 +41,8 @@ We have been really lucky over the last few weeks and managed to grab some of Im
 >
 > When producing the storyboards, we went rough and loose so we would make sure not to “fall in love” with any of the drawings. I think that storyboard process was key to making the show what it is today. I actually remember taking breaks at the inaugural D23 convention and working on the storyboards for Mystic. It was also at this D23 convention where I chatted with Richard Kraft, Danny Elfman’s agent, who I’d met previously with Tony Baxter, and introduced him to the attraction. When I was at that D23, I was on display animating Lincoln for the current Great Moments with Mr. Lincoln attraction and old Abe actually ties into the redesign of the characters in Mystic Manor.
 
+![Lord Henry Mystic concept](/gallery/members/lord-henry-mystic/lord-henry-mystic-concept.jpg)
+
 **What was your inspiration behind Lord Mystic and Albert?**
 > So right after the D23 convention, we were feeling really good about the show. We were adjusting story points and most importantly visual storytelling through the storyboard process. Mark was not convinced that the design we landed on in the previous iteration was working, so Mark asked me to take another stab at redesigning Albert. At the same time, he asked me to develop some sketches for merchandise opportunities for the attraction. I told Mark I would work on it, but my focus at the time was finishing up Lincoln for Disneyland.
 >
@@ -50,11 +52,15 @@ We have been really lucky over the last few weeks and managed to grab some of Im
 >
 > So I got back to Lincoln, made him look great, and returned to Glendale. I shared my sketches with Mark and he really liked them. He asked me to pin them up so we could take Joe Lanzisero, the overall creative leader of Disney Parks in Asia, through them. Mark was sure to ask me to make two separate boards, one for redesigns, and one for Merchandise. The image I drew in the Lincoln theatre was in the centre of the Merchandise board. We had the room set up and Joe walked in. Immediately upon entering the room, Joe zeroed in on the Lincoln theatre sketch, exclaiming “that’s it, I love it!” Mark, Joe and I discussed it with him explaining it was for the merchandise but Joe knew what would work as Joe had come from the Animation Studio, trained by Walt’s Nine Old Men. He knew that for these characters to work, they had to read quickly for the attraction. So then I started a redesign effort on all the characters for the Manor as we wanted them to feel like they all came from the same visual world.
 
+![Albert concept](/gallery/members/lord-henry-mystic/albert-the-monkey-concept.jpg)
+
 **Where did the fez caps come from?**
 > I played around with many costumes during the initial version of the attraction. I drew the Fez because I thought it was fun, and Joe happened to have a collection of monkeys wearing fezzes in his office. I knew my audience!
 
 **You were involved in animating the audio-animatronic characters. Can you take us through that?**
 > Most of my time with the figures in the attraction was spent art directing them. At WDI, we were so busy building figures for the Little Mermaid and Cars Land that all of the figures for Mystic were built at different shops all around the globe. I spent a ton of time directing the sculpting and fabrication of the figures. When it came to animation, it was the easiest part for me since I had designed the vignettes and knew the characters so well. Animating it was like icing the cake, the hard work had been completed.
+
+![Albert concept](/gallery/attractions/mystic-manor/mystic-manor-samurai.jpg)
 
 **Did you have to spend a lot of time in Hong Kong? I know a lot of Imagineers never get to ride the attraction they worked on, did you manage to experience it?**
 > Yes, I got to ride it during Cast Previews and subsequent Business Trips. After finishing animation on The Little Mermaid at California Adventure I made my first trip to Hong Kong to visit some of our Asia based vendors. I had many business trips to Hong Kong over the next two years as we were finishing up both Grizzly Gulch and Mystic Manor. Hong Kong is a fantastic city!
@@ -64,6 +70,8 @@ We have been really lucky over the last few weeks and managed to grab some of Im
 
 **Did you have to make any compromises in the characters or animation?**
 > You design for the moment with an Audio-Animatronics character. Part of storyboarding the attraction was to make sure we were not compromising any quality with the story we were trying to tell. In fact, the Chinese Salon with the Monkey King drastically changed during the storyboard process. At one point, we had a bunch of animated props that were cut for budget in the previous iteration. During the process of storyboarding, we felt we didn’t have a dramatic ending. The tension built and remained flat for the rest of the attraction. It just wasn’t working, so I suggested we needed the music dust to destroy the Manor. We needed to rip the roof off the house! While we didn’t rip the roof off the house, we ripped off the side wall and it’s really one of the best moments in the attraction, a complete surprise!
+
+![Albert concept](/gallery/members/albert-the-monkey/albert-various-poses.jpg)
 
 **Did you know much about S.E.A. before starting the project?**
 > Absolutely, my first assignment at WDI was for Tokyo Disney Sea on the Sindbad attraction so I was well aware of the S.E.A.
