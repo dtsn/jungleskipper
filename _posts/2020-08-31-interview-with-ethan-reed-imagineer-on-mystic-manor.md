@@ -2,10 +2,13 @@
 title: Interview with Ethan Reed
 date: 2020-08-31T23:00:00.000+00:00
 categories:
-- interview
+- Interview
 tags:
-- mystic-manor
-- imagineer
+- Lord Henry Mystic
+- Albert The Monkey
+- Imagineering
+- Ethan Reed
+- Mystic Manor
 image: "/uploads/posts/ethan-reed-and-albert.JPG"
 image-thumb: "/uploads/posts/ethan-reed-and-albert-thumb.JPG"
 
