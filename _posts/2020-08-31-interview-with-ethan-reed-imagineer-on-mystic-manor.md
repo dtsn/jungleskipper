@@ -1,6 +1,6 @@
 ---
 title: Interview with Ethan Reed
-date: 2020-08-31T23:00:00.000+00:00
+date: 2020-09-03 23:00:00 +0000
 categories:
 - Interview
 tags:
