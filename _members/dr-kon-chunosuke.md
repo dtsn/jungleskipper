@@ -4,7 +4,7 @@ title: Dr Kon Chunosuke
 membership: Confirmed
 paddle: ''
 fez: false
-portrait: "/uploads/posts/no-portrait.png"
+portrait: "/uploads/posts/jungle-cruise-concept-art-rhino-explorers-entomologist-2.jpeg"
 attractions:
 - _attractions/jungle-cruise.md
 parks:
