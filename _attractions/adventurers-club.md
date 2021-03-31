@@ -15,7 +15,7 @@ Developed by Show Director Roger Cox and designer Joe Rhode it featured animatro
 
 ## Backstory
 
-The backstory focuses on Merriweather Adam Pleasure, an Intrepid and eccentric explorer, the Adventurers Club was built by Pleasure as a library, a personal museum for his extensive collection of artefacts and a place he could entertain his explorer friends. Built from a set of designs he [won in a game of dominoes](https://disney.fandom.com/wiki/Adventurers_Club) the club opened in 1932.
+The backstory focuses on [Merriweather Adam Pleasure](/sea/members/merriweather-adam-pleasure), an Intrepid and eccentric explorer, the Adventurers Club was built by Pleasure as a library, a personal museum for his extensive collection of artefacts and a place he could entertain his explorer friends. Built from a set of designs he [won in a game of dominoes](https://disney.fandom.com/wiki/Adventurers_Club) the club opened in 1932.
 
 ## Characters([*](https://disney.fandom.com/wiki/Adventurers_Club))
 
@@ -50,17 +50,17 @@ The backstory focuses on Merriweather Adam Pleasure, an Intrepid and eccentric e
 
 ## Links to S.E.A.
 
-Around the early 2000s with the decline in travel following September 11th. Disney took pleasure Island in a new direction. Finally in 2008 Disney announced the closure of Pleasure Island including the adventurers club. The Adventurers Club had its final night on the 27th of September 2008. When the club shut it was confirmed that some of the props were sent to Mystic Manor at Hong Kong Disneyland.
+Around the early 2000s with the decline in travel following September 11th. Disney took pleasure Island in a new direction. Finally in 2008 Disney announced the closure of Pleasure Island including the adventurers club. The Adventurers Club had its final night on the 27th of September 2008. When the club shut it was confirmed that some of the props were sent to [Mystic Manor](/sea/attractions/mystic-manor) at Hong Kong Disneyland.
 
-The masks which now hang in the Explorers Club Restaurant in Hong Kong Disneyland’s Mystic Point is what initially brought the Adventurers Club into the Society of Explorers and Adventurers. Since then there have been further connections including a letter from Pamelia Perkins which references Harrison Hightower at Aunty’s Beach House in Disney’s Aulani Resort.
+The masks which now hang in the [Explorers Club Restaurant](/sea/attractions/the-explorers-club-restaurant) in Hong Kong Disneyland’s Mystic Point is what initially brought the Adventurers Club into the Society of Explorers and Adventurers. Since then there have been further connections including a letter from Pamelia Perkins which references Harrison Hightower at Aunty’s Beach House in Disney’s [Aulani Resort](/sea/attractions/disney-aulani-resort).
 
 {% include image.html src="/uploads/posts/sea-part-1/PameliaPerkinsLetter.jpg" description="Letter from Adventurers Club member Pamelia Perkins mentioning Harrison Hightower" %}
 
-The Jungle Cruise connected to The Adventurers Club as part of its inception. The trunks next to the old Fastpass machines included labels from Emil Bleehall and Pamela Perkins from The Adventurers Club.
+The [Jungle Cruise](/sea/attractions/jungle-cruise) connected to The Adventurers Club as part of its inception. The trunks next to the old Fastpass machines included labels from Emil Bleehall and Pamela Perkins from The Adventurers Club.
 
 {% capture luggageTags %} The luggage tag spotted in the Jungle Cruise line. Source [FigmentJedi](https://twitter.com/Figment_Jedi/status/1002616803166773249) on Twitter {% endcapture %}
 
 {% include image.html src="/uploads/posts/sea-part-2/jungle-cruise-luggage-tag-1.png" description=luggageTags %}
 {% include image.html src="/uploads/posts/sea-part-2/jungle-cruise-luggage-tag-2.png" description=luggageTags %}
 
-It wasn’t until the Skipper Canteen confirmed the link with the fez of Merriweather Adam Pleasure on display with the other confirmed members of S.E.A.
+It wasn’t until the [Skipper Canteen](/sea/attractions/skipper-canteen) confirmed the link with the fez of Merriweather Adam Pleasure on display with the other confirmed members of S.E.A.
