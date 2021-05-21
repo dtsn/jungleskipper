@@ -14,61 +14,80 @@ parks:
 - Hong Kong Disneyland
 - Disneyland
 gallery:
-- url: "/gallery/members/harrison-hightower/newspaper-1.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-1.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-1.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-2.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-2.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-2.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-3.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-3.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-3.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-4.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-4.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-4.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-5.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-5.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-5.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-6.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-6.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-6.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-7.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-7.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-7.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-8.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-8.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-8.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-9.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-9.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-9.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-10.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-10.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-10.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-11.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-11.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-11.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/newspaper-12.jpg"
+- image: "/gallery/members/harrison-hightower/newspaper-12.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/newspaper-12.thumb.jpg"
   alt: Opening day Tower of Terror Newspaper
   source: "@osakanakurage on Twitter"
-- url: "/gallery/members/harrison-hightower/tot-romania.jpg"
+- image: "/gallery/members/harrison-hightower/tot-romania.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/tot-romania.thumb.jpg"
   alt: One of the portraits of Hightower which surround the hotel lobby
   source: Sean Sullivan
-- url: "/gallery/members/harrison-hightower/shop1.jpg"
+- image: "/gallery/members/harrison-hightower/shop1.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/shop1.thumb.jpg"
   alt: Hightower bathing
   source: "@robyeo on Twitter"
-- url: "/gallery/members/harrison-hightower/shop2.jpg"
+- image: "/gallery/members/harrison-hightower/shop2.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/shop2.thumb.jpg"
   alt: Harrison Hightower portrayed as a God
   source: "@robyeo on Twitter"
-- url: "/gallery/members/harrison-hightower/olympic-menu.jpg"
+- image: "/gallery/members/harrison-hightower/olympic-menu.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/olympic-menu.thumb.jpg"
   alt: Menu of the olympic dining room at Hotel Hightower
   source: 
-- url: "/gallery/members/harrison-hightower/adventure-shots-1.jpg"
+- image: "/gallery/members/harrison-hightower/adventure-shots-1.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/adventure-shots-1.thumb.jpg"
   alt: A variety of photos which show Hightower's adventures
   source: 
-- url: "/gallery/members/harrison-hightower/adventure-shots-2.jpg"
+- image: "/gallery/members/harrison-hightower/adventure-shots-2.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/adventure-shots-2.thumb.jpg"
   alt: A variety of photos which show Hightower's adventures
   source: 
-- url: "/gallery/members/harrison-hightower/adventure-shots-3.jpg"
+- image: "/gallery/members/harrison-hightower/adventure-shots-2.jpg"
+  thumbnail: "/gallery/members/harrison-hightower/adventure-shots-2.thumb.jpg"
   alt: A variety of photos which show Hightower's adventures
   source: 
 ---
