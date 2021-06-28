@@ -1,6 +1,6 @@
 ---
 title: Even more S.E.A. references inside Club 33
-date: 
+date: 2021-06-27 23:00:00 +0000
 categories: []
 tags: []
 image: "/uploads/posts/43110350-be7b-48d7-8c66-752bbf26f23b.jpeg"
