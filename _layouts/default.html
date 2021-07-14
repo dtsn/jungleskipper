@@ -1,6 +1,5 @@
 ---
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -14,7 +13,7 @@
 		<!-- Feed -->
 		{% feed_meta %}
 		<!-- Google fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:300,300i,400,400i,700|Poppins:400,600,700|Merriweather:500" rel="stylesheet">
 
 		<link rel="shortcut icon" href="/assets/images/favicon.png">
 		<link rel="stylesheet" href="/assets/styles/jungleskipper.css">
@@ -26,59 +25,63 @@
 
 	</head>
 	<body>
-
-		<div class="leaves left"></div>
-		<div class="leaves right"></div>
-
-		<div class="container">
-			{% include header.html %}
-		</div>
-
+		{% include header.html %}
 		<section class="content">
 			{{ content }}
 		</section>
-
 		<footer>
-			<div class="container">
-				<div class="row nav">
-					<div class="col-sm-3">
-						<h6>S.E.A.</h6>
-						<p>
-							<a href="/history/society-of-explorers-and-adventurers-part-1">Introduction - part 1</a><br/>
-							<a href="/history/society-of-explorers-and-adventurers-part-2">Introduction - part 2</a><br/>
-						</p>
-					</div>
-					<div class="col-sm-3">
-						<h6>Photos &amp; Videos</h6>
-						<p>
-							<a href="/history/fortress-explorations#gallery">Fortress Explorations</a><br/>
-						</p>
-					</div>
-					<!--<div class="col-sm-3">
-						<h6>Resources</h6>
-						<p>
-							<a href="/planning">Planning</a><br/>
-						</p>
-					</div>-->
-					<div class="col-sm-3">
-						<h6>Get In Touch</h6>
-						<p>
-							<a href="/contact">Email</a></br/>
-							<a href="https://twitter.com/_jungleskipper" target="_blank">Twitter</a><br/>
-							<a href="https://instagram.com/_jungleskipper" target="_blank">Instagram</a></br/>
-							<a href="https://www.youtube.com/channel/UCt8rx7Y2TRjdxjvS6A--Gvw" target="_blank">Youtube</a></br/>
-						</p>
+			<div class="main-footer">
+				<div class="container">
+					<div class="row nav">
+						<div class="col-sm-3">
+							<h6>S.E.A.</h6>
+							<p>
+								<a href="/sea/introduction">An introduction to S.E.A.</a>
+							</p>
+						</div>
+						<div class="col-sm-3">
+							<h6>Get In Touch</h6>
+							<p>
+								<a href="/contact">Email</a></br/>
+								<a href="https://twitter.com/_jungleskipper" target="_blank">Twitter</a><br/>
+								<a href="https://instagram.com/_jungleskipper" target="_blank">Instagram</a></br/>
+								<a href="https://www.youtube.com/channel/UCt8rx7Y2TRjdxjvS6A--Gvw" target="_blank">Youtube</a></br/>
+							</p>
+						</div>
+						<div class="col-sm-3">
+							<!--<h6>Contribute?</h6>
+							<p>
+								<a href="/contact">Github</a></br/>
+								<a href="">Learn how to edit</a><br/>
+							</p>-->
+						</div>
+						<div class="col-sm-3">
+							<h6>Newsletter</h6>
+							<p>Get all the latest S.E.A. news direct to your inbox</p>
+							<form action="https://jungleskipper.us16.list-manage.com/subscribe/post?u=65d35703cca4c8c9cd8e590ad&amp;id=130b4e22f1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+								<div class="input-group">
+									<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email">
+									<div class="input-group-append">
+										<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+											 	<path fill="#FFF" fill-rule="nonzero" d="M13.926 18.568L7.782 13.96 16.247 2.32 5.345 12.133 0 8.123 18.568 0l-4.642 18.568zm-9.284 0v-4.642l3.482 2.321-3.482 2.321z"/>
+											</svg>
+										</button>
+									</div>
+								</div>
+							</form>
+						</div>
 					</div>
 				</div>
 			</div>
 			<div class="sub-footer">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-6">
+						<div class="col-sm-9">
 							Jungle Skipper is not endorsed or connected to The Walt Disney Company
 						</div>
-						<div class="col-sm-6 right">
-							Built with love using <a href="https://jekyllrb.com" target="_blank">Jekyll</a> &amp; hosted on <a href="https://github.com/dtsn/jungleskipper">Github</a>.
+						<div class="col-sm-3 right">
+							<img src="/assets/images/profile.png" alt="Jungle Skipper" />
 						</div>
 					</div>
 				</div>

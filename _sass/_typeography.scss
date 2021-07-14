@@ -6,6 +6,10 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+@mixin merriweather {
+	font-family: 'Merriweather', serif;
+}
+
 @mixin lato {
 	font-family: 'Lato', sans-serif;
 	letter-spacing: 2px;
@@ -17,24 +21,24 @@ body {
 	@include open-sans;
 	color: #4D4D4D;
 	font-size: 15px;
-	line-height: 2em;
+	line-height: 1.5em;
 }
 
 a {
-	color: #EF674E;
+	color: #429671;
 	
 	&:hover {
-		color: #EF674E;
+		color: #429671;
 		text-decoration: underlined;
 	}
 }
 
-h1 {
-	@include poppins;
-	font-size: 48px;
-	font-weight: bold;
-	line-height: 1.25em;
-	margin-bottom: 0px;
+@mixin h1() {
+	@include merriweather;
+	font-size: 36px;
+	font-weight: 600;
+	line-height: 1.5em;
+	margin-bottom: 20px;
 
 	a {
 		color: #4D4D4D;
@@ -52,52 +56,38 @@ h1 {
 	}
 }
 
+h1 { @include h1; color: #292B2C; }
+
 h2 {
-	@include poppins;
+	@include merriweather;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 30px;
+	margin: 0 0 20px 0;
+	color: #292B2C;
+}
+
+h3 {
+	@include merriweather;
 	font-size: 18px;
 	font-weight: 600;
-	line-height: 48px;
-	margin: 30px 0 0 0;
-
-	&.super {
-		font-size: 100px;
-		text-align: center;
-	}
+	line-height: 27px;
+	margin: 0 0 20px 0;
+	color: #292B2C;
 }
 
-// Secondary section headings
-h3 {
-	@include poppins;
-	font-size: 16px;
-	font-weight: 600;
-	line-height: 1.5em;
-
-	a {
-		color: #4D4D4D;
-		&:hover {
-			color: #EF674E;
-			text-decoration: none;
-		}
-		&:hover::before {
-			width: 0;
-		}
-	}
-}
-
-h3.aside {
-	font-size: 20px;
-}
 
 // major section headings
 h4 {
-	@include lato;
+	@include merriweather;
 	font-size: 24px;
 	text-align: center;
+	color: #292B2C;
 }
 
 // h5 is the post category
 h5 {
-	@include lato;
+	@include merriweather;
 	color: #BFBFBF;
 	font-size: 13px;
 	margin: 0 0 10px 0;
@@ -114,17 +104,17 @@ h5 {
 }
 
 h6 {
-	@include poppins;
+	@include merriweather;
 	font-size: 18px;
 	font-weight: 600;
 }
 
 blockquote {
 	@include open-sans;
-	font-size: 18px;
 	font-style: italic;
+	font-size: 16px;
 	font-weight: 300;
-	border-left: 3px solid #EF674E;
+	border-left: 3px solid #D6CFAA;
 	margin: 30px 0;
-	padding: 10px 0 10px 30px;
+	padding: 15px 0 15px 30px;
 }

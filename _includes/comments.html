@@ -1,0 +1,39 @@
+<section class="comments">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-12">
+				<h3>Comments</h3>
+				{% if site.data.comments[page.slug] %}
+					{% assign comments = site.data.comments[page.slug] | sort %}
+					<ul>
+					{% for comment in comments %}
+						<li>
+							<img src="//www.gravatar.com/avatar/{{ comment[1].email }}?d=https%3A%2F%2Fjungleskipper.com%2Fassets/%2Fimages%2Favatar.png&s=60" alt="Avatar" />
+							<div class="content">
+								<div class="title">
+									{{ comment[1].name }} 
+									&middot; 
+									<time datetime="{{ comment[1].date | date_to_xmlschema }}" itemprop="datePublished">
+										{{ comment[1].date | date: "%B %d, %Y at %I:%M %p" }}
+									</time>
+								</div>
+
+								<div class="message">
+									{{ comment[1].message }}
+								</div>
+							</div>
+						</li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<p>No comments yet.</p>
+				{% endif %}
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<a name="comments"></a>
+				<h3>Join the conversation</h3>
+				{% include comment.html %}
+			</div>
+		</div>
+	</div>
+</section>

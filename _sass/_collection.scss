@@ -1,0 +1,216 @@
+.collection-item {
+	background: url('/assets/images/creature.png') no-repeat right 80%;
+
+	&.member .wallpaper {
+		background: url(/assets/images/map-border.png) repeat-x bottom center;
+		height: 350px;
+		ul.portraits {
+			list-style: none;
+			margin: 0;
+			height: 230px;
+			padding: 40px 0;
+			@include media-breakpoint-up(sm) { display: flex; }
+			flex-wrap: nowrap;
+			justify-content: center;
+			align-items: flex-start;
+
+			li {
+
+				flex: 0 100%;
+				padding: 0 2%;
+
+				&:first-child {
+					padding-left: 0;
+				}
+
+				&:last-child {
+					padding-right: 0;
+				}
+
+				&.hidden {
+					visibility: hidden;
+				}
+
+				@include media-breakpoint-down(sm) {
+					display: none;
+				}
+
+
+				.wrap {
+					position: relative;
+					height: 205px;
+					margin-top: 30px;
+				
+					&::before, &::after {
+						content: '';
+						position: absolute;
+					}
+
+					&::before {
+						background: linear-gradient(to bottom, #DBD5B1, #9F9763);
+						top: -7px;
+						bottom: -7px;
+						left: -7px;
+						right: -7px;
+					}
+
+					&::after {
+						background: linear-gradient(to top, #DBD5B1, #9F9763);
+						top: -3px;
+						bottom: -3px;
+						left: -3px;
+						right: -3px;
+					}
+
+					img {
+						height: 205px;
+						width: 100%;
+						object-fit: cover;
+						margin: 0px auto;
+						display: block;
+						position: relative;
+						z-index: 1;
+					}
+
+					
+				}
+
+				&.selected {
+
+					@include media-breakpoint-down(sm) {
+						display: block;
+					}
+
+					.wrap {
+						height: 270px;
+						width: 200px;
+						margin: 0 auto;
+
+						img {
+							height: 270px;
+						}
+					}
+
+					@include media-breakpoint-up(sm) {
+						flex: 2 200%;
+						
+						.wrap {
+							height: 270px;
+							img {
+								height: 270px;
+							}
+						}
+					}
+
+					@include media-breakpoint-up(md) {
+						.wrap {
+							height: 340px;
+							margin: none;
+							width: 100%;
+							img {
+								height: 340px;
+							}
+						}
+					}
+
+					@include media-breakpoint-up(lg) {
+						.wrap {
+							height: 400px;
+							margin: none;
+							width: 100%;
+							img {
+								height: 400px;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	&.attraction {
+		.wallpaper {
+			margin-top: 40px;
+			.wrap {
+				@include frame(315px);
+			}
+		}
+	}
+
+	h1 {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.stats {
+		border: 11px solid #DCD6B1;
+		padding: 50px 20px 20px 20px;
+		background: #FFF;
+		border-image: url("/assets/images/members/stats-border.png") 11 repeat;
+		position: realtive;
+		margin-top: 78px;
+
+		table {
+			table-layout: fixed;
+			border-collapse: collapse;
+			width: 100%;
+			th {
+				font-family: 'Merriweather', serif;
+				vertical-align: top;
+				width: 100%;
+			}
+			th,td {
+				padding: 5px;
+			}
+		}
+
+
+		table, tr, th, td {
+			display: block;
+		}
+		
+
+		&::before {
+			width: 104px;
+			height: 110px;
+			content: '';
+			display: block;
+			background: url("/assets/images/members/sea-logo.svg");
+			position: absolute;
+			left: calc(50% - 52px);
+			top: 20px;
+		}
+	}
+
+	.gallery {
+		figcaption {
+			display: none;
+		}
+	}
+
+	// member overrides
+	&.member {
+		article {
+			clear: both;
+
+			h1 {
+				margin-bottom: 20px;
+				@include media-breakpoint-down(sm) { margin-top: 20px; }
+				@include media-breakpoint-up(md) { margin-top: 60px; }
+				@include media-breakpoint-up(lg) { margin-top: 120px; }
+			}
+		}
+
+		.stats {
+			@include media-breakpoint-down(sm) { margin-top: 78px; }
+			@include media-breakpoint-up(md) { margin-top: 118px; }
+			@include media-breakpoint-up(lg) { margin-top: 198px; }
+
+			&::before {
+				@include media-breakpoint-down(sm) { top: 20px; }
+				@include media-breakpoint-up(md) { top: 60px; }
+				@include media-breakpoint-up(lg) { top: 140px; }
+			}
+		}
+	}
+}

@@ -1,5 +1,6 @@
 ---
 title: Jungle Skipper
+tagline: Navigating your through Disney's S.E.A.
 timezone: UTC
 collections:
   category:
@@ -9,6 +10,19 @@ collections:
     title: Posts
     output: true
     layout: post
+  members:
+    title: SEA Members
+    output: true
+    sort_by: membership
+    permalink: "/sea/members/:name"
+  attractions:
+    title: SEA Attractions
+    output: true
+    permalink: "/sea/attractions/:name"
+  parks:
+    title: SEA Parks
+    output: true
+    permalink: "/sea/parks/:name"
   uploads:
     title: Uploads
     output: true
@@ -24,6 +38,16 @@ defaults:
     type: category
   values:
     layout: category
+- scope:
+    path: ''
+    type: members
+  values:
+    layout: member
+- scope:
+    path: ''
+    type: attractions
+  values:
+    layout: attraction
 author: Jungle Skipper
 description: Navigating your through Disney's S.E.A. (Society of Explorers and Adventurers)
 url: https://jungleskipper.com
@@ -34,20 +58,25 @@ facebook:
 social:
   name: Jungle Skipper
   links:
-  - https://twitter.com/_jungleskippr
+  - https://twitter.com/jungleskippr
   - https://www.facebook.com/thejungleskipper
-  - https://instagram.com/_jungleskippr
+  - https://instagram.com/jungleskippr
 lang: en_UK
-baseurl: ''
-paginate: 10
+baseurl: 
 plugins:
-- jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jemoji
-permalink: "/:categories/:title"
+permalink: "/news/:title"
 sass:
   sass_dir: _sass
 emptyArray: []
+exclude: [vendor]
+algolia:
+  application_id: '4SMCUD3ZF5'
+  index_name: jungleskipper
+  extensions_to_index:
+  - md
+  - markdown

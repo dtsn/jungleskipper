@@ -1,18 +1,23 @@
 <header class="main">
-	<div id="logo">
-		<a href="/" rel="Home">
-			Jungle Skipper
-		</a>
-		<span class="tagline">Navigating you through Disney S.E.A.</span> 
+	
+	<div class="container">
+		<div id="logo">
+			<!--<div class="search">
+				<input type="text" id="search" />
+				<button>Search</button>
+			</div>-->
+			<a href="/" rel="Home">
+				{% include logo.html %}
+			</a>
+			<div class="medal d-none d-md-block"></div>
+		</div>
 	</div>
-
 	<nav>
 		<ul>
 			<li><a href="/" class="{% if page.url == '/' %}selected{% endif %}">Home</a></li>
-			<li><a href="/history" class="{% if page.url contains '/history' %}selected{% endif %}">History</a></li>
-			<li><a href="/people" class="{% if page.url contains '/people' %}selected{% endif %}">People</a></li>
-			<li><a href="/news" class="{% if page.url == '/news' %}selected{% endif %}">News</a></li>
-			<li><a href="/reviews" class="{% if page.url == '/reviews' %}selected{% endif %}">Reviews</a></li>
+			<li><a href="/news" class="{% if page.url contains '/news' %}selected{% endif %}">News</a></li>
+			<li><a href="/sea/members" class="{% if page.url contains '/members' %}selected{% endif %}">Members</a></li>
+			<li><a href="/sea/attractions" class="{% if page.url contains '/attractions' %}selected{% endif %}">Attractions</a></li>
 		</ul>
 	</nav>
 </header>
