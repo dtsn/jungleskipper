@@ -38,21 +38,27 @@ gallery:
   description: ''
 
 ---
+The Jungle Cruise is an iconic attraction that has survived the test of time. Opening with Disneyland in 1965 it's been operating for over 66 years. It has been so successful that the ride has been replicated to multiple Disney parks.
+
+Originally inspired by Walt Disney's True Life Adventure series and the African Queen it appealed the ideas of exploration and discovery of the 1960's.
+
 In 2021 both the Walt Disney World and Disneyland Jungle Cruise rides were reimagined and added a lot more S.E.A. references into the attraction.
 
 ## Attractions
 
 ### Walt Disney World
 
-* S.E.A. Fez in queue line
-  ![](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Jungle-Cruise_Full_42981.jpg?twic=v1 "Jungle-Cruise_Full_42981.jpg?twic=v1")
-  > Image from [WDWMagic](https://www.wdwmagic.com/attractions/jungle-cruise/news/16jul2021-new-props-added-to-the-office-in-the-jungle-cruise-queue.htm)
+**S.E.A. Fez in queue line**
+![](https://wdwmagic.twic.pics/ElementGalleryItems/attractions/Fullsize/Jungle-Cruise_Full_42981.jpg?twic=v1 "Jungle-Cruise_Full_42981.jpg?twic=v1")
+> Image from [WDWMagic](https://www.wdwmagic.com/attractions/jungle-cruise/news/16jul2021-new-props-added-to-the-office-in-the-jungle-cruise-queue.htm)
+
+Update 20/07/2021 - Some of the S.E.A. logos have been removed from the queue.
 
 ### Disneyland
 
-* Hightower Industries
-  ![](https://jungleskipper.com/gallery/attractions/jungle-cruise/hightower-industries.jpg)
-  > Image from [MousePlanetAVP](https://twitter.com/MousePlanetAVP "MousePlanetAVP")
+**Hightower Industries**
+![](https://jungleskipper.com/gallery/attractions/jungle-cruise/hightower-industries.jpg)
+> Image from [MousePlanetAVP](https://twitter.com/MousePlanetAVP "MousePlanetAVP")
 
 ### Hong Kong Disneyland
 
