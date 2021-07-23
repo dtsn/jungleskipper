@@ -38,11 +38,11 @@ gallery:
   description: ''
 
 ---
-The Jungle Cruise is an iconic attraction that has survived the test of time. Opening with Disneyland in 1965 it's been operating for over 66 years. It has been so successful that the ride has been replicated to multiple Disney parks.
+The Jungle Cruise is an iconic attraction that has survived the test of time. Opening with Disneyland in 1955 it's been operating for over 66 years. It has been so successful that the ride has been replicated to multiple Disney parks.
 
-Originally inspired by Walt Disney's True Life Adventure series and the African Queen it appealed the ideas of exploration and discovery of the 1960's.
+Originally inspired by Walt Disney's True Life Adventure series and the movie African Queen it appealed the ideas of exploration and discovery of the 1960's.
 
-In 2021 both the Walt Disney World and Disneyland Jungle Cruise rides were reimagined and added a lot more S.E.A. references into the attraction.
+In 2021 both the Walt Disney World and Disneyland Jungle Cruise rides were reimagined. The Imagineers took advantage to incorporate more S.E.A. references into the attraction.
 
 ## Attractions
 
@@ -63,5 +63,3 @@ Update 20/07/2021 - Some of the S.E.A. logos have been removed from the queue.
 ### Hong Kong Disneyland
 
 In 2015 Hong Kong Disneyland created a S.E.A. based Jungle Cruise overlay - [Curse of the Emerald Trinity]({% post_url 2019-05-14-terrors-of-the-jungle %}). It introduced us to [Professor Garrett Reed](/sea/members/professor-garret-reed).
-
-## Jungle Cruise Movie
