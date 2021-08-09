@@ -92,18 +92,22 @@ Source [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2015/08/more-d
 
 Among the lost and found items, there is a passport belonging to [Adventurers Club](/sea/attractions/adventurers-club) member Samantha Sterling.
 
-{% include image.html src="/gallery/attractions/hangar-bar/samantha-sterling-passport.jpg" description="Source <a href="https://forums.wdwmagic.com/threads/save-the-adventurers-club.325622/page-206)">WDWMagic</a>" %}
+{% capture sam %}Source <a href="https://forums.wdwmagic.com/threads/save-the-adventurers-club.325622/page-206)">WDWMagic</a>{% endcapture %}
+{% include image.html src="/gallery/attractions/hangar-bar/samantha-sterling-passport.jpg" description=sam %}
 
 A photograph taken on opening night shows a number of Adventurers Club Members.
 
-{% include image.html src="/gallery/attractions/hangar-bar/adventurer-club-members.jpg" description="Source <a href="https://www.laughingplace.com/w/articles/2015/09/23/jock-lindseys-hangar-bar-opens-in-disney-springs/">Laughin Place</a>" %}
+{% capture members %}Source <a href="https://www.laughingplace.com/w/articles/2015/09/23/jock-lindseys-hangar-bar-opens-in-disney-springs/">Laughin Place</a>{% endcapture %}
+{% include image.html src="/gallery/attractions/hangar-bar/adventurer-club-members.jpg" description=members %}
 
 There is also an ice machine made by Yakoose Ice Co, which is related to Yakoose from the club.
 
-{% include image.html src="/gallery/attractions/hangar-bar/yakoose-ice-company.jpg" description="Source <a href="https://forums.wdwmagic.com/threads/save-the-adventurers-club.325622/page-206">WDWMagic</a>" %}
+{% capture ice %}Source <a href="https://forums.wdwmagic.com/threads/save-the-adventurers-club.325622/page-206">WDWMagic</a>{% endcapture %}
+{% include image.html src="/gallery/attractions/hangar-bar/yakoose-ice-company.jpg" description=ice %}
 
 ### Jungle Cruise
 
 The logbook has a reference to a Jungle Cruise skipper who gave Jock a tour of Schweitzer Falls in 1943.
 
-{% include image.html src="/(https://www.disneyfoodblog.com/wp-content/uploads/2015/09/Jock-Lindseys-Hangar-Bar_Africa-15-0047.jpg" description="Source <a href="https://www.disneyfoodblog.com/2015/09/27/full-menu-review-jock-lindseys-hangar-bar-in-disney-springs-walt-disney-world/)">DisneyFoodBlog</a>" %}
+{% capture jungle %}Source <a href="https://www.disneyfoodblog.com/2015/09/27/full-menu-review-jock-lindseys-hangar-bar-in-disney-springs-walt-disney-world/)">DisneyFoodBlog</a>{% endcapture %}
+{% include image.html src="https://www.disneyfoodblog.com/wp-content/uploads/2015/09/Jock-Lindseys-Hangar-Bar_Africa-15-0047.jpg" description=jungle %}
