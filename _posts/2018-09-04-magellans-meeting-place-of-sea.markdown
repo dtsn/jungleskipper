@@ -8,9 +8,8 @@ tags:
 - fortress-explorations
 - restaurant
 - disneysea
-image: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
-image-thumb: "/uploads/gallery/fortress-explorations/DSC03174.jpg"
-gallery: magellans
+image: "/gallery/attractions/fortress-explorations/magnellans.jpg"
+image-thumb: "/gallery/attractions/fortress-explorations/magnellans.thumb.jpg"
 reddit: S_E_A
 ---
 
@@ -107,8 +106,6 @@ Throughout this whole meal our server was very attentive and tried her best to s
 ## Summary
 Magellan’s is one of the best themed restaurants I’ve been too. It’s just a shame that the theme doesn’t have much to do with S.E.A. It reflects more of the old world of S.E.A. before we get all the clever references between the different attractions.
 
-## Gallery
-
-Here are a few more pictures just in case the above wasn't enough.
+You can see a more [indepth article about Magellans](/sea/attractions/magellans).
 
 

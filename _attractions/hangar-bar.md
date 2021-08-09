@@ -72,6 +72,3 @@ thumbnail: "/gallery/attractions/hangar-bar/hangar-bar.thumb.jpg"
 >Now Jock and Indy may be gone, but his legendary adventures live on at this exotic watering hole. And that’s what gives the place its charm – and a creative menu of adventurous tastes.
 
 Source [Disney Parks Blog](https://disneyparks.disney.go.com/blog/2015/08/more-delicious-details-for-jock-lindseys-hangar-bar-opening-this-fall-at-downtowndisney/)
-
-
-
