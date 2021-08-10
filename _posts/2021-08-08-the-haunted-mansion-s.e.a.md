@@ -13,7 +13,7 @@ Welcome foolish mortals for today we are going to be taking a looked at The Haun
 
 There are a few rumours and theories surrounding how the Haunted Mansion could be connected to S.E.A. Unfortunately, none of these has been confirmed, so it could just be a coincidence.
 
-## The Haunted Mansion & George Hightower
+## George Hightower
 
 ![](/uploads/posts/george-hightower.jpg "George Hightower")
 
@@ -23,7 +23,7 @@ George Hightower shares a name with ruthless S.E.A. member [Harrison Hightower](
 
 George was a wealthy man and a big fan of travelling and collecting exotic souvenirs. He met Constance somewhere between 1875 and 1877, who is married in 1877. Harrison Hightower would have been 42 years old when they married. They could have been brothers, cousins or this could all just be a coincidence. What do you think, let me know below in the comments?
 
-## Phantom Manor and Captain Rowan D Falls
+## Captain Rowan D Falls
 
 ![](/uploads/posts/captain-rowan-d-falls.jpg)
 
