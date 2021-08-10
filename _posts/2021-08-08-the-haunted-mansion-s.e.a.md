@@ -17,7 +17,7 @@ There are a few rumours and theories surrounding how the Haunted Mansion could b
 
 ![](/uploads/posts/george-hightower.jpg "George Hightower")
 
-> Source George Hightower Haunted Mansion Fandom
+> Source [George Hightower Haunted Mansion Fandom](https://hauntedmansion.fandom.com/wiki/George_Hightower)
 
 George Hightower shares a name with ruthless S.E.A. member [Harrison Hightower](/sea/members/harrison-hightower-iii). He is one of the former owners of Disneyland's Haunted Mansion and is the fifth husband (and victim) of Constance Hatchaway.
 
@@ -26,6 +26,8 @@ George was a wealthy man and a big fan of travelling and collecting exotic souve
 ## Captain Rowan D Falls
 
 ![](/uploads/posts/captain-rowan-d-falls.jpg)
+
+> Source [Captain Rowan D Falls Fandom](https://hauntedmansion.fandom.com/wiki/Captain_Rowan_D._Falls)
 
 Let cross over to Paris where we have the Phantom Manor and Captain Rowan D Falls. Again he shares a name and profession with another famous S.E.A. member [Dr Albert Falls](/sea/members/dr-albert-falls).
 
