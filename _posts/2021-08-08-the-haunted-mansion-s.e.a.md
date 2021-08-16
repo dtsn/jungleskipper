@@ -1,6 +1,6 @@
 ---
 title: The Haunted Mansion & S.E.A.
-date: 2021-08-08 23:00:00 +0000
+date: 2021-08-08T23:00:00.000+00:00
 categories:
 - rumor
 tags:
@@ -12,6 +12,8 @@ image-thumb: "/uploads/posts/haunted-mansion-stretching-portrait-tombstone-thumb
 Welcome foolish mortals for today we are going to be taking a looked at The Haunted Mansion (and Phantom Manor in Disneyland Paris) and how they _may_ fit into the S.E.A-verse.
 
 There are a few rumours and theories surrounding how the Haunted Mansion could be connected to S.E.A. Unfortunately, none of these has been confirmed, so it could just be a coincidence.
+
+_Update 16th August: Imagineer Kevin Lively has_ [_commented that this is just a coincidence_](https://www.instagram.com/p/CSY-yHbowHk/)_._
 
 ## George Hightower
 
