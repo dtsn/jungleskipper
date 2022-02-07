@@ -80,3 +80,7 @@ It features the masks from Walt Disney World's Adventurers Club, which were relo
 The restaurant is made up of 5 different dining rooms, Chinese  Room, Indian Room, Russian Room, Moroccan Room and the Egyptian Room. These contain the treasures Lord Mystic brought back from his travels.
 
 Each one of the rooms, including the hallway, contain a handwritten extract from Lord Mystics journal.
+
+Updates
+
+* The[ Disney Parks Blog announced on December 30th 2021](https://disneyparks.disney.go.com/blog/2021/12/exciting-new-changes-at-explorers-club-restaurant-at-hong-kong-disneyland/) that The Explorers Club is getting a small makeover to better tie it into S.E.A. ([blog post](/news/sea/the-explorers-club-is-getting-an-update)).
